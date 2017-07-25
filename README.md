@@ -1,5 +1,6 @@
 ## Welcome to KeyCryptoVC Base
-
-- Projects
-- People
-- News
+## Welcome to KeyCryptoVC Base
+  		  
+ - [Projects](projects/projects)  
+ - People		  
+ - News		 

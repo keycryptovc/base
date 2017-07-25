@@ -1,2 +1,2 @@
-1.  [bitcoin](/projects/bitcoin.md)
-2.  [ethereum](/projects/ethereum.md)
+1.  [Bitcoin](/projects/bitcoin.md)
+2.  [Ethereum](/projects/ethereum.md)

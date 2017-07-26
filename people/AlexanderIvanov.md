@@ -1,4 +1,4 @@
-## [Alexander Ivanov](/people/едлагает беспрецедентны) 
+## [Alexander Ivanov](/people/AlexanderIvanov.md) 
 ### Projects
 #### [Waves](/projects/Waves.md) - Blockchain stack
 ##### Founder

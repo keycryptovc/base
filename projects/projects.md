@@ -1,2 +1,2 @@
-1.  [Bitcoin](http://base.keycrypto.vc/projects/bitcoin.html)
-2.  [Ethereum](http://base.keycrypto.vc/projects/ethereum.html)
+1.  [Bitcoin](bitcoin.md)
+2.  [Ethereum](ethereum.md)

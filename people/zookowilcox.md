@@ -1,4 +1,13 @@
-## [Zooko Wilcox](/people/zookowilcox.md)
- ### Projects
- #### [Zcash](/projects/zcash.md) - Blockchain currency
- ##### Founder
+## Personal data   
+Name: Zooko Wilcox   
+Country:  
+
+## Projects 
+Name: [Zcash](/projects/zcash.md)  
+Description: Blockchain currency  
+Position: Founder
+
+## Social
+Blog: 
+LinkedIn:  
+Facebook:

@@ -1,4 +1,6 @@
-1.  [Bitcoin](bitcoin.md)
-2.  [Ethereum](ethereum.md)
-3. [BitConnect](bitconnect.md)
-4. [Zcash](zcash.md)
+## List of Projects
+
+* [Bitcoin](bitcoin.md)
+* [BitConnect](bitconnect.md)
+* [Ethereum](ethereum.md)
+* [Zcash](zcash.md)

@@ -1,5 +1,6 @@
 ##  List of People
 
-1. [Alexander Ivanov](/people/AlexanderIvanov.md)
-2. [Da Hongfei](/people/DaHongfei.md)
-3. [Zooko Wilcox](/people/zookowilcox.md)
+* [Alexander Ivanov](alexander_ivanov.md)
+* [Da Hongfei](da_hongfei.md)
+* [Ken Fitzsimmons](ken_fitzsimmons.md)
+* [Zooko Wilcox](zooko_wilcox.md)

@@ -1,5 +1,5 @@
 ## Personal data   
-Name: Zooko Wilcox  
+Name: Zooko Wilcox
 
 ## Projects 
 Name: [Zcash](/projects/zcash.md)  

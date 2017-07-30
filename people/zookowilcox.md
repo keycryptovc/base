@@ -1,4 +1,4 @@
-## [Zooko Wilcox](/people/ZookoWilcox.md)
+## [Zooko Wilcox](/people/zookowilcox.md)
  ### Projects
- #### [Zcash](/projects/Zcash.md) - Blockchain currency
+ #### [Zcash](/projects/zcash.md) - Blockchain currency
  ##### Founder

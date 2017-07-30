@@ -1,5 +1,5 @@
 ## Welcome to KeyCryptoVC Base
   		  
- - [Projects](projects/projects.md)  
- - People		  
+ - [Projects](projects/projects.md)
+ - [People](people/people.md)
  - News		 

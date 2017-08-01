@@ -1,5 +1,5 @@
 ## Personal data   
-![Neil photo](https://qtum.org/images/people/members/Neil.jpg)
+![Neil photo](https://qtum.org/images/people/members/Neil.jpg)  
 Name: Neil Mahi  
 Location: Morocco
 ## Projects 

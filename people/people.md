@@ -7,7 +7,7 @@
 * [Da Hongfei](da_hongfei.md)  
 * [Daniel Larimer](daniel_larimer.md)
 * [Jani Valjavec](jani_valjavec.md)
-* [Jordan Earls](jordan_earls.md.md)
+* [Jordan Earls](jordan_earls.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Neil Mahi](neil_mahi.md)
 * [Patrick Dai](patrick_dai.md)

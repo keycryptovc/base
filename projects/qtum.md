@@ -2,7 +2,7 @@
 ![Qtum logo](https://files.coinmarketcap.com/static/img/coins/32x32/qtum.png)  
 Name: Qtum  
 Website: [Qtum](https://qtum.org/)  
-Year founded: 2016  
+Year founded: 2017  
 Currency: Qtum token [QTUM](https://coinmarketcap.com/currencies/bitconnect/)  
 ## Staff  
 Founder: [Patrick Dai](/people/patrick_dai.md)  

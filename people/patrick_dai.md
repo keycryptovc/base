@@ -2,7 +2,7 @@
 
 ## Personal data   
 ![Patrick photo](https://qtum.org/images/people/members/Patrick.jpg)  
-Name: Patrick Dai 
+Name: Patrick Dai  
 Location: CN
 ## Projects 
 Name: [Qtum](../projects/qtum.md)  

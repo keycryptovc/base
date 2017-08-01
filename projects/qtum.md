@@ -12,7 +12,7 @@ Co-Founder: [Jordan Earls](/people/jordan_earls.md)
 Qtum is a hybrid blockchain application platform.  
 ## Contacts  
 Github login: [qtumproject](https://github.com/qtumproject)  
-Slack [qtum](https://qtumslack.herokuapp.com/)  
+Slack: [qtum](https://qtumslack.herokuapp.com/)  
 Bitcointalk login: [bitconnectcoin](https://bitcointalk.org/index.php?action=profile;u=886616)  
 Facebook: [QtumOfficial](http://facebook.com/QtumOfficial)  
 Twitter: [QtumOfficial](https://twitter.com/QtumOfficial)  

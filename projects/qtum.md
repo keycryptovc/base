@@ -6,10 +6,13 @@ Year founded: 2016
 Currency: Qtum token [QTUM](https://coinmarketcap.com/currencies/bitconnect/)  
 ## Staff  
 Founder: [Patrick Dai](/people/patrick_dai.md) 
+Co-Founder: [Neil Mahi](/people/neil_mahi.md) 
+Co-Founder: [Jordan Earls](/people/jordan_earls.md) 
 ## Business Model  
 Qtum is a hybrid blockchain application platform.  
 ## Contacts  
 Github login: [qtumproject](https://github.com/qtumproject)  
+Slack [qtum](https://qtumslack.herokuapp.com/)
 Bitcointalk login: [bitconnectcoin](https://bitcointalk.org/index.php?action=profile;u=886616)  
 Facebook: [QtumOfficial](http://facebook.com/QtumOfficial)  
 Twitter: [QtumOfficial](https://twitter.com/QtumOfficial)

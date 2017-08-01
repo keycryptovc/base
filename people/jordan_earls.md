@@ -1,5 +1,5 @@
-![Jordan photo](https://qtum.org/images/people/members/Jordan.jpg)  
 ## Personal data   
+![Jordan photo](https://qtum.org/images/people/members/Jordan.jpg)  
 Name: Jordan Earls  
 Location: CN
 ## Projects  

@@ -3,6 +3,8 @@ Name: Daniel "Bytemaster" Larimer
 Location: US
 ## Projects 
 Name: [BitShares](../projects/bitshares.md)  
+Position: Founder  
+Name: [EOS](../projects/eos.md)  
 Position: Founder
 ## Contacts
 Githib: [Daniel Larimer](https://github.com/bytemaster)  

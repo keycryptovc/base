@@ -1,6 +1,7 @@
 
-![Patrick photo](https://qtum.org/images/people/members/Patrick.jpg)
+
 ## Personal data   
+![Patrick photo](https://qtum.org/images/people/members/Patrick.jpg)  
 Name: Patrick Dai 
 Location: CN
 ## Projects 

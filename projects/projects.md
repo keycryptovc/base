@@ -7,6 +7,7 @@
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Iconomi](iconomi.md)
+* [Lisk](lisk.md)
 * [NEO](neo.md)
 * [Sia](sia.md)
 * [Stratis](stratis.md)

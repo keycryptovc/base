@@ -10,6 +10,8 @@
 * [Jani Valjavec](jani_valjavec.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Luke Champine](luke_champine.md)
+* [Max Kordek](max_kordek.md)
+* [Oliver Beddows](oliver_beddows.md)
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md) 
 * [Tim M. Zagar](tim_zagar.md)

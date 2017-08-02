@@ -1,6 +1,7 @@
 ## List of Projects
 
 * [Bitcoin](bitcoin.md)
+* [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [BitShares](bitshares.md)
 * [Ethereum](ethereum.md)

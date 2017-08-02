@@ -7,7 +7,6 @@
 7.  [Ethereum Classic](/projects/EthereumClassic.md)
 8.  [IOTA](/projects/IOTA.md)
 9.  [Monero](/projects/Monero.md) 
-17. [Veritaseum](/projects/Veritaseum.md) *des
 19. [Steem](/projects/Steem.md) *des 
 22. [Bytecoin](/projects/Bytecoin.md) 
 23. [Siacoin](/projects/Siacoin.md)  

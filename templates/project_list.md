@@ -8,7 +8,6 @@
 8.  [IOTA](/projects/IOTA.md)
 9.  [Monero](/projects/Monero.md) 
 14. [Qtum](/projects/Qtum.md) *des
-17. [Veritaseum](/projects/Veritaseum.md) *des
 19. [Steem](/projects/Steem.md) *des 
 22. [Bytecoin](/projects/Bytecoin.md) 
 23. [Siacoin](/projects/Siacoin.md)  

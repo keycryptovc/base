@@ -15,7 +15,6 @@
 27. [Golem](/projects/Golem.md) 
 28. [Augur](/projects/Augur.md) 
 29. [Stellar Lumens](/projects/StellarLumens.md) 
-30. [Dogecoin](/projects/Dogecoin.md) 
 31. [Byteball](/projects/Byteball.md) 
 32. [Factom](/projects/Factom.md) 
 33. [DigiByte](/projects/DigiByte.md) 

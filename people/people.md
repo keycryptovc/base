@@ -1,6 +1,7 @@
 ##  List of People
 
 * [Alexander Ivanov](alexander_ivanov.md)
+* [Anton Churyumov](anton_churyumov.md)
 * [Brock Pierce](brock_pierce.md)  
 * [Chris Trew](chris_trew.md)   
 * [Craig Sellars](craig_sellars.md)  

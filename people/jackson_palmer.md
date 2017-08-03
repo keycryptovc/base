@@ -1,6 +1,6 @@
 ## Personal data
  ![Jackson Palmer photo](../people/photo/jackson_palmer.jpg)  
-Name:  Jackson Palmer
+Name:  Jackson Palmer  
 Location: USA 
 ## Projects 
 Name: [Dogecoin](../projects/dogecoin.md)  

@@ -5,6 +5,7 @@
 * [BitConnect](bitconnect.md)
 * [BitShares](bitshares.md)
 * [Byteball](byteball.md)
+* [Dash](dash.md)
 * [Ethereum](ethereum.md)
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)

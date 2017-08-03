@@ -18,5 +18,5 @@
 * [Stratis](stratis.md)
 * [Tether](tether.md)
 * [Veritaseum](veritaseum.md)
-* [Waves](waves.md)
+* [Waves](wavesplatform.md)
 * [Zcash](zcash.md)

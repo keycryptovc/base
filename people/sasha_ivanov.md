@@ -3,7 +3,7 @@
    Name: Sasha Ivanov  
    Location: Russia  
 ## Projects
-  Name: [WavesPlatform](../projects/wavesplatfom.md)  
+  Name: [WavesPlatform](../projects/wavesplatform.md)  
   Position: Founder & CEO  
 ## Contacts
    Facebook: [Sasha Ivanov](https://www.facebook.com/sasha35625)  

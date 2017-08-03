@@ -1,4 +1,17 @@
-#### Zcash
- 1. Website: [Zcash (ZEC)](https://z.cash/)
- 2. Founder: [Zooko Wilcox](/people/zooko_wilcox.md) 
- 3. Bitcointalk thread: [Zcash](https://bitcointalk.org/index.php?topic=1342065.0)
+## Overview
+   ![zcash logo](https://z.cash/theme/images/yellow-zcash-logo.png)  
+   Name: Zcash  
+   Website: [Zcash](https://z.cash)  
+   Year founded: 2016  
+   Currency: [ZEC](https://coinmarketcap.com/currencies/zcash/)  
+## Staff
+   Founder & CEO: [Zooko Wilcox](../people/zooko_wilcox.md)  
+## Business Model
+   Zcash is a cryptocurrency that offers privacy and selective transparency of transactions. Zcash payments are published on a public blockchain, but the sender, recipient, and amount of a transaction may remain private.
+## Contacts
+   GitHub: [zcash](https://github.com/zcash)  
+   Bitcointalk: [zcash](https://bitcointalk.org/index.php?topic=1342065.0)  
+   Facebook: [zcashco](https://www.facebook.com/zcashco/)   
+   Reddit: [Zcash](https://www.reddit.com/r/zec/)  
+## About
+-//-

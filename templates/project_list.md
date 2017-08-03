@@ -1,10 +1,7 @@
-## Blockchain currencies and assets 
-4.  [Litecoin](/projects/Litecoin.md)
+## Blockchain currencies and assets
 5.  [Dash](/projects/Dash.md)
 6.  [NEM](/projects/NEM.md)
 7.  [Ethereum Classic](/projects/EthereumClassic.md)
-8.  [IOTA](/projects/IOTA.md)
-22. [Bytecoin](/projects/Bytecoin.md) 
 23. [Siacoin](/projects/Siacoin.md)  
 24. [Lisk](/projects/Lisk.md) 
 25. [Gnosis](/projects/Gnosis.md) 

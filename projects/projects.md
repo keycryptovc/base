@@ -11,6 +11,7 @@
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Iconomi](iconomi.md)
+* [IOTA](iota.md)
 * [Lisk](lisk.md)
 * [Monero](monero.md)
 * [NEO](neo.md)

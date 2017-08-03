@@ -1,20 +1,19 @@
 ## Personal data
-    Photo (if found)
-    Name
-    Location
-## Projects
-    Name (HERE ARE LINKS TO THE PROJECTS)
-    Position
-## Contacts (if found)
-    LinkedIn
-    Facebook
-    Twitter
-    Website/Blog
-## About (could be useful links, necessary info)
-
-
+![ photo]()  
+Name:  
+Location:
+## Projects 
+Name: [](../projects/.md)  
+Position: 
+## Contacts
+[LinkedIn]()  
+[Facebook]()  
+[Twitter]()  
+[Reddit]()
+[Blog]()
+## About
+[Reddit]()  
 ---
-
 
 ## !THIS IS AN EXAMPLE
 

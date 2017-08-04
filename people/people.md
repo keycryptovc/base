@@ -1,6 +1,7 @@
 ##  List of People
 
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
+* [Alex Fork](alex_fork.md)
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Billy Markus](billy_markus.md)

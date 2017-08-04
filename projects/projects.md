@@ -7,6 +7,7 @@
 * [BitConnect](bitconnect.md)
 * [BitShares](bitshares.md)
 * [Byteball](byteball.md)
+* [CloakCoin](cloakcoin.md)
 * [Dash](dash.md)  
 * [Dogecoin](dogecoin.md)
 * [EOS](eos.md)

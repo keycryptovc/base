@@ -24,6 +24,7 @@
 * [Monero](monero.md)
 * [NEM](nem.md)
 * [NEO](neo.md)
+* [Populous](populous.md)
 * [Qtum](qtum.md)
 * [Ripple](ripple.md)
 * [Sia](sia.md)

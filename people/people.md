@@ -39,6 +39,7 @@
 * [Reggie Middleton](reggie_middleton.md) 
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Stefan George](stefan_george.md)
+* [Steve Nico Williams](steve_williams.md)
 * [Tim M. Zagar](tim_zagar.md)
 * [UtopianFuture](utopianfuture.md)
 * [Zooko Wilcox](zooko_wilcox.md)

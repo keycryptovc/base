@@ -19,6 +19,7 @@
 * [Qtum](qtum.md)
 * [Ripple](ripple.md)
 * [Sia](sia.md)
+* [Status](status.md)
 * [Steem](steem.md)
 * [Stratis](stratis.md)
 * [Tether](tether.md)

@@ -1,5 +1,5 @@
 ## Overview
-   ![NEO logo](https://image.prntscr.com/image/NEx1clneTbKtPRaP8Nz--g.png)  
+   ![logo](logo/neo.png)  
    Name: NEO(formerly Antshares)  
    Website: [NEO](https://neo.org)  
    Year founded: 2015  

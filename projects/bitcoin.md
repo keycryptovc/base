@@ -1,5 +1,5 @@
 ## Overview
-   ![Bitcoin logo](https://en.bitcoin.it/w/images/en/thumb/2/29/BC_Logo_.png/120px-BC_Logo_.png)  
+   ![logo](logo/bitcoin.png)  
    Name: Bitcoin  
    Website: [bitcoin.org](https://bitcoin.org/) [bitcoin.com](https://bitcoin.org/)  
    Year founded: 2008  

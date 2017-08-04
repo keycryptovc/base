@@ -1,5 +1,5 @@
 ## Overview
-   ![zcash logo](https://z.cash/theme/images/yellow-zcash-logo.png)  
+   ![logo](logo/zcash.png)  
    Name: Zcash  
    Website: [Zcash](https://z.cash)  
    Year founded: 2016  

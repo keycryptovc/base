@@ -1,5 +1,5 @@
 ## Overview
-   ![Ethereum logo](http://themerkle.com/wp-content/uploads/2016/06/Ethereum-4.png)  
+   ![logo](logo/ethereum.png)  
    Name: Ethereum  
    Website: [ethereum.org](https://www.ethereum.org/)  
    Year founded: 2015  

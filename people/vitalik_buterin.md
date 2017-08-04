@@ -1,5 +1,5 @@
 ## Personal data
-   ![Vitalik photo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VitalikButerinProfile.jpg/250px-VitalikButerinProfile.jpg)  
+   ![photo](photo/vitalik_buterin.jpg)  
    Name: Vitalki Buterin   
    Location: Canada  
 ## Projects

@@ -1,5 +1,5 @@
 ## Personal data
-   ![Up Hongfei photo](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FJ20U3CL.png%3F1&t=579&c=0mkfSXLcPD6bBg)  
+   ![photo](photo/da_hongfei.jpg)  
    Name: Da Hongfei  
    Location: Hong Kong  
 ## Projects

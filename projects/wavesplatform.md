@@ -1,5 +1,5 @@
 ## Overview
-![Waves_logo](https://www.cryptoninjas.net/wp-content/uploads/2017/06/waves_PNG_Transparent_low-300x203.png)  
+![logo](logo/waves.png)  
    Name: Waves Platform  
    Website: [wavesplatform](https://wavesplatform.com)  
    Year founded: 2016  

@@ -1,5 +1,5 @@
 ## Personal data   
-![Zooko wilcox photo](https://d.ibtimes.co.uk/en/full/1553735/zooko-wilcox.jpg?w=368)  
+![photo](photo/zooko_wilcox.jpg)  
 Name: Zooko Wilcox   
 Location: USA 
 ## Projects 

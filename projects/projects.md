@@ -1,6 +1,7 @@
 ## List of Projects
 
 * [Augur](augur.md)
+* [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)

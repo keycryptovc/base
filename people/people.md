@@ -14,6 +14,7 @@
 * [Daniel Larimer](daniel_larimer.md)
 * [David Sønstebø](david_sønstebø.md)
 * [David Vorick](david_vorick.md)
+* [David Zimbeck](david_zimbeck.md) 
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
 * [Jani Valjavec](jani_valjavec.md)

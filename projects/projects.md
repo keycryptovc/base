@@ -12,6 +12,7 @@
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
+* [GameCredits](gamecredits.md)
 * [Gnosis](gnosis.md)
 * [Golem](golem.md)
 * [Iconomi](iconomi.md)

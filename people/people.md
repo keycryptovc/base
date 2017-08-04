@@ -1,6 +1,8 @@
 ##  List of People
 
 * [Alexander Ivanov](alexander_ivanov.md)  
+* [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
+* [Andrzej Regulski](andrzej_regulski.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Billy Markus](billy_markus.md)
 * [Brock Pierce](brock_pierce.md)
@@ -17,6 +19,7 @@
 * [Jarrad Hope](jarrad_hope.md)
 * [Jed McCaleb](jed_mccaleb.md) 
 * [Jordan Earls](jordan_earls.md)
+* [Julian Zawistowski](julian_zawistowski.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Luke Champine](luke_champine.md)
 * [Martin Köppelmann](martin_koppelmann.md)
@@ -25,6 +28,7 @@
 * [Neil Mahi](neil_mahi.md)
 * [Oliver Beddows](oliver_beddows.md)
 * [Patrick Dai](patrick_dai.md)
+* [Piotr Janiuk](piotr_janiuk.md)
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md)
 * [Stefan George](stefan_george.md)

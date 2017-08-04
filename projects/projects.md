@@ -9,6 +9,7 @@
 * [Byteball](byteball.md)
 * [CloakCoin](cloakcoin.md)
 * [Dash](dash.md)  
+* [DeCred](decred.md)
 * [Dogecoin](dogecoin.md)
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)

@@ -19,6 +19,7 @@
 * [Ivica Simatovic](ivica_simatovic.md)
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
+* [Jake Yocom-Piatt](jake_yocom_piatt.md)
 * [Jani Valjavec](jani_valjavec.md)
 * [Jarrad Hope](jarrad_hope.md)
 * [Jed McCaleb](jed_mccaleb.md) 

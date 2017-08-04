@@ -10,6 +10,7 @@
 * [Ethereum](ethereum.md)
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
+* [Gnosis](gnosis.md)
 * [Iconomi](iconomi.md)
 * [IOTA](iota.md)
 * [Lisk](lisk.md)

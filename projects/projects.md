@@ -17,6 +17,7 @@
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [Monero](monero.md)
+* [NEM](nem.md)
 * [NEO](neo.md)
 * [Qtum](qtum.md)
 * [Ripple](ripple.md)

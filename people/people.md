@@ -34,4 +34,5 @@
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Stefan George](stefan_george.md)
 * [Tim M. Zagar](tim_zagar.md)
+* [UtopianFuture](utopianfuture.md)
 * [Zooko Wilcox](zooko_wilcox.md)

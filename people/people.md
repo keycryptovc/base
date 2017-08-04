@@ -12,6 +12,7 @@
 * [Craig Sellars](craig_sellars.md)     
 * [Da Hongfei](da_hongfei.md)  
 * [Daniel Larimer](daniel_larimer.md)
+* [David Irvine](david_irvine.md)
 * [David Sønstebø](david_sønstebø.md)
 * [David Vorick](david_vorick.md)
 * [David Zimbeck](david_zimbeck.md) 

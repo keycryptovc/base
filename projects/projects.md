@@ -20,6 +20,7 @@
 * [IOTA](iota.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
+* [MaidSafe](maidsafe.md)
 * [Monero](monero.md)
 * [NEM](nem.md)
 * [NEO](neo.md)

@@ -22,6 +22,7 @@
 * [Jarrad Hope](jarrad_hope.md)
 * [Jed McCaleb](jed_mccaleb.md) 
 * [Joey Krug](joey_krug.md)
+* [Joyce Kim](joyce_kim.md)
 * [Jordan Earls](jordan_earls.md)
 * [Julian Zawistowski](julian_zawistowski.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)

@@ -28,6 +28,7 @@
 * [Sia](sia.md)
 * [Status](status.md)
 * [Steem](steem.md)
+* [Stellar](stellar.md)
 * [Stratis](stratis.md)
 * [Tether](tether.md)
 * [Veritaseum](veritaseum.md)

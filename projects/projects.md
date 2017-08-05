@@ -34,6 +34,7 @@
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)
+* [Storj](storj.md)
 * [Stratis](stratis.md)
 * [Tether](tether.md)
 * [Veritaseum](veritaseum.md)

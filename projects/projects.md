@@ -25,6 +25,7 @@
 * [IOTA](iota.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
+* [Lykke](lykke.md)
 * [MaidSafe](maidsafe.md)
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)

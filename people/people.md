@@ -35,6 +35,7 @@
 * [Luke Champine](luke_champine.md)
 * [Martin Köppelmann](martin_koppelmann.md)
 * [Max Kordek](max_kordek.md)
+* [Mr Watanabe](mrwatanabe.md)
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
 * [Oliver Beddows](oliver_beddows.md)

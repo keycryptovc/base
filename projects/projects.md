@@ -25,6 +25,7 @@
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [MaidSafe](maidsafe.md)
+* [Monacoin](monacoin.md)
 * [Monero](monero.md)
 * [NEM](nem.md)
 * [NEO](neo.md)

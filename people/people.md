@@ -1,17 +1,21 @@
-##  List of People
+#  List of People
 
+## A
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
 * [Alex Fork](alex_fork.md)
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Anton Golub](anton_golub.md)
+## B
 * [Billy Markus](billy_markus.md)
 * [Brock Pierce](brock_pierce.md)  
+## C
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md)  
 * [Craig Sellars](craig_sellars.md)     
+## D
 * [Da Hongfei](da_hongfei.md)  
 * [Daniel Larimer](daniel_larimer.md)
 * [David Irvine](david_irvine.md)
@@ -19,10 +23,14 @@
 * [David Vorick](david_vorick.md)
 * [David Zimbeck](david_zimbeck.md) 
 * [Don Harinsut](don_harinsut.md)
+## E
 * [Eyal Hertzog](eyal_hertzog.md)
+## G
 * [Galia Benartzi](galia_benartzi.md)
 * [Guy Benartzi](guy_benartzi.md)
+## I
 * [Ivica Simatovic](ivica_simatovic.md)
+## J
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
@@ -34,25 +42,36 @@
 * [Jordan Earls](jordan_earls.md)
 * [Julian Zawistowski](julian_zawistowski.md)
 * [Jun Hasegawa](jun_hasegawa.md)
+## K
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
+## L
 * [Luke Champine](luke_champine.md)
+## M
 * [Martin Köppelmann](martin_koppelmann.md)
 * [Max Kordek](max_kordek.md)
 * [Mr Watanabe](mrwatanabe.md)
+## N
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
+## O
 * [Oliver Beddows](oliver_beddows.md)
+## P
 * [Patrick Dai](patrick_dai.md)
 * [Peter Kirby](peter_kirby.md)
 * [Piotr Janiuk](piotr_janiuk.md)
+## R
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md) 
 * [Richard Olsen](richard_olsen.md)
 * [Rijk Plasman](rijk_plasman.md) 
+## S
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Sergey Ivliev](sergey_ivliev.md)
 * [Stefan George](stefan_george.md)
 * [Steve Nico Williams](steve_williams.md)
+## T
 * [Tim M. Zagar](tim_zagar.md)
+## U
 * [UtopianFuture](utopianfuture.md)
+## Z
 * [Zooko Wilcox](zooko_wilcox.md)

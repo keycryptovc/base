@@ -39,6 +39,7 @@
 * [Neil Mahi](neil_mahi.md)
 * [Oliver Beddows](oliver_beddows.md)
 * [Patrick Dai](patrick_dai.md)
+* [Peter Kirby](peter_kirby.md)
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md) 

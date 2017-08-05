@@ -15,6 +15,7 @@
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
+* [Factom](factom.md)
 * [GameCredits](gamecredits.md)
 * [Gnosis](gnosis.md)
 * [Golem](golem.md)

@@ -44,6 +44,7 @@
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md) 
+* [Rijk Plasman](rijk_plasman.md) 
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Stefan George](stefan_george.md)
 * [Steve Nico Williams](steve_williams.md)

@@ -43,6 +43,7 @@
 ## N
 * [NEM](nem.md)
 * [NEO](neo.md)
+* [Numerai](numerai.md)
 ## O
 * [OmiseGo](omisego.md)
 ## P

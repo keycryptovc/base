@@ -63,6 +63,7 @@
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md) 
 * [Richard Olsen](richard_olsen.md)
+* [Richard Craib](richard_craib.md)
 * [Rijk Plasman](rijk_plasman.md) 
 ## S
 * [Sasha Ivanov](sasha_ivanov.md)
@@ -73,5 +74,8 @@
 * [Tim M. Zagar](tim_zagar.md)
 ## U
 * [UtopianFuture](utopianfuture.md)
+* [Ubajaka Chijioke](ubajaka_chijioke.md)
+## X
+* [Xander Dunn](xander_dunn.md)
 ## Z
 * [Zooko Wilcox](zooko_wilcox.md)

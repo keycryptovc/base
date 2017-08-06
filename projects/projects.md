@@ -60,6 +60,7 @@
 * [Storj](storj.md)
 * [Stratis](stratis.md)
 ## T
+* [TenX](tenx.md)
 * [Tether](tether.md)
 ## V
 * [Veritaseum](veritaseum.md)

@@ -42,6 +42,7 @@
 * [Joey Krug](joey_krug.md)
 * [Joyce Kim](joyce_kim.md)
 * [Jordan Earls](jordan_earls.md)
+* [Julian Hosp](julian_hosp.md)
 * [Julian Zawistowski](julian_zawistowski.md)
 * [Jun Hasegawa](jun_hasegawa.md)
 ## K
@@ -51,6 +52,7 @@
 ## M
 * [Martin Köppelmann](martin_koppelmann.md)
 * [Max Kordek](max_kordek.md)
+* [Michael Sperk](michael_sperk.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
 * [Ned Scott](ned_scott.md)
@@ -59,6 +61,7 @@
 ## O
 * [Oliver Beddows](oliver_beddows.md)
 ## P
+* [Paul Warrunthorn Kittiwongsunthorn](paul_kitti.md)
 * [Patrick Dai](patrick_dai.md)
 * [Peter Kirby](peter_kirby.md)
 * [Piotr Janiuk](piotr_janiuk.md)
@@ -77,6 +80,7 @@
 * [Steve Nico Williams](steve_williams.md)
 ## T
 * [Tim M. Zagar](tim_zagar.md)
+* [Toby Hoenisch](toby_hoenisch.md)
 ## U
 * [UtopianFuture](utopianfuture.md)
 * [Ubajaka Chijioke](ubajaka_chijioke.md)

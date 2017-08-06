@@ -65,5 +65,6 @@
 * [Veritaseum](veritaseum.md)
 ## W
 * [Waves](wavesplatform.md)
+* [Wings](wings.md)
 ## Z
 * [Zcash](zcash.md)

@@ -8,6 +8,7 @@
 * [Anton Golub](anton_golub.md)
 ## B
 * [Billy Markus](billy_markus.md)
+* [Boris Povod](boris_povod.md)
 * [Brock Pierce](brock_pierce.md)  
 ## C
 * [Charlie Lee](charlie_lee.md)
@@ -22,6 +23,7 @@
 * [David Sønstebø](david_sønstebø.md)
 * [David Vorick](david_vorick.md)
 * [David Zimbeck](david_zimbeck.md) 
+* [Dominik Z](dominik_z.md)  
 * [Don Harinsut](don_harinsut.md)
 ## E
 * [Eyal Hertzog](eyal_hertzog.md)
@@ -53,6 +55,7 @@
 ## N
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
+* [Nikolay Taimanov](nikolay_taimanov.md)
 ## O
 * [Oliver Beddows](oliver_beddows.md)
 ## P
@@ -67,7 +70,9 @@
 * [Rijk Plasman](rijk_plasman.md) 
 ## S
 * [Sasha Ivanov](sasha_ivanov.md)
+* [Sebastian Stupurac](sebastian_stupurac.md)
 * [Sergey Ivliev](sergey_ivliev.md)
+* [Stas Oskin](stas_oskin.md)
 * [Stefan George](stefan_george.md)
 * [Steve Nico Williams](steve_williams.md)
 ## T

@@ -26,6 +26,7 @@
 * [Dominik Z](dominik_z.md)  
 * [Don Harinsut](don_harinsut.md)
 ## E
+* [Enric Duran](enric_duran.md)
 * [Eyal Hertzog](eyal_hertzog.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
@@ -88,6 +89,7 @@
 * [Steve Nico Williams](steve_williams.md)
 ## T
 * [Tecnovert](tecnovert.md)
+* [Thomas König](thomas_konig.md)
 * [Tim M. Zagar](tim_zagar.md)
 * [Toby Hoenisch](toby_hoenisch.md)
 ## U

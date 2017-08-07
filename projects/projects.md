@@ -23,6 +23,7 @@
 * [Ethereum classic](ethereum_classic.md)
 ## F
 * [Factom](factom.md) 
+* [Faircoin](faircoin.md)
 ## G
 * [GameCredits](gamecredits.md)
 * [Gnosis](gnosis.md)

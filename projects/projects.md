@@ -1,6 +1,7 @@
 # List of Projects
 
 ## A
+* [Aragon](aragon.md)
 * [Augur](augur.md)
 ## B
 * [Bancor](bancor.md)

@@ -44,6 +44,7 @@
 * [Joey Krug](joey_krug.md)
 * [Joyce Kim](joyce_kim.md)
 * [Jordan Earls](jordan_earls.md)
+* [Jorge Izquierdo](jorge_izquierdo.md)
 * [Julian Hosp](julian_hosp.md)
 * [Julian Zawistowski](julian_zawistowski.md)
 * [Jun Hasegawa](jun_hasegawa.md)
@@ -52,6 +53,7 @@
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 ## L
 * [Luke Champine](luke_champine.md)
+* [Luis Cuende](luis_cuende.md)
 ## M
 * [Martin Allien](martin_allien.md)
 * [Martin Köppelmann](martin_koppelmann.md)

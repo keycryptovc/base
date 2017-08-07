@@ -29,8 +29,10 @@
 * [Eyal Hertzog](eyal_hertzog.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
+* [Gerlof van Ek](gerlof_ek.md)
 * [Guy Benartzi](guy_benartzi.md)
 ## I
+* [Ido Kaiser](ido_kaiser.md)
 * [Ivica Simatovic](ivica_simatovic.md)
 ## J
 * [Jackson Palmer](jackson_palmer.md)
@@ -45,11 +47,13 @@
 * [Julian Hosp](julian_hosp.md)
 * [Julian Zawistowski](julian_zawistowski.md)
 * [Jun Hasegawa](jun_hasegawa.md)
+* [Juha Kovanen](juha_kovanen.md)
 ## K
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 ## L
 * [Luke Champine](luke_champine.md)
 ## M
+* [Martin Allien](martin_allien.md)
 * [Martin Köppelmann](martin_koppelmann.md)
 * [Max Kordek](max_kordek.md)
 * [Michael Sperk](michael_sperk.md)
@@ -65,12 +69,14 @@
 * [Patrick Dai](patrick_dai.md)
 * [Peter Kirby](peter_kirby.md)
 * [Piotr Janiuk](piotr_janiuk.md)
+* [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)
 ## R
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md) 
 * [Richard Olsen](richard_olsen.md)
 * [Richard Craib](richard_craib.md)
 * [Rijk Plasman](rijk_plasman.md) 
+* [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
@@ -79,6 +85,7 @@
 * [Stefan George](stefan_george.md)
 * [Steve Nico Williams](steve_williams.md)
 ## T
+* [Tecnovert](tecnovert.md)
 * [Tim M. Zagar](tim_zagar.md)
 * [Toby Hoenisch](toby_hoenisch.md)
 ## U

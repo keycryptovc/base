@@ -47,6 +47,7 @@
 ## O
 * [OmiseGo](omisego.md)
 ## P
+* [Particl](particl.md)
 * [Populous](populous.md)
 ## Q
 * [Qtum](qtum.md)

@@ -43,6 +43,7 @@
 * [Jarrad Hope](jarrad_hope.md)
 * [Jed McCaleb](jed_mccaleb.md) 
 * [Joey Krug](joey_krug.md)
+* [Jonathan Smith](jonathan_smith.md)
 * [Joyce Kim](joyce_kim.md)
 * [Jordan Earls](jordan_earls.md)
 * [Jorge Izquierdo](jorge_izquierdo.md)
@@ -95,6 +96,8 @@
 ## U
 * [UtopianFuture](utopianfuture.md)
 * [Ubajaka Chijioke](ubajaka_chijioke.md)
+## V
+* [Vinny Lingham](vinny_lingham.md) 
 ## X
 * [Xander Dunn](xander_dunn.md)
 ## Z

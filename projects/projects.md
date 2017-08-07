@@ -12,6 +12,7 @@
 * [BitShares](bitshares.md)
 * [Byteball](byteball.md)
 ## C
+* [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)
 ## D
 * [Dash](dash.md)  

@@ -95,6 +95,7 @@
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
 * [Sergey Ivliev](sergey_ivliev.md)
+* [Sergey Sholom](sergey_sholom.md)
 * [Stas Oskin](stas_oskin.md)
 * [Stefan George](stefan_george.md)
 * [Steve Nico Williams](steve_williams.md)

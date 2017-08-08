@@ -11,6 +11,7 @@
 * [BitConnect](bitconnect.md)
 * [BitShares](bitshares.md)
 * [Byteball](byteball.md)
+* [Bytecoin](bytecoin.md)
 ## C
 * [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)

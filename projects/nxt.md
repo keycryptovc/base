@@ -6,6 +6,7 @@
     Currency: coin [(NXT)](https://coinmarketcap.com/...)  
 ## Staff
    Founder [pseudonym BCNext](https://bitcointalk.org/index.php?action=profile;u=152600)  
+   Developer: [jl777](../people/jl777.md)  
 ## Business Model
    Advanced blockchain platform which builds on and improves the basic functionality of pioneering cryptocurrencies such as Bitcoin. revolutionises the financial technology, crowdfunding and governance industries by providing not only the groundbreaking NXT crypto-currency, but also a powerful, modular toolset to build with in any way Nxt users can imagine. Nxt gives users complete freedom to create their own applications.   
 ## Contacts

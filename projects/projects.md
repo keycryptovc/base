@@ -9,6 +9,7 @@
 * [Bitcoin](bitcoin.md)
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
+* [Bitdeal](bitdeal.md)
 * [BitShares](bitshares.md)
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)

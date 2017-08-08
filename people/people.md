@@ -9,7 +9,9 @@
 * [Anton Golub](anton_golub.md)
 ## B
 * [Billy Markus](billy_markus.md)
+* [bitdealco](bitdealco.md)  
 * [Boris Povod](boris_povod.md)
+* [Brock Pierce](brock_pierce.md)
 * [Brock Pierce](brock_pierce.md)  
 * [BCNext](bcnext.md)
 ## C

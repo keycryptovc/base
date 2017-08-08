@@ -38,6 +38,7 @@
 * [Humaniq](humaniq.md)
 ## I
 * [Iconomi](iconomi.md)
+* [ION](ion.md)
 * [IOTA](iota.md)
 ## K
 * [Komodo](komodo.md)

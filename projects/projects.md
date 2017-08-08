@@ -47,6 +47,7 @@
 * [NEM](nem.md)
 * [NEO](neo.md)
 * [Numerai](numerai.md)
+* [NXT](nxt.md)
 ## O
 * [OmiseGo](omisego.md)
 ## P

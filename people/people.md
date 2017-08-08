@@ -10,6 +10,7 @@
 * [Billy Markus](billy_markus.md)
 * [Boris Povod](boris_povod.md)
 * [Brock Pierce](brock_pierce.md)  
+* [BCNext](bcnext.md)
 ## C
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)

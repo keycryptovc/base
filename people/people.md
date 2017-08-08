@@ -112,6 +112,7 @@
 * [Richard Craib](richard_craib.md)
 * [Rijk Plasman](rijk_plasman.md)
 * [Robby Dermody](robby_dermody.md)
+* [romanornr](romanornr.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [Sasha Ivanov](sasha_ivanov.md)

@@ -83,6 +83,7 @@
 * [Ubiq](ubiq.md)
 ## V
 * [Veritaseum](veritaseum.md)
+* [Viacoin](viacoin.md)
 ## W
 * [Waves](wavesplatform.md)
 * [Wings](wings.md)

@@ -5,7 +5,17 @@
    Year founded: 2012  
    Currency: [BCN](https://coinmarketcap.com/currencies/bytecoin-bcn/)  
 ## Staff
-   Community Manager: [Jenny Goldberg](../people/jenny_goldberg.md)
+   Tech Lead: [Amjuarez](../people/amjuarez.md)  
+   Senior Developer: [Neocortex](../people/neocortex.md)  
+   Senior Developer: [E_{A}](../people/e_a.md)  
+   Developer: [Leomc](../people/leomc.md)  
+   Developer: [Yggdrasil](../people/yggdrasil.md)  
+   Developer: [Montag](../people/montag.md)  
+   Cryptographer: [Seigen](../people/seigen.md)  
+   Economist/ Media Relations: [Ullo](../people/ullo.md)  
+   Public Relations: [DStrange](../people/dstrange.md)  
+   Community Manager: [Jenny Goldberg](../people/jenny_goldberg.md)  
+   Project Manager: [Pacific_Skyline](../people/pacific_skyline.md)  
 ## Business Model
    Bytecoin is an open cryptocurrency, based on [CryptoNote](https://cryptonote.org) technology  
 ## Contacts

@@ -7,6 +7,7 @@
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Anton Golub](anton_golub.md)
+* [Amjuarez](amjuarez.md)  
 ## B
 * [Billy Markus](billy_markus.md)
 * [bitdealco](bitdealco.md)  
@@ -30,7 +31,9 @@
 * [David Zimbeck](david_zimbeck.md) 
 * [Dominik Z](dominik_z.md)  
 * [Don Harinsut](don_harinsut.md)
+* [DStrange](dstrange.md)
 ## E
+* [E_{A}](e_a.md)
 * [Enric Duran](enric_duran.md)
 * [Eyal Hertzog](eyal_hertzog.md)
 ## G
@@ -50,6 +53,7 @@
 * [Jenny Goldberg](jenny_goldberg.md)
 * [Joey Krug](joey_krug.md)
 * [Jonathan Smith](jonathan_smith.md)
+* [Joseph Lin](neocortex.md)
 * [Joyce Kim](joyce_kim.md)
 * [Jordan Earls](jordan_earls.md)
 * [Jorge Izquierdo](jorge_izquierdo.md)
@@ -63,6 +67,7 @@
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Kris Hansen](kris_hansen.md)
 ## L
+* [Leomc](leomc.md)
 * [Luke Champine](luke_champine.md)
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
@@ -72,6 +77,7 @@
 * [Martin Köppelmann](martin_koppelmann.md)
 * [Max Kordek](max_kordek.md)
 * [Michael Sperk](michael_sperk.md)
+* [Montag](montag.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
 * [Ned Scott](ned_scott.md)
@@ -80,6 +86,7 @@
 ## O
 * [Oliver Beddows](oliver_beddows.md)
 ## P
+* [Pacific_Skyline](pacific_skyline.md)
 * [Paul Warrunthorn Kittiwongsunthorn](paul_kitti.md)
 * [Patrick Dai](patrick_dai.md)
 * [Peter Kirby](peter_kirby.md)
@@ -97,6 +104,7 @@
 * [Sebastian Stupurac](sebastian_stupurac.md)
 * [Sergey Ivliev](sergey_ivliev.md)
 * [Sergey Sholom](sergey_sholom.md)
+* [Seigen](seigen.md)
 * [Stas Oskin](stas_oskin.md)
 * [Stefan George](stefan_george.md)
 * [Steve Nico Williams](steve_williams.md)
@@ -109,12 +117,14 @@
 ## U
 * [UtopianFuture](utopianfuture.md)
 * [Ubajaka Chijioke](ubajaka_chijioke.md)
+* [Ullo](ullo.md)
 ## V
 * [Vitor Py](vitor_py.md)
 * [Vinny Lingham](vinny_lingham.md) 
 ## X
 * [Xander Dunn](xander_dunn.md)
 ## Y
+* [Yggdrasil](yggdrasil.md)
 * [Yogesh Gaikwad](yogesh_gaikwad.md)
 ## Z
 * [Zooko Wilcox](zooko_wilcox.md)

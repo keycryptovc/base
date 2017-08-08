@@ -69,6 +69,7 @@
 * [Ripple](ripple.md)
 ## S
 * [Sia](sia.md)
+* [SingularDTV](singulardtv.md)
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)

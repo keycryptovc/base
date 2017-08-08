@@ -8,6 +8,7 @@
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Anton Golub](anton_golub.md)
+* [Arie Levy-Cohen](arie_levy_cohen.md) 
 * [Amjuarez](amjuarez.md)  
 ## B
 * [Billy Markus](billy_markus.md)
@@ -56,6 +57,7 @@
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)
 * [Joey Krug](joey_krug.md)
+* [Joseph Lubin](joseph_lubin.md)
 * [Jonathan Smith](jonathan_smith.md)
 * [Joseph Lin](neocortex.md)
 * [Joyce Kim](joyce_kim.md)
@@ -69,6 +71,7 @@
 * [jl777](jl777.md)
 ## K
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
+* [Kim Jackson](kim_jackson.md)
 * [Kris Hansen](kris_hansen.md)
 ## L
 * [Leomc](leomc.md)
@@ -133,4 +136,5 @@
 * [Yggdrasil](yggdrasil.md)
 * [Yogesh Gaikwad](yogesh_gaikwad.md)
 ## Z
+* [Zach Lebeau](zach_lebeau.md)
 * [Zooko Wilcox](zooko_wilcox.md)

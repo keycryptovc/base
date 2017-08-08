@@ -1,6 +1,7 @@
 #  List of People
 
 ## A
+* [Adam Krellenstein](adam_krellenstein.md)
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
 * [Alex Fork](alex_fork.md)
 * [Alex Sterk](alex_sterk.md)
@@ -36,6 +37,7 @@
 * [E_{A}](e_a.md)
 * [Enric Duran](enric_duran.md)
 * [Eugene Shumilov](eugene_shumilov.md)
+* [Ewan Wagner](ewan_wagner.md)
 * [Eyal Hertzog](eyal_hertzog.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
@@ -99,7 +101,8 @@
 * [Reggie Middleton](reggie_middleton.md) 
 * [Richard Olsen](richard_olsen.md)
 * [Richard Craib](richard_craib.md)
-* [Rijk Plasman](rijk_plasman.md) 
+* [Rijk Plasman](rijk_plasman.md)
+* [Robby Dermody](robby_dermody.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [Sasha Ivanov](sasha_ivanov.md)

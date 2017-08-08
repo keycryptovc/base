@@ -35,6 +35,7 @@
 ## E
 * [E_{A}](e_a.md)
 * [Enric Duran](enric_duran.md)
+* [Eugene Shumilov](eugene_shumilov.md)
 * [Eyal Hertzog](eyal_hertzog.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
@@ -84,6 +85,7 @@
 * [Neil Mahi](neil_mahi.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
 ## O
+* [Oleg Khovayko](oleg_khovayko.md)
 * [Oliver Beddows](oliver_beddows.md)
 ## P
 * [Pacific_Skyline](pacific_skyline.md)

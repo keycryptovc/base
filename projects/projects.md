@@ -21,6 +21,7 @@
 * [DeCred](decred.md)
 * [Dogecoin](dogecoin.md)
 ## E
+* [Emercoin](emercoin.md)
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)

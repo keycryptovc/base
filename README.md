@@ -2,4 +2,4 @@
   		  
  - [Projects](projects/projects.md)
  - [People](people/people.md)
- - News		 
+ - [News](news/news.md)	 

@@ -47,6 +47,7 @@
 * [Ido Kaiser](ido_kaiser.md)
 * [Ivica Simatovic](ivica_simatovic.md)
 ## J
+* [J.R. Willett](jr_willett.md)
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)

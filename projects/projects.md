@@ -58,6 +58,7 @@
 * [NXT](nxt.md)
 ## O
 * [OmiseGo](omisego.md)
+* [Omni](omni.md)
 ## P
 * [Particl](particl.md)
 * [Pillar](pillar.md)

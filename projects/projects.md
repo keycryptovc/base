@@ -35,6 +35,8 @@
 ## I
 * [Iconomi](iconomi.md)
 * [IOTA](iota.md)
+## K
+* [Komodo](komodo.md)
 ## L
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)

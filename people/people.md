@@ -25,6 +25,7 @@
 * [Daniel Larimer](daniel_larimer.md)
 * [David Irvine](david_irvine.md)
 * [David Sønstebø](david_sønstebø.md)
+* [David Siegel](david_siegel.md)
 * [David Vorick](david_vorick.md)
 * [David Zimbeck](david_zimbeck.md) 
 * [Dominik Z](dominik_z.md)  
@@ -104,12 +105,16 @@
 * [Thomas König](thomas_konig.md)
 * [Tim M. Zagar](tim_zagar.md)
 * [Toby Hoenisch](toby_hoenisch.md)
+* [Tomer Sofinzon](tomer_sofinzon.md)
 ## U
 * [UtopianFuture](utopianfuture.md)
 * [Ubajaka Chijioke](ubajaka_chijioke.md)
 ## V
+* [Vitor Py](vitor_py.md)
 * [Vinny Lingham](vinny_lingham.md) 
 ## X
 * [Xander Dunn](xander_dunn.md)
+## Y
+* [Yogesh Gaikwad](yogesh_gaikwad.md)
 ## Z
 * [Zooko Wilcox](zooko_wilcox.md)

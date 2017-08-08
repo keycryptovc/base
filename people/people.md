@@ -3,6 +3,7 @@
 ## A
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
 * [Alex Fork](alex_fork.md)
+* [Alex Sterk](alex_sterk.md)
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Anton Golub](anton_golub.md)
@@ -49,13 +50,16 @@
 * [Jordan Earls](jordan_earls.md)
 * [Jorge Izquierdo](jorge_izquierdo.md)
 * [Julian Hosp](julian_hosp.md)
+* [Julian Yap](julian_yap.md)
 * [Julian Zawistowski](julian_zawistowski.md)
 * [Jun Hasegawa](jun_hasegawa.md)
 * [Juha Kovanen](juha_kovanen.md)
 ## K
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
+* [Kris Hansen](kris_hansen.md)
 ## L
 * [Luke Champine](luke_champine.md)
+* [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
 ## M
 * [Martin Allien](martin_allien.md)

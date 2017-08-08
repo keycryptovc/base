@@ -67,6 +67,8 @@
 ## T
 * [TenX](tenx.md)
 * [Tether](tether.md)
+## U
+* [Ubiq](ubiq.md)
 ## V
 * [Veritaseum](veritaseum.md)
 ## W

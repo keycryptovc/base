@@ -45,6 +45,7 @@
 * [Lykke](lykke.md)
 ## M
 * [MaidSafe](maidsafe.md)
+* [Metal](metal.md)
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
 ## N

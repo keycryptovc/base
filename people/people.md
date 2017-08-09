@@ -43,6 +43,7 @@
 * [DStrange](dstrange.md)
 ## E
 * [E_{A}](e_a.md)
+* [Enda Crowley](enda_crowley.md)
 * [Enric Duran](enric_duran.md)
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Ewan Wagner](ewan_wagner.md)

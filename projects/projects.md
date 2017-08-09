@@ -29,6 +29,7 @@
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
+* [Etheroll](etheroll.md)
 ## F
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)

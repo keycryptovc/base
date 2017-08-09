@@ -47,6 +47,7 @@
 * [Eyal Hertzog](eyal_hertzog.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
+* [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
 * [Guy Benartzi](guy_benartzi.md)
 ## I
@@ -97,6 +98,7 @@
 * [Michael Maloney](michael_maloney.md)
 * [Michael Sperk](michael_sperk.md)
 * [Mitchell Cash](mitchell_cash.md)
+* [Mona El Isa](mona_el_isa.md)
 * [Montag](montag.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
@@ -114,8 +116,9 @@
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)
 ## R
-* [Reeve Collins](reeve_collins.md) 
-* [Reggie Middleton](reggie_middleton.md) 
+* [Reeve Collins](reeve_collins.md
+* [Reggie Middleton](reggie_middleton.md
+* [Reto Trinkler](reto_trinkler.md)
 * [Richard Nelson](richard_nelson.md)
 * [Richard Olsen](richard_olsen.md)
 * [Richard Craib](richard_craib.md)

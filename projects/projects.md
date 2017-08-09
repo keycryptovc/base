@@ -5,12 +5,14 @@
 * [Augur](augur.md)
 ## B
 * [Bancor](bancor.md)
+* [Basic Attention Token](bat.md)
 * [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)
 * [BitShares](bitshares.md)
+* [Blocknet](blocknet.md)
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C
@@ -28,6 +30,7 @@
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
+* [Etheroll](etheroll.md)
 ## F
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)
@@ -50,11 +53,13 @@
 * [Lykke](lykke.md)
 ## M
 * [MaidSafe](maidsafe.md)
+* [Melon](melon.md)
 * [MobileGO](mobilego.md) 
 * [Metal](metal.md)
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
 ## N
+* [Namecoin](namecoin.md)
 * [NEM](nem.md)
 * [NEO](neo.md)
 * [Numerai](numerai.md)
@@ -65,6 +70,7 @@
 ## P
 * [Particl](particl.md)
 * [Peercoin](peercoin.md)
+* [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
 * [Populous](populous.md)
 ## Q
@@ -88,6 +94,7 @@
 ## V
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
+* [vSlice](vslice.md)
 ## W
 * [Waves](wavesplatform.md)
 * [Wings](wings.md)

@@ -10,4 +10,4 @@ Position: Founder, CEO
 [Facebook](https://www.facebook.com/kauffj)  
 [Twitter](https://twitter.com/jeremykauffman)  
 ## About
--//-
+Jeremy is responsible for the packing, presentation, and strategy of LBRY, as well as some design aspects. He is a longtime supporter of decentralized technology and freedom of information.

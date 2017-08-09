@@ -71,6 +71,7 @@
 * [Ripple](ripple.md)
 ## S
 * [Sia](sia.md)
+* [Sibcoin](sibcoin.md)
 * [SingularDTV](singulardtv.md)
 * [Status](status.md)
 * [Steem](steem.md)

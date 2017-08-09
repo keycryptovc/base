@@ -48,6 +48,7 @@
 * [Guy Benartzi](guy_benartzi.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
+* [Ivan Rublev](ivan_rublev.md)
 * [Ivica Simatovic](ivica_simatovic.md)
 ## J
 * [J.R. Willett](jr_willett.md)

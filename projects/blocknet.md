@@ -6,7 +6,7 @@ Year founded: 2011
 Currency: [BLOCK](https://coinmarketcap.com/currencies/blocknet/)  
 ## Staff
 Co-Founder & CEO: [Susanne Tempelhof](../people/susanne_tempelhof.md)  
-Co-Founder & Lead Developer: [Dan Metcalf](../people/dan/metcalf.md)
+Co-Founder & Lead Developer: [Dan Metcalf](../people/dan_metcalf.md)
 ## Business Model
 The Blocknet is a true peer-to-peer protocol between nodes on different blockchains. This is the foundation 
 of a technology stack incorporating an API and an application platform, which enables open-ended application 

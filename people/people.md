@@ -26,7 +26,8 @@
 * [Colin Adley](colin_adley.md)
 * [Craig Sellars](craig_sellars.md)     
 ## D
-* [Da Hongfei](da_hongfei.md)  
+* [Da Hongfei](da_hongfei.md)
+* [Dan Metcalf](dan_metcalf.md)
 * [Daniel Harrison](daniel_harrison.md)
 * [Daniel Larimer](daniel_larimer.md)
 * [David Irvine](david_irvine.md)
@@ -129,6 +130,7 @@
 * [Stefan George](stefan_george.md)
 * [Stefan Hickmott](stefan_hickmott.md)
 * [Steve Nico Williams](steve_williams.md)
+* [Susanne Tempelhof](susanne_tempelhof.md)
 ## T
 * [Tecnovert](tecnovert.md)
 * [Thomas König](thomas_konig.md)

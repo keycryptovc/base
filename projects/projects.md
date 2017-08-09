@@ -57,6 +57,7 @@
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
 ## N
+* [Namecoin](namecoin.md)
 * [NEM](nem.md)
 * [NEO](neo.md)
 * [Numerai](numerai.md)

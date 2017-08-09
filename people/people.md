@@ -16,7 +16,9 @@
 * [bitdealco](bitdealco.md)  
 * [Boris Povod](boris_povod.md)
 * [Brock Pierce](brock_pierce.md)
-* [Brock Pierce](brock_pierce.md)  
+* [Brock Pierce](brock_pierce.md) 
+* [Brendan Eich](brendan_eich.md)
+* [Brian Bondy](brian_bondy.md)
 * [BCNext](bcnext.md)
 ## C
 * [Charlie Lee](charlie_lee.md)
@@ -125,6 +127,7 @@
 * [Sergey Ivliev](sergey_ivliev.md)
 * [Sergey Sholom](sergey_sholom.md)
 * [Seigen](seigen.md)
+* [Scott Locklin](scott_locklin.md)
 * [Stas Oskin](stas_oskin.md)
 * [Stefan George](stefan_george.md)
 * [Stefan Hickmott](stefan_hickmott.md)
@@ -149,6 +152,7 @@
 ## X
 * [Xander Dunn](xander_dunn.md)
 ## Y
+* [Yan Zhu](yan_zhu.md) 
 * [Yggdrasil](yggdrasil.md)
 * [Yogesh Gaikwad](yogesh_gaikwad.md)
 ## Z

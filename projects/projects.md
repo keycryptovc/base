@@ -5,6 +5,7 @@
 * [Augur](augur.md)
 ## B
 * [Bancor](bancor.md)
+* [Basic Attention Token](bat.md)
 * [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
 * [Bitcoin Cash](bitcoin_cash.md)

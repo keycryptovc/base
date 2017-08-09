@@ -1,7 +1,7 @@
 ## Personal data
 ![ photo](photo/alex_grintsvayg.jpg)  
 Name: Alex Grintsvayg  
-Location:   
+Location: USA  
 ## Projects 
 Name: [LBRY](../projects/lbry.md)  
 Position: Founder, CTO  

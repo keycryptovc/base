@@ -85,6 +85,8 @@
 * [Marshall Hayner](marshall_hayner.md)
 * [Martin Allien](martin_allien.md)
 * [Martin Köppelmann](martin_koppelmann.md)
+* [Matej Michalko](matej_michalko.md)
+* [Matej Boda](matej_boda.md)
 * [Max Kordek](max_kordek.md)
 * [Michael Sperk](michael_sperk.md)
 * [Mitchell Cash](mitchell_cash.md)
@@ -128,6 +130,7 @@
 * [Thomas König](thomas_konig.md)
 * [Thomas Le](thomas_le.md)
 * [Tim M. Zagar](tim_zagar.md)
+* [Tibor Tarabek](tibor_tarabek.md)
 * [Toby Hoenisch](toby_hoenisch.md)
 * [Tomer Sofinzon](tomer_sofinzon.md)
 ## U
@@ -137,6 +140,8 @@
 ## V
 * [Vitor Py](vitor_py.md)
 * [Vinny Lingham](vinny_lingham.md) 
+## W
+* [Wayman Kwan](wayman_kwan.md)
 ## X
 * [Xander Dunn](xander_dunn.md)
 ## Y

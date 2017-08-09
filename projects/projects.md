@@ -19,6 +19,7 @@
 * [Counterparty](counterparty.md)
 ## D
 * [Dash](dash.md)  
+* [DECENT](decent.md)
 * [DeCred](decred.md)
 * [Dogecoin](dogecoin.md)
 ## E

@@ -16,7 +16,7 @@ ION is a blockchain based decentralized cryptocurrency that rewards network part
 ## Contacts
 [GitHub](https://github.com/ionomy)  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1443633.0)   
-[Facebook](https://www.facebook.com/ionomy/)
+[Facebook](https://www.facebook.com/ionomy/)  
 [Official forum](https://ion.community)    
 [Slack](https://slack.ionomy.com)  
 [Reddit](https://www.reddit.com/r/ionomy/)  

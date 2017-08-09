@@ -16,7 +16,7 @@ Peercoin is a peer-to-peer cryptocurrency utilizing both proof-of-stake and proo
 [Twitter](https://twitter.com/peercoinppc/)  
 [Peercoin Forum](https://talk.peercoin.net/)    
 [Peercoin Chat](https://peercoin.chat/home)  
-[Reddit](https://www.reddit.com/r/Peercoin/) 
+[Reddit](https://www.reddit.com/r/Peercoin/)  
 [Telegram](https://t.me/peercoin)  
 [Web Chat](https://peercoin.chat/)  
 ## About

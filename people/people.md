@@ -27,6 +27,7 @@
 * [Craig Sellars](craig_sellars.md)     
 ## D
 * [Da Hongfei](da_hongfei.md)  
+* [Daniel Harrison](daniel_harrison.md)
 * [Daniel Larimer](daniel_larimer.md)
 * [David Irvine](david_irvine.md)
 * [David Sønstebø](david_sønstebø.md)
@@ -62,6 +63,7 @@
 * [Joey Krug](joey_krug.md)
 * [Jordan Smith](jordan_smith.md)
 * [Joseph Lubin](joseph_lubin.md)
+* [Joshua Hawley](joshua_hawley.md)
 * [Jonathan Smith](jonathan_smith.md)
 * [Joseph Lin](neocortex.md)
 * [Joyce Kim](joyce_kim.md)
@@ -125,6 +127,7 @@
 * [Seigen](seigen.md)
 * [Stas Oskin](stas_oskin.md)
 * [Stefan George](stefan_george.md)
+* [Stefan Hickmott](stefan_hickmott.md)
 * [Steve Nico Williams](steve_williams.md)
 ## T
 * [Tecnovert](tecnovert.md)

@@ -16,6 +16,7 @@
 ## C
 * [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)
+* [CoEval](coeval.md)
 * [Counterparty](counterparty.md)
 ## D
 * [Dash](dash.md)  

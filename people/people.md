@@ -28,6 +28,7 @@
 ## D
 * [Da Hongfei](da_hongfei.md)  
 * [Daniel Harrison](daniel_harrison.md)
+* [Daniel Kraft (domob)](daniel_kraft.md)
 * [Daniel Larimer](daniel_larimer.md)
 * [David Irvine](david_irvine.md)
 * [David Sønstebø](david_sønstebø.md)
@@ -60,6 +61,7 @@
 * [Jarrad Hope](jarrad_hope.md)
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)
+* [Jeremy Rand](jeremy_rand.md)
 * [Joey Krug](joey_krug.md)
 * [Jordan Smith](jordan_smith.md)
 * [Joseph Lubin](joseph_lubin.md)
@@ -107,6 +109,7 @@
 * [Paul Warrunthorn Kittiwongsunthorn](paul_kitti.md)
 * [Patrick Dai](patrick_dai.md)
 * [Peter Kirby](peter_kirby.md)
+* [Phelix](phelix.md)
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)
 ## R
@@ -142,6 +145,7 @@
 * [Ubajaka Chijioke](ubajaka_chijioke.md)
 * [Ullo](ullo.md)
 ## V
+* [vinced](vinced.md)  
 * [Vitor Py](vitor_py.md)
 * [Vinny Lingham](vinny_lingham.md) 
 ## W

@@ -65,6 +65,7 @@
 * [Omni](omni.md)
 ## P
 * [Particl](particl.md)
+* [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
 * [Populous](populous.md)
 ## Q

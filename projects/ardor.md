@@ -1,11 +1,11 @@
 ## Overview
-![ logo](../projects/logo/ardor.png)  
+![ logo](logo/ardor.png)  
 Name: Ardor   
 [Website](https://www.ardorplatform.org)  
 Year founded: 2016   
 Currency: coin OR token [ARDR](https://coinmarketcap.com/assets/ardor/)  
 ## Staff
-Core Developer: [jl777](../people/jl777.md.md)  
+Core Developer: [jl777](../people/jl777.md)  
 ## Business Model
 Ardor is a blockchain-as-a-service platform that will allow people to utilize the blockchain technology of [Nxt](nxt.md) through the use of child chains.
 ## Contacts

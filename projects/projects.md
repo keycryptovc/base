@@ -24,6 +24,7 @@
 * [Dash](dash.md)  
 * [DECENT](decent.md)
 * [DeCred](decred.md)
+* [DigiByte](digibyte.md)
 * [Dogecoin](dogecoin.md)
 ## E
 * [Emercoin](emercoin.md)

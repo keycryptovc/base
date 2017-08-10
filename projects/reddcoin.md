@@ -19,7 +19,7 @@ Reddcoin is a cryptocurrency that uses social networks as a way to bring cryptoc
 [Facebook](https://www.facebook.com/reddcoin)     
 [Twitter](https://twitter.com/reddcoin)  
 [Reddcoin Forum](https://www.reddcointalk.org/)    
-[Reddcoin Blog](https://www.reddcoin.com/blog/) 
+[Reddcoin Blog](https://www.reddcoin.com/blog/)  
 [Reddheads Blog](https://www.reddheads.com/en/home/)  
 [Reddit](https://www.reddit.com/r/reddCoin/)  
 ## About

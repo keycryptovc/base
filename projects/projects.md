@@ -102,6 +102,7 @@
 ## U
 * [Ubiq](ubiq.md)
 ## V
+* [Verge](verge.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
 * [vSlice](vslice.md)

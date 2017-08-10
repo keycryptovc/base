@@ -40,6 +40,7 @@
 * [David Siegel](david_siegel.md)
 * [David Vorick](david_vorick.md)
 * [David Zimbeck](david_zimbeck.md) 
+* [Dogedarkdev](dogedarkdev.md)
 * [Dominik Z](dominik_z.md)  
 * [Don Harinsut](don_harinsut.md)
 * [DStrange](dstrange.md)

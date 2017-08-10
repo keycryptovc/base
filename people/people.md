@@ -4,7 +4,9 @@
 * [Adam Krellenstein](adam_krellenstein.md)
 * [Adam Matlack](adam_matlack.md)
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
+* [Alex Grintsvayg](alex_grintsvayg.md)
 * [Alex Fork](alex_fork.md)
+* [Alex Liebowitz](alex_liebowitz.md)
 * [Alex Sterk](alex_sterk.md)
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anton Churyumov](anton_churyumov.md)
@@ -61,12 +63,14 @@
 * [J.R. Willett](jr_willett.md)
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
+* [Jack Robison](jack_robison.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
 * [Jani Valjavec](jani_valjavec.md)
 * [Jarrad Hope](jarrad_hope.md)
 * [Jason Colby](jason_colby.md)
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)
+* [Jeremy Kauffman](jeremy_kauffman.md)
 * [Jeremy Rand](jeremy_rand.md)
 * [Joey Krug](joey_krug.md)
 * [Jordan Smith](jordan_smith.md)
@@ -74,6 +78,7 @@
 * [Jonathan Smith](jonathan_smith.md)
 * [Joseph Lin](neocortex.md)
 * [Joseph Lubin](joseph_lubin.md)
+* [Josh Finer](josh_finer.md)
 * [Joshua Hawley](joshua_hawley.md)
 * [Joyce Kim](joyce_kim.md)
 * [Jordan Earls](jordan_earls.md)
@@ -85,6 +90,7 @@
 * [Juha Kovanen](juha_kovanen.md)
 * [jl777](jl777.md)
 ## K
+* [Kay Kurokawa](kay_kurokawa.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Kim Jackson](kim_jackson.md)
 * [Kris Hansen](kris_hansen.md)
@@ -124,6 +130,7 @@
 ## R
 * [Reeve Collins](reeve_collins.md
 * [Reggie Middleton](reggie_middleton.md
+* [Reilly Smith](reilly_smith.md)
 * [Reto Trinkler](reto_trinkler.md)
 * [Richard Nelson](richard_nelson.md)
 * [Richard Olsen](richard_olsen.md)

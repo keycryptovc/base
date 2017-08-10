@@ -18,4 +18,4 @@ BitcoinDark is a disrupting cryptocurrency platform that seeks to overcome many 
 [Wiki](http://bitcoindark.wikia.com/wiki/BitcoinDark_Wiki)      
 ## About
 [BitcoinDark: A Crypto Manifesto](http://bitcoindark.com/manifesto.html)  
-Over 80 % of the BTCD supply has been swapped for KMD. Developers moved to [Komodo](komodo.md) coin too. Swap continues until Jan 2018 with rate 1 BTCD = ~50 KMD
+Over 80 % of the BTCD supply has been swapped for KMD. Core developer [jl777](../people/jl777.md) moved to [Komodo](komodo.md) coin too. Swap continues until Jan 2018 with rate 1 BTCD = ~50 KMD

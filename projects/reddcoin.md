@@ -5,8 +5,13 @@ Name: Reddcoin
 Year founded: 2014  
 Currency: [RDD](https://coinmarketcap.com/currencies/reddcoin/)  
 ## Staff
-Co-Founder: [](../people/*.md)  
-
+Co-Founder: [Jonathan Patenaude](../people/jonathan_patenaude.md)  
+Co-Founder: [Larry Ren](../people/larry_ren.md)  
+Android Wallet Developer: [Lionzeye](../people/lionzeye.md)  
+Developer: [Reddink](../people/reddink.md)  
+Browser Wallet Developer: [Tralf](../people/tralf.md)  
+Developer: [Raid5](../people/raid5.md)  
+Developer: [Gnasher](../people/gnasher.md)  
 ## Business Model
 Reddcoin is a cryptocurrency that uses social networks as a way to bring cryptocurrency awareness and experience to the general public. 
 ## Contacts

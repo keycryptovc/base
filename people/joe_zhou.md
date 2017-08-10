@@ -3,7 +3,7 @@
 Name: Joe "JasonStatham" Zhou  
 Location: USA
 ## Projects 
-Name: []FirstBlood(../projects/firstblood.md)  
+Name: [FirstBlood](../projects/firstblood.md)  
 Position: Cofounder & CEO  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/joeczhou/)  

@@ -45,9 +45,12 @@
 * [E_{A}](e_a.md)
 * [Enda Crowley](enda_crowley.md)
 * [Enric Duran](enric_duran.md)
+* [Eric Stanek](eric_stanek.md)
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Ewan Wagner](ewan_wagner.md)
 * [Eyal Hertzog](eyal_hertzog.md)
+##
+* [Fuzzbawls](fuzzbawls.md) 
 ## G
 * [Galia Benartzi](galia_benartzi.md)
 * [George Hallam](george_hallam.md)
@@ -63,6 +66,7 @@
 * [Jack Peterson](jack_peterson.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
 * [Jani Valjavec](jani_valjavec.md)
+* [James Kelly "Coin Server"](james_kelly.md)  
 * [Jarrad Hope](jarrad_hope.md)
 * [Jason Colby](jason_colby.md)
 * [Jed McCaleb](jed_mccaleb.md)
@@ -121,10 +125,12 @@
 * [Phelix](phelix.md)
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)
+* [Presstab](presstab.md)  
 ## R
 * [Reeve Collins](reeve_collins.md
 * [Reggie Middleton](reggie_middleton.md
 * [Reto Trinkler](reto_trinkler.md)
+* [Ricardo Lamas "Rlamasb"](ricardo_lamas.md) 
 * [Richard Nelson](richard_nelson.md)
 * [Richard Olsen](richard_olsen.md)
 * [Richard Craib](richard_craib.md)
@@ -133,6 +139,7 @@
 * [romanornr](romanornr.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
+* [s3v3n h4cks](s3v3n_h4cks.md)  
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
 * [Sergey Ivliev](sergey_ivliev.md)

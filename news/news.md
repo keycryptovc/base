@@ -1,4 +1,6 @@
 # News
+## 10 August 2017
+* [Waves' New CFO announcement](waves_10-08-17.md)
 ## 09 August 2017
 * [BCC eases mining difficulty, but BTC is still more profitable. Major retailer now accepts BCC.](bitcoin_cash_09-08-17.md)
 * [Bitcoin Price Will Likely Increase to $5,000 Because of Segwit](bitcoin_09-08-17.md)

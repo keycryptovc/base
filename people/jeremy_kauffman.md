@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/jeremy_kauffman.jpg)  
+![ photo](photo/jeremy-kauffman.jpg)  
 Name: Jeremy Kauffman  
 Location: USA  
 ## Projects 

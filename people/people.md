@@ -54,6 +54,8 @@
 * [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
 * [Guy Benartzi](guy_benartzi.md)
+## H
+* [Hasoshi](hasoshi.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
 * [Ivan Rublev](ivan_rublev.md)
@@ -69,6 +71,7 @@
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)
 * [Jeremy Rand](jeremy_rand.md)
+* [Joel Yaffe](mr_jones.md)
 * [Joey Krug](joey_krug.md)
 * [Jordan Smith](jordan_smith.md)
 * [Johathan Baha'i](jonathan_bahai.md)
@@ -110,6 +113,7 @@
 ## N
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
+* [Nick Iversen](nick_iversen.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)

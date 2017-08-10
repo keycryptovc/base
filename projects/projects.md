@@ -72,6 +72,7 @@
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
 * [Populous](populous.md)
+* [Potcoin](potcoin.md)
 ## Q
 * [Qtum](qtum.md)
 ## R

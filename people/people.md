@@ -46,6 +46,7 @@
 * [E_{A}](e_a.md)
 * [Enda Crowley](enda_crowley.md)
 * [Enric Duran](enric_duran.md)
+* [Erik Voorhees](erik_voorhees.md)
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Ewan Wagner](ewan_wagner.md)
 * [Eyal Hertzog](eyal_hertzog.md)

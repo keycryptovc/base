@@ -80,6 +80,7 @@
 * [Ripple](ripple.md)
 * [Round](round.md) 
 ## S
+* [ShapeShift](shapeshift.md)
 * [Sia](sia.md)
 * [Sibcoin](sibcoin.md)
 * [SingularDTV](singulardtv.md)

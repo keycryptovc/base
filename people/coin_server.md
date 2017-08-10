@@ -6,6 +6,6 @@ Location: USA
 Name: [PIVX](../projects/pivx.md)  
 Position: Co-Founder  
 ## Contacts
-(LinkedIn](https://www.linkedin.com/in/james-kelly-a81a176/)  
+[LinkedIn](https://www.linkedin.com/in/james-kelly-a81a176/)  
 ## About
 -//-

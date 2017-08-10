@@ -4,7 +4,7 @@ Name: Firstblood
 [Website](https://firstblood.io)  
 Year founded: 2016  
 Currency: [1ST](https://coinmarketcap.com/assets/firstblood/)  
-## Staff (as much as found)
+## Staff
 Cofounder & CEO: [Joe Zhou](../people/joe_zhou.md)  
 Cofounder & Head of Business Development: [Marco Cuesta](../people/marko_cuesta.md)  
 Cofounder & Chief Architect: [Zack Coburn](../people/zack_coburn.md)  

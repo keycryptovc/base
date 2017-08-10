@@ -52,6 +52,7 @@
 * [Galia Benartzi](galia_benartzi.md)
 * [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
+* [Gnasher](gnasher.md)  
 * [Guy Benartzi](guy_benartzi.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
@@ -71,6 +72,7 @@
 * [Joey Krug](joey_krug.md)
 * [Jordan Smith](jordan_smith.md)
 * [Johathan Baha'i](jonathan_bahai.md)
+* [Jonathan Patenaude](jonathan_patenaude.md) 
 * [Jonathan Smith](jonathan_smith.md)
 * [Joseph Lin](neocortex.md)
 * [Joseph Lubin](joseph_lubin.md)
@@ -89,7 +91,9 @@
 * [Kim Jackson](kim_jackson.md)
 * [Kris Hansen](kris_hansen.md)
 ## L
+* [Larry Ren](larry_ren.md) 
 * [Leomc](leomc.md)
+* [Lionzeye](lionzeye.md)
 * [Luke Champine](luke_champine.md)
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
@@ -122,6 +126,8 @@
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)
 ## R
+* [Raid5](raid5.md)  
+* [Reddink](reddink.md)  
 * [Reeve Collins](reeve_collins.md
 * [Reggie Middleton](reggie_middleton.md
 * [Reto Trinkler](reto_trinkler.md)
@@ -152,6 +158,7 @@
 * [Tibor Tarabek](tibor_tarabek.md)
 * [Toby Hoenisch](toby_hoenisch.md)
 * [Tomer Sofinzon](tomer_sofinzon.md)
+* [Tralf](tralf.md)  
 ## U
 * [UtopianFuture](utopianfuture.md)
 * [Ubajaka Chijioke](ubajaka_chijioke.md)

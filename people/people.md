@@ -54,6 +54,7 @@
 * [Filip Radičević](filip_radicevic.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
+* [Gasper Kenda](gasper_kenda.md)
 * [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
 * [Guy Benartzi](guy_benartzi.md)
@@ -91,6 +92,7 @@
 * [Julian Zawistowski](julian_zawistowski.md)
 * [Jun Hasegawa](jun_hasegawa.md)
 * [Juha Kovanen](juha_kovanen.md)
+* [Jure Ristic](jure_ristic.md)
 * [jl777](jl777.md)
 ## K
 * [Kaushal Kumar Singh](kaushal_kumar_singh.md)

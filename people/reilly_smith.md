@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](reilly-smith.jpg)  
+![ photo](photo/reilly-smith.jpg)  
 Name: Reilly Smith  
 Location: USA
 ## Projects 

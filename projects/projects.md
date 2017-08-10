@@ -75,7 +75,7 @@
 ## Q
 * [Qtum](qtum.md)
 ## R
-* [Reddcoin](reddcoim.md)
+* [Reddcoin](reddcoin.md)
 * [Ripple](ripple.md)
 ## S
 * [Sia](sia.md)

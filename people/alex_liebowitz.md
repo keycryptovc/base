@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/alex_liebowitz.png)    
+![ photo](photo/alex-liebowitz.png)    
 Name: Alex Liebowitz  
 Location: USA  
 ## Projects 

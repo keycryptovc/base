@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/jack_robison.jpg)  
+![ photo](photo/jack-robison.jpg)  
 Name: Jack Robinson    
 Location: USA  
 ## Projects 

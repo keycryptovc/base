@@ -64,6 +64,7 @@
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
 * [Jani Valjavec](jani_valjavec.md)
 * [Jarrad Hope](jarrad_hope.md)
+* [Jared Tate](jared_tate.md)
 * [Jason Colby](jason_colby.md)
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)

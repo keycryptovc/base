@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/zack_coburn.jpg)  
+![ photo](photo/zack_coburn.png)  
 Name: Zack Coburn  
 Location: USA  
 ## Projects 

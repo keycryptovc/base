@@ -1,5 +1,5 @@
 ## Personal data 
-Name: Larry Ren "Laudney" 
+Name: Larry Ren "Laudney"  
 Location: UK
 ## Projects 
 Name: [Reddcoin](../projects/reddcoin.md)  

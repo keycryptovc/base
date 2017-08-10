@@ -7,6 +7,7 @@
 * [Alex Fork](alex_fork.md)
 * [Alex Sterk](alex_sterk.md)
 * [Andrzej Regulski](andrzej_regulski.md)
+* [Anik Dang](anik_dang.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Anton Golub](anton_golub.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
@@ -81,6 +82,7 @@
 * [Jeremy Rand](jeremy_rand.md)
 * [Joel Yaffe](mr_jones.md)
 * [Joey Krug](joey_krug.md)
+* [Joe Zhou](joe_zhou.md)
 * [Jordan Smith](jordan_smith.md)
 * [Johathan Baha'i](jonathan_bahai.md)
 * [Jonathan Patenaude](jonathan_patenaude.md) 
@@ -112,6 +114,7 @@
 * [Luis Cuende](luis_cuende.md)
 ## M
 * [Marshall Hayner](marshall_hayner.md)
+* [Marco Cuesta](marko_cuesta.md)
 * [Martin Allien](martin_allien.md)
 * [Martin Köppelmann](martin_koppelmann.md)
 * [Matej Michalko](matej_michalko.md)
@@ -194,4 +197,5 @@
 * [Yogesh Gaikwad](yogesh_gaikwad.md)
 ## Z
 * [Zach Lebeau](zach_lebeau.md)
+* [Zack Coburn](zack_coburn.md)
 * [Zooko Wilcox](zooko_wilcox.md)

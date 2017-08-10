@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/anik_dang.jpg)  
+![ photo](photo/anik_dang.png)  
 Name: Anik Dang  
 Location: USA
 ## Projects 

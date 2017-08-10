@@ -71,6 +71,7 @@
 * [Particl](particl.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
+* [PIVX](pivx.md)
 * [Populous](populous.md)
 ## Q
 * [Qtum](qtum.md)

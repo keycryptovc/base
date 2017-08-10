@@ -126,8 +126,7 @@
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)
 ## R
-* [Raid5](raid5.md)  
-* [Reddink](reddink.md)  
+* [Raid5](raid5.md) 
 * [Reeve Collins](reeve_collins.md
 * [Reggie Middleton](reggie_middleton.md
 * [Reto Trinkler](reto_trinkler.md)

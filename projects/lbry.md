@@ -19,9 +19,6 @@ LBRY is the first digital marketplace to be controlled by the market’s partici
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1541268.0)   
 [Facebook](https://www.facebook.com/lbryio/)  
 [Twitter](https://twitter.com/lbryio?lang=en)  
-[Linkedin]()   
-[Official forum]()    
-[Blog]()    
 [Slack](http://slack.lbry.io)  
 [Reddit](https://www.reddit.com/r/lbry/)  
 ## About

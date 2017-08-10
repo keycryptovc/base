@@ -95,6 +95,8 @@
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
 * [vSlice](vslice.md)
+## X
+* [Xaurum](xaurum.md)
 ## W
 * [Waves](wavesplatform.md)
 * [Wings](wings.md)

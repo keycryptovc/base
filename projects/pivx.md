@@ -5,18 +5,19 @@ Name: PIVX - (P)rivate (I)nstant (V)erified Transaction(X)
 Year founded: 2016  
 Currency: [PIVX](https://coinmarketcap.com/currencies/pivx/)  
 ## Staff
-Co-Founder: [s3v3n h4cks](../people/s3v3n_h4cks.md)  
-Co-Founder: [Coin Server](../people/coin_server.md)  
+Co-Founder: ["s3v3n h4cks"](../people/s3v3n_h4cks.md)   
+Co-Founder: [James Kelly "Coin Server"](../people/james_kelly.md)  
 Developer: [Eric Stanek](../people/eric_stanek.md)  
-Developer: [Fuzzbawls](../people/fuzzbawls.md)  
-Developer: [Presstab](../people/presstab.md)  
-Developer: [Rlamasb](../people/rlamasb.md)  
+Developer: ["Fuzzbawls"](../people/fuzzbawls.md)  
+Developer: ["Presstab"](../people/presstab.md)  
+Developer: [Ricardo Lamas "Rlamasb"](../people/ricardo_lamas.md)  
 ## Business Model
 A transactional security and privacy-focused decentralized open source cryptocurrency
 ## Contacts
 [GitHub](https://github.com/PIVX-Project)  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1262920)   
 [Facebook](https://www.facebook.com/PIVXCrypto/)   
+[LinkedIn](https://ru.linkedin.com/company/pivx)  
 [Twitter](https://twitter.com/_pivx)  
 [PIVX Forum](https://forum.pivx.org/)    
 [Blog](https://pivx.org/news/)    

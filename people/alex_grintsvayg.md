@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/alex_grintsvayg.jpg)  
+![ photo](photo/alex-grintsvayg.jpg)  
 Name: Alex Grintsvayg  
 Location: USA  
 ## Projects 

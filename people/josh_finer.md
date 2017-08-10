@@ -1,6 +1,6 @@
 
 ## Personal data
-![ photo](photo/josh_finer.jpg)  
+![ photo](photo/josh-finer.jpg)  
 Name: Josh Finer   
 Location: USA  
 ## Projects 

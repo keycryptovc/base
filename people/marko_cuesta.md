@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](photo/marco_cuesta.jpg)  
-Name: Marko Cuesta  
+Name: Marco Cuesta  
 Location: USA
 ## Projects 
 Name: [FirstBlood](../projects/firstblood.md)  

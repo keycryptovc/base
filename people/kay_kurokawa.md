@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](kay_kurokawa.jpg)  
+![ photo](kay-kurokawa.jpg)  
 Name: Kay Kurokawa  
 Location: USA  
 ## Projects 

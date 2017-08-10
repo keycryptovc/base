@@ -76,6 +76,7 @@
 * [Potcoin](potcoin.md)
 ## Q
 * [Qtum](qtum.md)
+* [Quantum Resistant Ledger](qrl.md)
 ## R
 * [Ripple](ripple.md)
 * [Round](round.md) 

@@ -50,6 +50,8 @@
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Ewan Wagner](ewan_wagner.md)
 * [Eyal Hertzog](eyal_hertzog.md)
+## F
+* [Filip Radičević](filip_radicevic.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
 * [George Hallam](george_hallam.md)
@@ -62,6 +64,7 @@
 * [Ivan Rublev](ivan_rublev.md)
 * [Ivica Simatovic](ivica_simatovic.md)
 ## J
+* [J.P. Lomas](jp_lomas.md)
 * [J.R. Willett](jr_willett.md)
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
@@ -90,6 +93,7 @@
 * [Juha Kovanen](juha_kovanen.md)
 * [jl777](jl777.md)
 ## K
+* [Kaushal Kumar Singh](kaushal_kumar_singh.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Kim Jackson](kim_jackson.md)
 * [Kris Hansen](kris_hansen.md)
@@ -105,6 +109,7 @@
 * [Matej Michalko](matej_michalko.md)
 * [Matej Boda](matej_boda.md)
 * [Max Kordek](max_kordek.md)
+* [Michael Kolenbrander](michael_kolenbrander.md)
 * [Michael Maloney](michael_maloney.md)
 * [Michael Sperk](michael_sperk.md)
 * [Mitchell Cash](mitchell_cash.md)
@@ -124,6 +129,7 @@
 * [Paul Warrunthorn Kittiwongsunthorn](paul_kitti.md)
 * [Patrick Dai](patrick_dai.md)
 * [Peter Kirby](peter_kirby.md)
+* [Peter Waterland](peter_waterland.md)
 * [Phelix](phelix.md)
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)

@@ -9,7 +9,7 @@ Co-Founder: [Ignas Mangevicius](../people/ignas_mangevicius.md)
 Co-Founder: [Tomas Lukosaitis](../people/tomas_lukosaitis.md)  
 Co-Founder: [Tomas Draksas](../people/tomas_draksas.md)
 ## Business Model
-The Ethereum smart contract-based Casino
+The Ethereum smart contract-based Casino.
 ## Contacts
 [GitHub](https://github.com/EdgelessCasino/)  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1718384.0)  

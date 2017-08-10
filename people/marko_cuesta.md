@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/marco_cuesta.png)  
+![ photo](photo/marco_cuesta.jpg)  
 Name: Marko Cuesta  
 Location: USA
 ## Projects 

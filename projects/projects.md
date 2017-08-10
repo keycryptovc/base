@@ -2,6 +2,7 @@
 
 ## A
 * [Aragon](aragon.md)
+* [Ardor](ardor.md)
 * [Augur](augur.md)
 ## B
 * [Bancor](bancor.md)

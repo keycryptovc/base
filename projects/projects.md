@@ -9,6 +9,7 @@
 * [Basic Attention Token](bat.md)
 * [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
+* [BitcoinDark](bitcoindark.md)
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)

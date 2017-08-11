@@ -77,6 +77,7 @@
 * [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
+* [PIVX](pivx.md)
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)
 ## Q

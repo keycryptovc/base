@@ -2,12 +2,14 @@
 
 ## A
 * [Aragon](aragon.md)
+* [Ardor](ardor.md)
 * [Augur](augur.md)
 ## B
 * [Bancor](bancor.md)
 * [Basic Attention Token](bat.md)
 * [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
+* [BitcoinDark](bitcoindark.md)
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)
@@ -24,8 +26,11 @@
 * [Dash](dash.md)  
 * [DECENT](decent.md)
 * [DeCred](decred.md)
+* [DigiByte](digibyte.md)
+* [DigixDAO](digixdao.md)
 * [Dogecoin](dogecoin.md)
 ## E
+* [Edgeless](edgeless.md)
 * [Emercoin](emercoin.md)
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
@@ -34,6 +39,7 @@
 ## F
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)
+* [FirstBlood](firstblood.md)
 ## G
 * [GameCredits](gamecredits.md)
 * [Gnosis](gnosis.md)
@@ -48,6 +54,7 @@
 ## K
 * [Komodo](komodo.md)
 ## L
+* [LBRY](lbry.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [Lykke](lykke.md)
@@ -69,14 +76,21 @@
 * [Omni](omni.md)
 ## P
 * [Particl](particl.md)
+* [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
+* [PIVX](pivx.md)
 * [Populous](populous.md)
+* [Potcoin](potcoin.md)
 ## Q
 * [Qtum](qtum.md)
+* [Quantum Resistant Ledger](qrl.md)
 ## R
+* [Reddcoin](reddcoin.md)
 * [Ripple](ripple.md)
+* [Round](round.md) 
 ## S
+* [ShapeShift](shapeshift.md)
 * [Sia](sia.md)
 * [Sibcoin](sibcoin.md)
 * [SingularDTV](singulardtv.md)
@@ -92,9 +106,12 @@
 ## U
 * [Ubiq](ubiq.md)
 ## V
+* [Verge](verge.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
 * [vSlice](vslice.md)
+## X
+* [Xaurum](xaurum.md)
 ## W
 * [Waves](wavesplatform.md)
 * [Wings](wings.md)

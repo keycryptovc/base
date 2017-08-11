@@ -5,9 +5,9 @@ Name: iExec RLC
 Year founded: 2017 
 Currency: [RLC](https://coinmarketcap.com/assets/rlc/)  
 ## Staff (as much as found)
-Founder [Gilles Fedak](../people/gilles_fedak.md)  
-Cofounder [](../people/*.md)  
-etc.
+CEO, Cofounder: [Gilles Fedak](../people/gilles_fedak.md)  
+Asia Chief Operator, Co-founder: [Haiwu He](../people/haiwu_he.md)  
+CTO: [Oleg Lodygensky](../people/oleg_lodygensky.md) 
 ## Business Model
 iEx.ec is inventing the internet of the future by developing the first Blockchain-based, fully distributed cloud computing platform. It's White Paper offers a detailed description of iEx.ec’s vision, the market, development roadmap and the upcoming token launch.
 ## Contacts

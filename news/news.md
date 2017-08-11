@@ -1,4 +1,6 @@
 # News
+## 10 August 2017
+* [Waves' New CFO announcement](waves_10-08-17.md)
 ## 09 August 2017
 ### Ripple
 [WORLDLINK joins Ripple’s XRP ledger](ripple_09-08-17.md)

@@ -10,6 +10,7 @@
 * [Alex Sterk](alex_sterk.md)
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anik Dang](anik_dang.md)
+* [Anthony Eufemio](anthony_eufemio.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Anton Golub](anton_golub.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 

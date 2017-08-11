@@ -27,6 +27,7 @@
 * [DECENT](decent.md)
 * [DeCred](decred.md)
 * [DigiByte](digibyte.md)
+* [DigixDAO](digixdao.md)
 * [Dogecoin](dogecoin.md)
 ## E
 * [Edgeless](edgeless.md)

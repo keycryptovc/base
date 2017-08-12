@@ -31,6 +31,7 @@
 * [DigixDAO](digixdao.md)
 * [Dogecoin](dogecoin.md)
 ## E
+* [E-Dinar](e-dinar.md)
 * [Edgeless](edgeless.md)
 * [Emercoin](emercoin.md)
 * [EOS](eos.md)

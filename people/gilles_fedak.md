@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/gilles_fedak.jpg)  
+![ photo](photo/gilles-fedak.jpg)  
 Name: Gilles Fedak  
 Location: France  
 ## Projects 

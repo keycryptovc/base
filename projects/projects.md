@@ -56,6 +56,7 @@
 * [Komodo](komodo.md)
 ## L
 * [LBRY](lbry.md)
+* [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [Lykke](lykke.md)

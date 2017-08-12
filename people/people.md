@@ -15,6 +15,7 @@
 * [Anton Golub](anton_golub.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
 * [Amjuarez](amjuarez.md)  
+* [Atif Kamran](atif_kamran.md)
 ## B
 * [BCNext](bcnext.md)
 * [Billy Markus](billy_markus.md)
@@ -34,6 +35,7 @@
 * [Craig Sellars](craig_sellars.md)     
 ## D
 * [Da Hongfei](da_hongfei.md)
+* [Dan Andersson](dan_andersson.md)
 * [Dan Metcalf](dan_metcalf.md)
 * [Daniel Harrison](daniel_harrison.md)
 * [Daniel Kraft (domob)](daniel_kraft.md)

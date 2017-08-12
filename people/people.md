@@ -94,7 +94,9 @@
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)
 * [Jeremy Kauffman](jeremy_kauffman.md)
+* [Jeremy Longley](jeremy_longley.md)
 * [Jeremy Rand](jeremy_rand.md)
+* [Jez San](jez_san.md)
 * [Joel Yaffe](mr_jones.md)
 * [Joey Krug](joey_krug.md)
 * [Joe Zhou](joe_zhou.md)
@@ -152,6 +154,7 @@
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oliver Beddows](oliver_beddows.md)
+* [Oliver Hopton](oliver_hopton.md)
 ## P
 * [Pacific_Skyline](pacific_skyline.md)
 * [Paul Warrunthorn Kittiwongsunthorn](paul_kitti.md)

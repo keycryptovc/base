@@ -42,6 +42,7 @@
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)
 * [FirstBlood](firstblood.md)
+* [FunFair](funfair.md)
 ## G
 * [GameCredits](gamecredits.md)
 * [Gnosis](gnosis.md)

@@ -8,6 +8,7 @@
 * [Alex Fork](alex_fork.md)
 * [Alex Liebowitz](alex_liebowitz.md)
 * [Alex Sterk](alex_sterk.md)
+* [Amit Bhardwaj](amit_bhardwaj.md)  
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anik Dang](anik_dang.md)
 * [Anthony Eufemio](anthony_eufemio.md)
@@ -107,6 +108,7 @@
 * [Jonathan Smith](jonathan_smith.md)
 * [Joseph Lin](neocortex.md)
 * [Joseph Lubin](joseph_lubin.md)
+* [Joseph Pleso](joseph_pleso.md)
 * [Josh Finer](josh_finer.md)
 * [Joshua Hawley](joshua_hawley.md)
 * [Joyce Kim](joyce_kim.md)
@@ -185,6 +187,7 @@
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  
 * [Sasha Ivanov](sasha_ivanov.md)
+* [Sahil Baghla](sahil_baghla.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
 * [Sebastien Dimichele](sebastien_dimichele.md)
 * [Sergey Ivliev](sergey_ivliev.md)

@@ -31,6 +31,7 @@
 ## C
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)
+* [Chin Song](chin_song.md)
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md) 
 * [Chris Marsh](chris_marsh.md)
@@ -59,12 +60,14 @@
 * [Enda Crowley](enda_crowley.md)
 * [Enric Duran](enric_duran.md)
 * [Eric Stanek](eric_stanek.md)
+* [Dr. Eric Kunz](eric_kunz.md)
 * [Erik Voorhees](erik_voorhees.md)
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Ewan Wagner](ewan_wagner.md)
 * [Eyal Hertzog](eyal_hertzog.md)
 ## F
 * [Filip Radičević](filip_radicevic.md)
+* [François-Xavier Thoorens](xavier_thoorens.md)
 * [Fuzzbawls](fuzzbawls.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
@@ -128,7 +131,8 @@
 * [Kim Jackson](kim_jackson.md)
 * [Kris Hansen](kris_hansen.md)
 ## L
-* [Larry Ren](larry_ren.md) 
+* [Larry Ren](larry_ren.md)
+* [Lars Rensing](lars_rensing.md)
 * [Leomc](leomc.md)
 * [Lionzeye](lionzeye.md)
 * [Luke Champine](luke_champine.md)
@@ -145,6 +149,7 @@
 * [Michael Kolenbrander](michael_kolenbrander.md)
 * [Michael Maloney](michael_maloney.md)
 * [Michael Sperk](michael_sperk.md)
+* [Mike Doty](mike_doty.md)
 * [Mitchell Cash](mitchell_cash.md)
 * [Mona El Isa](mona_el_isa.md)
 * [Montag](montag.md)

@@ -1,4 +1,6 @@
 # News
+## 11 August 2017
+* [OmiseGo will be became the first project on Plasma.io](omisego_11-08-17.md)
 ## 10 August 2017
 * [Waves' New CFO announcement](waves_10-08-17.md)
 ## 09 August 2017

@@ -155,11 +155,13 @@
 * [Phelix](phelix.md)
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)
-* [Presstab](presstab.md)  
+* [Presstab](presstab.md)
+## Q
+* [Qingfeng Shan](qingfeng_shan.md)
 ## R
 * [Raid5](raid5.md) 
-* [Reeve Collins](reeve_collins.md
-* [Reggie Middleton](reggie_middleton.md
+* [Reeve Collins](reeve_collins.md)
+* [Reggie Middleton](reggie_middleton.md)
 * [Reilly Smith](reilly_smith.md)
 * [Reto Trinkler](reto_trinkler.md)
 * [Ricardo Lamas "Rlamasb"](ricardo_lamas.md) 

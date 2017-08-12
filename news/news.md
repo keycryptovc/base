@@ -2,6 +2,7 @@
 ## 11 August 2017
 * [OmiseGo will be became the first project on Plasma.io](omisego_11-08-17.md)
 ## 10 August 2017
+* [NEM to Build Relationship with Blockchain Global](nem-10.08.17.md)
 * [IOTA Climbs Top Charts](iota_10-08-17.md)
 * [Four Lessons of the First Day of SegWit Implementation for Bitcoin](bitcoin_10-08-17.md)
 * [Waves' New CFO announcement](waves_10-08-17.md)

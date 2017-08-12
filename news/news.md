@@ -3,6 +3,7 @@
 ## 11 August 2017
 * [Lykke introduced ICO Platform](lykke_11-08-17.md)
 * [OmiseGo will be became the first project on Plasma.io](omisego_11-08-17.md)
+* [TenX plans to cancel rewards for PAY tokens stored on the exchanges](tenx_11-08-17.md)
 ## 10 August 2017
 * [Stratis to Upgrade Security Protocol with Breeze Implementation for TumbleBit](stratis_10-08-17.md)
 * [NEM to Build Relationship with Blockchain Global](nem-10.08.17.md)

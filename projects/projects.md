@@ -73,6 +73,7 @@
 * [Namecoin](namecoin.md)
 * [NEM](nem.md)
 * [NEO](neo.md)
+* [Nexus](nexus.md)
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O

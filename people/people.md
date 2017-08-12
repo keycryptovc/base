@@ -34,6 +34,7 @@
 * [Chris Larsen](chris_larsen.md) 
 * [Chris Marsh](chris_marsh.md)
 * [Colin Adley](colin_adley.md)
+* [Colin Cantrell](colin_cantrell.md)
 * [Craig Sellars](craig_sellars.md)     
 ## D
 * [Da Hongfei](da_hongfei.md)

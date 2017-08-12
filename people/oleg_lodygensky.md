@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/oleg_lodygensky.jpg)  
+![ photo](photo/oleg_lodygensky.png)  
 Name: Oleg Lodygensky    
 Location: France
 ## Projects 

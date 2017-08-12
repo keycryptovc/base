@@ -3,7 +3,12 @@
 * [Two marketplaces started accepting Monero.](bitcoin_cash_11-08-17.md)
 * [Poland-based exchange BitBay is set to launch a trading platform in India wich will Monero.](dash_11-08-17.md)
 * [CryptoGroup is promoting Dash in Ukraine retail sphere.](monero_11-08-17.md)
+* [OmiseGo will be became the first project on Plasma.io](omisego_11-08-17.md)
 ## 10 August 2017
+* [Stratis to Upgrade Security Protocol with Breeze Implementation for TumbleBit](stratis_10-08-17.md)
+* [NEM to Build Relationship with Blockchain Global](nem-10.08.17.md)
+* [IOTA Climbs Top Charts](iota_10-08-17.md)
+* [Four Lessons of the First Day of SegWit Implementation for Bitcoin](bitcoin_10-08-17.md)
 * [Waves' New CFO announcement](waves_10-08-17.md)
 ## 09 August 2017
 ### Ripple
@@ -18,7 +23,8 @@
 * [President of NEM Foundation, talks about the XEM cryptocurrency global expansion and more.](nem_09-08-17.md)
 ### IOTA
 * [IOTA Foundation Helps to Unite Refugees Families](iota_09-08-17.md)
+## 08 August 2017
+* [Overstock.com allows cryptocurrencies as payment method through partnership with ShapeShift](shapeshift_08-08-17.md)
 * [NEO reported about completion of rebranding and announced new partners](neo_09-08-17.md)
 ## 07 August 2017
-* [Ethereum](ethereum_07-08-17.md)
-
+* [Bitfinex had announced Ethfinex](ethereum_07-08-17.md)

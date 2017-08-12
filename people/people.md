@@ -8,6 +8,7 @@
 * [Alex Fork](alex_fork.md)
 * [Alex Liebowitz](alex_liebowitz.md)
 * [Alex Sterk](alex_sterk.md)
+* [Amit Bhardwaj](amit_bhardwaj.md)  
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anik Dang](anik_dang.md)
 * [Anthony Eufemio](anthony_eufemio.md)
@@ -15,12 +16,14 @@
 * [Anton Golub](anton_golub.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
 * [Amjuarez](amjuarez.md)  
+* [Atif Kamran](atif_kamran.md)
 ## B
 * [BCNext](bcnext.md)
 * [Billy Markus](billy_markus.md)
 * [bitcoinsrus](bitcoinsrus.md) 
 * [bitdealco](bitdealco.md)  
 * [Boris Povod](boris_povod.md)
+* [Brad Hammerstron](brad_hammerstron.md) 
 * [Brock Pierce](brock_pierce.md)
 * [Brendan Eich](brendan_eich.md)
 * [Brian Bondy](brian_bondy.md)
@@ -30,11 +33,15 @@
 * [Carl Bennetts](carl_bennetts.md)
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md) 
+* [Chris Marsh](chris_marsh.md)
 * [Colin Adley](colin_adley.md)
+* [Colin Cantrell](colin_cantrell.md)
 * [Craig Sellars](craig_sellars.md)     
 ## D
 * [Da Hongfei](da_hongfei.md)
+* [Dan Andersson](dan_andersson.md)
 * [Dan Metcalf](dan_metcalf.md)
+* [Dan Wasyluk](dan_wasyluk.md)
 * [Daniel Harrison](daniel_harrison.md)
 * [Daniel Kraft (domob)](daniel_kraft.md)
 * [Daniel Larimer](daniel_larimer.md)
@@ -79,6 +86,7 @@
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
 * [Jack Robison](jack_robison.md)
+* [Jagdeep Sidhu](jagdeep_sidhu.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
 * [Jani Valjavec](jani_valjavec.md)
 * [James Kelly "Coin Server"](james_kelly.md)  
@@ -88,7 +96,9 @@
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)
 * [Jeremy Kauffman](jeremy_kauffman.md)
+* [Jeremy Longley](jeremy_longley.md)
 * [Jeremy Rand](jeremy_rand.md)
+* [Jez San](jez_san.md)
 * [Joel Yaffe](mr_jones.md)
 * [Joey Krug](joey_krug.md)
 * [Joe Zhou](joe_zhou.md)
@@ -98,6 +108,7 @@
 * [Jonathan Smith](jonathan_smith.md)
 * [Joseph Lin](neocortex.md)
 * [Joseph Lubin](joseph_lubin.md)
+* [Joseph Pleso](joseph_pleso.md)
 * [Josh Finer](josh_finer.md)
 * [Joshua Hawley](joshua_hawley.md)
 * [Joyce Kim](joyce_kim.md)
@@ -146,6 +157,7 @@
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oliver Beddows](oliver_beddows.md)
+* [Oliver Hopton](oliver_hopton.md)
 ## P
 * [Pacific_Skyline](pacific_skyline.md)
 * [Paul Warrunthorn Kittiwongsunthorn](paul_kitti.md)
@@ -155,11 +167,13 @@
 * [Phelix](phelix.md)
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Pierre-Alexis Ciavaldini](pierre_ciavaldini.md)
-* [Presstab](presstab.md)  
+* [Presstab](presstab.md)
+## Q
+* [Qingfeng Shan](qingfeng_shan.md)
 ## R
 * [Raid5](raid5.md) 
-* [Reeve Collins](reeve_collins.md
-* [Reggie Middleton](reggie_middleton.md
+* [Reeve Collins](reeve_collins.md)
+* [Reggie Middleton](reggie_middleton.md)
 * [Reilly Smith](reilly_smith.md)
 * [Reto Trinkler](reto_trinkler.md)
 * [Ricardo Lamas "Rlamasb"](ricardo_lamas.md) 
@@ -173,7 +187,9 @@
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  
 * [Sasha Ivanov](sasha_ivanov.md)
+* [Sahil Baghla](sahil_baghla.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
+* [Sebastien Dimichele](sebastien_dimichele.md)
 * [Sergey Ivliev](sergey_ivliev.md)
 * [Sergey Sholom](sergey_sholom.md)
 * [Seigen](seigen.md)
@@ -204,6 +220,7 @@
 * [Vinny Lingham](vinny_lingham.md) 
 ## W
 * [Wayman Kwan](wayman_kwan.md)
+* [Willy Ko](willy_ko.md)
 ## X
 * [Xander Dunn](xander_dunn.md)
 ## Y

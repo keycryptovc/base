@@ -22,6 +22,7 @@
 * [bitcoinsrus](bitcoinsrus.md) 
 * [bitdealco](bitdealco.md)  
 * [Boris Povod](boris_povod.md)
+* [Brad Hammerstron](brad_hammerstron.md) 
 * [Brock Pierce](brock_pierce.md)
 * [Brendan Eich](brendan_eich.md)
 * [Brian Bondy](brian_bondy.md)
@@ -31,12 +32,14 @@
 * [Carl Bennetts](carl_bennetts.md)
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md) 
+* [Chris Marsh](chris_marsh.md)
 * [Colin Adley](colin_adley.md)
 * [Craig Sellars](craig_sellars.md)     
 ## D
 * [Da Hongfei](da_hongfei.md)
 * [Dan Andersson](dan_andersson.md)
 * [Dan Metcalf](dan_metcalf.md)
+* [Dan Wasyluk](dan_wasyluk.md)
 * [Daniel Harrison](daniel_harrison.md)
 * [Daniel Kraft (domob)](daniel_kraft.md)
 * [Daniel Larimer](daniel_larimer.md)
@@ -81,6 +84,7 @@
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
 * [Jack Robison](jack_robison.md)
+* [Jagdeep Sidhu](jagdeep_sidhu.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
 * [Jani Valjavec](jani_valjavec.md)
 * [James Kelly "Coin Server"](james_kelly.md)  
@@ -178,6 +182,7 @@
 * [s3v3n h4cks](s3v3n_h4cks.md)  
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
+* [Sebastien Dimichele](sebastien_dimichele.md)
 * [Sergey Ivliev](sergey_ivliev.md)
 * [Sergey Sholom](sergey_sholom.md)
 * [Seigen](seigen.md)
@@ -208,6 +213,7 @@
 * [Vinny Lingham](vinny_lingham.md) 
 ## W
 * [Wayman Kwan](wayman_kwan.md)
+* [Willy Ko](willy_ko.md)
 ## X
 * [Xander Dunn](xander_dunn.md)
 ## Y

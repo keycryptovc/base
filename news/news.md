@@ -14,7 +14,8 @@
 * [President of NEM Foundation, talks about the XEM cryptocurrency global expansion and more.](nem_09-08-17.md)
 ### IOTA
 * [IOTA Foundation Helps to Unite Refugees Families](iota_09-08-17.md)
+## 08 August 2017
+* [Overstock.com allows cryptocurrencies as payment method through partnership with ShapeShift](shapeshift_08-08-17.md)
 * [NEO reported about completion of rebranding and announced new partners](neo_09-08-17.md)
 ## 07 August 2017
-* [Ethereum](ethereum_07-08-17.md)
-
+* [Bitfinex had announced Ethfinex](ethereum_07-08-17.md)

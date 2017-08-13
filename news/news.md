@@ -1,6 +1,8 @@
 # News
-
 ## 11 August 2017
+* [Two marketplaces started accepting Monero.](bitcoin_cash_11-08-17.md)
+* [Poland-based exchange BitBay is set to launch a trading platform in India wich will Monero.](dash_11-08-17.md)
+* [CryptoGroup is promoting Dash in Ukraine retail sphere.](monero_11-08-17.md)
 * [Lykke introduced ICO Platform](lykke_11-08-17.md)
 * [OmiseGo will be became the first project on Plasma.io](omisego_11-08-17.md)
 * [TenX plans to cancel rewards for PAY tokens stored on the exchanges](tenx_11-08-17.md)

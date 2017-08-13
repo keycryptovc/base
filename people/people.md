@@ -74,9 +74,11 @@
 * [Gasper Kenda](gasper_kenda.md)
 * [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
+* [Gilles Fedak](gilles_fedak.md)
 * [Gnasher](gnasher.md)  
 * [Guy Benartzi](guy_benartzi.md)
 ## H
+* [Haiwu He](haiwu_he.md)
 * [Hasoshi](hasoshi.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
@@ -161,6 +163,7 @@
 * [Nikolay Taimanov](nikolay_taimanov.md)
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
+* [Oleg Lodygensky](oleg_lodygensky.md)
 * [Oliver Beddows](oliver_beddows.md)
 * [Oliver Hopton](oliver_hopton.md)
 ## P

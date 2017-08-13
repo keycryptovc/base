@@ -53,6 +53,7 @@
 * [Humaniq](humaniq.md)
 ## I
 * [Iconomi](iconomi.md)
+* [iExec RLC](rlc.md)
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## K

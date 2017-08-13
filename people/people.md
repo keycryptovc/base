@@ -16,6 +16,7 @@
 * [Anton Golub](anton_golub.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
 * [Amjuarez](amjuarez.md)  
+* [Asaf Zamir](asaf_zamir.md)
 * [Atif Kamran](atif_kamran.md)
 ## B
 * [BCNext](bcnext.md)
@@ -74,6 +75,7 @@
 * [Gasper Kenda](gasper_kenda.md)
 * [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
+* [Gilad Somjen](gilad_somjen.md)
 * [Gilles Fedak](gilles_fedak.md)
 * [Gnasher](gnasher.md)  
 * [Guy Benartzi](guy_benartzi.md)

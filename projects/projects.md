@@ -36,6 +36,7 @@
 * [E-Dinar](e-dinar.md)
 * [Edgeless](edgeless.md)
 * [Emercoin](emercoin.md)
+* [Enigma Catalyst](enigma_catalyst.md)
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)

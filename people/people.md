@@ -31,6 +31,7 @@
 * [Brian Bondy](brian_bondy.md)
 * [BCNext](bcnext.md)
 ## C
+* [Can Kisagun](can_kisagun.md)
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)
 * [Chin Song](chin_song.md)
@@ -39,6 +40,7 @@
 * [Chris Marsh](chris_marsh.md)
 * [Colin Adley](colin_adley.md)
 * [Colin Cantrell](colin_cantrell.md)
+* [Conner Fromknecht](conner_fromknecht.md)
 * [Craig Sellars](craig_sellars.md)     
 ## D
 * [Da Hongfei](da_hongfei.md)
@@ -82,6 +84,7 @@
 * [Gilles Fedak](gilles_fedak.md)
 * [Gnasher](gnasher.md)  
 * [Guy Benartzi](guy_benartzi.md)
+* [Guy Zyskind](guy_zyskind.md)  
 ## H
 * [Haiwu He](haiwu_he.md)
 * [Hasoshi](hasoshi.md)
@@ -223,12 +226,14 @@
 * [Tomas Draksas](tomas_draksas.md)
 * [Tomas Lukosaitis](tomas_lukosaitis.md)
 * [Tomer Sofinzon](tomer_sofinzon.md)
+* [Tor Bair ](tor_bair.md) 
 * [Tralf](tralf.md)  
 ## U
 * [UtopianFuture](utopianfuture.md)
 * [Ubajaka Chijioke](ubajaka_chijioke.md)
 * [Ullo](ullo.md)
 ## V
+* [Victor Grau Serrat](victor_grau_serrat.md)
 * [vinced](vinced.md)  
 * [Vitor Py](vitor_py.md)
 * [Vinny Lingham](vinny_lingham.md) 

@@ -13,6 +13,9 @@
 * [Four Lessons of the First Day of SegWit Implementation for Bitcoin](bitcoin_10-08-17.md)
 * [Waves' New CFO announcement](waves_10-08-17.md)
 ## 09 August 2017
+### Ethereum classic
+* [ A command line interface client Mantis released for the ETC community](ethereum_classic_09-08-17.md)
+* [BCC eases mining difficulty, but BTC is still more profitable. Major retailer now accepts BCC.](bitcoin_cash_09-08-17.md)
 ### Ripple
 * [WORLDLINK joins Ripple’s XRP ledger](ripple_09-08-17.md)
 ### Bitcoin

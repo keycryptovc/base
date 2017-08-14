@@ -1,5 +1,5 @@
 ## Overview
-![logo](../projects/logo/*.png)  
+![logo](../projects/logo/fluence.png)  
 Name: Fluence  
 [Website](https://fluence.ai/)  
 Year founded: 2017   

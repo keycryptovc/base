@@ -1,7 +1,7 @@
 ## Step-by-Step Guide
 1. Fork [this](https://github.com/keycryptovc/base) repository. In case you have forked [repository](https://github.com/keycryptovc/base) already, please update your fork before adding new projects. To keep repository up to date you could use [Upriver tool](https://upriver.github.io/)
-2. Choose project from current issues without comments [Issue](https://github.com/keycryptovc/base/issues) and comment it as "taken" (to indicaete that you are working on this project) 
-OR
+2. Choose project from current issues without comments [Issue](https://github.com/keycryptovc/base/issues) and comment it as "taken" (to indicaete that you are working on this project)   
+OR   
 If you are adding new project, which is not present in issues:
  Create [Issue](https://github.com/keycryptovc/base/issues) with name of your project. Create branch in your forked repository 
 3. Gather and analyze info about project, fill [project template](project_template.md), save as "yourproject.md" in created branch 

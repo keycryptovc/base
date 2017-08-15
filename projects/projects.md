@@ -32,6 +32,7 @@
 * [DeCred](decred.md)
 * [DigiByte](digibyte.md)
 * [DigixDAO](digixdao.md)
+* [DMarket](dmarket.md)
 * [Dogecoin](dogecoin.md)
 ## E
 * [E-Dinar](e-dinar.md)

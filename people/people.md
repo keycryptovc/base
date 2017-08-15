@@ -15,6 +15,7 @@
 * [Anthony Eufemio](anthony_eufemio.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Anton Golub](anton_golub.md)
+* [Ari Meilich](ari_meilich.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
 * [Amjuarez](amjuarez.md)  
 * [Asaf Zamir](asaf_zamir.md)
@@ -67,6 +68,7 @@
 * [Eric Stanek](eric_stanek.md)
 * [Dr. Eric Kunz](eric_kunz.md)
 * [Erik Voorhees](erik_voorhees.md)
+* [Esteban Ordano](esteban_ordano.md)
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Evgeny Ponomarev](evgeny_ponomarev.md)
 * [Ewan Wagner](ewan_wagner.md)
@@ -150,6 +152,7 @@
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
 ## M
+* [Manuel Araoz](manuel_araoz.md)
 * [Marshall Hayner](marshall_hayner.md)
 * [Marco Cuesta](marko_cuesta.md)
 * [Martin Allien](martin_allien.md)
@@ -247,6 +250,7 @@
 * [Xander Dunn](xander_dunn.md)
 ## Y
 * [Yan Zhu](yan_zhu.md) 
+* [Yemel Jardi](yemel_jardi.md)
 * [Yggdrasil](yggdrasil.md)
 * [Yogesh Gaikwad](yogesh_gaikwad.md)
 ## Z

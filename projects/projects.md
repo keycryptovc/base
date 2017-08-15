@@ -28,6 +28,7 @@
 ## D
 * [Dash](dash.md)  
 * [DECENT](decent.md)
+* [Decentraland](decentraland.md)
 * [DeCred](decred.md)
 * [DigiByte](digibyte.md)
 * [DigixDAO](digixdao.md)

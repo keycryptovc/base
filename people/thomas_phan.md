@@ -1,5 +1,4 @@
-## Personal data
-![ Thomas Phan photo](photo/thomas_phan.jpg)    
+## Personal data    
 Name: Thomas Phan  
 Location: USA  
 ## Projects 

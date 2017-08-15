@@ -11,7 +11,7 @@ Co-founder & CTO: [Thomas Phan](../people/thomas_phan.md)
 CMO China: [H.L. Lu](../people/h.l._lu.md)  
 ## Business Model
 SmartRE is a highly secured, decentralized and democratized platform
-whereby US homeowners can liquidated a percentage of their equity in their
+whereby US homeowners can liquidate a percentage of their equity in their
 homes without accruing debt of any kind. For buyers, the attraction is the ability
 to own a piece of the American dream and its associated growth, especially in
 high-demand geographies, without the headaches of property management and

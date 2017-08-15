@@ -26,6 +26,7 @@
 * [CoEval](coeval.md)
 * [Counterparty](counterparty.md)
 ## D
+* [Daseron](daseron.md)
 * [Dash](dash.md)  
 * [DECENT](decent.md)
 * [Decentraland](decentraland.md)

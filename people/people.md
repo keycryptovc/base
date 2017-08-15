@@ -70,6 +70,7 @@
 * [Eric Stanek](eric_stanek.md)
 * [Dr. Eric Kunz](eric_kunz.md)
 * [Erik Voorhees](erik_voorhees.md)
+* [Erlan Akmatov](erlan_akmatov.md)
 * [Esteban Ordano](esteban_ordano.md)
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Evgeny Ponomarev](evgeny_ponomarev.md)
@@ -176,6 +177,7 @@
 * [Neil Mahi](neil_mahi.md)
 * [Nick Iversen](nick_iversen.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
+* [Nursultan Aliev](nursultan_aliev.md)
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oleg Lodygensky](oleg_lodygensky.md)

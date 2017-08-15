@@ -69,6 +69,7 @@
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
+* [Luxico](luxico.md)
 * [Lykke](lykke.md)
 ## M
 * [MaidSafe](maidsafe.md)

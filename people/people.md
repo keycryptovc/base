@@ -58,6 +58,7 @@
 * [David Siegel](david_siegel.md)
 * [David Vorick](david_vorick.md)
 * [David Zimbeck](david_zimbeck.md)
+* [Denis Belousov](denis_belousov.md)
 * [Dmitry Kurinskiy](dmitry_kurinskiy.md)
 * [Dogedarkdev](dogedarkdev.md)
 * [Dominik Z](dominik_z.md)  
@@ -73,6 +74,7 @@
 * [Erlan Akmatov](erlan_akmatov.md)
 * [Esteban Ordano](esteban_ordano.md)
 * [Eugene Shumilov](eugene_shumilov.md)
+* [Evgeny Andreev](evgeny_andreev.md)
 * [Evgeny Ponomarev](evgeny_ponomarev.md)
 * [Ewan Wagner](ewan_wagner.md)
 * [Eyal Hertzog](eyal_hertzog.md)
@@ -96,6 +98,7 @@
 ## I
 * [Ido Kaiser](ido_kaiser.md)
 * [Ignas Mangevicius](ignas_mangevicius.md)
+* [Ilya Mikheev](ilya_mikheev.md)
 * [Ivan Rublev](ivan_rublev.md)
 * [Ivica Simatovic](ivica_simatovic.md)
 ## J
@@ -145,6 +148,7 @@
 * [Kaushal Kumar Singh](kaushal_kumar_singh.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Kim Jackson](kim_jackson.md)
+* [Kirill Zhitnikov](kirill_zhitnikov.md)
 * [Kris Hansen](kris_hansen.md)
 ## L
 * [Larry Ren](larry_ren.md)

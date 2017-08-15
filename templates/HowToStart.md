@@ -11,8 +11,7 @@ If you are adding new project, which is not present in issues:
 6. Create file(s) with key persons from your project, using [people template](people_template.md), save as "firstname_lastname.md"(save person photo in /people/photo - size 200x200)
 7. Add your person(s) files to people folder
 8. Add key persons to [people.md](../people/people.md)
-9. Link persons with their projects
-10. Delete your project from [project_list.md](../templates/project_list.md) 
+9. Check links in added project and people
 11. Create pull request for your branch
-12. After your PR accepted close project issue  
+12. After your PR accepted comment project issue with number of PR (example: #325)  
  

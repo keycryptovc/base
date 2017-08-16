@@ -1,5 +1,5 @@
 #  List of People
-
+   
 ## A
 * [Adam Krellenstein](adam_krellenstein.md)
 * [Adam Matlack](adam_matlack.md)
@@ -191,6 +191,7 @@
 * [Pacific_Skyline](pacific_skyline.md)
 * [Paul Warrunthorn Kittiwongsunthorn](paul_kitti.md)
 * [Patrick Dai](patrick_dai.md)
+* [Peter Godbolt](peter_godbolt.md)
 * [Peter Kirby](peter_kirby.md)
 * [Peter Waterland](peter_waterland.md)
 * [Phelix](phelix.md)
@@ -206,11 +207,13 @@
 * [Reilly Smith](reilly_smith.md)
 * [Reto Trinkler](reto_trinkler.md)
 * [Ricardo Lamas "Rlamasb"](ricardo_lamas.md) 
+* [Richard Farrelly](richard_farrelly.md) 
 * [Richard Nelson](richard_nelson.md)
 * [Richard Olsen](richard_olsen.md)
 * [Richard Craib](richard_craib.md)
 * [Rijk Plasman](rijk_plasman.md)
 * [Robby Dermody](robby_dermody.md)
+* [Rob Wilson](rob_wilson.md)
 * [romanornr](romanornr.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
@@ -231,6 +234,7 @@
 * [Steve Nico Williams](steve_williams.md)
 * [Susanne Tempelhof](susanne_tempelhof.md)
 ## T
+* [Tara Kemp](tara_kemp.md)
 * [Tecnovert](tecnovert.md)
 * [Thomas König](thomas_konig.md)
 * [Thomas Le](thomas_le.md)

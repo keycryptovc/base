@@ -2,7 +2,7 @@
 ![ logo](../projects/logo/spankstream.png)  
 Name: Spankstream    
 [Website](http://ico.spankstream.com)  
-Year founded: 2017  
+Year founded: 2016  
 Currency: Spank coin SPNK 
 ## Staff
 Co-founder: [Jason Rogue](../people/jason_rogue.md)  

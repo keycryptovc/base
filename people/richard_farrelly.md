@@ -1,6 +1,6 @@
 ## Personal data
   
-Name:  Richard Farrelly
+Name:  Richard Farrelly  
 Location: Sydney, Australia 
 ## Projects 
 Name: [Incent](../projects/incent.md)  

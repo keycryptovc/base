@@ -1,10 +1,10 @@
 ## Personal data
 ![Rob Wilson photo](../people/photo/rob_wilson.jpg)  
-Name:  Rob Wilson
+Name:  Rob Wilson  
 Location: Sydney, Australia
 ## Projects 
 Name: [Incent](../projects/incent.md)  
-Position: Co-founder & CEO
+Position: Co-founder & CEO  
 Name: [BitScan](https://bitscan.com/)  
 Position: Co-Founder & CEO
 

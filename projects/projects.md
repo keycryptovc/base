@@ -15,6 +15,7 @@
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)
+* [BitDice](bitdice.md)
 * [BitShares](bitshares.md)
 * [Blocknet](blocknet.md)
 * [Byteball](byteball.md)

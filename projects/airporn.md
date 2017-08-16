@@ -2,7 +2,7 @@
 ![ logo](../projects/logo/airporn.png)  
 Name: Airporn  
 [Website](https://airporn.io)  
-Year founded:  2017
+Year founded:  2017  
 Currency: XXX  
 ## Staff (as much as found)
 NO INFO YET
@@ -14,6 +14,6 @@ The world’s first anonymous and decentralized adult entertainment video stream
 [Slack](https://hidden-depths-95989.herokuapp.com)  
 [Reddit](https://www.reddit.com/r/icocrypto/comments/6tf8lg/airporn_ico_xxx_token_sale_starting_in_10_hours/)  
 ## About
-[White Paper](https://medium.com/@airpornio/airporn-platform-whitepaper-b0af936d582e?1)
-ICO start: August 14th 2017
-ICO end: November 14th 2017
+[White Paper](https://medium.com/@airpornio/airporn-platform-whitepaper-b0af936d582e?1)  
+ICO start: August 14th 2017  
+ICO end: November 14th 2017  

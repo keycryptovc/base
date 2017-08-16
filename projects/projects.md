@@ -26,11 +26,14 @@
 * [CoEval](coeval.md)
 * [Counterparty](counterparty.md)
 ## D
+* [Daseron](daseron.md)
 * [Dash](dash.md)  
 * [DECENT](decent.md)
+* [Decentraland](decentraland.md)
 * [DeCred](decred.md)
 * [DigiByte](digibyte.md)
 * [DigixDAO](digixdao.md)
+* [DMarket](dmarket.md)
 * [Dogecoin](dogecoin.md)
 ## E
 * [E-Dinar](e-dinar.md)
@@ -66,6 +69,7 @@
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
+* [Luxico](luxico.md)
 * [Lykke](lykke.md)
 ## M
 * [MaidSafe](maidsafe.md)
@@ -119,6 +123,7 @@
 ## U
 * [Ubiq](ubiq.md)
 ## V
+* [Veredictum](veredictum.md)  
 * [Verge](verge.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)

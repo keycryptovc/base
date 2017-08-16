@@ -1,4 +1,7 @@
 # News
+## 14 August 2017
+* [BAT Global Community Expansion](bat_14-08-08.md)
+* [ATMChain adopted DECENT's technology](decent_14-08-08.md)
 ## 11 August 2017
 * [Two marketplaces started accepting Monero.](bitcoin_cash_11-08-17.md)
 * [Poland-based exchange BitBay is set to launch a trading platform in India wich will Monero.](dash_11-08-17.md)

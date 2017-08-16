@@ -9,17 +9,17 @@ ICO: Q4 2017
 ## Staff
 CEO: [Gabil Tagiev](../people/gabil_tagiev.md)  
 CTO: [Arthur Pinchuk](../people/arthur_pinchuk.md)   
-Product development: [Dmitry Korzhik](../people/dmitry_korzhik.md)  
-COO: [Alexander Shuhayeu](../people/Alexander_Shuhayeu.md)  
-Head of communications: [Viktor Kryukov](../people/viktor_kryukov.md)  
-Marketing: [Anton Kraminkin](../people/anton_kraminkin.md)   
-Community management: [Sergei Logvin](../people/sergei_logvin.md)  
-CAO: [Dmitry Konopelko](../people/dmitry_konopelko.md) 
+Product developer: [Dmitry Korzhik](../people/dmitry_korzhik.md)  
+COO: [Alexander Shuhayeu](../people/alexander_shuhayeu.md)  
+Head of communications: [Viktar Krukau](../people/viktar_krukau.md)  
+Marketing Lead: [Anton Kraminkin](../people/anton_kraminkin.md)   
+Community manager: [Sergei Logvin](../people/sergei_logvin.md)  
+CAO: [Dmitry Konopelko](../people/dmitry_konopelko.md)  
 Ux/Ui Designer: [Nikita Lobushkin](../people/nikita_lobushkin.md)  
 Ui Designer: [Vika Kravets](../people/vika_kravets.md)   
 Blockchain developer: [Aleksandr Naumenok](../people/aleksandr_naumenok.md)  
-Blockchain developer: [Sergey Demiashev](../people/sergey_femiashev.md)  
-Web Development: [Artem Malofeevsky](../people/artem_malofeevsky.md)  
+Blockchain developer: [Sergey Demiashev](../people/sergey_demiashev.md)  
+Web Developer: [Artem Malofeevsky](../people/artem_malofeevsky.md)  
 ## Business Model
 RocketICO is a decentralized accelerator (built on the Solidity DAO framework) for projects that plan to raise funds in cryptocurrency by means of an ICO.  
 Primary objectives of the Platform:  

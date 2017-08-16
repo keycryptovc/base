@@ -1,6 +1,6 @@
 ## Overview
 ![Incent logo](../projects/logo/incent.png)  
-Name Incent
+Name Incent  
 [Website](http://www.incentloyalty.com/)  
 Year founded:  2016
 Currency:  token [INCNT](https://coinmarketcap.com/assets/incent/)  

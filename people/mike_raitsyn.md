@@ -4,7 +4,7 @@ Name: Mike Raitsyn
 Location: UK
 ## Projects 
 Name: [ICOS](../projects/icos.md)  
-Position: Founder & CEO
+Position: Co-founder & CEO
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/mike-raitsyn-05b5b9b4/)     
 [Facebook](https://www.facebook.com/michael.rajtsin)    

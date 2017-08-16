@@ -10,6 +10,7 @@
 * [Alex Sterk](alex_sterk.md)
 * [Alexander Demidko](alexander_demidko.md)
 * [Alexander Kokhanovskyy](alexander_kokhanovskyy.md)
+* [Alexander Siria](alexander_siria.md)
 * [Amit Bhardwaj](amit_bhardwaj.md)
 * [Andriy Khavryuchenko](andriy_khavryuchenko.md)
 * [Andrzej Regulski](andrzej_regulski.md)
@@ -251,6 +252,7 @@
 * [Victor Grau Serrat](victor_grau_serrat.md)
 * [vinced](vinced.md)  
 * [Vitor Py](vitor_py.md)
+* [Vladislav Turiashvili](vladislav_turiashvili.md)
 * [Vinny Lingham](vinny_lingham.md) 
 * [Volodymyr Panchenko](volodymyr_panchenko.md)
 ## W

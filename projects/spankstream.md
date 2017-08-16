@@ -5,8 +5,8 @@ Name: Spankstream
 Year founded: 2017  
 Currency: Spank coin SPNK 
 ## Staff
-Founder [Jason Rogue](../people/jason_rogue.md)  
-Cofounder [Jasmine Sky](../people/jasmine_sky.md)  
+Co-founder: [Jason Rogue](../people/jason_rogue.md)  
+Co-founder: [Jasmine Sky](../people/jasmine_sky.md)  
 ## Business Model
 Spank Coin will give holders producer credits and an income stream from video sales and memberships on SpankStream.com. The site is also gearing up to launch a live streaming webcam service on the site with SPNK token holders will also enjoy profits on.
 ## Contacts    

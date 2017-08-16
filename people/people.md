@@ -20,6 +20,7 @@
 * [Ari Meilich](ari_meilich.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
 * [Amjuarez](amjuarez.md)  
+* [Anar Babaev](anar_babaev.md)
 * [Asaf Zamir](asaf_zamir.md)
 * [Atif Kamran](atif_kamran.md)
 ## B
@@ -59,6 +60,7 @@
 * [David Vorick](david_vorick.md)
 * [David Zimbeck](david_zimbeck.md)
 * [Denis Belousov](denis_belousov.md)
+* [Dmitry Khovratovich](dmitry_khovratovich.md)
 * [Dmitry Kurinskiy](dmitry_kurinskiy.md)
 * [Dogedarkdev](dogedarkdev.md)
 * [Dominik Z](dominik_z.md)  
@@ -172,6 +174,7 @@
 * [Michael Maloney](michael_maloney.md)
 * [Michael Sperk](michael_sperk.md)
 * [Mike Doty](mike_doty.md)
+* [Mike Raitsyn](mike_raitsyn.md)
 * [Mitchell Cash](mitchell_cash.md)
 * [Mona El Isa](mona_el_isa.md)
 * [Montag](montag.md)
@@ -179,6 +182,7 @@
 ## N
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
+* [Nick Evdokimov](nick_evdokimov.md)
 * [Nick Iversen](nick_iversen.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
 * [Nursultan Aliev](nursultan_aliev.md)

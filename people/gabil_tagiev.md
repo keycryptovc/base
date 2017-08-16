@@ -1,5 +1,5 @@
 ## Personal data
-![photo](phoro/gabil_tagiev.png)  
+![photo](photo/gabil_tagiev.png)  
 Name: Gabil Tagiev  
 Location: Russian Federation
 ## Projects 

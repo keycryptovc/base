@@ -4,7 +4,7 @@ Name: Nick Evdokimov
 Location: USA
 ## Projects 
 Name: [ICOS](../projects/icos.md)  
-Position: Founder & Vision Director
+Position: Co-founder & Vision Director
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/nick-evdokimov-ba5635a7/)     
 [Facebook](https://www.facebook.com/neopult)    

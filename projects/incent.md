@@ -2,7 +2,7 @@
 ![Incent logo](../projects/logo/incent.png)  
 Name Incent  
 [Website](http://www.incentloyalty.com/)  
-Year founded:  2016
+Year founded:  2016   
 Currency:  token [INCNT](https://coinmarketcap.com/assets/incent/)  
 ## Staff 
 Co-founder & Technical Director [Peter Godbolt](../people/peter_godbolt.md)  

@@ -19,6 +19,7 @@ If you are adding new project, which is not present in issues:
 
 ### Add news
 1. Fork [this](https://github.com/keycryptovc/base) repository. In case you have forked [repository](https://github.com/keycryptovc/base) already, please update your fork before adding news. To keep repository up to date you may use [Upriver tool](https://upriver.github.io/)
+2. Choose projects for news that not taken by your collegues fom [this isuue](https://github.com/keycryptovc/base/issues/342)
 2. Gather news for your projects
 3. Add yournews.md 
 4. Add title and link for your news in news/news.md

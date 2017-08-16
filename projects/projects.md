@@ -110,6 +110,7 @@
 * [Sibcoin](sibcoin.md)
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
+* [Spankstream](spankstream.md)
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)

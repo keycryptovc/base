@@ -1,5 +1,5 @@
 ## Overview
-![image](../projects/logo/rocketico.png = 50x50)  
+![logo](../projects/logo/rocketico.png {width=50px height=50px})  
 Name: RocketICO  
 [Website](https://rocketico.io/en/)  
 Year founded: 2017   

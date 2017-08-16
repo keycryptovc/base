@@ -1,6 +1,6 @@
 ## Personal data
 ![Tara Kemp photo](../people/photo/tara_kemp.jpg)  
-Name: Tara Kemp
+Name: Tara Kemp  
 Location: Sydney, Australia 
 ## Projects 
 Name: [Incent](../projects/incent.md)  

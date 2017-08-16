@@ -1,7 +1,7 @@
 ## Personal data
 ![nick_evdokimov photo](photo/nick_evdokimov.jpg)  
 Name: Nick Evdokimov  
-Location: UK
+Location: USA
 ## Projects 
 Name: [ICOS](../projects/icos.md)  
 Position: Founder & Vision Director

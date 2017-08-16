@@ -5,7 +5,7 @@ Name: Airporn
 Year founded:  2017  
 Currency: XXX  
 ## Staff (as much as found)
-NO INFO YET
+The team profile would be updated to the website soon.
 ## Business Model
 The world’s first anonymous and decentralized adult entertainment video streaming platform powered by blockchain technology.  
 ## Contacts  

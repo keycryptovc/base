@@ -62,6 +62,8 @@
 * [iExec RLC](rlc.md)
 * [ION](ion.md)
 * [IOTA](iota.md)
+## J
+* [Just Dating Site](jds.md)
 ## K
 * [Komodo](komodo.md)
 ## L

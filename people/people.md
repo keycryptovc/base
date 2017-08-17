@@ -26,6 +26,7 @@
 * [Atif Kamran](atif_kamran.md)
 ## B
 * [BCNext](bcnext.md)
+* [Benjamin Lakoff](benjamin_lakoff.md)
 * [Billy Markus](billy_markus.md)
 * [bitcoinsrus](bitcoinsrus.md) 
 * [bitdealco](bitdealco.md)  
@@ -166,6 +167,7 @@
 ## M
 * [Maria Angelova](maria_angelova.md)
 * [Manuel Araoz](manuel_araoz.md)
+* [Marcelo Barbosa](marcelo_barbosa.md)
 * [Marshall Hayner](marshall_hayner.md)
 * [Marco Cuesta](marko_cuesta.md)
 * [Martin Allien](martin_allien.md)
@@ -241,6 +243,7 @@
 * [Susanne Tempelhof](susanne_tempelhof.md)
 ## T
 * [Tecnovert](tecnovert.md)
+* [Thomas Counsell](thomas_counsell.md)
 * [Thomas König](thomas_konig.md)
 * [Thomas Le](thomas_le.md)
 * [Thomas Phan](thomas_phan.md)

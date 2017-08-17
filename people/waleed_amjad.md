@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/waleed_amjad.jpg)  
+![ photo](photo/waleed_amjad.jpeg)  
 Name: Waleed Amjad    
 Location: United Kingdom  
 ## Projects 

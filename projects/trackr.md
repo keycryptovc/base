@@ -1,10 +1,10 @@
 ## Overview
 ![logo](../projects/logo/trackr.jpg)  
 Name: Trackr  
-[Website](https://www.trackr.im/index.html)
+[Website](https://www.trackr.im/index.html)  
 [Trackr ICO Website](https://www.trackr.im/ico.html)  
 Year founded: 2017  
-Currency: TKR    
+Currency: TKR    
 ## Staff (as much as found)
 Co-Founder: [Nabeel Amjad](../people/nabeel_amjad.md)  
 Co-Founder: [Waleed Amjad](../people/waleed_amjad.md)  

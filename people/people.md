@@ -95,6 +95,7 @@
 ## H
 * [Haiwu He](haiwu_he.md)
 * [Hasoshi](hasoshi.md)
+* [H. L. Lu](h.l._lu.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
 * [Ignas Mangevicius](ignas_mangevicius.md)
@@ -155,6 +156,7 @@
 * [Lars Rensing](lars_rensing.md)
 * [Leomc](leomc.md)
 * [Lionzeye](lionzeye.md)
+* [Lloyd Huang](lloyd_huang.md)
 * [Luke Champine](luke_champine.md)
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
@@ -234,6 +236,7 @@
 * [Tecnovert](tecnovert.md)
 * [Thomas König](thomas_konig.md)
 * [Thomas Le](thomas_le.md)
+* [Thomas Phan](thomas_phan.md)
 * [Tim Lea](tim_lea.md)  
 * [Tim M. Zagar](tim_zagar.md)
 * [Tibor Tarabek](tibor_tarabek.md)

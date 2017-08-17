@@ -1,5 +1,5 @@
 ## Personal data
-![photo](photo/jens_jordre.jpeg)  
+![photo](photo/jens_jordre.jpg)  
 Name: Jens Ivar Jørdre    
 Location: Norway  
 ## Projects 

@@ -107,6 +107,7 @@
 ## J
 * [J.P. Lomas](jp_lomas.md)
 * [J.R. Willett](jr_willett.md)
+* [Jacobo Toll-Messia](jacobo_toll.md)
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
 * [Jack Robison](jack_robison.md)
@@ -120,6 +121,7 @@
 * [Jason Colby](jason_colby.md)
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)
+* [Jens Ivar Jørdre](jens_jordre.md)
 * [Jeremy Kauffman](jeremy_kauffman.md)
 * [Jeremy Longley](jeremy_longley.md)
 * [Jeremy Rand](jeremy_rand.md)

@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/nabeel_amjad.jpg)  
+![ photo](photo/nabeel_amjad.jpeg)  
 Name: Nabeel Amjad    
 Location: United Kingdom  
 ## Projects 

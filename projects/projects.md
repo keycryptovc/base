@@ -97,6 +97,7 @@
 * [PIVX](pivx.md)
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)
+* [Propy](propy.md)
 ## Q
 * [Qtum](qtum.md)
 * [Quantum Resistant Ledger](qrl.md)

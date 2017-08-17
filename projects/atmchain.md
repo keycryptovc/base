@@ -8,7 +8,7 @@ Currency: coin OR token [](https://coinmarketcap.com/...)
 Chief Architect: [Kevin Yan](../people/kevin_yan.md)  
 Principal Researcher: [Xin Wang](../people/xin_wang.md)  
 ## Business Model
-ATMChain is an open platform ecosystem built on blockchain network being developed on top of the [DECENT](../decent.md) Protocol with a focus on media advertising. The project aims to help advertisers better locate and effectively reach the target viewer and via blockchain, directly reward the viewer to increase conversion and obtain better metrics.
+ATMChain is an open platform ecosystem built on blockchain network being developed on top of the [DECENT](decent.md) Protocol with a focus on media advertising. The project aims to help advertisers better locate and effectively reach the target viewer and via blockchain, directly reward the viewer to increase conversion and obtain better metrics.
 ## Contacts
 [Bitcointalk](https://bitcointalk.org/index.php?topic=2068206.0;prev_next=prev)   
 [Facebook](https://www.facebook.com/DECENTplatform/?ref=hl)   

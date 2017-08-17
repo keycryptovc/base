@@ -12,7 +12,7 @@ Co-Founder: [Jens Ivar Jørdre](../people/jens_jordre.md)
 Hubii Network is a blockchain-based decentralised content marketplace that facilitates transactions between creators, distributors and consumers by leveraging the power of smart contracts
 ## Contacts
 [Bitcointalk](https://bitcointalk.org/index.php?topic=2041531.0)   
-[Linkedin](https://www.linkedin.com/company-beta/2330629/) 
+[Linkedin](https://www.linkedin.com/company-beta/2330629/)  
 [Twitter](https://twitter.com/hubiinetwork)    
 [Slack](https://slack.hubii.network/)  
 ## About

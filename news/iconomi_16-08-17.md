@@ -5,8 +5,9 @@ Earlier [this month](https://medium.com/iconominet/become-one-of-the-first-icono
 The purpose of the DAA platform is to create highly dynamic and secure infrastructure for the investors and DAA managers will help to reach this goal. Becoming a DAA manager at the early stage will enable participants to closely collaborate with the Iconomi team, 
 thus helping to shape the future of the platform.   
 The first Iconomi DAA manager will be Columbus Capital LTD, an asset management company specialising in global emerging markets and strategic investing in both traditional and alternative funds.
-Columbus Capital, will manage Iconomi’s existing DAAs (ICNX and ICNP).
-tags: #iconomi, #DAA
+Columbus Capital, will manage Iconomi’s existing DAAs (ICNX and ICNP).  
+  
+tags: #iconomi, #ICN
 ## Source Link
 [Iconomi Blog post](https://medium.com/iconominet/introducing-columbus-capital-iconomis-first-asset-management-partner-5c64c3bc6abf)  
 ## Links on topic

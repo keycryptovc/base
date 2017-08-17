@@ -97,6 +97,7 @@
 * [PIVX](pivx.md)
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)
+* [Propy](propy.md)
 ## Q
 * [Qtum](qtum.md)
 * [Quantum Resistant Ledger](qrl.md)
@@ -111,6 +112,7 @@
 * [Sibcoin](sibcoin.md)
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
+* [smartRE](smartre.md)
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)

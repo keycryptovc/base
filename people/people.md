@@ -12,8 +12,10 @@
 * [Alexander Kokhanovskyy](alexander_kokhanovskyy.md)
 * [Aleksandr Naumenok](aleksandr_naumenok.md)
 * [Alexander Shuhayeu](alexander_shuhayeu.md)
+* [Alexander Voloshyn](alexander_voloshyn.md)
 * [Amit Bhardwaj](amit_bhardwaj.md)
 * [Andriy Khavryuchenko](andriy_khavryuchenko.md)
+* [Andrii Zamovsky](andrii_zamovsky.md)
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anik Dang](anik_dang.md)
 * [Anthony Eufemio](anthony_eufemio.md)
@@ -103,6 +105,7 @@
 ## H
 * [Haiwu He](haiwu_he.md)
 * [Hasoshi](hasoshi.md)
+* [H. L. Lu](h.l._lu.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
 * [Ignas Mangevicius](ignas_mangevicius.md)
@@ -133,6 +136,7 @@
 * [Joey Krug](joey_krug.md)
 * [Joe Zhou](joe_zhou.md)
 * [Jordan Smith](jordan_smith.md)
+* [John Heeter](john_heeter.md)
 * [Johathan Baha'i](jonathan_bahai.md)
 * [Jonathan Patenaude](jonathan_patenaude.md) 
 * [Jonathan Smith](jonathan_smith.md)
@@ -163,10 +167,12 @@
 * [Lars Rensing](lars_rensing.md)
 * [Leomc](leomc.md)
 * [Lionzeye](lionzeye.md)
+* [Lloyd Huang](lloyd_huang.md)
 * [Luke Champine](luke_champine.md)
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
 ## M
+* [Maria Angelova](maria_angelova.md)
 * [Manuel Araoz](manuel_araoz.md)
 * [Marshall Hayner](marshall_hayner.md)
 * [Marco Cuesta](marko_cuesta.md)
@@ -185,8 +191,10 @@
 * [Montag](montag.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
+* [Natalia Karayaneva](natalia_karayaneva.md)
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
+* [Nedyalko Vatev](nedyalko_vatev.md) 
 * [Nick Iversen](nick_iversen.md)
 * [Nikita Lobushkin](nikita_lobushkin.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
@@ -194,6 +202,7 @@
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oleg Lodygensky](oleg_lodygensky.md)
+* [Oleksii Konashevych](oleksii_konashevych.md)
 * [Oliver Beddows](oliver_beddows.md)
 * [Oliver Hopton](oliver_hopton.md)
 ## P
@@ -245,6 +254,7 @@
 * [Tecnovert](tecnovert.md)
 * [Thomas König](thomas_konig.md)
 * [Thomas Le](thomas_le.md)
+* [Thomas Phan](thomas_phan.md)
 * [Tim Lea](tim_lea.md)  
 * [Tim M. Zagar](tim_zagar.md)
 * [Tibor Tarabek](tibor_tarabek.md)

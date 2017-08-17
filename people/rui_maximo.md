@@ -1,5 +1,5 @@
 ## Personal data
-![arry yu photo](photo/rui_maximo.jpg)  
+![rui maximo photo](photo/rui_maximo.jpg)  
 Name:   Rui Maximo  
 Location: USA
 ## Projects 

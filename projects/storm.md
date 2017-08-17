@@ -19,4 +19,5 @@ StorMarket is a decentralized, and secured micro-job marketplace operating on th
 [Blog](https://blog.stormtoken.com/)  
 [Slack](https://stormtoken.slack.com/)    
 ## About
-[WhitePaper](https://stormtoken.com/pdf/STORM_Token_WhitePaper_v2.1.pdf)
+[WhitePaper](https://stormtoken.com/pdf/STORM_Token_WhitePaper_v2.1.pdf)  
+[Blockchain Adtech Startup ‘Hybrid’ ICO Will See Tokens On Sale At Bittrex](https://cointelegraph.com/news/blockchain-adtech-startup-hybrid-ico-will-see-tokens-on-sale-at-bittrex)

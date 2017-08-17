@@ -147,6 +147,7 @@
 * [Kay Kurokawa](kay_kurokawa.md)
 * [Kaushal Kumar Singh](kaushal_kumar_singh.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
+* [Kevin Yan](kevin_yan.md)
 * [Kim Jackson](kim_jackson.md)
 * [Kirill Zhitnikov](kirill_zhitnikov.md)
 * [Kris Hansen](kris_hansen.md)
@@ -258,6 +259,7 @@
 * [Willy Ko](willy_ko.md)
 ## X
 * [Xander Dunn](xander_dunn.md)
+* [Xin Wang](xin_wang.md)
 ## Y
 * [Yan Zhu](yan_zhu.md) 
 * [Yemel Jardi](yemel_jardi.md)

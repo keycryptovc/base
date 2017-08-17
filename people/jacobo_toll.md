@@ -1,5 +1,5 @@
 ## Personal data
-![photo](photo/jacobo_toll.jpeg)  
+![photo](photo/jacobo_toll.jpg)  
 Name: Jacobo Toll-Messia    
 Location: Norway  
 ## Projects 

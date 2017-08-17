@@ -56,6 +56,7 @@
 * [Golem](golem.md)
 * [Gulden](gulden.md)
 ## H
+* [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
 ## I
 * [Iconomi](iconomi.md)

@@ -58,6 +58,7 @@
 ## H
 * [Humaniq](humaniq.md)
 ## I
+* [Intelligent Trading Technologies](intelligent_trading_technologies.md)
 * [Iconomi](iconomi.md)
 * [iExec RLC](rlc.md)
 * [ION](ion.md)

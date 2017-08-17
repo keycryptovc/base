@@ -177,6 +177,7 @@
 * [Montag](montag.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
+* [Nabeel Amjad](nabeel_amjad.md)
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
 * [Nick Iversen](nick_iversen.md)
@@ -254,6 +255,7 @@
 * [Vinny Lingham](vinny_lingham.md) 
 * [Volodymyr Panchenko](volodymyr_panchenko.md)
 ## W
+* [Waleed Amjad](waleed_amjad.md)
 * [Wayman Kwan](wayman_kwan.md)
 * [Willy Ko](willy_ko.md)
 ## X

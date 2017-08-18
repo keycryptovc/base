@@ -65,6 +65,7 @@
 ## K
 * [Komodo](komodo.md)
 ## L
+* [Latium](latium.md)
 * [LBRY](lbry.md)
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)

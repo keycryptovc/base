@@ -1,5 +1,5 @@
 ## Personal data
-![t.i photo](photo/t.i.jpg)  
+![t.i photo](photo/ti.jpg)  
 Name:   T.I. (Clifford Harris)  
 Location: USA
 ## Projects 

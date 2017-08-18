@@ -44,6 +44,7 @@
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
 * [Etheroll](etheroll.md)
+* [Etherparty](etherparty.md)
 ## F
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)

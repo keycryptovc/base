@@ -17,4 +17,5 @@ Using blockchain technology, KickCity – an experienced, revenue generating eve
 [Telegram](https://t.me/joinchat/Bn8u2UGTkwwhX1tWWpGBTw)  
 [Blog](http://info.kickcityapp.com/blog)
 ## About 
-[WhitePaper](https://kickcity.io/static/whitepaper-en.pdf)
+[WhitePaper](https://kickcity.io/static/whitepaper-en.pdf)  
+[Disrupting the $30Billion Event Ticketing Industry with Blockchain – KickCity announces ICO](http://www.the-blockchain.com/2017/07/31/disrupting-30billion-event-ticketing-industry-blockchain-kickcity-announces-ico/)

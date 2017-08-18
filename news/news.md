@@ -1,4 +1,6 @@
 # News
+## 18 August 2017
+* [BCC is now more profitable to mine than Bitcoin.](bitcoin_cash_18-08-17.md)
 ## 14 August 2017
 * [BAT Global Community Expansion](bat_14-08-08.md)
 * [ATMChain adopted DECENT's technology](decent_14-08-08.md)

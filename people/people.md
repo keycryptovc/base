@@ -34,6 +34,7 @@
 * [Brock Pierce](brock_pierce.md)
 * [Brendan Eich](brendan_eich.md)
 * [Brian Bondy](brian_bondy.md)
+* [Brian Onn](brian_onn.md)
 * [BCNext](bcnext.md)
 ## C
 * [Can Kisagun](can_kisagun.md)
@@ -151,6 +152,7 @@
 * [Kay Kurokawa](kay_kurokawa.md)
 * [Kaushal Kumar Singh](kaushal_kumar_singh.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
+* [Kevin Hobbs](kevin_hobbs.md)
 * [Kim Jackson](kim_jackson.md)
 * [Kirill Zhitnikov](kirill_zhitnikov.md)
 * [Kris Hansen](kris_hansen.md)
@@ -159,6 +161,7 @@
 * [Lars Rensing](lars_rensing.md)
 * [Leomc](leomc.md)
 * [Lionzeye](lionzeye.md)
+* [Lisa Cheng](lisa_cheng.md)
 * [Lloyd Huang](lloyd_huang.md)
 * [Luke Champine](luke_champine.md)
 * [Luke Williams](luke_williams.md)

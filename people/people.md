@@ -62,6 +62,7 @@
 * [David Zimbeck](david_zimbeck.md)
 * [Denis Belousov](denis_belousov.md)
 * [Dmitry Kurinskiy](dmitry_kurinskiy.md)
+* [Dmitry Semenov](dmitry_semenov.md)
 * [Dogedarkdev](dogedarkdev.md)
 * [Dominik Z](dominik_z.md)  
 * [Don Harinsut](don_harinsut.md)
@@ -101,6 +102,7 @@
 ## I
 * [Ido Kaiser](ido_kaiser.md)
 * [Ignas Mangevicius](ignas_mangevicius.md)
+* [Ilia Filatov](ilia_filatov.md)
 * [Ilya Mikheev](ilya_mikheev.md)
 * [Ivan Rublev](ivan_rublev.md)
 * [Ivica Simatovic](ivica_simatovic.md)
@@ -152,6 +154,7 @@
 * [Kaushal Kumar Singh](kaushal_kumar_singh.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Kim Jackson](kim_jackson.md)
+* [Kirill Murzin](kirill_murzin.md)
 * [Kirill Zhitnikov](kirill_zhitnikov.md)
 * [Kris Hansen](kris_hansen.md)
 ## L
@@ -258,6 +261,7 @@
 * [Ubajaka Chijioke](ubajaka_chijioke.md)
 * [Ullo](ullo.md)
 ## V
+* [Viacheslav Averkin](viacheslav_averkin.md)
 * [Victor Grau Serrat](victor_grau_serrat.md)
 * [vinced](vinced.md)  
 * [Vitor Py](vitor_py.md)

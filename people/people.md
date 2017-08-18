@@ -43,6 +43,7 @@
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md) 
 * [Chris Marsh](chris_marsh.md)
+* [Cristobal Pereira](cristobal_pereira.md)
 * [Colin Adley](colin_adley.md)
 * [Colin Cantrell](colin_cantrell.md)
 * [Conner Fromknecht](conner_fromknecht.md)
@@ -68,6 +69,7 @@
 * [DStrange](dstrange.md)
 ## E
 * [E_{A}](e_a.md)
+* [Eduardo Portugues](eduardo_portugues.md)
 * [Enda Crowley](enda_crowley.md)
 * [Enric Duran](enric_duran.md)
 * [Eric Stanek](eric_stanek.md)
@@ -172,6 +174,7 @@
 * [Martin Köppelmann](martin_koppelmann.md)
 * [Matej Michalko](matej_michalko.md)
 * [Matej Boda](matej_boda.md)
+* [Matias Pereira](matias_pereira.md)
 * [Max Kordek](max_kordek.md)
 * [Michael Egorov](michael_egorov.md)
 * [Michael Kolenbrander](michael_kolenbrander.md)
@@ -220,6 +223,7 @@
 * [Richard Craib](richard_craib.md)
 * [Rijk Plasman](rijk_plasman.md)
 * [Robby Dermody](robby_dermody.md)
+* [Rodrigo Sainz](rodrigo_sainz.md)
 * [romanornr](romanornr.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S

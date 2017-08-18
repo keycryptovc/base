@@ -21,6 +21,7 @@
 * [Anton Golub](anton_golub.md)
 * [Ari Meilich](ari_meilich.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
+* [Artem Shatilov](artem_shatilov.md)  
 * [Amjuarez](amjuarez.md)  
 * [Asaf Zamir](asaf_zamir.md)
 * [Atif Kamran](atif_kamran.md)
@@ -89,6 +90,7 @@
 * [Gasper Kenda](gasper_kenda.md)
 * [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
+* [Gideon Gibson](gideon_gibson.md)
 * [Gilad Somjen](gilad_somjen.md)
 * [Gilles Fedak](gilles_fedak.md)
 * [Gnasher](gnasher.md)  
@@ -221,6 +223,7 @@
 * [Rijk Plasman](rijk_plasman.md)
 * [Robby Dermody](robby_dermody.md)
 * [romanornr](romanornr.md)
+* [Rostislav Maslov](rostislav_maslov.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  

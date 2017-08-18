@@ -221,6 +221,7 @@
 * [Rijk Plasman](rijk_plasman.md)
 * [Robby Dermody](robby_dermody.md)
 * [romanornr](romanornr.md)
+* [Ryan Felton](ryan_felton.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  
@@ -240,6 +241,7 @@
 * [Steve Nico Williams](steve_williams.md)
 * [Susanne Tempelhof](susanne_tempelhof.md)
 ## T
+* [T.I.](t.i.md)
 * [Tecnovert](tecnovert.md)
 * [Thomas König](thomas_konig.md)
 * [Thomas Le](thomas_le.md)

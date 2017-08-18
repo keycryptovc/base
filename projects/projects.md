@@ -16,6 +16,7 @@
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)
 * [BitShares](bitshares.md)
+* [BlockCat](blockcat.md)
 * [Blocknet](blocknet.md)
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)

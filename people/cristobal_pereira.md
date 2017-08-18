@@ -1,5 +1,5 @@
 ## Personal data
-![photo](photo/cristobal_pereira.png)  
+![photo](photo/cristobal_pereira.jpg)  
 Name: Cristobal Pereira   
 Location: Chile  
 ## Projects 

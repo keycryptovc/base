@@ -11,8 +11,7 @@ CTO: [Wade Penson](../people/wade_penson.md)
 ## Business Model
 BlockCAT is a visual smart contract designer which allows anyone to create and deploy smart contracts to the Ethereum blockchain without the need to write or understand code.
 ## Contacts  
-[Twitter](https://twitter.com/blockcatio)  
-[Linkedin](https://www.linkedin.com/groups/13539222/profile)    
+[Twitter](https://twitter.com/blockcatio)     
 [Slack](https://blockcat.slack.com/)  
 [GitHub](https://github.com/BlockCatIO)  
 [Blog](https://medium.com/@blockcat)  

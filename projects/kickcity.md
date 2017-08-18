@@ -3,7 +3,8 @@
 Name: KickCity  
 [Website](http://ico.kickcity.io/)  
 Founded: 2017  
-Currency: KICK
+Currency: KICK  
+ICO: Q4 2017
 ## Staff
 Co-Founder & CEO: [Gideon Gibson](../people/gideon_gibson.md)  
 CMO & Product: [Artem Shatilov](../people/artem_shatilov.md)   

@@ -1,5 +1,5 @@
 #  List of People
-   
+
 ## A
 * [Adam Krellenstein](adam_krellenstein.md)
 * [Adam Matlack](adam_matlack.md)
@@ -10,8 +10,11 @@
 * [Alex Sterk](alex_sterk.md)
 * [Alexander Demidko](alexander_demidko.md)
 * [Alexander Kokhanovskyy](alexander_kokhanovskyy.md)
+* [Aleks Bozhinov](aleks_bozhinov.md)
+* [Alexander Voloshyn](alexander_voloshyn.md)
 * [Amit Bhardwaj](amit_bhardwaj.md)
 * [Andriy Khavryuchenko](andriy_khavryuchenko.md)
+* [Andrii Zamovsky](andrii_zamovsky.md)
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anik Dang](anik_dang.md)
 * [Anthony Eufemio](anthony_eufemio.md)
@@ -38,6 +41,7 @@
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)
 * [Chin Song](chin_song.md)
+* [Chris Fronda](chris_fronda.md)
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md) 
 * [Chris Marsh](chris_marsh.md)
@@ -73,6 +77,7 @@
 * [Erik Voorhees](erik_voorhees.md)
 * [Erlan Akmatov](erlan_akmatov.md)
 * [Esteban Ordano](esteban_ordano.md)
+* [Ethan Clime](ethan_clime.md)
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Evgeny Andreev](evgeny_andreev.md)
 * [Evgeny Ponomarev](evgeny_ponomarev.md)
@@ -95,6 +100,8 @@
 ## H
 * [Haiwu He](haiwu_he.md)
 * [Hasoshi](hasoshi.md)
+* [Henry Ashley-Cooper](henry_ashley_cooper.md)  
+* [H. L. Lu](h.l._lu.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
 * [Ignas Mangevicius](ignas_mangevicius.md)
@@ -125,6 +132,7 @@
 * [Joey Krug](joey_krug.md)
 * [Joe Zhou](joe_zhou.md)
 * [Jordan Smith](jordan_smith.md)
+* [John Heeter](john_heeter.md)
 * [Johathan Baha'i](jonathan_bahai.md)
 * [Jonathan Patenaude](jonathan_patenaude.md) 
 * [Jonathan Smith](jonathan_smith.md)
@@ -155,11 +163,14 @@
 * [Lars Rensing](lars_rensing.md)
 * [Leomc](leomc.md)
 * [Lionzeye](lionzeye.md)
+* [Lloyd Huang](lloyd_huang.md)
 * [Luke Champine](luke_champine.md)
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
 ## M
+* [Maria Angelova](maria_angelova.md)
 * [Manuel Araoz](manuel_araoz.md)
+* [Marielos_Helendez_Hernandez](marielos_helendez_hernandez.md)
 * [Marshall Hayner](marshall_hayner.md)
 * [Marco Cuesta](marko_cuesta.md)
 * [Martin Allien](martin_allien.md)
@@ -177,14 +188,17 @@
 * [Montag](montag.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
+* [Natalia Karayaneva](natalia_karayaneva.md)
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
+* [Nedyalko Vatev](nedyalko_vatev.md) 
 * [Nick Iversen](nick_iversen.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
 * [Nursultan Aliev](nursultan_aliev.md)
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oleg Lodygensky](oleg_lodygensky.md)
+* [Oleksii Konashevych](oleksii_konashevych.md)
 * [Oliver Beddows](oliver_beddows.md)
 * [Oliver Hopton](oliver_hopton.md)
 ## P
@@ -215,6 +229,7 @@
 * [Robby Dermody](robby_dermody.md)
 * [Rob Wilson](rob_wilson.md)
 * [romanornr](romanornr.md)
+* [Rosario Colletti](rosario_colletti.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  
@@ -238,11 +253,13 @@
 * [Tecnovert](tecnovert.md)
 * [Thomas König](thomas_konig.md)
 * [Thomas Le](thomas_le.md)
+* [Thomas Phan](thomas_phan.md)
 * [Tim Lea](tim_lea.md)  
 * [Tim M. Zagar](tim_zagar.md)
 * [Tibor Tarabek](tibor_tarabek.md)
 * [Toby Hoenisch](toby_hoenisch.md)
 * [Tomas Draksas](tomas_draksas.md)
+* [Tomas Kuttler](tomas_kuttler.md)
 * [Tomas Lukosaitis](tomas_lukosaitis.md)
 * [Tomer Sofinzon](tomer_sofinzon.md)
 * [Tor Bair ](tor_bair.md) 

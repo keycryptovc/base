@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/kellogg_fairbank.png)  
+![ photo](photo/kellogg_fairbank.jpg)  
 Name: Kellogg N. Fairbank    
 Location: Netherlands  
 ## Projects 

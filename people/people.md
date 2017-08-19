@@ -1,5 +1,5 @@
 #  List of People
-
+ 
 ## A
 * [Adam Krellenstein](adam_krellenstein.md)
 * [Adam Matlack](adam_matlack.md)
@@ -10,6 +10,7 @@
 * [Alex Sterk](alex_sterk.md)
 * [Alexander Demidko](alexander_demidko.md)
 * [Alexander Kokhanovskyy](alexander_kokhanovskyy.md)
+* [Aleks Bozhinov](aleks_bozhinov.md)
 * [Alexander Voloshyn](alexander_voloshyn.md)
 * [Amit Bhardwaj](amit_bhardwaj.md)
 * [Andriy Khavryuchenko](andriy_khavryuchenko.md)
@@ -40,6 +41,7 @@
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)
 * [Chin Song](chin_song.md)
+* [Chris Fronda](chris_fronda.md)
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md) 
 * [Chris Marsh](chris_marsh.md)
@@ -75,6 +77,7 @@
 * [Erik Voorhees](erik_voorhees.md)
 * [Erlan Akmatov](erlan_akmatov.md)
 * [Esteban Ordano](esteban_ordano.md)
+* [Ethan Clime](ethan_clime.md)
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Evgeny Andreev](evgeny_andreev.md)
 * [Evgeny Ponomarev](evgeny_ponomarev.md)
@@ -97,6 +100,7 @@
 ## H
 * [Haiwu He](haiwu_he.md)
 * [Hasoshi](hasoshi.md)
+* [Henry Ashley-Cooper](henry_ashley_cooper.md)  
 * [H. L. Lu](h.l._lu.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
@@ -222,6 +226,7 @@
 * [Rijk Plasman](rijk_plasman.md)
 * [Robby Dermody](robby_dermody.md)
 * [romanornr](romanornr.md)
+* [Rosario Colletti](rosario_colletti.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  
@@ -250,6 +255,7 @@
 * [Tibor Tarabek](tibor_tarabek.md)
 * [Toby Hoenisch](toby_hoenisch.md)
 * [Tomas Draksas](tomas_draksas.md)
+* [Tomas Kuttler](tomas_kuttler.md)
 * [Tomas Lukosaitis](tomas_lukosaitis.md)
 * [Tomer Sofinzon](tomer_sofinzon.md)
 * [Tor Bair ](tor_bair.md) 

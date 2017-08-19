@@ -79,6 +79,7 @@
 * [Metal](metal.md)
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
+* [Monetha](monetha.md)
 ## N
 * [Namecoin](namecoin.md)
 * [NEM](nem.md)

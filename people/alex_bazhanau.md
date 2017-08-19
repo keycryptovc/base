@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/alex_bazhanau.png)  
+![ photo](photo/alex_bazhanau.jpg)  
 Name: Alex Bazhanau    
 Location: Belarus   
 ## Projects 

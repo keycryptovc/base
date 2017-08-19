@@ -63,6 +63,7 @@
 ## I
 * [Iconomi](iconomi.md)
 * [iExec RLC](rlc.md)
+* [Incent](incent.md)
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## K

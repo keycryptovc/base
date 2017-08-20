@@ -1,7 +1,7 @@
 ## Personal data
 ![ photo](photo/patricia_harrison.jpg)  
 Name: Patricia Harrison  
-Location: 
+Location: UK
 ## Projects 
 Name: [Empire Card](../projects/empire_cardc.md)  
 Position: CEO 

@@ -1,6 +1,7 @@
 # List of Projects
 
 ## A
+* [Airporn](airporn.md)
 * [Aragon](aragon.md)
 * [Ardor](ardor.md)
 * [Ark](ark.md)
@@ -15,6 +16,7 @@
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)
+* [BitDice](bitdice.md)
 * [BitShares](bitshares.md)
 * [Blocknet](blocknet.md)
 * [Byteball](byteball.md)
@@ -25,6 +27,7 @@
 * [Cloud](cloud.md)
 * [CoEval](coeval.md)
 * [Counterparty](counterparty.md)
+* [Crowdholding](crowdholding.md)
 ## D
 * [Daseron](daseron.md)
 * [Dash](dash.md)  
@@ -61,6 +64,7 @@
 ## I
 * [Iconomi](iconomi.md)
 * [iExec RLC](rlc.md)
+* [Incent](incent.md)
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## K

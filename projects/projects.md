@@ -108,6 +108,7 @@
 ## R
 * [Reddcoin](reddcoin.md)
 * [Ripple](ripple.md)
+* [RocketICO](rocketico.md)
 * [Round](round.md) 
 ## S
 * [ShapeShift](shapeshift.md)

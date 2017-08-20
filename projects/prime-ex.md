@@ -5,7 +5,7 @@ Name: Prime-Ex Perpetual
 Year founded: 2017  
 Currency: PEX Token  
 ## Staff
-Founder [John Gilbert](../people/john_gilbert.md)   
+Founder: [John Gilbert](../people/john_gilbert.md)   
 ## Business Model
 Prime-Ex Perpetual is a peer to peer decentralized real estate platform that will revolutionize the traditional real estate development and finance models.
 ## Contacts  

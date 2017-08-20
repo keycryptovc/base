@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](charles_perez.png)  
+![ photo](photo/charles_perez.png)  
 Name: Charles Perez  
 Location: Unknown
 ## Projects 

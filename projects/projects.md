@@ -99,6 +99,7 @@
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
 * [PIVX](pivx.md)
+* [Po.et](poet.md)
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)
 * [Propy](propy.md)

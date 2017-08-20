@@ -109,6 +109,7 @@
 * [PIVX](pivx.md)
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)
+* [Prime-Ex Perpetual](prime-ex.md)
 * [Propy](propy.md)
 ## Q
 * [Qtum](qtum.md)

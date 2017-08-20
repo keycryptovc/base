@@ -81,6 +81,7 @@
 * [Luxico](luxico.md)
 * [Lykke](lykke.md)
 ## M
+* [Magos](magos.md)
 * [MaidSafe](maidsafe.md)
 * [Melon](melon.md)
 * [MCAP](mcap.md)

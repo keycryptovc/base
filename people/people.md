@@ -9,6 +9,7 @@
 * [Alex Fork](alex_fork.md)
 * [Alex Liebowitz](alex_liebowitz.md)
 * [Alex Sterk](alex_sterk.md)
+* [Aleks Bozhinov](aleks_bozhinov.md)
 * [Aleksandr Naumenok](aleksandr_naumenok.md)
 * [Alexander Demidko](alexander_demidko.md)
 * [Alexander Kokhanovskyy](alexander_kokhanovskyy.md)

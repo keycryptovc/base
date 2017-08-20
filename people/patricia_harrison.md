@@ -3,7 +3,7 @@
 Name: Patricia Harrison  
 Location: UK
 ## Projects 
-Name: [Empire Card](../projects/empire_cardc.md)  
+Name: [Empire Card](../projects/empire_card.md)  
 Position: CEO 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/patricia-harrison-b3b512145/?ppe=1)  

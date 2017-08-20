@@ -207,6 +207,7 @@
 * [Montag](montag.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
+* [Nabeel Amjad](nabeel_amjad.md)
 * [Natalia Karayaneva](natalia_karayaneva.md)
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
@@ -302,6 +303,7 @@
 * [Vika Kravets](vika_kravets.md)
 * [Volodymyr Panchenko](volodymyr_panchenko.md)
 ## W
+* [Waleed Amjad](waleed_amjad.md)
 * [Wayman Kwan](wayman_kwan.md)
 * [Willy Ko](willy_ko.md)
 ## X

@@ -4,7 +4,7 @@ Name: Steven White
 Location: Unknown
 ## Projects 
 Name: [Empire Card](../projects/empire_card.md)  
-Position: 
+Position: Head of Marketing 
 ## Contacts
 -//-
 ## About

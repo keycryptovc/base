@@ -62,6 +62,7 @@
 * [Humaniq](humaniq.md)
 ## I
 * [Iconomi](iconomi.md)
+* [ICOS](icos.md)
 * [iExec RLC](rlc.md)
 * [Incent](incent.md)
 * [ION](ion.md)

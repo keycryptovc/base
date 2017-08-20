@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/patricia_harrison.jpg)  
+![ photo](photo/patricia_harrison.png)  
 Name: Patricia Harrison  
 Location: UK
 ## Projects 

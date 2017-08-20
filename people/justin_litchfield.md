@@ -1,5 +1,5 @@
 ## Personal data
-![photo](photo/justin_litchfield.jpg)  
+![photo](photo/justin_litchfield1.jpg)  
 Name: Justin Litchfield    
 Location: USA  
 ## Projects 

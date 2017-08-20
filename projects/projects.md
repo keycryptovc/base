@@ -116,6 +116,7 @@
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
 * [smartRE](smartre.md)
+* [Spankstream](spankstream.md)
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)

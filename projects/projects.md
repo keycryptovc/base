@@ -67,6 +67,8 @@
 * [Incent](incent.md)
 * [ION](ion.md)
 * [IOTA](iota.md)
+## J
+* [Just Dating Site](jds.md)
 ## K
 * [Komodo](komodo.md)
 ## L
@@ -109,6 +111,7 @@
 ## R
 * [Reddcoin](reddcoin.md)
 * [Ripple](ripple.md)
+* [RocketICO](rocketico.md)
 * [Round](round.md) 
 ## S
 * [ShapeShift](shapeshift.md)
@@ -117,6 +120,7 @@
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
 * [smartRE](smartre.md)
+* [Spankstream](spankstream.md)
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)

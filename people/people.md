@@ -90,6 +90,7 @@
 * [E_{A}](e_a.md)
 * [Enda Crowley](enda_crowley.md)
 * [Enric Duran](enric_duran.md)
+* [Eric Huang](eric_huang.md)
 * [Enrique Dubois](enrique_dubois.md)
 * [Eric Stanek](eric_stanek.md)
 * [Dr. Eric Kunz](eric_kunz.md)
@@ -314,6 +315,7 @@
 * [Vika Kravets](vika_kravets.md)
 * [Volodymyr Panchenko](volodymyr_panchenko.md)
 ## W
+* [Wade Penson](wade_penson.md)
 * [Waleed Amjad](waleed_amjad.md)
 * [Wayman Kwan](wayman_kwan.md)
 * [Willy Ko](willy_ko.md)

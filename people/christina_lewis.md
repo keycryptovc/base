@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](christina_lewis.png)  
+![ photo](photo/christina_lewis.png)  
 Name: Christina Lewis  
 Location: Unknown
 ## Projects 

@@ -4,7 +4,6 @@
 * [Adam Krellenstein](adam_krellenstein.md)
 * [Adam Matlack](adam_matlack.md)
 * [Aleks Bozhinov](aleks_bozhinov.md)
-* [Aleks Bozhinov](aleks_bozhinov.md)
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
 * [Aleksei Morozov](aleksei_morozov.md)
 * [Alexey Podgaynov](alexey_podgaynov.md)

@@ -97,6 +97,7 @@
 ## H
 * [Haiwu He](haiwu_he.md)
 * [Hasoshi](hasoshi.md)
+* [Hiroshi Mita](hiroshi_mita.md)
 * [H. L. Lu](h.l._lu.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
@@ -227,6 +228,7 @@
 * [Sam Brooks](sam_brooks.md) 
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Sahil Baghla](sahil_baghla.md)
+* [Satoru H.](satoru_h.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
 * [Sebastien Dimichele](sebastien_dimichele.md)
 * [Sergey Ivliev](sergey_ivliev.md)
@@ -251,6 +253,7 @@
 * [Tomas Draksas](tomas_draksas.md)
 * [Tomas Lukosaitis](tomas_lukosaitis.md)
 * [Tomer Sofinzon](tomer_sofinzon.md)
+* [Tomichka Kamiya](tomochika_kamiya.md)
 * [Tor Bair ](tor_bair.md) 
 * [Tralf](tralf.md)  
 ## U

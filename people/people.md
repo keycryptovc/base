@@ -273,6 +273,7 @@
 * [Roman Agafonov](roman_agafonov.md)
 * [Rob Wilson](rob_wilson.md)
 * [romanornr](romanornr.md)
+* [Ryan Felton](ryan_felton.md)
 * [Rostislav Maslov](rostislav_maslov.md)
 * [Rosario Colletti](rosario_colletti.md)
 * [Ryno Mathee](ryno_mathee.md) 
@@ -298,6 +299,7 @@
 * [Steve Nico Williams](steve_williams.md)
 * [Susanne Tempelhof](susanne_tempelhof.md)
 ## T
+* [T.I.](t.i.md)
 * [Tara Kemp](tara_kemp.md)
 * [Tecnovert](tecnovert.md)
 * [Thomas Counsell](thomas_counsell.md)

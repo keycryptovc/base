@@ -3,6 +3,7 @@
 ## A
 * [Adam Krellenstein](adam_krellenstein.md)
 * [Adam Matlack](adam_matlack.md)
+* [Alastair Clark](alastair_clark.md)
 * [Aleks Bozhinov](aleks_bozhinov.md)
 * [Aleksei Morozov](aleksei_morozov.md)
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)

@@ -1,7 +1,7 @@
 ## Personal data
 ![sean mchale photo](photo/sean_mchale.jpg)  
-Name:   USA  
-Location: Australia
+Name:   Sean McHale  
+Location: USA
 ## Projects 
 Name: [TokenStub](../projects/tokenstub.md)  
 Position: CEO 

@@ -1,4 +1,6 @@
 # News
+## 21 August 2017
+* [Dash price grew up over the weekend. New Dash news weekly recap is available.](dash_21-08-17.md)
 ## 14 August 2017
 * [BAT Global Community Expansion](bat_14-08-08.md)
 * [ATMChain adopted DECENT's technology](decent_14-08-08.md)

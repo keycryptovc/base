@@ -22,6 +22,7 @@
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)
 * [BitDice](bitdice.md)
+* [bitJob](bitjob.md)
 * [BitShares](bitshares.md)
 * [BlockCAT](blockcat.md)
 * [Blocknet](blocknet.md)

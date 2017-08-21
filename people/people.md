@@ -48,6 +48,7 @@
 * [Anar Babaev](anar_babaev.md)
 * [Asaf Zamir](asaf_zamir.md)
 * [Atif Kamran](atif_kamran.md)
+* [Aviad Gindi](aviad_gindi.md)
 ## B
 * [Ben Myers](ben_myers.md)
 * [BCNext](bcnext.md)
@@ -56,6 +57,7 @@
 * [Billy Markus](billy_markus.md)
 * [bitcoinsrus](bitcoinsrus.md) 
 * [bitdealco](bitdealco.md)  
+* [Bogdan Fiedur](bogdan_fiedur.md)
 * [Boris Povod](boris_povod.md)
 * [Brad Hammerstron](brad_hammerstron.md) 
 * [Brock Pierce](brock_pierce.md)
@@ -105,9 +107,11 @@
 * [Dogedarkdev](dogedarkdev.md)
 * [Dominik Z](dominik_z.md)  
 * [Don Harinsut](don_harinsut.md)
+* [Dror Medalion](dror_medalion.md)
 * [DStrange](dstrange.md)
 ## E
 * [E_{A}](e_a.md)
+* [Elad Kofman](elad_kofman.md)
 * [Eduardo Portugues](eduardo_portugues.md)
 * [Emily Englesohn](emily_englesohn.md)
 * [Enda Crowley](enda_crowley.md)

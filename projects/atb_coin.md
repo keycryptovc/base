@@ -1,5 +1,5 @@
 ## Overview
-![logo](../projects/logo/atb_coin.png)  
+![logo](../projects/logo/atb_coin.jpg)  
 Name: ATB Coin  
 [Website](https://atbcoin.com/)  
 Year founded: 2017  

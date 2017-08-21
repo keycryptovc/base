@@ -65,6 +65,7 @@
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
 ## I
+* [Intelligent Trading Technologies](intelligent_trading_technologies.md)
 * [Iconomi](iconomi.md)
 * [ICOS](icos.md)
 * [iExec RLC](rlc.md)

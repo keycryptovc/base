@@ -9,4 +9,4 @@ Position: Co-founder & CEO
 [LinkedIn](https://www.linkedin.com/in/dror-medalion/)    
 [Facebook](https://www.facebook.com/D.Medalion)
 ## About
-A blockchain entrepreneur, An industrial Engineer and Enterprise Strategic Consultant. Specializing in implementation of ERP & BI systems and product design.
+A blockchain entrepreneur, an industrial Engineer and Enterprise Strategic Consultant. Specializing in implementation of ERP & BI systems and product design.

@@ -32,6 +32,7 @@
 * [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)
 * [Cloud](cloud.md)
+* [COSS](coss.md)
 * [CoEval](coeval.md)
 * [Counterparty](counterparty.md)
 * [Crowdholding](crowdholding.md)

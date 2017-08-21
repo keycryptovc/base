@@ -6,7 +6,7 @@ Location: Ukraine
 Name: [DMarket](../projects/dmarket.md)  
 Position: Blockchain architect  
 Name: [Dash](../projects/dash.md)  
-Position: Senior Developer
+Position: Developer
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/akhavr/)    
 [Facebook](https://www.facebook.com/akhavr)

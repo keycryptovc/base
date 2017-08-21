@@ -114,6 +114,7 @@
 * [Gabil Tagiev](gabil_tagiev.md)
 * [Galia Benartzi](galia_benartzi.md)
 * [Gasper Kenda](gasper_kenda.md)
+* [Gavin Smith](gavin_smith.md)
 * [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
 * [Gilad Somjen](gilad_somjen.md)
@@ -161,6 +162,7 @@
 * [Jez San](jez_san.md)
 * [Joel Yaffe](mr_jones.md)
 * [Joey Krug](joey_krug.md)
+* [Joe Belmonte](joe_belmonte.md)
 * [Joe Zhou](joe_zhou.md)
 * [Jordan Smith](jordan_smith.md)
 * [John Heeter](john_heeter.md)
@@ -203,6 +205,7 @@
 ## M
 * [Maria Angelova](maria_angelova.md)
 * [Manuel Araoz](manuel_araoz.md)
+* [Marcie D. Terman](marcie_d._terman.md)
 * [Marielos_Helendez_Hernandez](marielos_helendez_hernandez.md)
 * [Marshall Hayner](marshall_hayner.md)
 * [Marco Cuesta](marko_cuesta.md)

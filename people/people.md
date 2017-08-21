@@ -130,6 +130,7 @@
 * [Guy Zyskind](guy_zyskind.md)  
 ## H
 * [Haiwu He](haiwu_he.md)
+* [Hakam Misson](hakam_misson.md)
 * [Hasoshi](hasoshi.md)
 * [Henry Ashley-Cooper](henry_ashley_cooper.md)  
 * [H. L. Lu](h.l._lu.md)
@@ -235,6 +236,7 @@
 * [Montag](montag.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
+* [Narinder Bajwa](narinder_bajwa.md)
 * [Nabeel Amjad](nabeel_amjad.md)
 * [Natalia Karayaneva](natalia_karayaneva.md)
 * [Ned Scott](ned_scott.md)
@@ -288,6 +290,7 @@
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  
 * [Sam Brooks](sam_brooks.md) 
+* [Sameer Misson](sameer_misson.md)
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Sahil Baghla](sahil_baghla.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
@@ -305,6 +308,7 @@
 * [Stefan George](stefan_george.md)
 * [Stefan Hickmott](stefan_hickmott.md)
 * [Steve Nico Williams](steve_williams.md)
+* [Stuart Hockman](stuart_hockman.md)
 * [Susanne Tempelhof](susanne_tempelhof.md)
 ## T
 * [T.I.](t.i.md)

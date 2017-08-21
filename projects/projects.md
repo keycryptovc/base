@@ -41,6 +41,7 @@
 * [Emercoin](emercoin.md)
 * [Enigma Catalyst](enigma_catalyst.md)
 * [EOS](eos.md)
+* [ETCH](etch.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
 * [Etheroll](etheroll.md)

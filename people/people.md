@@ -56,6 +56,7 @@
 * [Brock Pierce](brock_pierce.md)
 * [Brendan Eich](brendan_eich.md)
 * [Brian Bondy](brian_bondy.md)
+* [Brian Onn](brian_onn.md)
 * [BCNext](bcnext.md)
 ## C
 * [Calvin Hsieh](calvin_hsieh.md)
@@ -204,6 +205,7 @@
 * [Kaushal Kumar Singh](kaushal_kumar_singh.md)
 * [Kellogg N. Fairbank](kellogg_fairbank.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
+* [Kevin Hobbs](kevin_hobbs.md)
 * [Kevin Yan](kevin_yan.md)
 * [Kim Jackson](kim_jackson.md)
 * [Kirill Murzin](kirill_murzin.md)
@@ -217,6 +219,7 @@
 * [Laurynas Jokubaitis](laurynas_jokubaitis.md)
 * [Leomc](leomc.md)
 * [Lionzeye](lionzeye.md)
+* [Lisa Cheng](lisa_cheng.md)
 * [Lloyd Huang](lloyd_huang.md)
 * [Luke Champine](luke_champine.md)
 * [Luke Williams](luke_williams.md)

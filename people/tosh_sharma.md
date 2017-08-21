@@ -1,7 +1,7 @@
 ## Personal data
 ![photo](photo/tosh_sharma.jpg)  
 Name: Tosh Sharma    
-Location: ---  
+Location: India  
 ## Projects 
 Name: [ChronoLogic](../projects/chronologic.md)  
 Position: ---  

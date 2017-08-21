@@ -117,6 +117,7 @@
 * [Stellar](stellar.md)
 * [Storj](storj.md)
 * [Stratis](stratis.md)
+* [Synchrolife](synchrolife.md)
 * [SysCoin](syscoin.md)
 ## T
 * [TenX](tenx.md)

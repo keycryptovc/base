@@ -3,6 +3,7 @@
 ## A
 * [Adam Krellenstein](adam_krellenstein.md)
 * [Adam Matlack](adam_matlack.md)
+* [Aidas Ignatavicius](aidas_ignatavicius.md)
 * [Alastair Clark](alastair_clark.md)
 * [Aleks Bozhinov](aleks_bozhinov.md)
 * [Aleksei Morozov](aleksei_morozov.md)
@@ -50,6 +51,7 @@
 * [Artyom Abaev](artyom_abaev.md)
 * [Asaf Zamir](asaf_zamir.md)
 * [Atif Kamran](atif_kamran.md)
+* [Augustas Staras](augustas_staras.md)
 * [Aviad Gindi](aviad_gindi.md)
 ## B
 * [Ben Myers](ben_myers.md)
@@ -244,6 +246,7 @@
 * [Lionzeye](lionzeye.md)
 * [Lisa Cheng](lisa_cheng.md)
 * [Lloyd Huang](lloyd_huang.md)
+* [Lukas Kairys](lukas_kairys.md)
 * [Luke Champine](luke_champine.md)
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
@@ -314,6 +317,7 @@
 * [Qingfeng Shan](qingfeng_shan.md)
 ## R
 * [Raid5](raid5.md) 
+* [Reda Markeviciute](reda_markeviciute.md)
 * [Reeve Collins](reeve_collins.md)
 * [Reggie Middleton](reggie_middleton.md)
 * [Reilly Smith](reilly_smith.md)

@@ -13,6 +13,9 @@
 * [Alex Fork](alex_fork.md)
 * [Alex Liebowitz](alex_liebowitz.md)
 * [Alex Sterk](alex_sterk.md)
+* [Alex Xu](alex_xu.md)
+* [Aleks Bozhinov](aleks_bozhinov.md)
+* [Aleksandr Naumenok](aleksandr_naumenok.md)
 * [Alexander Demidko](alexander_demidko.md)
 * [Alexander Kokhanovskyy](alexander_kokhanovskyy.md)
 * [Aleksandr Naumenok](aleksandr_naumenok.md)
@@ -20,6 +23,7 @@
 * [Alexander Pankov](alexander_pankov.md)
 * [Alexander Shuhayeu](alexander_shuhayeu.md)
 * [Alexander Voloshyn](alexander_voloshyn.md)
+* [Amir Bandeali](amir_bandeali.md)
 * [Álvaro Crespo](../people/alvaro_crespo.md)
 * [Amit Bhardwaj](amit_bhardwaj.md)
 * [Andriy Khavryuchenko](andriy_khavryuchenko.md)
@@ -125,6 +129,7 @@
 * [Ewan Wagner](ewan_wagner.md)
 * [Eyal Hertzog](eyal_hertzog.md)
 ## F
+* [Fabio Berger](fabio_berger.md)
 * [Filip Radičević](filip_radicevic.md)
 * [François-Xavier Thoorens](xavier_thoorens.md)
 * [Fuzzbawls](fuzzbawls.md)
@@ -376,6 +381,7 @@
 ## W
 * [Wade Penson](wade_penson.md)
 * [Waleed Amjad](waleed_amjad.md)
+* [Will Warren](will_warren.md)
 * [Wayman Kwan](wayman_kwan.md)
 * [Willy Ko](willy_ko.md)
 ## X

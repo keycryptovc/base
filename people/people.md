@@ -180,6 +180,7 @@
 * [Joey Krug](joey_krug.md)
 * [Joe Zhou](joe_zhou.md)
 * [Jordan Smith](jordan_smith.md)
+* [John Gilbert](john_gilbert.md)
 * [John Heeter](john_heeter.md)
 * [Johathan Baha'i](jonathan_bahai.md)
 * [Jonathan Patenaude](jonathan_patenaude.md) 

@@ -1,5 +1,5 @@
 ## Personal data
-![philip fernbach photo](photo/philip_fernbach.png)  
+![philip fernbach photo](photo/philip_fernbach.jpg)  
 Name:   Philip Fernbach  
 Location: USA
 ## Projects 

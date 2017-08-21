@@ -7,7 +7,7 @@ Currency: XAI
 ICO: Q3 2017
 ## Staff
 Co-founder & CEO: [Gavin Smith](../people/gavin_smith.md)  
-Co-founder & COO: [Marcie D Terman](../people/marcie_d_terman.md)  
+Co-founder & COO: [Marcie D. Terman](../people/marcie_d._terman.md)  
 Marketing Director: [Joe Belmonte](../people/joe_belmonte.md)  
 ## Business Model
 AICoin Token holders benefit from a steady flow of profits from the day the token is released after the ICO ends. This is due to our distinctive two stage strategy. Trading cryptocurrencies with artificial intelligence will provide short term gains and the fuel to drive our longer term vision of becoming one of the most successful seed investors in the Artificial Intelligence and Public Blockchain space. 

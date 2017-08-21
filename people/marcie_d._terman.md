@@ -1,5 +1,5 @@
 ## Personal data
-![marcie_d._terman photo](photo/marcie_d._terman.png)  
+![marcie_d._terman photo](photo/marcie_d._terman.jpg)  
 Name:    Marcie D. Terman  
 Location: United Kingdom
 ## Projects 

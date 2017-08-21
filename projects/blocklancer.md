@@ -1,6 +1,6 @@
 ## Overview
 ![logo](../projects/logo/blocklancer.png)  
-Name:  Blocklancer 
+Name:  Blocklancer  
 [Website](https://blocklancer.net/)  
 Year founded: 2017  
 Currency: Lancer  

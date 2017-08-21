@@ -11,6 +11,7 @@
 * [Alexander Demidko](alexander_demidko.md)
 * [Alexander Kokhanovskyy](alexander_kokhanovskyy.md)
 * [Alexander Voloshyn](alexander_voloshyn.md)
+* [Alexey Elizarov](alexey_elizarov.md)
 * [Amit Bhardwaj](amit_bhardwaj.md)
 * [Andriy Khavryuchenko](andriy_khavryuchenko.md)
 * [Andrii Zamovsky](andrii_zamovsky.md)
@@ -22,6 +23,7 @@
 * [Ari Meilich](ari_meilich.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
 * [Amjuarez](amjuarez.md)  
+* [Artyom Abaev](artyom_abaev.md)
 * [Asaf Zamir](asaf_zamir.md)
 * [Atif Kamran](atif_kamran.md)
 ## B
@@ -200,6 +202,7 @@
 * [Pacific_Skyline](pacific_skyline.md)
 * [Paul Warrunthorn Kittiwongsunthorn](paul_kitti.md)
 * [Patrick Dai](patrick_dai.md)
+* [Peter Asalkhanov](peter_asalkhanov.md)
 * [Peter Kirby](peter_kirby.md)
 * [Peter Waterland](peter_waterland.md)
 * [Phelix](phelix.md)

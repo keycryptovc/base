@@ -54,17 +54,20 @@
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)
 * [FirstBlood](firstblood.md)
+* [FLiK](flik.md)
 * [Fluence](fluence.md)
 * [FunFair](funfair.md)
 ## G
 * [GameCredits](gamecredits.md)
 * [Gnosis](gnosis.md)
+* [Godzillion](godzillion.md)
 * [Golem](golem.md)
 * [Gulden](gulden.md)
 ## H
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
 ## I
+* [Intelligent Trading Technologies](intelligent_trading_technologies.md)
 * [Iconomi](iconomi.md)
 * [ICOS](icos.md)
 * [iExec RLC](rlc.md)
@@ -74,8 +77,10 @@
 ## J
 * [Just Dating Site](jds.md)
 ## K
+* [KickCity](kickcity.md)
 * [Komodo](komodo.md)
 ## L
+* [Latium](latium.md)
 * [LBRY](lbry.md)
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
@@ -113,6 +118,7 @@
 * [Propy](propy.md)
 ## Q
 * [Qtum](qtum.md)
+* [Qvolta](qvolta.md)
 * [Quantum Resistant Ledger](qrl.md)
 ## R
 * [REAL](real.md)

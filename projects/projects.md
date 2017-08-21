@@ -1,6 +1,7 @@
 # List of Projects
 
 ## A
+* [AICoin](aicoin.md)
 * [Airporn](airporn.md)
 * [Aragon](aragon.md)
 * [Ardor](ardor.md)

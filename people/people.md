@@ -32,6 +32,7 @@
 * [Anton Kraminkin](anton_kraminkin.md)
 * [Ari Meilich](ari_meilich.md)
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
+* [Artem Shatilov](artem_shatilov.md)  
 * [Arry Yu](arry_yu.md)
 * [Artem Malofeevsky](artem_malofeevsky.md)
 * [Arthur Pinchuk](arthur_pinchuk.md)
@@ -117,6 +118,7 @@
 * [Gasper Kenda](gasper_kenda.md)
 * [George Hallam](george_hallam.md)
 * [Gerlof van Ek](gerlof_ek.md)
+* [Gideon Gibson](gideon_gibson.md)
 * [Gilad Somjen](gilad_somjen.md)
 * [Gilles Fedak](gilles_fedak.md)
 * [Gnasher](gnasher.md)  
@@ -272,6 +274,7 @@
 * [Rob Wilson](rob_wilson.md)
 * [romanornr](romanornr.md)
 * [Ryan Felton](ryan_felton.md)
+* [Rostislav Maslov](rostislav_maslov.md)
 * [Rosario Colletti](rosario_colletti.md)
 * [Ryno Mathee](ryno_mathee.md) 
 ## S

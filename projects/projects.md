@@ -29,6 +29,7 @@
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C
+* [ChronoLogic](chronologic.md)
 * [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)
 * [Cloud](cloud.md)

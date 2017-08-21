@@ -3,7 +3,7 @@
 Name: Deven Soni    
 Location: USA  
 ## Projects 
-Name: [ChronoLogic](../projects/.md)  
+Name: [ChronoLogic](../projects/chronologic.md)  
 Position: ---  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/dsoni/)  

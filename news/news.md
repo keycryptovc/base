@@ -1,5 +1,11 @@
 # News
-
+## 18 August 2017
+* [Bitcoin passes $4,300 for the first time](bitcoin_18.08.17.md)
+* [New Key Recovery Service (KRS) from NEM](nem-18.08.17.md)
+* [IOTA new developer](iota-_18.08.17.md)
+* [World’s first seafood dedicated blockchain presented by Stratis](stratis_18.08.17.md)
+* [Earn money fixing github issues for BitShares](bitshares_18.08.17.md)
+* [Veritaseum ICO gets hacked and loses ~$8M USD](veritaseum_18.08.17.md)
 ## 16 August 2017
 * [Ethereum classic used to fight ticket touts](2017-08-16-Ethereum-Classic-used-to-fight-ticket-touts.markdown)
 * [Qtum relases skynet test network](2017-08-16-Qtum-releases-skynet-test-network.markdown)

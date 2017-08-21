@@ -116,6 +116,7 @@
 * [Erik Voorhees](erik_voorhees.md)
 * [Erikas Malisauskas](erikas_malisauskas.md)
 * [Erlan Akmatov](erlan_akmatov.md)
+* [Ernest Chae](ernest_chae.md)
 * [Esteban Ordano](esteban_ordano.md)
 * [Ethan Clime](ethan_clime.md)
 * [Eugene Shumilov](eugene_shumilov.md)
@@ -333,6 +334,7 @@
 * [Stefan George](stefan_george.md)
 * [Stefan Hickmott](stefan_hickmott.md)
 * [Steve Nico Williams](steve_williams.md)
+* [Steven Baek](steven_baek.md)
 * [Steven White](steven_white.md)
 * [Susanne Tempelhof](susanne_tempelhof.md)
 ## T

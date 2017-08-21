@@ -4,6 +4,7 @@
 * [Ethereum classic used to fight ticket touts](2017-08-16-Ethereum-Classic-used-to-fight-ticket-touts.markdown)
 * [Qtum relases skynet test network](2017-08-16-Qtum-releases-skynet-test-network.markdown)
 * [Ripple is opening up about its plans to enter one of the world's largest markets.](2017-08-16-Ripple-opens-its-plans-to-enter-one-of-the-world's-largest-markets.markdown)
+* [Iconomi announced partnership with Columbus Capital LTD](iconomi_16-08-17.md)
 
 ## 15 August 2017
 * [Reddcoin's price goes up](reddcoin_15-08-17.md)

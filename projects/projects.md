@@ -113,6 +113,7 @@
 * [Propy](propy.md)
 ## Q
 * [Qtum](qtum.md)
+* [Qvolta](qvolta.md)
 * [Quantum Resistant Ledger](qrl.md)
 ## R
 * [REAL](real.md)
@@ -132,6 +133,7 @@
 * [Steem](steem.md)
 * [Stellar](stellar.md)
 * [Storj](storj.md)
+* [Storm](storm.md)
 * [Stratis](stratis.md)
 * [SysCoin](syscoin.md)
 ## T

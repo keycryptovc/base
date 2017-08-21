@@ -1,5 +1,5 @@
 ## Personal data
-![alexander kokhanovskyy photo](photo/alexander_kokhanovskyy.jpg)  
+![michael kaiser photo](photo/michael_kaiser.jpg)  
 Name:   Michael Kaiser  
 Location: Austria
 ## Projects 

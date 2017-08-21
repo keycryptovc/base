@@ -146,6 +146,7 @@
 * [Jun Hasegawa](jun_hasegawa.md)
 * [Juha Kovanen](juha_kovanen.md)
 * [Jure Ristic](jure_ristic.md)
+* [Justas Dobiliauskas](justas_dobiliauskas.md)
 * [jl777](jl777.md)
 ## K
 * [Kay Kurokawa](kay_kurokawa.md)
@@ -164,6 +165,7 @@
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
 ## M
+* [Mantas Mockevičius](mantas_mockevičius.md)
 * [Maria Angelova](maria_angelova.md)
 * [Manuel Araoz](manuel_araoz.md)
 * [Marshall Hayner](marshall_hayner.md)
@@ -263,6 +265,7 @@
 * [Vitor Py](vitor_py.md)
 * [Vinny Lingham](vinny_lingham.md) 
 * [Volodymyr Panchenko](volodymyr_panchenko.md)
+* [Vytautas Karalevičius](vytautas_karalevičius.md)
 ## W
 * [Wayman Kwan](wayman_kwan.md)
 * [Willy Ko](willy_ko.md)

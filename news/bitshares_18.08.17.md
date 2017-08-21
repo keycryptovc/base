@@ -1,4 +1,4 @@
-### Project: [BitShares](../projects/bitshared.md)
+### Project: [BitShares](../projects/bitshares.md)
 ### Date: 18.08.17
 ## Summary
 Bitshares developers just posted news about thier milestones. 

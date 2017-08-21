@@ -1,6 +1,6 @@
 ## Personal data
 ![sean mchale photo](photo/sean_mchale.jpg)  
-Name:   Sean McHale  
+Name:   USA  
 Location: Australia
 ## Projects 
 Name: [TokenStub](../projects/tokenstub.md)  

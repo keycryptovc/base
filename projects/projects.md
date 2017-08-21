@@ -145,6 +145,7 @@
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
 * [smartRE](smartre.md)
+* [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
 * [Status](status.md)
 * [Steem](steem.md)

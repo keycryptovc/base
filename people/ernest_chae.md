@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](photo/ernest_chae.jpg)  
-Name: Ernest Chae 
+Name: Ernest Chae  
 Location: Unknown
 ## Projects 
 Name: [Becksang](../projects/becksang.md)  

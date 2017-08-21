@@ -229,6 +229,7 @@
 * [Kellogg N. Fairbank](kellogg_fairbank.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Kevin Hobbs](kevin_hobbs.md)
+* [Kevin Kaiser](kevin_kaiser.md)
 * [Kevin Yan](kevin_yan.md)
 * [Kim Jackson](kim_jackson.md)
 * [Kirill Murzin](kirill_murzin.md)
@@ -266,6 +267,7 @@
 * [Matias Pereira](matias_pereira.md)
 * [Melissa Sapmaz](melissa_sapmaz.md)
 * [Michael Egorov](michael_egorov.md)
+* [Michael Kaiser](michael_kaiser.md)
 * [Michael Kolenbrander](michael_kolenbrander.md)
 * [Michael Maloney](michael_maloney.md)
 * [Michael Sperk](michael_sperk.md)
@@ -335,6 +337,7 @@
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  
+* [Sabrina Kaiser](sabrina_kaiser.md)
 * [Sam Brooks](sam_brooks.md) 
 * [Sameer Misson](sameer_misson.md)
 * [Sasha Ivanov](sasha_ivanov.md)

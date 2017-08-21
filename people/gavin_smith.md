@@ -1,5 +1,5 @@
 ## Personal data
-![gavin_smith photo](photo/gavin_smith.jpg)  
+![gavin_smith photo](photo/gavin_smith.png)  
 Name:   Gavin Smith  
 Location: Switzerland
 ## Projects 

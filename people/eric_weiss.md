@@ -3,7 +3,7 @@
 Name: Eric Weiss    
 Location: ---  
 ## Projects 
-Name: [ChronoLogic](../projects/chronlogic.md)  
+Name: [ChronoLogic](../projects/chronologic.md)  
 Position: ---  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/digistrats/)  

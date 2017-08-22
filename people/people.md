@@ -119,6 +119,7 @@
 * [E_{A}](e_a.md)
 * [Elad Kofman](elad_kofman.md)
 * [Eduardo Portugues](eduardo_portugues.md)
+* [Edward Ng](edward_ng.md)
 * [Emily Englesohn](emily_englesohn.md)
 * [Enda Crowley](enda_crowley.md)
 * [Enric Duran](enric_duran.md)
@@ -164,6 +165,7 @@
 * [Hakam Misson](hakam_misson.md)
 * [Hasoshi](hasoshi.md)
 * [Henry Ashley-Cooper](henry_ashley_cooper.md)
+* [Herbert W. Hoover](herbert_w._hoover.md)
 * [Hiroshi Mita](hiroshi_mita.md)
 * [H. L. Lu](h.l._lu.md)
 ## I

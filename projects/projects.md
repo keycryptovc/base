@@ -14,6 +14,7 @@
 * [Augur](augur.md)
 ## B
 * [Bancor](bancor.md)
+* [Bankera](bankera.md)
 * [Basic Attention Token](bat.md)
 * [Becksang](becksang.md)
 * [BitBay](bitbay.md)

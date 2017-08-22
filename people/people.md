@@ -224,8 +224,9 @@
 * [Jun Hasegawa](jun_hasegawa.md)
 * [Juha Kovanen](juha_kovanen.md)
 * [Jure Ristic](jure_ristic.md)
-* [Justin Litchfield](justin_litchfield.md)
+* [Justas Dobiliauskas](justas_dobiliauskas.md)
 * [Justas Pikelis](justas_pikelis.md)
+* [Justin Litchfield](justin_litchfield.md)
 * [jl777](jl777.md)
 ## K
 * [Kay Kurokawa](kay_kurokawa.md)
@@ -253,6 +254,7 @@
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
 ## M
+* [Mantas Mockevičius](mantas_mockevičius.md)
 * [Matt Carden](matt_carden.md)
 * [Maria Angelova](maria_angelova.md)
 * [Manuel Araoz](manuel_araoz.md)
@@ -402,6 +404,7 @@
 * [Vinny Lingham](vinny_lingham.md) 
 * [Vika Kravets](vika_kravets.md)
 * [Volodymyr Panchenko](volodymyr_panchenko.md)
+* [Vytautas Karalevičius](vytautas_karalevičius.md)
 ## W
 * [Wade Penson](wade_penson.md)
 * [Waleed Amjad](waleed_amjad.md)

@@ -6,7 +6,7 @@ Year founded: 2017
 Currency: AHT  
 ICO: Q3 2017
 ## Staff
-CEO: [Rhea Mehta](../people/rhea_mehta.md)  
+Co-founder & CEO: [Rhea Mehta](../people/rhea_mehta.md)  
 CTO: [Saul Ibaven Bueno](../people/saul_ibaven_bueno.md)   
 Chairman: [Francisco Diaz-Mitoma](../people/francisco_diaz-mitoma.md)  
 Head of Product: [Francisco Diaz-Mitoma](../people/francisco_diaz-mitoma.md)

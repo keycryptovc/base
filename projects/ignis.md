@@ -2,7 +2,7 @@
 ![logo](../projects/logo/ignis.png)  
 Name: Ignis  
 [Website](https://www.jelurida.com/ico)  
-Year founded: 2017  
+Founded: 2017  
 Currency: IGNIS   
 ICO: Q3 2017
 ## Staff

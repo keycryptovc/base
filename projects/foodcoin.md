@@ -19,5 +19,5 @@ FoodCoin Ecosystem will be based on the Ethereum technology.
 [Telegram](https://t.me/Foodcoin)  
 [Blog](https://www.foodcoin.io/blog)  
 ## About  
-[Whitepaper](https://www.foodcoin.io/files/foodcoin-whitepaper-en.pdf) 
+[Whitepaper](https://www.foodcoin.io/files/foodcoin-whitepaper-en.pdf)  
 [Interview with founders](https://www.youtube.com/watch?v=heGT926GXK8)

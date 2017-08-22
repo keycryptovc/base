@@ -2,7 +2,7 @@
 ![logo](../projects/logo/digipulse.png)  
 Name:  DigiPulse  
 [Website](https://www.digipulse.io/)  
-Year founded: 2017  
+Founded: 2016  
 Currency: DGT  
 ICO: Q3 2017
 ## Staff

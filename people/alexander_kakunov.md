@@ -1,5 +1,5 @@
 ## Personal data
-![alexander kakunov photo](photo/alexander_kakunov.jpg)  
+![alexander kakunov photo](photo/alexander_kakunov.png)  
 Name:   Alexander Kakunov  
 Location: Thailand 
 ## Projects 

@@ -112,6 +112,7 @@
 * [Denis Belousov](denis_belousov.md)
 * [Denis Satyukov](denis_satyukov.md) 
 * [Deven Soni](deven_soni.md)
+* [Dmitry Dementyev-Dedelis](dmitry_dementyev-dedelis.md)
 * [Dmitry Khovratovich](dmitry_khovratovich.md)
 * [Dmitry Konopelko](dmitry_konopelko.md)
 * [Dmitry Korzhik](dmitry_korzhik.md)
@@ -321,6 +322,7 @@
 * [Nick Iversen](nick_iversen.md)
 * [Nikita Lobushkin](nikita_lobushkin.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
+* [Normunds Kvilis](normunds_kvilis.md)
 * [Nursultan Aliev](nursultan_aliev.md)
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
@@ -348,6 +350,7 @@
 ## Q
 * [Qingfeng Shan](qingfeng_shan.md)
 ## R
+* [Rafik Misirov](rafik_misirov.md) 
 * [Raid5](raid5.md) 
 * [Reda Markeviciute](reda_markeviciute.md)
 * [Reeve Collins](reeve_collins.md)

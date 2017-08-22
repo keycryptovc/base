@@ -52,6 +52,7 @@
 * [DeCred](decred.md)
 * [DentalFix](dentalfix.md)
 * [DigiByte](digibyte.md)
+* [DigiPulse](digipulse.md)
 * [DigixDAO](digixdao.md)
 * [DMarket](dmarket.md)
 * [Dogecoin](dogecoin.md)

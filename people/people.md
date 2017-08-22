@@ -167,6 +167,7 @@
 * [Gilad Somjen](gilad_somjen.md)
 * [Gilles Fedak](gilles_fedak.md)
 * [Gnasher](gnasher.md)  
+* [Gregory Arzumanian](gregory_arzumanian.md)
 * [Guy Benartzi](guy_benartzi.md)
 * [Guy Zyskind](guy_zyskind.md)  
 ## H
@@ -277,6 +278,7 @@
 * [Matt Carden](matt_carden.md)
 * [Maria Angelova](maria_angelova.md)
 * [Manuel Araoz](manuel_araoz.md)
+* [Mark Meytin](mark_meytin.md)
 * [Marcie D. Terman](marcie_d._terman.md)
 * [Marcelo Barbosa](marcelo_barbosa.md)
 * [Maria Popova](maria_popova.md)

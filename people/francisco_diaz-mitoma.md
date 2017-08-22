@@ -1,5 +1,5 @@
 ## Personal data
-![francisco diaz-mitoma photo](photo/francisco_diaz-mitoma.jpg)  
+![francisco diaz-mitoma photo](photo/francisco_diaz-mitoma.png)  
 Name:   Francisco Diaz-Mitoma  
 Location: Canada
 ## Projects 

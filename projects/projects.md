@@ -49,6 +49,7 @@
 * [Decentraland](decentraland.md)
 * [DeCred](decred.md)
 * [DigiByte](digibyte.md)
+* [DigiPulse](digipulse.md)
 * [DigixDAO](digixdao.md)
 * [DMarket](dmarket.md)
 * [Dogecoin](dogecoin.md)

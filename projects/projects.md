@@ -28,6 +28,7 @@
 * [bitJob](bitjob.md)
 * [BitShares](bitshares.md)
 * [BlockCAT](blockcat.md)
+* [Blocklancer](blocklancer.md)
 * [Blocknet](blocknet.md)
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)

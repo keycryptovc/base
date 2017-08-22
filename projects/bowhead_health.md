@@ -9,7 +9,7 @@ ICO: Q3 2017
 Co-founder & CEO: [Rhea Mehta](../people/rhea_mehta.md)  
 CTO: [Saul Ibaven Bueno](../people/saul_ibaven_bueno.md)   
 Chairman: [Francisco Diaz-Mitoma](../people/francisco_diaz-mitoma.md)  
-Head of Product: [Francisco Diaz-Mitoma](../people/francisco_diaz-mitoma.md)
+Head of Product: [Francisco Diaz-Mitoma Jr.](../people/francisco_diaz-mitoma_jr.md)
 ## Business Model
 The Bowhead platform comprises of the Bowhead hardware device which monitors a customer's biometric data to dispense personalized medicine and supplements. Their “Anonymized Healthcare Token” allows customers and Bowhead token holders to receive compensation for the leasing of medical data which patients have full control of via smart contracts.
 ## Contacts  

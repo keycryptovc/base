@@ -6,6 +6,7 @@
 * [AICoin](aicoin.md)
 * [Aigang](aigang.md)
 * [Airporn](airporn.md)
+* [Airtoken](airtoken.md)
 * [Aragon](aragon.md)
 * [Ardor](ardor.md)
 * [Ark](ark.md)

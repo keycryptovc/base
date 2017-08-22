@@ -49,6 +49,7 @@
 * [DECENT](decent.md)
 * [Decentraland](decentraland.md)
 * [DeCred](decred.md)
+* [DentalFix](dentalfix.md)
 * [DigiByte](digibyte.md)
 * [DigixDAO](digixdao.md)
 * [DMarket](dmarket.md)

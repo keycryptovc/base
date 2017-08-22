@@ -3,7 +3,7 @@
 Name: Ignis  
 [Website](https://www.jelurida.com/ico)  
 Year founded: 2017  
-Currency: JLRDA   
+Currency: IGNIS   
 ICO: Q3 2017
 ## Staff
 Co-founder & Managin Director: [Kristina Kalcheva](../people/kristina_kalcheva.md)  

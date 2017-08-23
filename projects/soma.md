@@ -1,5 +1,5 @@
 ## Overview
-![ logo](../projects/logo/soma.png)  
+![ logo](../projects/logo/soma.jpeg)  
 Name: Soma  
 [Website](https://soma.co/)  
 Year founded: 2016  

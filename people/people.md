@@ -278,6 +278,7 @@
 ## L
 * [Larry Ren](larry_ren.md)
 * [Lars Rensing](lars_rensing.md)
+* [Laurent Chekroun](laurent_chekroun.md)
 * [Lautaro Dragan](lautaro_dragan.md)
 * [Laurynas Jokubaitis](laurynas_jokubaitis.md)
 * [Lee Pennington](lee_pennington.md)
@@ -315,6 +316,7 @@
 * [Michael Kaiser](michael_kaiser.md)
 * [Michael Kolenbrander](michael_kolenbrander.md)
 * [Michael Maloney](michael_maloney.md)
+* [Michael Rabi](michael_rabi.md)
 * [Michael Sperk](michael_sperk.md)
 * [Miguel Covas](miguel_covas.md)
 * [Mike Doty](mike_doty.md)
@@ -334,6 +336,7 @@
 * [Nedyalko Vatev](nedyalko_vatev.md) 
 * [Nick Iversen](nick_iversen.md)
 * [Nikita Lobushkin](nikita_lobushkin.md)
+* [Nikolay Livadkin](nikolay_livadkin.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
 * [Normunds Kvilis](normunds_kvilis.md)
 * [Nursultan Aliev](nursultan_aliev.md)

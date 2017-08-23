@@ -94,6 +94,7 @@
 * [Intelligent Trading Technologies](intelligent_trading_technologies.md)
 * [Iconomi](iconomi.md)
 * [ICOS](icos.md)
+* [Ignis](ignis.md)
 * [iExec RLC](rlc.md)
 * [Incent](incent.md)
 * [ION](ion.md)

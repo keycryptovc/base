@@ -3,7 +3,7 @@
 Name: Mobius Network  
 [Website](https://mobius.network/)  
 Year founded: 2017  
-Currency: TM-MOBIUS  
+Currency: MOBI   
 ICO: Q3 2017
 ## Staff
 Co-founder & CEO: [David Gobaud](../people/david_gobaud.md)  

@@ -1,5 +1,5 @@
 ## Personal data
-![nikolay livadkin photo](photo/nikolay_livadkin.jpeg)  
+![nikolay livadkin photo](photo/nikolay_livadkin.jpg)  
 Name:   Nikolay Livadkin   
 Location: France    
 ## Projects 

@@ -1,5 +1,5 @@
 ## Personal data
-![valentin preobrazhensky photo](photo/valentin_preobrazhensky.jpg)  
+![valentin preobrazhensky photo](photo/valentin_preobrazhenskiy.jpg)  
 Name:   Valentin Preobrazhensky   
 Location: Singapore
 ## Projects 

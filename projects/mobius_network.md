@@ -2,7 +2,7 @@
 ![logo](../projects/logo/mobius_network.png)  
 Name: Mobius Network  
 [Website](https://mobius.network/)  
-Year founded: 2017  
+Founded: 2017  
 Currency: MOBI   
 ICO: Q3 2017
 ## Staff

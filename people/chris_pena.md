@@ -3,7 +3,7 @@
 Name: Chris Peña    
 Location: USA  
 ## Projects 
-Name: [Spectiv](../projects/Spectiv.md)  
+Name: [Spectiv](../projects/spectiv.md)  
 Position: Chief of Technology & Development 
 ## Contacts
 [Github](https://github.com/DmsChrisPena)  

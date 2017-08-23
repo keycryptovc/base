@@ -1,6 +1,6 @@
 ## Overview
 ![ logo](../projects/logo/wic.jpg)  
-Name: CryptoWi    
+Name: WIC    
 [Website](https://www.cryptowi.com/)  
 Year founded: 2017  
 Currency: WIC   

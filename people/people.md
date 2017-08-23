@@ -109,6 +109,7 @@
 * [Daniel Kraft (domob)](daniel_kraft.md)
 * [Daniel Larimer](daniel_larimer.md)
 * [Daniel Yeo](daniel_yeo.md)
+* [Danila Simonov](danila_simonov.md)
 * [David Irvine](david_irvine.md)
 * [David Johnson](david_johnson.md)
 * [David Moskowitz](david_moskowitz.md)		
@@ -118,6 +119,7 @@
 * [David Zimbeck](david_zimbeck.md)
 * [Denis Belousov](denis_belousov.md)
 * [Denis Satyukov](denis_satyukov.md) 
+* [Denis Simagin](denis_simagin.md) 
 * [Deven Soni](deven_soni.md)
 * [Dipesh Sukhani](dipesh_sukhani.md)
 * [Dmitry Dementyev-Dedelis](dmitry_dementyev-dedelis.md)
@@ -454,6 +456,7 @@
 * [Ubajaka Chijioke](ubajaka_chijioke.md)
 * [Ullo](ullo.md)
 ## V
+* [Valentin Preobrazhensky](valentin_preobrazhensky.md)
 * [Viacheslav Averkin](viacheslav_averkin.md)
 * [Viaceslavas Ruckis](viaceslavas_ruckis.md)
 * [Victor Grau Serrat](victor_grau_serrat.md)

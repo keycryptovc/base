@@ -6,7 +6,7 @@ Founded: 2017
 Currency:  KCN  
 ICO: Q3 2017
 ## Staff
-Co-founder & CEO: [Laurent Chekroun](../people/laurent_chekroun.md)  
+Co-founder & CEO: [Laurent Chekroun](../people/laurent_chekroun.md) [Linkedin](https://www.linkedin.com/in/laurent-chekroun-98b00210/)  
 Co-founder & CTO: [Michael Rabi](../people/michael_rabi.md)  
 COO: [Nikolay Livadkin](../people/nikolay_livadkin.md)   
 ## Business Model

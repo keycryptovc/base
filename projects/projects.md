@@ -44,6 +44,7 @@
 * [Counterparty](counterparty.md)
 * [Crowdholding](crowdholding.md)
 * [Crown](crown.md)
+* [CryptoWi](wic.md)
 ## D
 * [Daseron](daseron.md)
 * [Dash](dash.md)  

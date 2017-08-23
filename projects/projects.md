@@ -99,6 +99,7 @@
 ## J
 * [Just Dating Site](jds.md)
 ## K
+* [Kencoin](kencoin.md)
 * [KickCity](kickcity.md)
 * [Komodo](komodo.md)
 ## L

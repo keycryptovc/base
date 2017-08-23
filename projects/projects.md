@@ -44,7 +44,6 @@
 * [Counterparty](counterparty.md)
 * [Crowdholding](crowdholding.md)
 * [Crown](crown.md)
-* [CryptoWi](wic.md)
 ## D
 * [Daseron](daseron.md)
 * [Dash](dash.md)  
@@ -193,6 +192,7 @@
 * [Xaurum](xaurum.md)
 ## W
 * [Waves](wavesplatform.md)
+* [WIC](wic.md)
 * [Wings](wings.md)
 ## Z
 * [Zcash](zcash.md)

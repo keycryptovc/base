@@ -2,7 +2,7 @@
 Name: Ramon Hernandez   
 Location: USA  
 ## Projects 
-Name: [Spectiv](../projects/spactiv.md)  
+Name: [Spectiv](../projects/spectiv.md)  
 Position: UI Developer  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ray-hernandez-2013a092/)  

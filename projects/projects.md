@@ -107,6 +107,7 @@
 * [Komodo](komodo.md)
 ## L
 * [Latium](latium.md)
+* [LAToken](latoken.md)
 * [LBRY](lbry.md)
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)

@@ -70,6 +70,7 @@
 * [Ethereum classic](ethereum_classic.md)
 * [Etheroll](etheroll.md)
 * [Etherparty](etherparty.md)
+* [Everex](everex.md)
 
 ## F
 * [Factom](factom.md) 

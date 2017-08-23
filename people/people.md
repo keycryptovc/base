@@ -152,6 +152,7 @@
 * [Eyal Hertzog](eyal_hertzog.md)
 * [Eystein R. Lyche](eystein_lyche.md)
 ## F
+* [Fabian Kippenberg](fabian_kippenberg.md)
 * [Fabio Berger](fabio_berger.md)
 * [Francisco Diaz Mitoma](francisco_diaz-mitoma.md)
 * [Francisco Diaz Mitoma Jr](francisco_diaz-mitoma_jr.md)
@@ -251,6 +252,7 @@
 * [Justin Litchfield](justin_litchfield.md)
 * [jl777](jl777.md)
 ## K
+* [Katarina Katic](katarina_katic.md)
 * [Kay Kurokawa](kay_kurokawa.md)
 * [Kaushal Kumar Singh](kaushal_kumar_singh.md)
 * [Kellogg N. Fairbank](kellogg_fairbank.md)

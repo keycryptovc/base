@@ -54,6 +54,7 @@
 * [DigiByte](digibyte.md)
 * [DigiPulse](digipulse.md)
 * [DigixDAO](digixdao.md)
+* [DIMCOIN](dimcoin.md)
 * [DMarket](dmarket.md)
 * [Dogecoin](dogecoin.md)
 ## E

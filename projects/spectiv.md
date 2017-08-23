@@ -1,5 +1,5 @@
 ## Overview
-![ logo](../projects/logo/spectiv.png)  
+![ logo](../projects/logo/spectiv.jpg)  
 Name Spectiv    
 [Website](https://www.spectivvr.com)  
 Year founded: 2017   

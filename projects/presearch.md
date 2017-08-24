@@ -1,5 +1,5 @@
 ## Overview
-![logo](../projects/logo/0x.png)  
+![logo](../projects/logo/presearch.png)  
 Name: Presearch  
 [Website](https://www.presearch.io/)  
 Founded: 2017  

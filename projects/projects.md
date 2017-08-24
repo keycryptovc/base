@@ -138,6 +138,7 @@
 ## O
 * [OmiseGo](omisego.md)
 * [Omni](omni.md)
+* [OpenZen](openzen.md)
 ## P
 * [Particl](particl.md)
 * [Peercoin](peercoin.md)

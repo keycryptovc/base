@@ -3,7 +3,7 @@
 Name: Roshan Parikh  
 Location: USA  
 ## Projects 
-Name: [Umbrella Coin](../projects/.md)  
+Name: [Umbrella Coin](../projects/umbrellacoin.md)  
 Position: Lead Blockchain Developer 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/roshan-parikh-0728a82a/)  

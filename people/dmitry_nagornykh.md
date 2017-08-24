@@ -1,5 +1,5 @@
 ## Personal data
-![dmitry nagornykh photo](photo/dmitry_nagornykh.jpg)  
+![dmitry nagornykh photo](photo/dmitry_nagornyh.jpg)  
 Name:    Dmitry Nagornykh  
 Location: Russian Federation     
 ## Projects 

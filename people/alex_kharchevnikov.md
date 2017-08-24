@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo.alex_kharchevnikov.jpg)  
+![ photo](photo/alex_kharchevnikov.jpg)  
 Name: Alex Kharchevnikov  
 Location:
 ## Projects 

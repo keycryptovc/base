@@ -107,6 +107,7 @@
 * [Christopher Fong](christopher_fong.md)
 * [Colin Adley](colin_adley.md)
 * [Colin Cantrell](colin_cantrell.md)
+* [Colin Pape](colin_pape.md)
 * [Conner Fromknecht](conner_fromknecht.md)
 * [Craig Sellars](craig_sellars.md)   
 ## D
@@ -376,6 +377,7 @@
 * [Nikita Lobushkin](nikita_lobushkin.md)
 * [Nikolay Livadkin](nikolay_livadkin.md)
 * [Nikolay Taimanov](nikolay_taimanov.md)
+* [Nolan Dubeau](nolan_dubeau.md)
 * [Normunds Kvilis](normunds_kvilis.md)
 * [Nursultan Aliev](nursultan_aliev.md)
 ## O
@@ -422,6 +424,7 @@
 * [Richard Olsen](richard_olsen.md)
 * [Richard Craib](richard_craib.md)
 * [Rijk Plasman](rijk_plasman.md)
+* [Rob Calvert](rob_calvert.md)
 * [Rob Wilson](rob_wilson.md)
 * [Robby Dermody](robby_dermody.md)
 * [Rodrigo Sainz](rodrigo_sainz.md)

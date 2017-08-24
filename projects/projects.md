@@ -171,6 +171,7 @@
 * [Smart Investment Fund Token](smart_investment_fund_token.md)
 * [smartRE](smartre.md)
 * [Soma](soma.md)
+* [Sosnovkino](sosnovkino.md)
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
 * [Spectiv](spectiv.md)

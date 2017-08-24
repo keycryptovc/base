@@ -146,6 +146,7 @@
 * [Dmitry Konopelko](dmitry_konopelko.md)
 * [Dmitry Korzhik](dmitry_korzhik.md)
 * [Dmitry Kurinskiy](dmitry_kurinskiy.md)
+* [Dmitry Nagornykh](dmitry_nagornykh.md)
 * [Dmitry Semenov](dmitry_semenov.md)
 * [Dogedarkdev](dogedarkdev.md)
 * [Dominik Z](dominik_z.md)  
@@ -345,6 +346,7 @@
 * [Max Bronstein](max_bronstein.md)
 * [Max Kordek](max_kordek.md)
 * [Max Tarasenko](max_tarasenko.md)
+* [Maxim Dvedenidov](maxim_dvedenidov.md)
 * [Matias Pereira](matias_pereira.md)
 * [Melissa Sapmaz](melissa_sapmaz.md)
 * [Michael Egorov](michael_egorov.md)
@@ -382,6 +384,7 @@
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oleg Lodygensky](oleg_lodygensky.md)
 * [Oleksii Konashevych](oleksii_konashevych.md)
+* [Olga Serbinenko](olga_serbinenko.md)
 * [Oliver Beddows](oliver_beddows.md)
 * [Oliver Hopton](oliver_hopton.md)
 ## P

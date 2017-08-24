@@ -131,6 +131,7 @@
 * [NEM](nem.md)
 * [NEO](neo.md)
 * [Nexus](nexus.md)
+* [Nimfamoney](nimfamoney.md)
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O

@@ -1,5 +1,5 @@
 ## Personal data
-![james may photo](photo/james_may.jpg)  
+![james may photo](photo/james_may.png)  
 Name:  James May   
 Location: United Kingdom   
 ## Projects 

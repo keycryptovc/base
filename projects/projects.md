@@ -123,6 +123,7 @@
 * [MCAP](mcap.md)
 * [MediBond](medibond.md)
 * [MobileGO](mobilego.md) 
+* [Mobius Network](mobius_network.md)
 * [Metal](metal.md)
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
@@ -132,6 +133,7 @@
 * [NEM](nem.md)
 * [NEO](neo.md)
 * [Nexus](nexus.md)
+* [Nimfamoney](nimfamoney.md)
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O
@@ -166,8 +168,10 @@
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
 * [smartRE](smartre.md)
+* [Soma](soma.md)
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
+* [Spectiv](spectiv.md)
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)
@@ -193,6 +197,7 @@
 * [Xaurum](xaurum.md)
 ## W
 * [Waves](wavesplatform.md)
+* [WIC](wic.md)
 * [Wings](wings.md)
 ## Z
 * [Zcash](zcash.md)

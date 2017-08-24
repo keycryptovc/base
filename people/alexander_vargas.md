@@ -3,7 +3,7 @@
 Name: Alexander Vargas     
 Location: USA  
 ## Projects 
-Name: [Umbrella Coin](../projects/umbrella_coin.md)  
+Name: [Umbrella Coin](../projects/umbrellacoin.md)  
 Position: Marketing and Sales 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/alexander-vargas-a98839146/)  

@@ -11,6 +11,7 @@
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
 * [Alexey Podgaynov](alexey_podgaynov.md)
 * [Alex Bazhanau](alex_bazhanau.md)
+* [Alex Brunner](alex_brunner.md) 
 * [Alex Grintsvayg](alex_grintsvayg.md)
 * [Alex Fork](alex_fork.md)
 * [Alex Liebowitz](alex_liebowitz.md)
@@ -136,6 +137,7 @@
 * [Don Harinsut](don_harinsut.md)
 * [Dror Medalion](dror_medalion.md)
 * [DStrange](dstrange.md)
+* [Duane Kirkpatrick](duane_kirkpatrick.md)
 ## E
 * [E_{A}](e_a.md)
 * [Elad Kofman](elad_kofman.md)
@@ -166,6 +168,7 @@
 * [Eystein R. Lyche](eystein_lyche.md)
 ## F
 * [Fabian Kippenberg](fabian_kippenberg.md)
+* [Fabien Dureuil](fabien_dureuil.md)
 * [Fabio Berger](fabio_berger.md)
 * [Francisco Diaz Mitoma](francisco_diaz-mitoma.md)
 * [Francisco Diaz Mitoma Jr](francisco_diaz-mitoma_jr.md)
@@ -428,6 +431,7 @@
 * [Stas Oskin](stas_oskin.md)
 * [Stefan George](stefan_george.md)
 * [Stefan Hickmott](stefan_hickmott.md)
+* [Stephanie Webb](stephanie_webb.md)
 * [Steve Nico Williams](steve_williams.md)
 * [Stuart Hockman](stuart_hockman.md)
 * [Steven Baek](steven_baek.md)

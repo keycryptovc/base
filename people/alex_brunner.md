@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/alex_brunner.jpg)  
+![ photo](photo/alex_brunner.jpeg)  
 Name: Alex Brunner    
 Location: USA
 ## Projects 

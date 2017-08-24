@@ -55,6 +55,7 @@
 * [DigiPulse](digipulse.md)
 * [DigixDAO](digixdao.md)
 * [DIMCOIN](dimcoin.md)
+* [District0x Network](district0x.md)
 * [DMarket](dmarket.md)
 * [Dogecoin](dogecoin.md)
 ## E

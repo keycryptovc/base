@@ -165,6 +165,7 @@
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
 * [smartRE](smartre.md)
+* [Soma](soma.md)
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
 * [Spectiv](spectiv.md)

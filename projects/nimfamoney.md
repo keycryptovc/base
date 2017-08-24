@@ -17,7 +17,7 @@ Additional fee while paying the loan back: 10% of received profit at a closing o
 [GitHub](https://github.com/nimfamoney)  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=2040087.0)   
 [Facebook](https://www.facebook.com/nimfamoney/)   
-[Linkedin](https://www.linkedin.com/company-beta/12893942/)   
+[LinkedIn](https://www.linkedin.com/company-beta/12893942/)   
 [Twitter](https://twitter.com/nimfamoney)    
 [Slack](https://nimfa-team.slack.com/join/shared_invite/MjIyMTE5NDM3ODA4LTE1MDE5OTgzMzAtY2E5MWIzYjNiYQ)  
 [Telegram](https://t.me/Nimfamoney)  

@@ -1,7 +1,7 @@
 ## Personal data
 ![ photo](photo/alex_kharchevnikov.jpg)  
 Name: Alex Kharchevnikov  
-Location:
+Location: Russina Federation
 ## Projects 
 Name: [Nimfamoney](../projects/nimfamoney.md)  
 Position: Chief Marketing Officer   

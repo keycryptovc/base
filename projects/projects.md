@@ -193,6 +193,7 @@
 * [Xaurum](xaurum.md)
 ## W
 * [Waves](wavesplatform.md)
+* [WIC](wic.md)
 * [Wings](wings.md)
 ## Z
 * [Zcash](zcash.md)

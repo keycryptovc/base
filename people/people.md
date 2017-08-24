@@ -128,6 +128,7 @@
 * [David Irvine](david_irvine.md)
 * [David Johnson](david_johnson.md)
 * [David Lackey](david_lackey.md)
+* [David Laurance](david_laurance.md)
 * [David Moskowitz](david_moskowitz.md)		
 * [David Sønstebø](david_sønstebø.md)
 * [David Siegel](david_siegel.md)
@@ -217,6 +218,7 @@
 * [Henry Ashley-Cooper](henry_ashley_cooper.md)
 * [Herbert W. Hoover](herbert_w._hoover.md)
 * [Hiroshi Mita](hiroshi_mita.md)
+* [Horia Cretan](horia_cretan.md)
 * [H. L. Lu](h.l._lu.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
@@ -420,6 +422,7 @@
 * [Richard Farrelly](richard_farrelly.md) 
 * [Richard Nelson](richard_nelson.md)
 * [Richard Olsen](richard_olsen.md)
+* [Rick Shaddock](rick_shaddock.md)
 * [Richard Craib](richard_craib.md)
 * [Rijk Plasman](rijk_plasman.md)
 * [Rob Wilson](rob_wilson.md)

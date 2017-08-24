@@ -80,6 +80,7 @@
 * [Brendan Eich](brendan_eich.md)
 * [Brian Bondy](brian_bondy.md)
 * [Brian Onn](brian_onn.md)
+* [Bryn Bellomy](bryn_bellomy.md)
 * [BCNext](bcnext.md)
 ## C
 * [Calvin Hsieh](calvin_hsieh.md)
@@ -92,6 +93,7 @@
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md) 
 * [Chris Marsh](chris_marsh.md)
+* [Chris Peña](chris_pena.md)
 * [Christina Lewis](christina_lewis.md)
 * [Cristobal Pereira](cristobal_pereira.md)
 * [Christopher Bridges](christopher_bridges.md)
@@ -136,6 +138,7 @@
 * [Don Harinsut](don_harinsut.md)
 * [Dror Medalion](dror_medalion.md)
 * [DStrange](dstrange.md)
+* [Dylan Senter](dylan_senter.md)
 ## E
 * [E_{A}](e_a.md)
 * [Elad Kofman](elad_kofman.md)
@@ -223,6 +226,7 @@
 * [James Seibel](james_seibel.md)
 * [Jarrad Hope](jarrad_hope.md)
 * [Jared Tate](jared_tate.md)
+* [Jasmine Nguyen](jasmine_nguyen.md)
 * [Jasmine Sky](jasmine_sky.md)
 * [Jason Colby](jason_colby.md)
 * [Javier Llabres](javier_llabres.md)
@@ -266,6 +270,7 @@
 * [Justas Dobiliauskas](justas_dobiliauskas.md)
 * [Justas Pikelis](justas_pikelis.md)
 * [Justin Litchfield](justin_litchfield.md)
+* [Justin Wood](justin_wood.md)
 * [jl777](jl777.md)
 ## K
 * [Katarina Katic](katarina_katic.md)
@@ -329,6 +334,7 @@
 * [Mike Doty](mike_doty.md)
 * [Mike Raitsyn](mike_raitsyn.md)
 * [Mircea Mazilu](mircea_mazilu.md)
+* [Mirza Baig](mirza_baig.md)
 * [Mitchell Cash](mitchell_cash.md)
 * [Moises Carmona](moises_carmona.md)
 * [Mona El Isa](mona_el_isa.md)
@@ -341,6 +347,7 @@
 * [Ned Scott](ned_scott.md)
 * [Neil Mahi](neil_mahi.md)
 * [Nick Evdokimov](nick_evdokimov.md)
+* [Nick Ravanbakhsh](nick_ravanbakhsh.md)
 * [Nedyalko Vatev](nedyalko_vatev.md) 
 * [Nick Iversen](nick_iversen.md)
 * [Nikita Lobushkin](nikita_lobushkin.md)
@@ -378,6 +385,7 @@
 ## R
 * [Rafik Misirov](rafik_misirov.md) 
 * [Raid5](raid5.md) 
+* [Ramon Hernandez](ramon_hernandez.md)
 * [Razvan Matei.md](razvan_matei.md)
 * [Reda Markeviciute](reda_markeviciute.md)
 * [Reeve Collins](reeve_collins.md)

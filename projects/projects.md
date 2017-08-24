@@ -167,6 +167,7 @@
 * [smartRE](smartre.md)
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
+* [Spectiv](spectiv.md)
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)

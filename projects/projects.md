@@ -168,6 +168,7 @@
 * [Sibcoin](sibcoin.md)
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
+* [Smart Investment Fund Token](smart_investment_fund_token.md)
 * [smartRE](smartre.md)
 * [Soma](soma.md)
 * [Soundchain](soundchain.md)

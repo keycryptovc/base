@@ -87,6 +87,7 @@
 * [Godzillion](godzillion.md)
 * [Golem](golem.md)
 * [Gulden](gulden.md)
+* [Gx Coin](gxcoin.md)
 ## H
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)

@@ -1,7 +1,7 @@
 ## Personal data
 ![olga serbinenko photo](photo/olga_serbinenko.jpg)  
 Name:   Olga Serbinenko  
-Location: Russian Federation  
+Location: Switzerland   
 ## Projects 
 Name: [Sosnovkino](../projects/sosnovkino.md)  
 Position: CFO   

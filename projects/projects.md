@@ -170,6 +170,7 @@
 * [Skycoin](skycoin.md)
 * [Smart Investment Fund Token](smart_investment_fund_token.md)
 * [smartRE](smartre.md)
+* [Solar DAO](solar_dao.md)
 * [Soma](soma.md)
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)

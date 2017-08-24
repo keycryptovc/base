@@ -143,6 +143,7 @@
 * [Dima Himi](dima_himi.md)
 * [Dipesh Sukhani](dipesh_sukhani.md)
 * [Divya Gawas](divya_gawas.md)
+* [Dmitriy Solodukha](dmitriy_solodukha.md)
 * [Dmitry Dementyev-Dedelis](dmitry_dementyev-dedelis.md)
 * [Dmitry Khovratovich](dmitry_khovratovich.md)
 * [Dmitry Konopelko](dmitry_konopelko.md)
@@ -182,6 +183,7 @@
 * [Eugene Shumilov](eugene_shumilov.md)
 * [Euros Evans](euros_evans.md)
 * [Evgeny Andreev](evgeny_andreev.md)
+* [Evgeny Dorofeev](evgeny_dorofeev.md)
 * [Evgeny Ponomarev](evgeny_ponomarev.md)
 * [Ewan Wagner](ewan_wagner.md)
 * [Eyal Hertzog](eyal_hertzog.md)
@@ -388,6 +390,7 @@
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oleg Lodygensky](oleg_lodygensky.md)
+* [Oleg Solodukha](oleg_solodukha.md)
 * [Oleksii Konashevych](oleksii_konashevych.md)
 * [Olga Serbinenko](olga_serbinenko.md)
 * [Oliver Beddows](oliver_beddows.md)

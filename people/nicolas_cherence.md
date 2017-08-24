@@ -1,7 +1,7 @@
 ## Personal data
 ![ photo](photo/nicolas_cherence.jpg)  
 Name: Nicolas Cherence  
-Location:
+Location: United Kingdom
 ## Projects 
 Name: [InsureX](../projects/insurex.md)  
 Position: Lead Ethereum Developer   

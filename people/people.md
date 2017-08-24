@@ -207,6 +207,7 @@
 * [Gnasher](gnasher.md)  
 * [Gregory Arzumanian](gregory_arzumanian.md)
 * [Guy Benartzi](guy_benartzi.md)
+* [Guy Powell](guy_powell.md)
 * [Guy Zyskind](guy_zyskind.md)  
 ## H
 * [Haarek R. Andreassen](haarek_andreassen.md)
@@ -240,6 +241,7 @@
 * [Jani Valjavec](jani_valjavec.md)
 * [James Ashburn](james_ashburn.md)
 * [James Billot](james_billot.md)
+* [James May](james_may.md)
 * [James Kelly "Coin Server"](james_kelly.md)  
 * [James Seibel](james_seibel.md)
 * [Jarrad Hope](jarrad_hope.md)

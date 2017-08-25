@@ -146,6 +146,7 @@
 * [Dima Himi](dima_himi.md)
 * [Dipesh Sukhani](dipesh_sukhani.md)
 * [Divya Gawas](divya_gawas.md)
+* [Dmitriy Bereznitskiy](dmitriy_bereznitskiy.md) 
 * [Dmitriy Solodukha](dmitriy_solodukha.md)
 * [Dmitry Dementyev-Dedelis](dmitry_dementyev-dedelis.md)
 * [Dmitry Khovratovich](dmitry_khovratovich.md)

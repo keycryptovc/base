@@ -36,6 +36,7 @@
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C
+* [Change](change.md)
 * [ChronoLogic](chronologic.md)
 * [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)

@@ -7,7 +7,7 @@ Currency: AHT
 ICO: Q3 2017
 ## Staff
 CEO: [Sergey Ryabov](../people/sergey_ryabov.md)   
-CTO: [Dmitriy Bereznitsky](../people/dmitriy_bereznitsky.md)   
+CTO: [Dmitriy Bereznitskiy](../people/dmitriy_bereznitskiy.md)   
 COO: [Vitaly Mengeshev](../people/vitaly_mengeshev.md)   
 ## Business Model
 Ahoolee is a search engine dedicated to online shopping worldwide. Ahoolee uses a decentralized platform for open collecting and indexing information from open sources with confirmation of authenticity based on blockchain technology. Their mission: To give an opportunity to any person to find any product in the Internet, find ALL shops where it can be purchased, and compare them by price, and also buy any products for crypto currency.

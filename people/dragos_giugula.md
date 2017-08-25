@@ -8,6 +8,7 @@ Position: Blockchain expert
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/dragosgiugula/)  
 [Twitter](https://twitter.com/dragos_wyt)  
+[Facebook](https://www.facebook.com/dragos.cristian)  
 [Medium](https://medium.com/@Woyoti)  
 Telegram login: @HEpennypacker
 ## About

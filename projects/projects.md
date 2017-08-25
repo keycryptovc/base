@@ -100,6 +100,7 @@
 * [iExec RLC](rlc.md)
 * [Incent](incent.md)
 * [Indorse](indorse.md)
+* [InsureX](insurex.md)
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## J

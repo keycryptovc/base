@@ -179,6 +179,7 @@
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
 * [Spectiv](spectiv.md)
+* [Starbase](starbase.md)  
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)

@@ -1,5 +1,5 @@
 ## Overview
-![logo](../projects/logo/dovu.md.png)  
+![logo](../projects/logo/dovu.png)  
 Name:   DOVU  
 [Website](https://dovu.io/)  
 Founded: 2017  

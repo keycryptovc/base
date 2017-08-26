@@ -193,6 +193,7 @@
 ## T
 * [TenX](tenx.md)
 * [Tether](tether.md)
+* [TokenStars](tokenstars.md) 
 * [TokenStub](tokenstub.md)
 * [Tomahawkcoin](tomahawkcoin.md) 
 * [Trackr](trackr.md)

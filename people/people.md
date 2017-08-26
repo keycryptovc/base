@@ -95,6 +95,7 @@
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)
 * [Catherine Oliver](catherine_oliver.md)
+* [Charles Leslie](charles_leslie.md)  
 * [Charles Perez](charles_perez.md)
 * [Charlotte Holmen](charlotte_holmen.md)
 * [Chin Song](chin_song.md)
@@ -520,6 +521,7 @@
 * [Tomasz Mloduchowski](tomasz_mloduchowski.md)
 * [Tomer Sofinzon](tomer_sofinzon.md)
 * [Tomislav Gountchev](tomislav_gountchev.md)
+* [Tomoaki Sato](tomoaki_sato.md)
 * [Tomichka Kamiya](tomochika_kamiya.md)
 * [Tor Bair ](tor_bair.md) 
 * [Tosh Sharma](tosh_sharma.md)  
@@ -559,6 +561,7 @@
 * [Yemel Jardi](yemel_jardi.md)
 * [Yggdrasil](yggdrasil.md)
 * [Yogesh Gaikwad](yogesh_gaikwad.md)
+* [Yu Yamanaka](yu_yamanaka.md) 
 ## Z
 * [Zach Lebeau](zach_lebeau.md)
 * [Zack Coburn](zack_coburn.md)

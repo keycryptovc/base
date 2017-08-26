@@ -110,6 +110,7 @@
 ## K
 * [Kencoin](kencoin.md)
 * [KickCity](kickcity.md)
+* [KICKICO](kickico.md) 
 * [Komodo](komodo.md)
 ## L
 * [Latium](latium.md)

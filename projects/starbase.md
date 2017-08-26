@@ -7,7 +7,7 @@ Currency: STAR
 ICO: Q3 2017
 ## Staff
 Founder & Blockchain Engineer: [Tomoaki Sato](../people/tomoaki_sato.md)  
-CTO: [Yu Yamanaka](../people/Yu_yamanaka.md)  
+CTO: [Yu Yamanaka](../people/yu_yamanaka.md)  
 Financial Technologist: [Charles Leslie](../people/charles_leslie.md)   
 ## Business Model
 Starbase is blockchain token based crowdfunding/crowdsourcing platform. By using Starbase, you can issue new tokens on "Internet of Value", blockchain. And you can sell your issued tokens for fundraise or pay it to co-workers as shared incentive as radically rapidly, cheaply, and globally way.

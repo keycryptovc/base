@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](../people/photo/sunny_lu.png)  
-Name:  Sunny Lu
+Name:  Sunny Lu  
 Location: Shanghai, China
 ## Projects 
 Name: [Vechain](../projects/vechain.md)  

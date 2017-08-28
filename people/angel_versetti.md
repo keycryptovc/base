@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/angel_versetti.jpeg)  
+![ photo](photo/angel_versetti.jpg)  
 Name: Angel Versetti    
 Location: Switzerland  
 ## Projects 

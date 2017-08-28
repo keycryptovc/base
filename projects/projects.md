@@ -2,6 +2,8 @@
 
 ## 0
 * [0x](0x.md)
+* [300cubits](300cubits.md)
+
 ## A
 * [Ahoole](ahoolee.md)  
 * [AICoin](aicoin.md)

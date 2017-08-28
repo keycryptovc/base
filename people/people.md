@@ -292,6 +292,7 @@
 * [Jeremy Longley](jeremy_longley.md)
 * [Jeremy Rand](jeremy_rand.md)
 * [Jez San](jez_san.md)
+* [Jianliang Gu](jianliang_gu.md) 
 * [Jill Richmond](jill_richmond.md)
 * [Joel Yaffe](mr_jones.md)
 * [Joey Krug](joey_krug.md)
@@ -356,6 +357,7 @@
 * [Lautaro Dragan](lautaro_dragan.md)
 * [Laurynas Jokubaitis](laurynas_jokubaitis.md)
 * [Lee Pennington](lee_pennington.md)
+* [Leon Shang](leon_shang.md)
 * [Leomc](leomc.md)
 * [Lionzeye](lionzeye.md)
 * [Lior Yaffe](lior_yaffe.md)
@@ -526,6 +528,7 @@
 * [Stuart Hockman](stuart_hockman.md)
 * [Steven Baek](steven_baek.md)
 * [Steven White](steven_white.md)
+* [Sunny Lu](sunny_lu.md)  
 * [Susanne Tempelhof](susanne_tempelhof.md)
 ## T
 * [T.I.](t.i.md)

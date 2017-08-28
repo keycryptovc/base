@@ -1,5 +1,5 @@
 ## Personal data
-![andrew perepelitsa photo](photo/andrew_perepelitsa.png)  
+![andrew perepelitsa photo](photo/andrew_perepelitsa.jpg)  
 Name:    Andrew Perepelitsa   
 Location: Russian Federation  
 ## Projects 

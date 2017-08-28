@@ -2,12 +2,12 @@
 ![Vechain logo](../projects/logo/vechain.png)  
 Name  Vechain
 [Website](https://www.vechain.com)  
-Year founded: 2016 
+Year founded: 2016   
 Currency: token [(VEN)](https://coinmarketcap.com/currencies/vechain/)  
 ## Staff 
 CEO [Sunny Lu](../people/sunny_lu.md)  
-Operation Director [Leon Shang](../people/leon_shang.md)
-Technical Director [Jianliang Gu](../people/jianliang_gu.md)  
+Operation Director [Leon Shang](../people/leon_shang.md)  
+Technical Director [Jianliang Gu](../people/jianliang_gu.md)   
 
 ## Business Model
 Building a trust-free and distributed business ecosystem to enable transparent information flow, efficient collaboration and high speed value transferring. 

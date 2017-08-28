@@ -203,6 +203,7 @@
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
 ## V
+* [Vechain](vechain.md)  
 * [Veredictum](veredictum.md)  
 * [Verge](verge.md)
 * [Veritaseum](veritaseum.md)

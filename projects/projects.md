@@ -66,6 +66,7 @@
 * [DOVU](dovu.md) 
 ## E
 * [E-Dinar](e-dinar.md)
+* [easyMINE](easymine.md)
 * [Edgeless](edgeless.md)
 * [Emercoin](emercoin.md)
 * [Empire Card](empire_card.md)

@@ -13,7 +13,6 @@ Technical Director [Jianliang Gu](../people/jianliang_gu.md)
 Building a trust-free and distributed business ecosystem to enable transparent information flow, efficient collaboration and high speed value transferring. 
 ## Contacts
 [Email](info@vechain.com)
-[Phone](+86 021-62262980)   
 [Bitcointalk](https://bitcointalk.org/index.php?topic=2129937.0)   
 [Linkedin](https://www.linkedin.com/showcase/10692402/)   
 [Facebook](https://www.facebook.com/vechain/)    

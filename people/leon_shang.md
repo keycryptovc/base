@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](../people/photo/leon_shang.png)  
-Name:   Leon Shang
+Name:   Leon Shang  
 Location: China
 ## Projects 
 Name: [Vechain](../projects/vechain.md)  

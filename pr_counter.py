@@ -12,7 +12,7 @@ repo_name = 'base'
 repo = gh.repository(repo_owner, repo_name)
 
 # define number of days to check
-date_depth = 30
+date_depth = 35
 date_depth = datetime.timedelta(days=date_depth)
 starting_date = datetime.date.today() - date_depth
 

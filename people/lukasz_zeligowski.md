@@ -7,6 +7,6 @@ Name: [easyMINE](../projects/easymine.md)
 Position: Founder, CEO
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/lukasz-zeligowski/)  
-[Github](https://github.com/lukjel()  
+[Github](https://github.com/lukjel)  
 ## About
 -//-

@@ -1,7 +1,7 @@
 ## Overview
 ![ logo](../projects/logo/becksang.png)  
 Name: Becksang  
-[Website](www.becksang.com)  
+[Website](http://becksang.com/)
 Year founded: 2017  
 Currency: ARO
 ## Staff

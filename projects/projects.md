@@ -60,6 +60,7 @@
 * [District0x Network](district0x.md)
 * [DMarket](dmarket.md)
 * [Dogecoin](dogecoin.md)
+* [DOVU](dovu.md) 
 ## E
 * [E-Dinar](e-dinar.md)
 * [Edgeless](edgeless.md)

@@ -1,5 +1,5 @@
 ## Overview
-![ logo](../projects/logo/avalon.png)  
+![ logo](../projects/logo/avalon1.png)  
 Name: Avalon    
 [Website](https://avalon.nu/)  
 Year founded: 2017  
@@ -20,4 +20,5 @@ Avalon is the members-only affinity group and group purchase organisation specif
 [Telegram](https://t.me/joinchat/GQEIcg6hXg-QWXwzDDiOgA)  
 [Reddit](https://www.reddit.com/r/AvalonPlatform/)  
 ## About
-[FAQ's](https://avalon.nu/faqs/)
+[FAQ's](https://avalon.nu/faqs/)  
+[WhitePaper](https://avalon.nu/whitepaper/)  

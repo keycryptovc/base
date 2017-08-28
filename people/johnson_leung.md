@@ -1,8 +1,8 @@
 ## Personal data
 ![Johnson Leung photo](../people/photo/johnson_leung.jpg)  
-Name:Johnson Leung
-Location: Hong Kong
-## Projects 
+Name:Johnson Leung  
+Location: Hong Kong  
+## Projects  
 Name: [300cubits](../projects/300cubits.md)  
 Position: Co-Founder 
 ## Contacts

@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](../people/photo/jianliang_gu.png)  
-Name:  Jianliang Gu
+Name:  Jianliang Gu  
 Location: China
 ## Projects 
 Name: [Vechain](../projects/vechain.md)  

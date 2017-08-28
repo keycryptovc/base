@@ -1,4 +1,5 @@
 import github3
+import datetime
 
 # authorization
 login = ''
@@ -10,10 +11,14 @@ repo_owner = 'keycryptovc'
 repo_name = 'base'
 repo = gh.repository(repo_owner, repo_name)
 
-# define number of PRs to get
-number_pr = 200
+# define number of days to check
+date_depth = 30
+date_depth = datetime.timedelta(days=date_depth)
+starting_date = datetime.date.today() - date_depth
+
 # get pulls
-pulls = [pull for pull in repo.iter_pulls(state='closed', base='master', number=number_pr) if pull.is_merged()]
+pulls = [pull for pull in repo.iter_pulls(state='closed', base='master') if (pull.is_merged() and
+         pull.closed_at.date() > starting_date)]
 
 # fill info about PRs by user
 contributions = {}
@@ -25,4 +30,3 @@ for pull in pulls:
         contributions[login] = 1
 
 print(contributions)
-

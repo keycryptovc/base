@@ -1,7 +1,7 @@
 ## Personal data
 ![Jonathan Lee photo](../people/photo/jonathan_lee.jpg)  
-Name:Jonathan Lee
-Location: Hong Kong
+Name:Jonathan Lee  
+Location: Hong Kong  
 ## Projects 
 Name: [300cubits](../projects/300cubits.md)  
 Position: Co-Founder 

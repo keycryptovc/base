@@ -1,6 +1,6 @@
 ## Personal data
 ![Violet Gu photo](../people/photo/violet_gu.jpg)  
-Name:Violet Gu
+Name:Violet Gu  
 Location: Shanghai
 ## Projects 
 Name: [300cubits](../projects/300cubits.md)  

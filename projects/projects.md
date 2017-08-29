@@ -141,6 +141,7 @@
 * [Monetha](monetha.md)
 ## N
 * [Namecoin](namecoin.md)
+* [Nametoken](nametoken.md)
 * [NEM](nem.md)
 * [NEO](neo.md)
 * [Nexus](nexus.md)

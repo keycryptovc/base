@@ -1,6 +1,6 @@
 ## Personal dat 
-![kristina_smirnova photo](photo/kristina_smirnova.jpg)  
-Name:    Kristina Smirnova  
+![kristina smirnova photo](photo/kristina_smirnova.png)  
+Name:    Kristina Smirnova   
 Location: Russian Federation 
 ## Projects 
 Name: [BeOne](../projects/beone.md)  

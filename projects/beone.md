@@ -1,7 +1,7 @@
 ## Overview
 ![logo](../projects/logo/beone.png)  
 Name: BeOne  
-[Website](https://https://be-one.co/)  
+[Website](https://be-one.co/)  
 Founded: 2017  
 Currency: B1  
 ICO: Q4 2017

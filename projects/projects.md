@@ -23,6 +23,7 @@
 * [Bankera](bankera.md)
 * [Basic Attention Token](bat.md)
 * [Becksang](becksang.md)
+* [BeOne](beone.md)
 * [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
 * [BitcoinDark](bitcoindark.md)

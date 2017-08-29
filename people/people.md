@@ -33,6 +33,7 @@
 * [Alexander Voloshyn](alexander_voloshyn.md)
 * [Alexandr Vinarskiy](alexandr_vinarskiy.md)
 * [Alexey Elizarov](alexey_elizarov.md)
+* [Alexey Goncharenko](alexey_goncharenko.md)
 * [Alexi Lane](alexi_lane.md)
 * [Amir Bandeali](amir_bandeali.md)
 * [Álvaro Crespo](../people/alvaro_crespo.md)
@@ -349,6 +350,7 @@
 * [Krasina Mileva](krasina_mileva.md) 
 * [Kris Hansen](kris_hansen.md)
 * [Kristina Kalcheva](kristina_kalcheva.md)
+* [Kristina Smirnova](kristina_smirnova.md)
 * [Kristjan Kangro](kristjan_kangro.md)
 ## L
 * [Larry Ren](larry_ren.md)
@@ -575,6 +577,7 @@
 * [Vitaliy Mengeshev](vitaliy_mengeshev.md)
 * [Vika Kravets](vika_kravets.md)
 * [Vlad Pezhemskiy](vlad_pezhemskiy.md)
+* [Vladimir Dorokhov](vladimir_dorokhov.md)
 * [Vladimir Shmidt](vladimir_shmidt.md) 
 * [Vladislav Turiashvili](vladislav_turiashvili.md)
 * [Volodymyr Panchenko](volodymyr_panchenko.md)

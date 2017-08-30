@@ -1,7 +1,7 @@
 ## Personal data
-![ photo](../people/photo/artem_laptev.md)  
+![ photo](../people/photo/artem_laptev.png)  
 Name: Artem Laptev  
-Location: Russia  
+Location: Russia   
 ## Projects 
 Name: [Karma](../projects/karma.md)  
 Position: https://www.linkedin.com/in/artem-laptev-86314a50/

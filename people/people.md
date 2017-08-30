@@ -235,6 +235,7 @@
 * [Franco Leonel](franco_leonel.md)  
 * [Filip Radičević](filip_radicevic.md)
 * [Fitro Hermawan](fitro_hermawan.md)
+* [Fran Villalba Segarra](fran_villalba_segarra.md)
 * [Frank Menze](frank_menze.md) 
 * [François-Xavier Thoorens](xavier_thoorens.md)
 * [Fuzzbawls](fuzzbawls.md)

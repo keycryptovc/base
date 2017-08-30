@@ -6,7 +6,7 @@ Year founded: 2017
 Currency: token [BMT](https://coinmarketcap.com/...)  
 ## Staff
 Co Founder [Mikhail Dashkiev](../people/mikhail_dashkiev.md)  
-Co Founder [Petr Osipov](../people/petr_osipov.md) 
+Co Founder [Petr Osipov](../people/petr_osipov.md)  
 Project manager [Alexander Sagoun](../people/alexander_sagoun.md)  
 Creative director [Ruslan Khusnutdinov](../people/ruslan_khusnutdinov.md)  
 

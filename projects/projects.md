@@ -17,8 +17,9 @@
 * [Asch](asch.md)
 * [ATB Coin](atb_coin.md)
 * [Atmchain](atmchain.md)
-* [Augur](augur.md)
-* [Aventus](aventus.md)  
+* [Augur](augur.md) 
+* [Avalon](avalon.md)
+* [Aventus](aventus.md) 
 ## B
 * [Bancor](bancor.md)
 * [Bankera](bankera.md)
@@ -116,6 +117,7 @@
 ## J
 * [Just Dating Site](jds.md)
 ## K
+* [Karma](karma.md)
 * [Kencoin](kencoin.md)
 * [KickCity](kickcity.md)
 * [KICKICO](kickico.md) 

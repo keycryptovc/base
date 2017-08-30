@@ -1,5 +1,5 @@
 ## Personal data
-![sourabh niyogi photo](photo/sourabh_niyogi.jpg)  
+![harish thimmappa photo](photo/harish_thimmappa.jpg)  
 Name:      Harish Thimmappa   
 Location: USA
 ## Projects 

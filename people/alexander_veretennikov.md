@@ -3,7 +3,7 @@
 Name: Alexander Veretennikov    
 Location: Russian Federation 
 ## Projects 
-Name: [Crystal Clear Services](../projects/srystal.md)  
+Name: [Crystal Clear Services](../projects/crystal.md)  
 Position: Founder, CEO 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/alexander-veretennikov-43490b147/)  

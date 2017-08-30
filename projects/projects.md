@@ -18,6 +18,7 @@
 * [ATB Coin](atb_coin.md)
 * [Atmchain](atmchain.md)
 * [Augur](augur.md)
+* [Aventus](aventus.md)  
 ## B
 * [Bancor](bancor.md)
 * [Bankera](bankera.md)

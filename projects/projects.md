@@ -190,6 +190,7 @@
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
 * [Spectiv](spectiv.md)
+* [Stable](stable.md)  
 * [Starbase](starbase.md)  
 * [Status](status.md)
 * [Steem](steem.md)

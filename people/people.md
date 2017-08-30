@@ -355,6 +355,7 @@
 * [Kim Jackson](kim_jackson.md)
 * [Kirill Murzin](kirill_murzin.md)
 * [Kirill Zhitnikov](kirill_zhitnikov.md)
+* [Konrad Szalapak](konrad_szalapak.md) 
 * [Konstantin Richter](konstantin_richter.md)
 * [Konrad Szalwinski](konrad_szalwinski.md)
 * [Krasina Mileva](krasina_mileva.md) 
@@ -362,6 +363,7 @@
 * [Kristina Kalcheva](kristina_kalcheva.md)
 * [Kristina Smirnova](kristina_smirnova.md)
 * [Kristjan Kangro](kristjan_kangro.md)
+* [Krzysztof Kolaczynski](krzysztof_kolaczynski.md) 
 ## L
 * [Larry Ren](larry_ren.md)
 * [Lars Rensing](lars_rensing.md)
@@ -382,6 +384,7 @@
 * [Luke Williams](luke_williams.md)
 * [Luis Cuende](luis_cuende.md)
 ## M
+* [Maciej Kolodziejczyk](maciej_kolodziejczyk.md) 
 * [Mantas Mockevičius](mantas_mockevičius.md)
 * [Matt Carden](matt_carden.md)
 * [Maria Angelova](maria_angelova.md)

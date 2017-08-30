@@ -219,6 +219,7 @@
 * [Verge](verge.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
+* [Viberate](viberate.md) 
 * [vSlice](vslice.md)
 ## X
 * [Xaurum](xaurum.md)

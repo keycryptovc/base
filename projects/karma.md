@@ -2,8 +2,8 @@
 ![ logo](../projects/logo/karma.png)  
 Name: Karma  
 [Website](https://karma.red/)  
-Year founded: 2017 
-ICO: November 2017
+Year founded: 2017  
+ICO: November 2017  
 Currency: token [KRM](https://coinmarketcap.com/...)  
 ## Staff 
 Co-Founder [George Goognin](../people/george_goognin.md)  

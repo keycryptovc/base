@@ -1,6 +1,7 @@
 #  List of People
 
 ## A
+* [Aaron Mathis](aaron_mathis.md)
 * [Adam Krellenstein](adam_krellenstein.md)
 * [Adam Matlack](adam_matlack.md)
 * [Aidas Ignatavicius](aidas_ignatavicius.md)
@@ -20,6 +21,7 @@
 * [Alex Kharchevnikov](alex_kharchevnikov.md)
 * [Alex Liebowitz](alex_liebowitz.md)
 * [Alex Sterk](alex_sterk.md)
+* [Alex Williams](alex_williams.md)
 * [Alex Xu](alex_xu.md)
 * [Aleks Bozhinov](aleks_bozhinov.md)
 * [Aleksandr Naumenok](aleksandr_naumenok.md)
@@ -118,6 +120,7 @@
 * [Charles Perez](charles_perez.md)
 * [Charlotte Holmen](charlotte_holmen.md)
 * [Chin Song](chin_song.md)
+* [Chris Bennett](chris_bennett.md)
 * [Chris Fronda](chris_fronda.md)
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md) 

@@ -3,7 +3,7 @@
 Name:   Franco Leonel   
 Location: Argentina  
 ## Projects 
-Name: [Integrative Wallet Token](../projects/dmarket.md)  
+Name: [Integrative Wallet Token](../projects/integrative_wallet_token.md)  
 Position: Founder & Developer
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/franco-leonel-869b7080/)    

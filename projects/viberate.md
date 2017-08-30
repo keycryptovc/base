@@ -6,7 +6,7 @@ Founded: 2017
 Currency: VIB  
 ICO: Q4 2017
 ## Staff
-Co-founder & CEO: [Matej Gregorčič](../people/matej_gregorčič.md)  
+Co-founder & CEO: [Matej Gregorcic](../people/matej_gregorcic.md)  
 Co-founder & CTO: [Bostjan Zakelj](../people/bostjan_zakelj.md)  
 COO: [Vasja Veber](../people/vasja_veber.md)  
 CMO: [Kristian Gorenc](../people/kristian_gorenc.md)

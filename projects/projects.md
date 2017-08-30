@@ -115,6 +115,7 @@
 ## J
 * [Just Dating Site](jds.md)
 ## K
+* [Karma](karma.md)
 * [Kencoin](kencoin.md)
 * [KickCity](kickcity.md)
 * [KICKICO](kickico.md) 

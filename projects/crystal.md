@@ -7,8 +7,8 @@ Currency: CCT
 ICO Date: 1 September 2017  
 ## Staff
 Founder, CEO: [Alexander Veretennikov](../people/alexander_veretennikov.md)  
-Web and	Software Developer: [Valery Novikov](../people/valery_novikov.md)  
-Blockchain and Solidity	developer: [Slava Poe](../people/slava_poe.md)  
+Web and Software Developer: [Valery Novikov](../people/valery_novikov.md)  
+Blockchain and Solidity Developer: [Slava Poe](../people/slava_poe.md)  
 Marketing and Finance Advisor: [Elena Veretennikova](../people/elena_veretennikova.md)  
 Front-End Developer: [Ilya Znachko](../people/ilya_znachko.md)  
 Blockchain and Business Advisor: [Joshua Paul Hawley](../people/joshua_hawley.md)  

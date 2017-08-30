@@ -4,7 +4,7 @@ Name: Artem Laptev
 Location: Russia   
 ## Projects 
 Name: [Karma](../projects/karma.md)  
-Position: https://www.linkedin.com/in/artem-laptev-86314a50/
+Position: Co-Founder
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/artem-laptev-86314a50/)  
 [Facebook](https://www.facebook.com/tema.laptev)  

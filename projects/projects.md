@@ -2,12 +2,15 @@
 
 ## 0
 * [0x](0x.md)
+* [300cubits](300cubits.md)
+
 ## A
 * [Ahoole](ahoolee.md)  
 * [AICoin](aicoin.md)
 * [Aigang](aigang.md)
 * [Airporn](airporn.md)
 * [Airtoken](airtoken.md)
+* [Ambrosus](ambrosus.md)
 * [Aragon](aragon.md)
 * [Ardor](ardor.md)
 * [Ark](ark.md)
@@ -21,6 +24,7 @@
 * [Bankera](bankera.md)
 * [Basic Attention Token](bat.md)
 * [Becksang](becksang.md)
+* [BeOne](beone.md)
 * [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
 * [BitcoinDark](bitcoindark.md)
@@ -64,6 +68,7 @@
 * [DOVU](dovu.md) 
 ## E
 * [E-Dinar](e-dinar.md)
+* [easyMINE](easymine.md)
 * [Edgeless](edgeless.md)
 * [Emercoin](emercoin.md)
 * [Empire Card](empire_card.md)
@@ -97,7 +102,6 @@
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
 ## I
-* [Intelligent Trading Technologies](intelligent_trading_technologies.md)
 * [Iconomi](iconomi.md)
 * [ICOS](icos.md)
 * [Ignis](ignis.md)
@@ -105,6 +109,8 @@
 * [Incent](incent.md)
 * [Indorse](indorse.md)
 * [InsureX](insurex.md)
+* [Integrative Wallet Token](integrative_wallet_token.md) 
+* [Intelligent Trading Technologies](intelligent_trading_technologies.md)
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## J
@@ -137,6 +143,7 @@
 * [Monetha](monetha.md)
 ## N
 * [Namecoin](namecoin.md)
+* [Nametoken](nametoken.md)
 * [NEM](nem.md)
 * [NEO](neo.md)
 * [Nexus](nexus.md)
@@ -184,6 +191,7 @@
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
 * [Spectiv](spectiv.md)
+* [Stable](stable.md)  
 * [Starbase](starbase.md)  
 * [Status](status.md)
 * [Steem](steem.md)
@@ -204,6 +212,7 @@
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
 ## V
+* [Vechain](vechain.md)  
 * [Veredictum](veredictum.md)  
 * [Verge](verge.md)
 * [Veritaseum](veritaseum.md)
@@ -215,5 +224,6 @@
 * [Waves](wavesplatform.md)
 * [WIC](wic.md)
 * [Wings](wings.md)
+* [Wolk](wolk.md)
 ## Z
 * [Zcash](zcash.md)

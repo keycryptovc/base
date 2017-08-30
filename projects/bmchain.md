@@ -18,8 +18,8 @@ Each of us helped someone or a lot of people. We found ourselves useful to other
 The solution created by us allows everyone to say thank you for the benefit received and everyone who deserves it to receive it in the form of tokens (digital asset) to their accounts. The accumulation of tokens and the amount of gratitudes will increase your reputation and thereby will multiply the size of each subsequent gratitude. 
 ## Contacts
 [GitHub](https://github.com/BMChain)  
-[Twitter](https://twitter.com/BmChain)
-[Bitcointalk](https://bitcointalk.org/index.php?topic=2096750.0)
+[Twitter](https://twitter.com/BmChain)  
+[Bitcointalk](https://bitcointalk.org/index.php?topic=2096750.0)  
 [Telegram](https://t.me/joinchat/CUBjX0RcRJvwSiUqBwgQEQ)   
 [Facebook](https://www.facebook.com/BMChain/)   
 [Medium](https://medium.com/@BMCHAIN)    

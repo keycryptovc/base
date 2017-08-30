@@ -2,7 +2,7 @@
 ![logo](../projects/logo/stable.png)  
 Name: Stable  
 [Website](https://stable.foundation/)  
-Founded: 2017  
+Founded: 2016  
 Currency: STB  
 ICO: Q4 2017
 ## Staff

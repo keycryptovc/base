@@ -6,9 +6,13 @@ Year founded: 2017
 Currency: AVA  
 ICO Date: 24 August 2017
 ## Staff 
-Founder [](../people/*.md)  
-Cofounder [](../people/*.md)  
-
+Co-Founder, Lead Developer & Ethereum Architect: [Jean-Paul Vasilieres](../people/jean_vasilieres.md)  
+Co-Founder, Head Project Manager: [Colin Hayes](../people/colin_hayes.md)  
+Co-Founder, Head of Design: [Alex Griffin](../people/alex_griffin.md)  
+Co-Founder, Head Of Media & Marketing: [Nathan Simich](../people/nathan_simich.md)  
+Core Developer: [Lachlan Greenbank](../people/lachlan_greenbank.md)  
+Chief of Strategic Partnerships: [Alec Gutman](../people/alec_gutman.md)  
+Mobile Development & Strategic Partnerships: [Andrew Rangel](../people/andrew_rangel.md)  
 ## Business Model
 Avalon is the members-only affinity group and group purchase organisation specifically for cryptocurrency users.
 ## Contacts

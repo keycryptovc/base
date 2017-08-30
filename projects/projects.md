@@ -113,6 +113,7 @@
 * [InsureX](insurex.md)
 * [Integrative Wallet Token](integrative_wallet_token.md) 
 * [Intelligent Trading Technologies](intelligent_trading_technologies.md)
+* [Internxt](internxt.md) 
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## J

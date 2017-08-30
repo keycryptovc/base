@@ -1,6 +1,6 @@
 ## Overview
 ![ logo](../projects/logo/karma.png)  
-Name: Karma
+Name: Karma  
 [Website](https://karma.red/)  
 Year founded: 2017 
 ICO: November 2017

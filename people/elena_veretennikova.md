@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/elena_veretennikova.md)  
+![ photo](photo/elena_veretennikova.jpg)  
 Name: Elena Veretennikova  
 Location: Russian Federation
 ## Projects 

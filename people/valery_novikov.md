@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/valery_novikov.jpg)  
+![ photo](photo/valery_novikov1.jpg)  
 Name: Valery Novikov   
 Location: Russian Federation
 ## Projects 

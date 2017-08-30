@@ -606,6 +606,7 @@
 ## V
 * [Valdi Kamenarov](valdi_kamenarov.md) 
 * [Valentin Preobrazhensky](valentin_preobrazhensky.md)
+* [Valery Novikov](valery_novikov.md)  
 * [Vasja Veber](vasja_veber.md) 
 * [Viacheslav Averkin](viacheslav_averkin.md)
 * [Viaceslavas Ruckis](viaceslavas_ruckis.md)

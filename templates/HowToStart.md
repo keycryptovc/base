@@ -6,12 +6,14 @@ OR
 If you are adding new project, which is not present in issues:
  Create [Issue](https://github.com/keycryptovc/base/issues) with name of your project. Create branch in your forked repository 
 3. Gather and analyze info about project, fill [project template](project_template.md), save as "yourproject.md" in created branch 
-(save logo in /projects/logo - size 32x32)
-4. Add your project to projects folder
+(save logo in /projects/logo - size 32x32). 
+!If the project has ICO start date in future - create Issue with project name and date of ICO end (Update "Project_Name" ICO ends "DATE"), and create reminder in @announce channel: "/remind #announces https://github.com/keycryptovc/base/issues/#ISSUENUMBER  DATE"  
+(Additional info on reminders in Slack  https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder)
+4. Add your project to proects folder
 5. Add link to your project in [projects.md](../projects/projects.md)
-6. Create file(s) with key persons from your project, using [people template](people_template.md), save as "firstname_lastname.md"(save person photo in /people/photo - size 200x200)
+6. Create file(s) with key persons from your project, using [people template](people_template.md), save as "firstname_lastname.md"(save person photo in /people/photo - size 200x200)  - at least Founders, CEO, CTO .. and Blockchain Experts (if any)
 7. Add your person(s) files to people folder
-8. Add key persons to [people.md](../people/people.md)
+8. Add KEY persons to [people.md](../people/people.md)
 9. Check links in added project and people
 11. Create pull request for your branch
 12. After your PR accepted comment project issue with number of PR (example: #325)  

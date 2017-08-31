@@ -4,7 +4,8 @@ Name: Crystal Clear Services
 [Website](http://ccstoken.com/)  
 Year founded: 2015    
 Currency: CCT   
-ICO Date: 1 September 2017  
+ICO Start Date: 1 September 2017   
+ICO End Date: 1 October 2017  
 ## Staff
 Founder, CEO: [Alexander Veretennikov](../people/alexander_veretennikov.md)  
 Web and Software Developer: [Valery Novikov](../people/valery_novikov.md)  

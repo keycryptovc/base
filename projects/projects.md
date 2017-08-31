@@ -109,6 +109,7 @@
 * [Iconomi](iconomi.md)
 * [ICOS](icos.md)
 * [Ignis](ignis.md)
+* [IMMLA](immla.md)
 * [iExec RLC](rlc.md)
 * [Incent](incent.md)
 * [Indorse](indorse.md)

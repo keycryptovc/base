@@ -1,5 +1,5 @@
 ## Personal data
-![vyacheslav neunyvakin photo](photo/vyacheslav_neunyvakin.jpg)  
+![vyacheslav neunyvakin photo](photo/viacheslav_neunyvakin.jpg)  
 Name:   Vyacheslav Neunyvakin  
 Location: Russian Federation  
 ## Projects 

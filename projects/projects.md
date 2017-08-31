@@ -46,6 +46,7 @@
 ## C
 * [Change](change.md)
 * [ChronoLogic](chronologic.md)
+* [Cindicator](cindicator.md)  
 * [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)
 * [Cloud](cloud.md)

@@ -44,6 +44,7 @@
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C
+* [Ccore](ccore.md)
 * [Change](change.md)
 * [ChronoLogic](chronologic.md)
 * [Cindicator](cindicator.md)  

@@ -4,7 +4,8 @@ Name: Internxt
 [Website](https://internxt.io/)  
 Founded: 2017  
 Currency: INXT  
-ICO: Q4 2017
+ICO: Start: 7. Sep 2017
+End: 28. Sep 2017
 ## Staff
 Founder & CEO: [Fran Villalba Segarra](../people/fran_villalba_segarra.md)  
 ## Business Model

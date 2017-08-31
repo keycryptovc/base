@@ -180,6 +180,7 @@
 * [Quantum Resistant Ledger](qrl.md)
 ## R
 * [REAL](real.md)
+* [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
 * [Ripple](ripple.md)
 * [RocketICO](rocketico.md)

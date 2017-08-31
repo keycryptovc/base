@@ -4,7 +4,8 @@ Name: ATLANT
 [Website](https://atlant.io/)  
 Founded: 2016  
 Currency: ATL  
-ICO: Q4 2017
+ICO: Start: 7. Sep 2017  
+End: 31. Oct 2017
 ## Staff
 Co-founder & CEO: [Julian Svirsky](../people/julian_svirsky.md)  
 Co-founder & CTO: [Denis Donin](../people/denis_donin.md)  

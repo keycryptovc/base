@@ -1,5 +1,5 @@
 ## Overview
-![logo](../projects/logo/ethlend.png)  
+![logo](../projects/logo/ethlend.jpg)  
 Name: ETHLend  
 [Website](https://about.ethlend.io/)  
 Year founded: 2017   

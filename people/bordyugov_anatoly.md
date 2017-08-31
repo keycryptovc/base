@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](../people/photo/bordyugov_anatoly.jpg)  
+![ photo](../people/photo/bordyugov_anatoly.png)  
 Name:  Bordyugov Anatoly  
 Location: Russia  
 ## Projects 

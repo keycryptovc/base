@@ -59,6 +59,7 @@
 ## D
 * [Daseron](daseron.md)
 * [Dash](dash.md)  
+* [Datum Network](datum_network.md) 
 * [DECENT](decent.md)
 * [Decentraland](decentraland.md)
 * [DeCred](decred.md)

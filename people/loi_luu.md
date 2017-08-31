@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/loi_luu.jpg)  
+![ photo](photo/)  
 Name: Loi Luu   
 Location: Singapore
 ## Projects 

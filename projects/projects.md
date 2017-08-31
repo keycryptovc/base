@@ -110,6 +110,7 @@
 ## H
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
+* [HyperQuant](hyperquant.md)
 ## I
 * [Iconomi](iconomi.md)
 * [ICOS](icos.md)

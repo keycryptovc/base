@@ -86,6 +86,7 @@
 * [Ethereum classic](ethereum_classic.md)
 * [Etheroll](etheroll.md)
 * [Etherparty](etherparty.md)
+* [ETHLend](ethlend.md)
 * [Everex](everex.md)
 
 ## F

@@ -11,14 +11,20 @@ CEO, Professional Quantitative Trader, HyperQuant System Architect: [Pavel Pavch
 Co-founder, Business Development and Head of Marketing: [Pavel Rogov](../people/pavel_rogov.md)  
 ## Business Model
  Fintech Investment and Smart Cryptocurrency Trading Services  
- MentalChain Network  
+ 
+ MentalChain Network   
+ 
 The technology of cryptocurrency investing by means of exchange robots. Network participants control their coins with effective trading strategies or create and sell their own, receiving tokens.  
+
 HyperQuant ECN  
 Electronic communication network. An intelligent Exchange Bidding Router. Buy coins at the best price aggregated from the largest cryptocurrency exchanges in real time.  
+
 HyperQuant Hedging Service  
 Price risk Hedging Service for Miners and Investors. Secure your coins against price fluctuations.  
+
 HyperQuant Multimarket ECN  
 Trade your bitcoins, Apple, Google, and NVIDIA shares from one site. This technology enables you to access one account or multiple different world Marketplaces.  
+
 HyperQuant Core API for Fintech Solutions  
 Developers and companies can create:  
 * In-house mobile and web-based robo-advising applications

@@ -18,7 +18,7 @@ Electronic communication network. An intelligent Exchange Bidding Router. Buy co
 HyperQuant Hedging Service
 Price risk Hedging Service for Miners and Investors. Secure your coins against price fluctuations.
 HyperQuant Multimarket ECN
-Would you like to trade your bitcoins, Apple, Google, and NVIDIA shares from one site? This technology enables you to access one account or multiple different world Marketplaces.
+Trade your bitcoins, Apple, Google, and NVIDIA shares from one site. This technology enables you to access one account or multiple different world Marketplaces.
 HyperQuant Core API for Fintech Solutions
 Developers and companies can create:
 * In-house mobile and web-based robo-advising applications,
@@ -26,14 +26,14 @@ Developers and companies can create:
 * Cryptocurrency stock exchanges or marketplaces.
 ## Contacts  
 [Bitcointalk](https://hyperquant.net/en/index.php)     
-[Reddit](https://goo.gl/MDRZwz) 
-[Facebook](https://www.facebook.com/hyperquant.net/) 
+[Reddit](https://goo.gl/MDRZwz)  
+[Facebook](https://www.facebook.com/hyperquant.net/)  
 [Twitter](https://goo.gl/YtQAq3)   
-[Telegram](https://t.me/hyperquant)   
-[Slack](https://goo.gl/3FtNAM) 
-[KakaoTalk](https://goo.gl/A7yTVe)
-[Youtube](https://www.youtube.com/channel/UCOgRfmQR-GKJlbnF1tRQPgw) 
-[Medium](https://goo.gl/4zw9y4)
+[Telegram](https://t.me/hyperquant)    
+[Slack](https://goo.gl/3FtNAM)  
+[KakaoTalk](https://goo.gl/A7yTVe)  
+[Youtube](https://www.youtube.com/channel/UCOgRfmQR-GKJlbnF1tRQPgw)  
+[Medium](https://goo.gl/4zw9y4)  
   
 ## About 
 [Whitepaper](https://hyperquant.net/docs/whitepaper/HyperQuant-English-Whitepaper-v1.0.pdf)

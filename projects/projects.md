@@ -98,6 +98,7 @@
 * [FunFair](funfair.md)
 ## G
 * [GameCredits](gamecredits.md)
+* [Gimli](gimli.md)
 * [Gluon](gluon.md)
 * [Gnosis](gnosis.md)
 * [Godzillion](godzillion.md)

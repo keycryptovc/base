@@ -7,8 +7,8 @@ ICO Start: 21.08.17
 End: 31.08.17  
 Currency: token (HYPER)	 
 ## Staff 
-CEO, Professional Quantitative Trader, HyperQuant System Architect[Pavel Pavchenko](../people/pavel_pavchenko.md)  
-Co-founder, Business Development and Head of Marketing [Pavel Rogov](../people/pavel_rogov.md)  
+CEO, Professional Quantitative Trader, HyperQuant System Architect: [Pavel Pavchenko](../people/pavel_pavchenko.md)  
+Co-founder, Business Development and Head of Marketing: [Pavel Rogov](../people/pavel_rogov.md)  
 ## Business Model
  Fintech Investment and Smart Cryptocurrency Trading Services
  MentalChain Network

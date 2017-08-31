@@ -4,7 +4,7 @@ Name Mondo
 [Website](http://mondo.one/)   
 Year founded: 2017  
 ICO: Q3 2017  
-Currency: token [MND]()  
+Currency: token (MND) 
 ## Staff 
 CEO [Yakushev German](../people/yakushev_german.md)  
 Co-Founder [Lev Berdyanskyy](../people/lev_berdyanskyy.md)  

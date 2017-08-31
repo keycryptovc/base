@@ -1,10 +1,10 @@
 ## Overview
 ![HyperQuant logo](../projects/logo/hyperquant.png)  
-Name: HyperQuant
-[Website](https://hyperquant.net/)   
-Year founded: 2017
-ICO Start: 21.08.17 
-End: 31.08.17
+Name: HyperQuant  
+[Website](https://hyperquant.net/)    
+Year founded: 2017  
+ICO Start: 21.08.17  
+End: 31.08.17  
 Currency: token (HYPER)	 
 ## Staff 
 CEO, Professional Quantitative Trader, HyperQuant System Architect[Pavel Pavchenko](../people/pavel_pavchenko.md)  

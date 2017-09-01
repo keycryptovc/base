@@ -638,7 +638,7 @@
 * [Vitor Py](vitor_py.md)
 * [Vinny Lingham](vinny_lingham.md) 
 * [Vitaliy Mengeshev](vitaliy_mengeshev.md)
-* [Vitaly Stepanov](vitaly_stepanov.md) 
+* [Vitalii Stepanov](vitalii_stepanov.md) 
 * [Vika Kravets](vika_kravets.md)
 * [Vlad Pezhemskiy](vlad_pezhemskiy.md)
 * [Vladimir Dorokhov](vladimir_dorokhov.md)

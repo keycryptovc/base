@@ -10,7 +10,7 @@ End: 15. Oct 2017
 Executive Director: [Kirill Tulenev](../people/kirill_tulenev.md)   
 Co-founder & Information Director: [Vyacheslav Neunyvakin](../people/vyacheslav_neunyvakin.md)   
 Co-founder: [Mikhail Astakhov](../people/mikhail_astakhov.md)  
-Development Director: [Vitaly Stepanov](../people/vitaly_stepanov.md)  
+Development Director: [Vitalii Stepanov](../people/vitalii_stepanov.md)  
 ## Business Model
 IMMLA (International MultiModal Logistic Application) is the first multimodal logistics service with a decentralised system of transportation, document workflow and payments. The mission of IMMLA project is a simple, clear and convenient interaction between the owner of cargo and the transporter on all stages of the freight transport.
 ## Contacts  

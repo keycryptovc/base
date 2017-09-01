@@ -10,8 +10,8 @@ End: 18. Oct 2017
 CEO: [Maksim Izmaylov](../people/maksim_izmaylov.md)  
 COO: [Pedro Renaud Anderson](../people/pedro_renaud_anderson.md)  
 CTO: [Jakub Vysoky](../people/jakub_vysoky.md)   
-Chief architect: [Nicolas Berger](../people/nicolas_berger.md)  
-Blockchain architect: [Augusto Lemble](../people/augusto_lemble.md)
+Chief Architect: [Nicolas Berger](../people/nicolas_berger.md)  
+Blockchain Architect: [Augusto Lemble](../people/augusto_lemble.md)
 ## Business Model
 A decentralized distribution platform for the travel industry. The oligopolistic nature of the travel industry allows for superior margins, double marginalization, and inhibits competition. Today hotels pay up to 25% fees of the total booking value to intermediaries who hold a duopoly on travel distribution. Winding Tree gives the distribution power back to the individual hotels and airlines. Moving data around and charging for that service may have been a business model in 70s but is wholly outdated today. Blockchain allows for a truly free and competitive platform in the travel industry. Having previously started a successful travel startup we have great connections in the industry and are actively talking to some of the largest players in travel.
 ## Contacts  

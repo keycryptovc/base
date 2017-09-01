@@ -1,5 +1,5 @@
 ## Personal data
-[!photo](photo/joseph_lee.jpg)
+![photo](photo/joseph_lee.jpg)
 Name: Joseph Lee  
 Location: ---
 ## Projects 

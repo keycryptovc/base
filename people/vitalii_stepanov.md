@@ -1,6 +1,6 @@
 ## Personal data
-![vitaly stepanov photo](photo/vitaly_stepanov.jpg)  
-Name:   Vitaly Stepanov  
+![vitalii stepanov photo](photo/vitalii_stepanov.jpg)  
+Name:   Vitalii Stepanov  
 Location: Russian Federation  
 ## Projects 
 Name: [IMMLA](../projects/immla.md)  

@@ -9,7 +9,7 @@ ICO Date: TBA
 Co-Founder, CEO: [Kevin McSheehan](../people/kevin_mcsheehan.md)  
 Co-Founder, CTO: [Corey Jackson](../people/corey_jackson.md)  
 Co-Founder, Strategic Partner: [Ron DiIorio](../people/ron_diiorio.md)  
-Head of Business Development : [Cory Torrella](../people/cory_torrella.md)  
+Head of Business Development: [Cory Torrella](../people/cory_torrella.md)  
 Lead Solidity Developer: [Robert Forster](../people/robert_forster.md)  
 ## Business Model
 Minerva is a payment processor which provides an

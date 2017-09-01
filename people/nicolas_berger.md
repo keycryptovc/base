@@ -1,5 +1,5 @@
 ## Personal data
-![nicolas berger photo](photo/nicolas_berger.jpg)  
+![nicolas berger photo](photo/nicolas_berger.jpeg)  
 Name:    Nicolas Berger   
 Location: Argentina    
 ## Projects 

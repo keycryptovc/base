@@ -3,7 +3,7 @@
 Name: Neeraj Murarka  
 Location: Singapore
 ## Projects 
-Name: [Bluzelle](../projects/bluzzele.md)  
+Name: [Bluzelle](../projects/bluzelle.md)  
 Position: CTO  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/njmurarka/)  

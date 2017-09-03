@@ -39,6 +39,7 @@
 * [BlockCAT](blockcat.md)
 * [Blocklancer](blocklancer.md)
 * [Blocknet](blocknet.md)
+* [Bluzelle](bluzelle.md)
 * [BMchain](bmchain.md)
 * [Bowhead Health](bowhead_health.md)
 * [Byteball](byteball.md)

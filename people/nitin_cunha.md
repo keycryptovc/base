@@ -3,7 +3,7 @@
 Name: Nitin Cunha  
 Location: Canada
 ## Projects 
-Name: [Bluzzele](../projects/bluzelle.md)  
+Name: [Bluzelle](../projects/bluzelle.md)  
 Position: Senior Developer 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/nitincunha/)   

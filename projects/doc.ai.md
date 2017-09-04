@@ -1,5 +1,5 @@
 ## Overview
-![logo](../projects/logo/doc.ai.png)  
+![logo](../projects/logo/doc_ai.png)  
 Name: doc.ai  
 [Website](https://tokensale.doc.ai/)  
 Founded: 2017  

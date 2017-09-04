@@ -8,7 +8,7 @@ ICO: Start 20. Sep 2017
 End: 20. Oct 2017
 ## Staff
 Co-founder & CEO: [Dmitry Plutschevsky](../people/dmitry_plutschevsky.md)  
-Co-founder and CBDO: [Evgeniy Volfman](../people/evgeniy_volfman.md)   
+Co-founder and CBDO: [Evgeny Volfman](../people/evgeny_volfman.md)   
 CTO: [Konstantin Pichugin](../people/konstantin_pichugin.md)  
 Lead Blockchain Developer: [Anton Akentiev](../people/anton_akentiev.md)  
 ## Business Model

@@ -9,7 +9,7 @@ End: 12. Oct 2017
 ## Staff
 CEO: [Walter De Brouwer](../people/walter_de_brouwer.md)  
 CTO: [Apurv Mishra](../people/apurv_mishra.md)  
-CMO: [Alan Green](../people/alan_green.md)  
+CMO: [Alan Greene](../people/alan_greene.md)  
 CFO: [Anthea Chung](../people/anthea_chung.md)
 ## Business Model
 doc.ai is a conversational AI-powered platform for on-demand, quantified biology. This advanced natural language dialog system was designed for vertical medical domains, and can generate and communicate insights on genomic and pharmacogenomic, exposomic and anatomical data as well as sensor-based wellness features and hematology. With the help of this technology layer they are launching NEURON, a decentralized artificial intelligence platform which allows anyone to connect to the network and train their own AI, by pushing deep learning to edge devices (smartphones).

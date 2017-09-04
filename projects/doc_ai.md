@@ -8,7 +8,7 @@ ICO: Start: 28. Sep 2017
 End: 12. Oct 2017
 ## Staff
 CEO: [Walter De Brouwer](../people/walter_de_brouwer.md)  
-COO: [Sam De Brouwer](../people/sam_de_brouwer.md)  
+CTO: [Apurv Mishra](../people/apurv_mishra.md)  
 CMO: [Alan Green](../people/alan_green.md)  
 CFO: [Anthea Chung](../people/anthea_chung.md)
 ## Business Model

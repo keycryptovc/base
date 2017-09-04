@@ -1,4 +1,7 @@
 # News
+## 04 September 2017
+* [How Bluzelle technology can be applied to fintech](bluzelle_04-09-17.md)
+
 ## 21 August 2017
 * [Dash price grew up over the weekend. New Dash news weekly recap is available.](dash_21-08-17.md)
 

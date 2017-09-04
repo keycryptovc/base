@@ -1,6 +1,6 @@
 ## Personal data
-![evgeniy volfman photo](photo/evgeniy_volfman.jpg)  
-Name:   Evgeniy Volfman  
+![evgeny volfman photo](photo/evgeny_volfman.jpg)  
+Name:   Evgeny Volfman  
 Location: Russian Federation  
 ## Projects 
 Name: [Goldmint](../projects/goldmint.md)  

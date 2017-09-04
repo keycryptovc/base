@@ -25,4 +25,4 @@ Bluzelle is a decentralized service that provides on-demand, scalable databases.
 [Bluzelle Latest News](http://bluzelle.com/latest-news/press/)  
 [WhitePaper](http://bluzelle.com/wp-content/uploads/2017/08/Bluzelle-White-Paper.pdf)
 ## News
-* [How Bluzelle technology can be applied to fintech](bluzelle_04-09-17.md)
+[How Bluzelle technology can be applied to fintech](bluzelle_04-09-17.md)

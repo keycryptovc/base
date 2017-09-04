@@ -16,4 +16,4 @@
    Reddit: [IOTA](https://www.reddit.com/r/Iota/)  
    The Platform has its own [forum](https://forum.iota.org/) and [devhub](https://dev.iota.org/) 
 ## News
-   [IOTA is not affected by China’s Central Bank decision to ban ICOs](iota_04-09-17.md)
+   [IOTA is not affected by China’s Central Bank decision to ban ICOs](../news/iota_04-09-17.md)

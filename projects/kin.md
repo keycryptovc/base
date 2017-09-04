@@ -12,7 +12,7 @@ CFO: [Peter Heinke](../people/peter_heinke.md)
 Chief Product Officer: [Eran Ben-Ari](../people/eran_ari.md)  
 Senior Vice President of Engineering: [Dave Simons](../people/dave_simons.md)  
 ## Business Model
-Kik Interactive Inc. is creating a cryptocurrency as a first step to launching a decentralized ecosystem of digital services. The Kin cryptocurrency will first power a digital economy inside of Kik, and then will serve as the basis of interoperability with other digital services in the Kin Ecosystem.
+Kik Interactive Inc. is creating a Kin cryptocurrency as a first step to launching a decentralized ecosystem of digital services.
 ## Contacts
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1933262.0)     
 [Twitter](https://twitter.com/@kin_foundation)    

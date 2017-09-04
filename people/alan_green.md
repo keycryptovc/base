@@ -1,6 +1,6 @@
 ## Personal data
-![alan green photo](photo/alan_green.jpg)  
-Name:    Alan Green  
+![alan greene photo](photo/alan_greene.jpg)  
+Name:    Alan Greene  
 Location: USA  
 ## Projects 
 Name: [doc.ai](../projects/doc_ai.md)  

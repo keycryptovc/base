@@ -133,6 +133,7 @@
 * [Kencoin](kencoin.md)
 * [KickCity](kickcity.md)
 * [KICKICO](kickico.md) 
+* [Kin](kin.md)
 * [Komodo](komodo.md)
 * [KyberNetwork](kybernetwork.md)
 ## L

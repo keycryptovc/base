@@ -104,6 +104,7 @@
 * [Gluon](gluon.md)
 * [Gnosis](gnosis.md)
 * [Godzillion](godzillion.md)
+* [Goldmint](goldmint.md) 
 * [Golem](golem.md)
 * [Gulden](gulden.md)
 * [Gx Coin](gxcoin.md)

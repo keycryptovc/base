@@ -84,6 +84,7 @@
 * [Emercoin](emercoin.md)
 * [Empire Card](empire_card.md)
 * [Enigma Catalyst](enigma_catalyst.md)
+* [Enjin Coin](enjin_coin.md)
 * [EOS](eos.md)
 * [EQUI](equi.md)
 * [ETCH](etch.md)

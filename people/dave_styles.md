@@ -1,10 +1,10 @@
 ## Personal data
 ![ photo](../people/photo/dave_styles.jpg)  
-Name: Dave Styles
-Location: Canada
+Name: Dave Styles  
+Location: Canada  
 ## Projects 
 Name: [Arena](../projects/arena.md)  
-Position: CEO
+Position: CEO  
 ## Contacts
 
 ## About

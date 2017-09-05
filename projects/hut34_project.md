@@ -17,4 +17,4 @@ The Hut34 Project is building a blockchain based switch to facilitate the open e
 [GitHub](https://github.com/hut34)  
 [Blog](https://medium.com/@hut34project)  
 ## About  
-[WhitePaper](https://github.com/hut34/docs-public/blob/master/whitepaper.md) 
+[WhitePaper](https://hut34.io/assets/Hut34whitepaper.pdf) 

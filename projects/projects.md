@@ -111,6 +111,7 @@
 ## H
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
+* [Hut34 Project](hut34_project.md) 
 * [HyperQuant](hyperquant.md)
 ## I
 * [Iconomi](iconomi.md)

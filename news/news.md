@@ -1,4 +1,10 @@
 # News
+
+## 04 September 2017
+
+* [How "Decentralize Escrow" Will Make An Impact on the Global Crypto Economy](decentralized_escrow_04-09-17.md)
+* [Decentralized Escrow has -"AA+" rating](decentralized_escrow_04-09-17.md) 
+
 ## 21 August 2017
 * [Dash price grew up over the weekend. New Dash news weekly recap is available.](dash_21-08-17.md)
 

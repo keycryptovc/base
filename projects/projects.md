@@ -73,6 +73,7 @@
 * [DIMCOIN](dimcoin.md)
 * [District0x Network](district0x.md)
 * [DMarket](dmarket.md)
+* [doc.ai](doc_ai.md) 
 * [Dogecoin](dogecoin.md)
 * [DOVU](dovu.md) 
 ## E

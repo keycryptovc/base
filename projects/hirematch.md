@@ -8,7 +8,7 @@ ICO: Start: 1. Oct 2017
 End: 31. Oct 2017
 ## Staff
 Co-founder & Lead Software Engineer: [Armando Pantoja](../people/armando_pantoja.md)  
-CMO: [Chad Kettering](../people/chad_kettering.md)  
+Co-founder & CMO: [Chad Kettering](../people/chad_kettering.md)  
 ## Business Model
 HireMatch has a mission to revolutionize and disrupt the job marketplace by improving the current job marketplace quality worldwide, reduce the costs across the board, increase employee quality and create a community of people. Via (HIRE) Token, they will implement a democratization of the job market.
 ## Contacts  

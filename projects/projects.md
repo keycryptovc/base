@@ -106,6 +106,7 @@
 * [Gluon](gluon.md)
 * [Gnosis](gnosis.md)
 * [Godzillion](godzillion.md)
+* [Goldmint](goldmint.md) 
 * [Golem](golem.md)
 * [Gulden](gulden.md)
 * [Gx Coin](gxcoin.md)
@@ -186,6 +187,7 @@
 * [Prime-Ex Perpetual](prime-ex.md)
 * [Proemtheus](proemtheus.md)
 * [Propy](propy.md)
+* [Pylon Network](pylon_network.md)
 ## Q
 * [Qtum](qtum.md)
 * [Qvolta](qvolta.md)
@@ -225,6 +227,7 @@
 ## T
 * [TenX](tenx.md)
 * [Tether](tether.md)
+* [Ties Network](ties_network.md) 
 * [TokenStars](tokenstars.md) 
 * [TokenStub](tokenstub.md)
 * [Tomahawkcoin](tomahawkcoin.md) 

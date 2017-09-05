@@ -226,6 +226,7 @@
 ## T
 * [TenX](tenx.md)
 * [Tether](tether.md)
+* [Ties Network](ties_network.md) 
 * [TokenStars](tokenstars.md) 
 * [TokenStub](tokenstub.md)
 * [Tomahawkcoin](tomahawkcoin.md) 

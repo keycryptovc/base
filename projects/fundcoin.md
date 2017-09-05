@@ -7,9 +7,9 @@ Currency: FND
 ICO: Start: 30. Sep 2017  
 End: 30. Oct 2017
 ## Staff
-CEO & CIO: [Rob Van Kuijk](../people/rob_van_kuijk.md)  
-CFO: [Jan Pieter Van Oudvorst](../people/jan_pieter_van_oudvorst.md)  
-Senior Staff: [Hans Van Der Holst](../people/hans_van_der_holst.md)  
+CEO & CIO: [Rob van Kuijk](../people/rob_van_kuijk.md)  
+CFO: [Jan Pieter van Oudvorst](../people/jan_pieter_van_oudvorst.md)  
+Senior Staff: [Hans van der Holst](../people/hans_van_der_holst.md)  
 ## Business Model
 A secure digital token guaranteed by buybacks from investments. FundCoin is backed by investments in Lowestoft - private equity fund, managed professionally by Finles Capital Management in a private equity fund focused on the blockchain industry. 
 ## Contacts  

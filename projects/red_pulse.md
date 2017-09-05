@@ -4,7 +4,7 @@ Name: Red Pulse
 [Website](https://coin.red-pulse.com/)  
 Founded: 2017  
 Currency: RPX  
-ICO: Start: 10. Sep 2017  
+ICO: Start: 10. Sep 2017 (Postponed)  
 End: 24. Sep 2017
 ## Staff
 Co-founder & CEO: [Jonathan Ha](../people/jonathan_ha.md)  
@@ -19,3 +19,5 @@ Red Pulse is a market intelligence platform covering China's economy and capital
 [Slack](https://redpulsetoken.slack.com/join/shared_invite/MjMyNTU0NTkyOTE0LTE1MDM5MTYxNjQtZmI1MDhmZDk1OQ)   
 ## About  
 [WhitePaper](https://coin.red-pulse.com/wp-content/uploads/redpulse-whitepaper-en.pdf)  
+## News 
+[Red Pulse ICO postponed](../news/redpulse_05-09-17.md)

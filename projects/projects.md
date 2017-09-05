@@ -162,6 +162,7 @@
 ## N
 * [Namecoin](namecoin.md)
 * [Nametoken](nametoken.md)
+* [Napoleon X](napoleon_x.md)
 * [NEM](nem.md)
 * [NEO](neo.md)
 * [Nexus](nexus.md)

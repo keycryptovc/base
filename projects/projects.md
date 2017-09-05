@@ -12,6 +12,7 @@
 * [Airtoken](airtoken.md)
 * [Ambrosus](ambrosus.md)
 * [Aragon](aragon.md)
+* [Arena](arena.md)
 * [Ardor](ardor.md)
 * [Ark](ark.md)
 * [Asch](asch.md)

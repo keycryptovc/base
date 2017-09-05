@@ -64,6 +64,7 @@
 * [Datum Network](datum_network.md) 
 * [DECENT](decent.md)
 * [Decentraland](decentraland.md)
+* [Decentralized Escrow](decentralized_escrow.md)
 * [DeCred](decred.md)
 * [DentalFix](dentalfix.md)
 * [DigiByte](digibyte.md)

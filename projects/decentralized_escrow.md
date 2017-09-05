@@ -1,11 +1,10 @@
 ## Overview
 ![Decentralized Escrow logo](../projects/logo/decentralized_escrow.png)  
-Name  Decentralized Escrow
+Name  Decentralized Escrow  
 [Website](https://descrow.org/)   
 Year founded:  2017  
-preICO period: 27 August - 01 October 2017 г
-ICO Start: It will be known upon preICO completing (time cue - October 2017г.)
-End: 
+preICO period: 27 August - 01 October 2017   
+ICO Start: It will be known upon preICO completing (time cue - October 2017) 
 Currency: token (DEST)	 
 ## Staff 
 Founder [Sergey Besedin](../people/sergey_besedin.md)  

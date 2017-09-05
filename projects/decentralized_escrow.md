@@ -7,12 +7,12 @@ preICO period: 27 August - 01 October 2017
 ICO Start: It will be known upon preICO completing (time cue - October 2017) 
 Currency: token (DEST)	 
 ## Staff 
-Founder [Sergey Besedin](../people/sergey_besedin.md)  
-International partnerships [Alexander Uglov](../people/alexander_uglov.md)  
-B2B cooperation [Olga Snopok](../people/olga_snopok.md)
-Marketing, management[Dmitriy Belenkiy](../people/dmitriy_belenkiy.md)
-PR & Marketing[Max Volodin](../people/max_volodin.md)
-Analyst and bussines developer[Anton Mitrohin](../people/anton_mitrohin.md)
+Founder [Sergey Besedin](../people/sergey_besedin.md)   
+International partnerships [Alexander Uglov](../people/alexander_uglov.md)   
+B2B cooperation [Olga Snopok](../people/olga_snopok.md)  
+Marketing, management[Dmitriy Belenkiy](../people/dmitriy_belenkiy.md)  
+PR & Marketing[Max Volodin](../people/max_volodin.md)  
+Analyst and bussines developer[Anton Mitrohin](../people/anton_mitrohin.md)  
 ## Business Model
  - retain ICO market and crowdfunding as the most favorable and effective ways to raise funds in truly useful, innovative projects, shifting thinking model and interaction between people, companies and states. 
 
@@ -26,13 +26,13 @@ Analyst and bussines developer[Anton Mitrohin](../people/anton_mitrohin.md)
 [Linkedin](https://www.linkedin.com/company-beta/18142266/)  
 [Twitter](https://twitter.com/Descrow3)   
 [Telegram](https://t.me/descrow)   
-[Medium](https://medium.com/@Descrow)
-[Facebook](https://www.facebook.com/descrow3/)
-[VK](https://vk.com/descrow)
+[Medium](https://medium.com/@Descrow)  
+[Facebook](https://www.facebook.com/descrow3/)  
+[VK](https://vk.com/descrow)  
   
 ## About 
-[Whitepaper](https://goo.gl/4ojddJ)
+[Whitepaper](https://goo.gl/4ojddJ)  
 
 ## News 
-* [How "Decentralize Escrow" Will Make An Impact on the Global Crypto Economy](decentralized_escrow_04-09-17.md)
-* [Decentralized Escrow has -"AA+" rating](decentralized_escrow_04-09-17.md)
+* [How "Decentralize Escrow" Will Make An Impact on the Global Crypto Economy](decentralized_escrow_04-09-17.md)  
+* [Decentralized Escrow has -"AA+" rating](decentralized_escrow_04-09-17.md)  

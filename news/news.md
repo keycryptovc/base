@@ -1,6 +1,6 @@
 # News
 ## 05 September 2017
-* [Yale economics professor Robert Shiller won the Nobel prize for his work on bubbles. In his latest book titled ‘Irrational Exuberance’, he uses Bitcoin as an example of a market that has spiked and collapsed.](bitcoin-05-09-2017.md)  
+* [Yale economics professor Robert Shiller in his latest book titled ‘Irrational Exuberance’, uses Bitcoin as an example of a market that has spiked and collapsed.](bitcoin-05-09-2017.md)  
 
 ## 04 September 2017
 * [How "Decentralize Escrow" Will Make An Impact on the Global Crypto Economy](decentralized_escrow_04-09-17.md)

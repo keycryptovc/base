@@ -12,7 +12,7 @@ Founder & CEO: [Assaf Ben-Or](../people/assaf_ben-or.md)
 Co-Founder: [Yau Ben-Or](../people/yau_ben-or.md)  
 Co-Founder & CTO: [Elya Katsir Dolev](../people/elya_katsir_dolev.md)  
 Technology researcher: [Bar Yehudai](../people/bar_yehudai)  
-Software team lead: [Dmitry Tatievskyi](../people/dmitry tatievskyi.md)  
+Software team lead: [Dmitry Tatievskyi](../people/dmitry_tatievskyi.md)  
 Senior software developer: [Denis Stepurko](../people/denis_stepurko)  
 Senior software developer: [Nadya Suleymanova](../people/nadya_suleymanova)  
 ## Business Model

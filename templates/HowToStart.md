@@ -25,4 +25,5 @@ If you are adding new project, which is not present in issues:
 2. Gather news for your projects
 3. Add yournews.md 
 4. Add title and link for your news in news/news.md
+5. Add title and link for your news to corresponding project (## News )
 

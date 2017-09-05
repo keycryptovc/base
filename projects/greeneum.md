@@ -1,5 +1,5 @@
 ## Overview
-![ logo](../projects/logo/greeneum.png)  
+![ logo](../projects/logo/greeneum.jpg)  
 Name: Greeneum
 [Website](www.greeneum.net)   
 Year founded: 2017  

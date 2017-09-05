@@ -11,10 +11,10 @@ Currency: token (GREENEUM)
 Founder & CEO: [Assaf Ben-Or](../people/assaf_ben-or.md)   
 Co-Founder: [Yau Ben-Or](../people/yau_ben-or.md)  
 Co-Founder & CTO: [Elya Katsir Dolev](../people/elya_katsir_dolev.md)  
-Technology researcher: [Bar Yehudai](../people/bar_yehudai)  
+Technology researcher: [Bar Yehudai](../people/bar_yehudai.md)  
 Software team lead: [Dmitry Tatievskyi](../people/dmitry_tatievskyi.md)  
-Senior software developer: [Denis Stepurko](../people/denis_stepurko)  
-Senior software developer: [Nadya Suleymanova](../people/nadya_suleymanova)  
+Senior software developer: [Denis Stepurko](../people/denis_stepurko.md)  
+Senior software developer: [Nadya Suleymanova](../people/nadya_suleymanova.md)  
 ## Business Model
 Greeneum leverages blockchain technology, smart contracts and AI, to incentivize the energy supply chain to reliably create, maintain and trade energy and energy related data.
 

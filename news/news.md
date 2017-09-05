@@ -1,5 +1,8 @@
 # News
 ## 04 September 2017
+* [How "Decentralize Escrow" Will Make An Impact on the Global Crypto Economy](decentralized_escrow_04-09-17.md)
+* [Decentralized Escrow has -"AA+" rating](decentralized_escrow_04-09-17.md) 
+* [IOTA is not affected by China’s Central Bank decision to ban ICOs](iota_04-09-17.md)
 * [How Bluzelle technology can be applied to fintech](bluzelle_04-09-17.md)
 
 ## 21 August 2017

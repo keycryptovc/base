@@ -190,6 +190,7 @@
 * [David Moskowitz](david_moskowitz.md)		
 * [David Sønstebø](david_sønstebø.md)
 * [David Siegel](david_siegel.md)
+* [David Van Isacker](david_isacker.md)
 * [David Vorick](david_vorick.md)
 * [David Waugh](david_waugh.md) 
 * [David Zimbeck](david_zimbeck.md)
@@ -508,6 +509,7 @@
 * [Miguel Neumann](miguel_neumann.md)
 * [Mikael Olofsson](mikael_olofsson.md)
 * [Mike Brusov](mike_brusov.md)  
+* [Mike De’Shazer](mike_deshazer.md)
 * [Mike Doty](mike_doty.md)
 * [Mike Raitsyn](mike_raitsyn.md)
 * [Mikhail Astakhov](mikhail_astakhov.md) 
@@ -676,6 +678,7 @@
 * [Svetlana Brosowski](svetlana_brosowski.md)
 ## T
 * [T.I.](t.i.md)
+* [Tai Kersten](tai_kersten.md)
 * [Tara Kemp](tara_kemp.md)
 * [Tecnovert](tecnovert.md)
 * [Ted Livingston](ted_livingston.md)

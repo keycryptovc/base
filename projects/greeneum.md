@@ -3,8 +3,9 @@
 Name: Greeneum
 [Website](www.greeneum.net)   
 Year founded: 2017   
-ICO Start:15/09/2017	 
-End: 15/11/2017	  
+ICO  
+Start:15/09/2017	  
+End: 15/11/2017	   
 Currency: token (GREENEUM)	  
 ## Staff 
 Founder & CEO: [Assaf Ben-Or](../people/assaf_ben-or.md)   

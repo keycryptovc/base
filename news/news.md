@@ -5,6 +5,9 @@
 * [IOTA is not affected by China’s Central Bank decision to ban ICOs](iota_04-09-17.md)
 * [How Bluzelle technology can be applied to fintech](bluzelle_04-09-17.md)
 
+## 03 September 2017
+* [Change Bank - Announcing Pre-ICO Details](change_03-09-17.md)
+
 ## 21 August 2017
 * [Dash price grew up over the weekend. New Dash news weekly recap is available.](dash_21-08-17.md)
 

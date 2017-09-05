@@ -28,3 +28,5 @@ Change is a crypto bank offering a wide range of financial services including a 
 ## About
 [Change Whitepaper](https://drive.google.com/file/d/0B4RKXcemFwwbNW5wVGtBMWM0c2s/view)  
 [Interview with Change CEO](https://www.youtube.com/watch?v=tGCElDm3eEU&feature=youtu.be)  
+## News
+[Change Bank - Announcing Pre-ICO Details](../news/change_03-09-17.md)

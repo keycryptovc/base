@@ -115,6 +115,7 @@
 * [Gulden](gulden.md)
 * [Gx Coin](gxcoin.md)
 ## H
+* [HireMatch](hirematch.md)  
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
 * [Hut34 Project](hut34_project.md) 

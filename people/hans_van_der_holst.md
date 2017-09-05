@@ -1,5 +1,5 @@
 ## Personal data
-![hans van der holst photo](photo/hans_van_der_holst.jpg)  
+![hans van der holst photo](photo/hans_van_der_holst.png)  
 Name:   Hans van der Holst   
 Location: Netherlands   
 ## Projects 

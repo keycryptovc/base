@@ -1,5 +1,5 @@
 ## Personal data
-![vyacheslav volkov photo](photo/vyacheslav_volkov.png)  
+![vyacheslav volkov photo](photo/vyacheslav_volkov.jpg)  
 Name:   Vyacheslav Volkov  
 Location: Russian Federation        
 ## Projects 

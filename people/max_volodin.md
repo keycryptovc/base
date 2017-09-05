@@ -1,10 +1,10 @@
 ## Personal data
 ![ photo](../people/photo/max_volodin.jpg)  
-Name: Max Volodin 
-Location: Russia  
+Name: Max Volodin  
+Location: Russia   
 ## Projects 
 Name: [Decentralized Escrow](../projects/decentralized_escrow.md)  
-Position: PR & Marketing
+Position: PR & Marketing  
 ## Contacts  
 [Facebook](https://www.facebook.com/maxvldn)  
 ## About

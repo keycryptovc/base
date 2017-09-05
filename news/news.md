@@ -1,4 +1,9 @@
 # News
+## 04 September 2017
+* [How "Decentralize Escrow" Will Make An Impact on the Global Crypto Economy](decentralized_escrow_04-09-17.md)
+* [Decentralized Escrow has -"AA+" rating](decentralized_escrow_04-09-17.md) 
+* [IOTA is not affected by China’s Central Bank decision to ban ICOs](iota_04-09-17.md)
+
 ## 03 September 2017
 * [TenX has become a member of the Enterprise Ethereum Alliance](tenx_03-09-17.md)
 

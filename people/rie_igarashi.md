@@ -1,5 +1,5 @@
 ## Personal data
-![rie garashi photo](photo/rie_igarashi.jpg)  
+![rie garashi photo](photo/rie_igarashi.png)  
 Name:   Rie Igarashi  
 Location: Japan  
 ## Projects 

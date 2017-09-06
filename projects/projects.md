@@ -46,6 +46,7 @@
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C
+* [Cash Poker Pro](cash_poker_pro.md)  
 * [Ccore](ccore.md)
 * [Change](change.md)
 * [ChronoLogic](chronologic.md)

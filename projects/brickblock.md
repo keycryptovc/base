@@ -7,7 +7,7 @@ Currency: BBT
 ICO: Start: 11. Oct 2017  
 End: 8. Nov 2017
 ## Staff
-Co-founder: [Jakob Drzazga](../people/jacob_drzazga.md)  
+Co-founder: [Jakob Drzazga](../people/jakob_drzazga.md)  
 Co-founder: [Martin Mischke](../people/martin_mischke.md)  
 Head of Design: [Paolo Bernewitz](../people/paolo_bernewitz.md)  
 ## Business Model

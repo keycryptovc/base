@@ -43,6 +43,7 @@
 * [Bluzelle](bluzelle.md)
 * [BMchain](bmchain.md)
 * [Bowhead Health](bowhead_health.md)
+* [BrickBlock](brickblock.md)  
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C

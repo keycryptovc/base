@@ -25,3 +25,4 @@ TenX is a FinTech company, focused on connecting private and public blockchains 
 [COMIT network](http://www.comit.network/)  
 ## News
 [TenX has become a member of the Enterprise Ethereum Alliance](../news/tenx_03-09-17.md)
+[TenX announced plans to launch marketplace for the financial services](tenx_06-09-17.md)

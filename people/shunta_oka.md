@@ -6,7 +6,7 @@ Location: Japan
 Name: [Bitproperty](../projects/bitproperty.md)  
 Position: Project Manager and UI/UX Lead   
 ## Contacts
-[Facebook](https://www.linkedin.com/in/shunta-oka-a1775770/)  
+[Facebook](https://www.facebook.com/shunta.oka)  
 [Twitter](https://twitter.com/oookkkaaa)  
 [Linkedin](https://www.linkedin.com/in/shunta-oka-a1775770/)
 ## About

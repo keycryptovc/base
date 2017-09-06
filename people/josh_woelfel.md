@@ -3,7 +3,7 @@
 Name:   Josh Woelfel  
 Location: USA      
 ## Projects 
-Name: [Enji Coin](../projects/enji_coin.md)  
+Name: [Enjin Coin](../projects/enjin_coin.md)  
 Position: Lead Engineer    
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/joshwoelfel/)    

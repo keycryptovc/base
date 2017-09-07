@@ -256,6 +256,7 @@
 * [Xaurum](xaurum.md)
 ## W
 * [Waves](wavesplatform.md)
+* [WePower Network](wepower_network.md)
 * [WIC](wic.md)
 * [Winding Tree](winding_tree.md)  
 * [Wings](wings.md)

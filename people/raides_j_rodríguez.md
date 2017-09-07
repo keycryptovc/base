@@ -6,6 +6,6 @@ Location: United Kingdom
 Name: [Obsidian Platform](../projects/obsidian_platform.md)  
 Position: Lead Developer   
 ## Contacts
--\\-
+-//-
 ## About
--\\-
+-//-

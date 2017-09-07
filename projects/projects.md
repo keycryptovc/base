@@ -179,6 +179,7 @@
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O
+* [Obsidian Platform](obsidian_platform.md)
 * [OmiseGo](omisego.md)
 * [Omni](omni.md)
 * [OpenZen](openzen.md)

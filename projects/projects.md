@@ -136,6 +136,7 @@
 * [IOTA](iota.md)
 ## J
 * [Just Dating Site](jds.md)
+* [Jincor](jincor.md)
 ## K
 * [Karma](karma.md)
 * [Kencoin](kencoin.md)

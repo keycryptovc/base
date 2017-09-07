@@ -21,4 +21,5 @@ Jincor is a venture-backed enterprise communication tool aimed at helping employ
 [Blog](https://medium.com/jincor)  
 [Telegram](https://t.me/jincorICOeng)  
 ## About
-[WhitePaper](https://s3.eu-west-2.amazonaws.com/jincor-ico/whitepaper.pdf)
+[WhitePaper](https://s3.eu-west-2.amazonaws.com/jincor-ico/whitepaper.pdf)  
+[Jincor: Corporate cryptocurrency payments](https://www.investitin.com/jincor/)  

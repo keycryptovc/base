@@ -7,7 +7,7 @@ Currency: STE
 ICO: Start: 31. Oct 2017  
 End: 30. Nov 2017
 ## Staff
-CEO & HR and public relations: [Andrew Makarskiy](../people/andrew_makarskiy.md)   
+CEO & HR and Public Relations: [Andrew Makarskiy](../people/andrew_makarskiy.md)   
 CTO: [Nicholas Prays](../people/nicholas_prays.md)   
 CFO: [Ivan Mityaev](../people/ivan_mityaev.md)  
 ## Business Model

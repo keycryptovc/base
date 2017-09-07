@@ -1,5 +1,5 @@
 ## Overview
-![logo](../projects/logo/intelluim.png)  
+![logo](../projects/logo/intellium.png)  
 Name: Intelluim  
 [Website](http://intellium-ico.com/)  
 Founded: 2017  

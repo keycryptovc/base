@@ -1,5 +1,5 @@
 ## Personal data
-![raides j. rodríguez photo](photo/raides_j_rodríguez.jpg)  
+![raides j. rodríguez photo](photo/raides_j_rodríguez.png)  
 Name:   Raides J. Rodríguez  
 Location: United Kingdom  
 ## Projects 

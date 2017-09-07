@@ -1,5 +1,5 @@
 ## Personal data
-![mikolaj martyniuk photo](photo/nikolaj_martyniuk.jpg)  
+![nikolaj martyniuk photo](photo/nikolaj_martyniuk.jpg)  
 Name:   Nikolaj Martyniuk  
 Location: Lithuania  
 ## Projects 

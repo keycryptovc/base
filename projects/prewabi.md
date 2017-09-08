@@ -1,9 +1,9 @@
 ## Overview
-![logo](../projects/logo/prewabi.png)  
-Name: Prewabi  
+![logo](../projects/logo/wabi.png)  
+Name: WaBi  
 [Website](https://www.wacoin.io/)  
 Year founded: 2014  
-Currency: PWB  
+Currency: WaBi  
 ICO: TBA
 ## Staff
 Co-founder & CEO: [Alexander Busarov](../people/alexander_busarov.md)  

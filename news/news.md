@@ -1,6 +1,7 @@
 # News
 ## 08 September 2017
 * [Lykke has added limit order capability to the Lykke Exchange](lykke_08-09-17.md)
+* [Lykke opens Latin American subsidiary](lykke2_08-09-17.md)
 
 ## 05 September 2017
 * [Red Pulse ICO postponed](redpulse_05-09-17.md)

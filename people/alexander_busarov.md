@@ -3,7 +3,7 @@
 Name:   Alexander Busarov  
 Location: China  
 ## Projects 
-Name: [Prewabi](../projects/prewabi.md)  
+Name: [WaBi](../projects/wabi.md)  
 Position: Co-founder & CEO   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/alexanderbusarov/)    

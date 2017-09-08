@@ -256,6 +256,7 @@
 ## X
 * [Xaurum](xaurum.md)
 ## W
+* [WaBi](wabi.md) 
 * [Waves](wavesplatform.md)
 * [WIC](wic.md)
 * [Winding Tree](winding_tree.md)  

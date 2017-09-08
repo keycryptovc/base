@@ -10,6 +10,7 @@ Position: IT lead
 ## Contacts
 [Github](https://github.com/skilus)  
 [LinkedIn](https://www.linkedin.com/in/arthur-pinchuk/)  
+[Facebook](https://www.facebook.com/arthur.pinchuk?fref=pb&hc_location=friends_tab)
 ## About
 IT Solution Architecture, 15 years of IT expertise,
 hundreds of successfully completed web and mobile

@@ -3,7 +3,7 @@
 Name:   Chi-Tung Pan  
 Location: China  
 ## Projects 
-Name: [Prewabi](../projects/prewabi.md)  
+Name: [WaBi](../projects/wabi.md)  
 Position: Sales lead & Project manager   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/duomo-pan-pan-chi-tung-105960a2/)    

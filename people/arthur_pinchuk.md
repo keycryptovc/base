@@ -4,7 +4,9 @@ Name: Arthur Pinchuk
 Location: Belarus  
 ## Projects 
 Name: [RocketICO](../projects/rocketico.md)  
-Position: CTO   
+Position: CTO  
+Name: [Prewabi](../projects/prewabi.md)  
+Position: IT lead  
 ## Contacts
 [Github](https://github.com/skilus)  
 [LinkedIn](https://www.linkedin.com/in/arthur-pinchuk/)  

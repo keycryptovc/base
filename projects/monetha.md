@@ -52,3 +52,5 @@ Fee structure:
 [WhitePaper](https://www.monetha.io/static/media/Monetha_White_Paper.c4c6215e.pdf)  
 [YouTube Channel](https://www.youtube.com/channel/UCtFfGdY6Kfi7qpBsCIAVc9g)  
 [Announcing the hard cap and the total token supply](https://medium.com/@monetha/announcing-the-hard-cap-and-the-total-token-supply-699a6a7810cd)  
+## News
+[Monetha Signs Partnership with Leading Central European Food Delivery Company](../news/monetha_08-09-17.md)

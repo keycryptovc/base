@@ -5,7 +5,7 @@ Location: Belarus
 ## Projects 
 Name: [RocketICO](../projects/rocketico.md)  
 Position: CTO  
-Name: [Prewabi](../projects/prewabi.md)  
+Name: [WaBi](../projects/wabi.md)  
 Position: IT lead  
 ## Contacts
 [Github](https://github.com/skilus)  

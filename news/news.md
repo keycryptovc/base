@@ -69,6 +69,7 @@
 * [Dash is planning to organize series of events in Venezuela to promote cryptocurrencies. Major retailer now accepts Dash.](dash_09-08-17.md)
 * [Major retailer now accepts Monero.](monero_09-08-17.md)
 * [NEO reported about completion of rebranding and announced new partners](neo_09-08-17.md)
+## 08 August 2017
 * [Ripple is expanding solutions, according to general plan of developing Internet of Value (IoV).](ripple_08-08-17.md)
 * [Overstock.com allows cryptocurrencies as payment method through partnership with ShapeShift](shapeshift_08-08-17.md)
 

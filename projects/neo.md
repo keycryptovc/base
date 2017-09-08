@@ -18,3 +18,4 @@ Antshares is the first Chinese blockchain project [raised](http://www.financemag
 ## News
 [NEO token is added to Bitfinex](../news/neo_08-09-17.md)  
 [NEO Council release monthly report (August)](../news/neo2_08-09-17.md)
+[Exodus Wallet has planned NEO support](../news/neo3_08-09-17.md)

@@ -8,9 +8,9 @@ ICO: TBA
 ## Staff
 Co-founder & CEO: [Alexander Busarov](../people/alexander_busarov.md)  
 Co-founder: [Yaroslav Belinskiy](../people/yaroslav_belinskiy.md)  
-Sales lead & Project manager: [Chi-Tung Pan](../people/chi-tung_pan.md)  
-IT lead: [Arthur Pinchuk](../people/arthur_pinchuk.md)  
-Blockchain lead: [Dmitry Korzhik](dmitry_korzhik.md)
+Sales lead & Project Manager: [Chi-Tung Pan](../people/chi-tung_pan.md)  
+IT Lead: [Arthur Pinchuk](../people/arthur_pinchuk.md)  
+Blockchain Lead: [Dmitry Korzhik](dmitry_korzhik.md)
 ## Business Model
 RFID based labels that can link blockchain with physical objects. Solving the fakes problem in China. Technology already developed and commercially deployed, looking to scale now.
 ## Contacts  

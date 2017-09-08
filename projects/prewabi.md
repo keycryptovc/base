@@ -2,13 +2,13 @@
 ![logo](../projects/logo/prewabi.png)  
 Name: Prewabi  
 [Website](https://www.wacoin.io/)  
-Year founded: 2017  
+Year founded: 2014  
 Currency: PWB  
 ICO: TBA
 ## Staff
 Co-founder & CEO: [Alexander Busarov](../people/alexander_busarov.md)  
 Co-founder: [Yaroslav Belinskiy](../people/yaroslav_belinskiy.md)  
-Sales lead & Project Manager: [Chi-Tung Pan](../people/chi-tung_pan.md)  
+Sales Lead & Project Manager: [Chi-Tung Pan](../people/chi-tung_pan.md)  
 IT Lead: [Arthur Pinchuk](../people/arthur_pinchuk.md)  
 Blockchain Lead: [Dmitry Korzhik](../people/dmitry_korzhik.md)
 ## Business Model

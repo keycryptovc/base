@@ -3,7 +3,7 @@
 Name:   Yaroslav Belinskiy  
 Location: United Kingdom  
 ## Projects 
-Name: [Prewabi](../projects/prewabi.md)  
+Name: [WaBi](../projects/wabi.md)  
 Position: Co-founder   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/yaroslavbelinskiy/)      

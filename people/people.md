@@ -289,7 +289,7 @@
 * [Gebhard Scherrer](gebhard_scherrer.md)
 * [George Goognin](george_goognin.md)  
 * [George Hallam](george_hallam.md)
-* [George K Van Hoomissen](george_k_van_hoomissen.md)
+* [George K. Van Hoomissen](george_k_van_hoomissen.md)
 * [Gerard Bel](gerard_bel.md) 
 * [Gerlof van Ek](gerlof_ek.md)
 * [Gideon Gibson](gideon_gibson.md)

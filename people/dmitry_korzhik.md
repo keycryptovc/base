@@ -5,7 +5,7 @@ Location: Belarus
 ## Projects 
 Name: [RocketICO](../projects/rocketico.md)  
 Position: Product Developer  
-Name: [Prewabi](../projects/prewabi.md)  
+Name: [WaBi](../projects/wabi.md)  
 Position: Blockchain Lead
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/dmitry-korzhik-07101982/)  

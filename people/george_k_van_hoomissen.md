@@ -1,6 +1,6 @@
 ## Personal data
 ![george k van hoomissen photo](photo/george_k_van_hoomissen.jpg)  
-Name:   George K Van Hoomissen  
+Name:   George K. Van Hoomissen  
 Location: USA  
 ## Projects 
 Name: [Vega](../projects/vega.md)  

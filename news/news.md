@@ -1,6 +1,7 @@
 # News
 ## 08 September 2017
 * [NEO token is added to Bitfinex](neo_08-09-17.md)
+* [NEO Council release monthly report](neo2_08-09-17.md)
 
 ## 05 September 2017
 * [Red Pulse ICO postponed](redpulse_05-09-17.md)

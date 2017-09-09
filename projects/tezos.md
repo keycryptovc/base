@@ -22,6 +22,8 @@ Tezos is a self-amending cryptographic ledger. It achieves consensus not just ab
 [GitHub](https://github.com/tezos/tezos)  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=715818.200)   
 [Twitter](https://twitter.com/tez0s)     
+[Facebook](https://www.facebook.com/tezosledger/)  
+[LinkedIn](https://www.linkedin.com/search/results/index/?keywords=Tezos)  
 [Forum](https://forums.tezos.community/)  
 [Blog](https://medium.com/tezos)    
 [Reddit](https://www.reddit.com/r/tezos/)  

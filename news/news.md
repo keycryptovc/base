@@ -1,4 +1,7 @@
 # News
+## 09 September 2017
+* [Jaron Lukasiewicz has come on board as Minerva's strategic advisor](minerva_09-09-17.md)
+
 ## 05 September 2017
 * [Red Pulse ICO postponed](redpulse_05-09-17.md)
 * [Yale economics professor Robert Shiller in his latest book titled ‘Irrational Exuberance’, uses Bitcoin as an example of a market that has spiked and collapsed.](bitcoin-05-09-17.md)  

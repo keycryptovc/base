@@ -1,7 +1,7 @@
 ## Personal data
 ![ photo](photo/nuno_correia.jpeg)  
 Name: Nuno Correia  
-Location: ---
+Location: Portugal
 ## Projects 
 Name: [Utrust](../projects/utrust.md)  
 Position: CEO

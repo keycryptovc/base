@@ -244,6 +244,7 @@
 ## U
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
+* [UTrust](utrust.md)
 ## V
 * [Vechain](vechain.md)  
 * [Veredictum](veredictum.md)  

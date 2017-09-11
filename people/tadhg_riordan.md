@@ -3,7 +3,7 @@
 Name: Tadhg Riordan  
 Location: Ireland
 ## Projects 
-Name: [Zcoin](../projects/.md)  
+Name: [Zcoin](../projects/zcoin.md)  
 Position: Solidity Developer
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/tadhg-riordan-329093130/?ppe=1)  

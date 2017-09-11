@@ -1,6 +1,6 @@
 ## Overview
-![logo](../projects/logo/domrider.png)  
-Name: DomRider  
+![logo](../projects/logo/domraider.png)  
+Name: DomRaider  
 [Website](https://www.domraider.io/en/)  
 Year founded: 2013  
 Currency: DRT  

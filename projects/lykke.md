@@ -27,3 +27,6 @@ Lykke is a global marketplace for the exchange of financial assets.
 [LykkeStreams - Collaboration Platform](https://streams.lykke.com/)  
 [WhitePaper](https://www.lykke.com/Whitepaper_LykkeExchange.pdf)  
 [RoadMap](https://trello.com/b/IV0PH2gs/lykke-roadmap)
+## News  
+[Lykke has added limit order capability to the Lykke Exchange](../news/lykke_08-09-17.md)  
+[Lykke opens Latin American subsidiary](../news/lykke2_08-09-17.md)  

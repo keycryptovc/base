@@ -1,4 +1,8 @@
 # News
+
+## 11 September 2017
+* [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](ripple-11-09-2017.md)
+
 ## 09 September 2017
 * [IOTA Price Dives 15% Following Revelation of Past Cryptographic Vulnerabilities](iota_09-09-17.md)
 

@@ -1,4 +1,7 @@
 # News
+## 08 September 2017
+* [Monetha Signs Partnership with Leading Central European Food Delivery Company](monetha_08-09-17.md)
+
 ## 07 September 2017
 * [Indorse had announced the partnership with Change](change_07-09-17.md)
 * [Monetha had collected 95,000 ETH during ICO in 18 minutes](monetha_07-09-17.md)

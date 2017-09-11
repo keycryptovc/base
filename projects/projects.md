@@ -95,6 +95,7 @@
 * [Ethereum classic](ethereum_classic.md)
 * [Etheroll](etheroll.md)
 * [Etherparty](etherparty.md)
+* [EtherSportz](ethersportz.md)
 * [ETHLend](ethlend.md)
 * [Everex](everex.md)
 

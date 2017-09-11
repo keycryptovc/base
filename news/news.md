@@ -1,4 +1,7 @@
 # News
+## 09 September 2017
+* [IOTA Price Dives 15% Following Revelation of Past Cryptographic Vulnerabilities](iota_09-09-17.md)
+
 ## 08 September 2017
 * [NEO token is added to Bitfinex](neo_08-09-17.md)
 * [NEO Council release monthly report (August)](neo2_08-09-17.md)

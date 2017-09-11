@@ -266,6 +266,7 @@
 ## X
 * [Xaurum](xaurum.md)
 ## W
+* [WaBi](wabi.md) 
 * [Waves](wavesplatform.md)
 * [WePower Network](wepower_network.md)
 * [WIC](wic.md)

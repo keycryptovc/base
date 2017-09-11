@@ -5,6 +5,7 @@
 
 ## 06 September 2017
 * [Bluzelle is starting on a developer tour](bluzelle_06-09-17.md)
+* [Bankera  has paid the first shared transactional revenue to the token holders](bankera_06-09-17.md)
 * [TenX announced plans to launch marketplace for the financial services](tenx_06-09-17.md)
 
 ## 05 September 2017

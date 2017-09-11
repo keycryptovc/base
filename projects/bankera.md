@@ -19,3 +19,5 @@ As a traditional bank, Bankera's services fit into three groups: payments, loans
 [Slack](https://bankera-slack.herokuapp.com/)  
 ## About 
 [Whitepaper](http://bankera.com/Bankera_whitepaper.pdf)
+## News 
+[Bankera  has paid the first shared transactional revenue to the token holders](../news/bankera_06-09-17.md)

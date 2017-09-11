@@ -19,3 +19,4 @@
    
 ## News
 * [Former State Department Official Anja Manuel Joins Ripple’s Board of Directors](../news/ripple-05-09-2017.md)
+* [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](../news/ripple-11-09-2017.md)

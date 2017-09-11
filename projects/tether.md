@@ -17,3 +17,6 @@ robust and decentralized method of exchanging value while using a familiar accou
 [Twitter](https://twitter.com/Tether_to/)
 ## About
 [Tether review](https://www.cryptocompare.com/coins/guides/what-is-usdt-and-how-to-use-it/)  
+
+## News
+[Tether and Bitfinex Get Divorced From Legacy Finance](../news/tether-11-09-2017.md)

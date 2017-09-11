@@ -1,6 +1,6 @@
 # News
-
 ## 11 September 2017
+* [Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)
 * [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](ripple-11-09-2017.md)
 
 ## 09 September 2017

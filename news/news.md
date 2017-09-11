@@ -1,6 +1,28 @@
 # News
 ## 11 September 2017
-[Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)
+* [Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)
+* [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](ripple-11-09-2017.md)
+
+## 09 September 2017
+* [IOTA Price Dives 15% Following Revelation of Past Cryptographic Vulnerabilities](iota_09-09-17.md)
+
+## 08 September 2017
+* [NEO token is added to Bitfinex](neo_08-09-17.md)
+* [NEO Council release monthly report (August)](neo2_08-09-17.md)
+* [Exodus Wallet has planned NEO support](neo3_08-09-17.md)
+* [Lykke has added limit order capability to the Lykke Exchange](lykke_08-09-17.md)
+* [Lykke opens Latin American subsidiary](lykke2_08-09-17.md)
+* [Monetha Signs Partnership with Leading Central European Food Delivery Company](monetha_08-09-17.md)
+
+## 07 September 2017
+* [Indorse had announced the partnership with Change](change_07-09-17.md)
+* [Monetha had collected 95,000 ETH during ICO in 18 minutes](monetha_07-09-17.md)
+* [Monetha tokens will be listed in the Exchanges around Mid September - Early October](monetha2_07-09-17.md)
+
+## 06 September 2017
+* [Bluzelle is starting on a developer tour](bluzelle_06-09-17.md)
+* [Bankera  has paid the first shared transactional revenue to the token holders](bankera_06-09-17.md)
+* [TenX announced plans to launch marketplace for the financial services](tenx_06-09-17.md)
 
 ## 05 September 2017
 * [Red Pulse ICO postponed](redpulse_05-09-17.md)

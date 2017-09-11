@@ -3,7 +3,7 @@
 Name:   Jakob Drzazga  
 Location: Germany  
 ## Projects 
-Name: [BlockBrick](../projects/blockbrick.md)  
+Name: [BrickBlock](../projects/brickblock.md)  
 Position: Co-founder   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/jakob-drzazga-61a69041/)      

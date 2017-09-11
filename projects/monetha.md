@@ -5,7 +5,7 @@ Name: Monetha
 Year founded: 2017  
 Currency: MTH  
 ICO Date: 31 August 2017  
-Currency: MTH  
+Currency: [MTH](https://coinmarketcap.com/assets/monetha/#markets)
 ## Staff
 Co-Founder: [Andrej Ruckij](../people/andrej_ruckij.md)  
 Co-Founder: [Justas Pikelis](../people/justas_pikelis.md)  
@@ -52,3 +52,7 @@ Fee structure:
 [WhitePaper](https://www.monetha.io/static/media/Monetha_White_Paper.c4c6215e.pdf)  
 [YouTube Channel](https://www.youtube.com/channel/UCtFfGdY6Kfi7qpBsCIAVc9g)  
 [Announcing the hard cap and the total token supply](https://medium.com/@monetha/announcing-the-hard-cap-and-the-total-token-supply-699a6a7810cd)  
+## News
+[Monetha Signs Partnership with Leading Central European Food Delivery Company](../news/monetha_08-09-17.md)  
+[Monetha had collected 95,000 ETH during ICO in 18 minutes](../news/monetha_07-09-17.md)   
+[Monetha tokens will be listed in the Exchanges around Mid September - Early October](../news/monetha2_07-09-17.md)   

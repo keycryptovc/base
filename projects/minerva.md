@@ -25,3 +25,5 @@ to accelerate the mainstream adoption of cryptocurrency and smart contracts.
 [Telegram](https://t.me/minervachat)  
 ## About
 [WhitePaper](https://minerva.com/whitepaper.pdf)
+## News
+[Jaron Lukasiewicz has come on board as Minerva's strategic advisor](../news/minerva_09-09-17.md)

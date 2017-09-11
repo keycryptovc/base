@@ -653,7 +653,8 @@
 * [Rostislav Maslov](rostislav_maslov.md)
 * [Rosario Colletti](rosario_colletti.md)
 * [Rune Evensen](rune_evensen.md)
-* [Ruslan Khusnutdinov](ruslan_khusnutdinov.md)  
+* [Ruslan Khusnutdinov](ruslan_khusnutdinov.md)
+* [Russell McLernon](russell_mclernon.md)
 * [Ryno Mathee](ryno_mathee.md)
 * [Ryo Nomura](ryo_nomura.md)
 ## S
@@ -699,6 +700,7 @@
 * [Steffen Fuchs](steffen_fuchs.md) 
 * [Stephane Ifrah](stephane_ifrah.md)
 * [Stephanie Webb](stephanie_webb.md)
+* [Stephen King](stephen_king.md)
 * [Steve Nico Williams](steve_williams.md)
 * [Steve Stanley](steve_stanley.md) 
 * [Stuart Hockman](stuart_hockman.md)

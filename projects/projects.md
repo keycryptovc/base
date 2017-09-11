@@ -5,6 +5,7 @@
 * [300cubits](300cubits.md)
 
 ## A
+* [Aether United](aether_united.md)
 * [Agrello](agrello.md)
 * [Ahoole](ahoolee.md)  
 * [AICoin](aicoin.md)
@@ -143,8 +144,9 @@
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## J
-* [Just Dating Site](jds.md)
 * [Jincor](jincor.md)
+* [Just Dating Site](jds.md)
+* [Justmake](justmake.md)
 ## K
 * [Karma](karma.md)
 * [Kencoin](kencoin.md)
@@ -167,6 +169,7 @@
 * [Maecenas](maecenas.md) 
 * [Magos](magos.md)
 * [MaidSafe](maidsafe.md)
+* [Matryx](matryx.md)  
 * [Melon](melon.md)
 * [MCAP](mcap.md)
 * [MediBond](medibond.md)
@@ -216,6 +219,7 @@
 * [REAL](real.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
+* [ReiDAO](reidao.md)
 * [Ripple](ripple.md)
 * [RocketICO](rocketico.md)
 * [Round](round.md) 

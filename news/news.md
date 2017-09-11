@@ -4,6 +4,7 @@
 * [Monetha tokens will be listed in the Exchanges around Mid September - Early October](monetha2_07-09-17.md)
 
 ## 06 September 2017
+* [Bankera  has paid the first shared transactional revenue to the token holders](bankera_06-09-17.md)
 * [TenX announced plans to launch marketplace for the financial services](tenx_06-09-17.md)
 
 ## 05 September 2017

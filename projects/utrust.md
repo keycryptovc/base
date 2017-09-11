@@ -33,4 +33,4 @@ mediator, resolver of conflicts, enabling the possibility of refunds to mitigate
 [RoadMap](https://utrust.io/#roadmap)  
 [Review: Monetha vs UTrust](https://medium.com/@UTRUST/my-personal-review-of-monetha-vs-utrust-slack-user-jamyoll-92551c2bd475)
 ## News
-[UTRUST’s Pre-ICO collects $1.5 Million](../news/utrust_11-09-17.md)
+[UTrust’s Pre-ICO collects $1.5 Million](../news/utrust_11-09-17.md)

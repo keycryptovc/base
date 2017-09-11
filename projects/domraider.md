@@ -17,7 +17,7 @@ DomRaider network is an open-source blockchain dedicated to the decentralization
 [Twitter](https://twitter.com/domraider)  
 [Linkedin](https://www.linkedin.com/company/10805751/)  
 [Facebook](https://www.facebook.com/Domraider-1432606216988548)  
-[Telegram](https://t.me/DomraiderICO) 
+[Telegram](https://t.me/DomraiderICO)   
 [GitHub](https://github.com/Domraider/dr-token)  
 [Blog](https://medium.com/@domraider)  
 ## About  

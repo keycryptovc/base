@@ -3,7 +3,7 @@
 Name:   Martin Mischke  
 Location: Germany  
 ## Projects 
-Name: [BlockBrick](../projects/blockbrick.md)  
+Name: [BrickBlock](../projects/brickblock.md)  
 Position: Co-founder   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/martin-mischke-910064114/)      

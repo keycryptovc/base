@@ -3,7 +3,7 @@
 Name:   Paolo Bernewitz  
 Location: Germany  
 ## Projects 
-Name: [BlockBrick](../projects/blockbrick.md)  
+Name: [BrickBlock](../projects/brickblock.md)  
 Position: Head of Design   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/paolobernewitz/)  

@@ -21,4 +21,4 @@ Aether United uses blockchain to build an esports brand that allows it's fans to
 [Telegram](https://t.me/aetherchat)  
 [Blog](https://medium.com/@AetherUnited)  
 ## About 
-[Whitepaper](not available)
+[Whitepaper](not available, will be updated)

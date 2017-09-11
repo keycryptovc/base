@@ -1,7 +1,7 @@
 ## Personal data
 ![tristan colombet photo](photo/tristan_colombet.jpg)  
 Name:   Tristan Colombet  
-Location: United Kingdom  
+Location: France  
 ## Projects 
 Name: [DomRaider](../projects/domraider.md)  
 Position: Co-founder & CEO     

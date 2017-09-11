@@ -167,6 +167,7 @@
 * [Colin Hayes](colin_hayes.md)
 * [Colin Pape](colin_pape.md)
 * [Conner Fromknecht](conner_fromknecht.md)
+* [Constantin Golovkin](constantin_golovkin.md) 
 * [Corey Jackson](corey_jackson.md)
 * [Cory Torrella](cory_torrella.md)
 * [Craig Sellars](craig_sellars.md)   
@@ -324,6 +325,7 @@
 ## I
 * [Ido Kaiser](ido_kaiser.md)
 * [Ignas Mangevicius](ignas_mangevicius.md)
+* [Igor Borodin](igor_borodin.md)  
 * [Ilia Filatov](ilia_filatov.md)
 * [Ilya Druzhinin](ilya_druzhinin.md)  
 * [Ilya Znachko](ilya_znachko.md)
@@ -568,6 +570,7 @@
 ## O
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oleg Lodygensky](oleg_lodygensky.md)
+* [Oleg Shendrigailov](oleg_shendrigailov.md) 
 * [Oleg Solodukha](oleg_solodukha.md)
 * [Oleksii Konashevych](oleksii_konashevych.md)
 * [Olga Serbinenko](olga_serbinenko.md)

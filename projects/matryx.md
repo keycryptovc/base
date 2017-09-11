@@ -7,7 +7,7 @@ Currency: MTX
 ICO: Start: 13. Sep 2017  
 End: 12. Oct 2017
 ## Staff
-Co-founder & CEO: [Steve McCloskey](../people/steve_mccloskey.md)  
+Co-founder & CEO: [Steven McCloskey](../people/steven_mccloskey.md)  
 Co-founder & COO: [Keita Funakawa](../people/keita_funakawa.md)  
 Co-founder & CXO: [Edgardo Leija](../people/edgardo_leija.md)  
 CTO: [Vincent Brunet](../people/vincent_brunet.md)  

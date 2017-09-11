@@ -143,8 +143,9 @@
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## J
-* [Just Dating Site](jds.md)
 * [Jincor](jincor.md)
+* [Just Dating Site](jds.md)
+* [Justmake](justmake.md)
 ## K
 * [Karma](karma.md)
 * [Kencoin](kencoin.md)

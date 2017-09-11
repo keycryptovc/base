@@ -246,6 +246,7 @@
 ## T
 * [TenX](tenx.md)
 * [Tether](tether.md)
+* [Tezos](tezos.md)
 * [Ties Network](ties_network.md) 
 * [TokenStars](tokenstars.md) 
 * [TokenStub](tokenstub.md)
@@ -266,6 +267,7 @@
 ## X
 * [Xaurum](xaurum.md)
 ## W
+* [WaBi](wabi.md) 
 * [Waves](wavesplatform.md)
 * [WePower Network](wepower_network.md)
 * [WIC](wic.md)

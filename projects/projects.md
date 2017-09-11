@@ -36,6 +36,7 @@
 * [Bitdeal](bitdeal.md)
 * [BitDice](bitdice.md)
 * [bitJob](bitjob.md)
+* [Bitproperty](bitproperty.md)
 * [BitShares](bitshares.md)
 * [BlockCAT](blockcat.md)
 * [Blocklancer](blocklancer.md)

@@ -201,7 +201,6 @@
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)
 * [Presearch](presearch.md)
-* [Prewabi](prewabi.md)
 * [Prime-Ex Perpetual](prime-ex.md)
 * [Proemtheus](proemtheus.md)
 * [Propy](propy.md)

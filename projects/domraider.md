@@ -9,7 +9,7 @@ End: 11. Oct 2017
 ## Staff
 Co-founder & CEO: [Tristan Colombet](../people/tristan_colombet.md)  
 CFO: [Christophe David](../people/christophe_david.md)  
-CTO: [Vincent Vermersh](../people/vincent_vermersh.md)  
+CTO: [Vincent Vermersch](../people/vincent_vermersch.md)  
 CMO: [Damien Henriques](../people/damien_henriques.md)
 ## Business Model
 DomRaider network is an open-source blockchain dedicated to the decentralization of auctions in real time. It will be transparent, reliable, adaptable and interoperable, without compromising on speed. The DomRaider network is not only aimed to register auctions and bids. It is the core of a complete new auctioning ecosystem aimed to provide an innovative solution for all worldwide auctioning players. Live auctioneers, escrow, appraisal experts, delivery services and online auctions providers will all be able to join the network, provide their services and add value to the blockchain.

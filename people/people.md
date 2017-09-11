@@ -66,6 +66,7 @@
 * [Andrej Ruckij](andrej_ruckij.md)
 * [Andrew Perepelitsa](andrew_perepelitsa.md) 
 * [Andrew Rangel](andrew_rangel.md)
+* [Andrew Wasylewicz](andrew_wasylewicz.md)
 * [Angel Versetti](angel_versetti.md)
 * [Anik Dang](anik_dang.md)
 * [Annika Monari](annika_monari.md) 
@@ -168,6 +169,7 @@
 ## D
 * [Da Hongfei](da_hongfei.md)
 * [Desmond Sieow](desmond_sieowmd.md)
+* [Dallas Brooks](dallas_brooks.md)
 * [Dan Andersson](dan_andersson.md)
 * [Dan Biton](dan_biton.md)
 * [Dan Cearnau](dan_cearnau.md)
@@ -430,6 +432,7 @@
 * [Kevin McSheehan](kevin_mcsheehan.md) 
 * [Kevin Yan](kevin_yan.md)
 * [Kersten Schütze](kersten_schutze.md)
+* [Khal Achkar](khal_achkar.md)
 * [Kim Jackson](kim_jackson.md)
 * [Kir Lyzhnikov](kir_lyzhnikov.md) 
 * [Kirill Murzin](kirill_murzin.md)

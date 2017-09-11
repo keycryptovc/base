@@ -168,6 +168,7 @@
 * [Maecenas](maecenas.md) 
 * [Magos](magos.md)
 * [MaidSafe](maidsafe.md)
+* [Matryx](matryx.md)  
 * [Melon](melon.md)
 * [MCAP](mcap.md)
 * [MediBond](medibond.md)

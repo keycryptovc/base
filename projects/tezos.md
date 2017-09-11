@@ -5,17 +5,17 @@ Name: Tezos
 Year founded: 2014    
 Currency: XTZ 
 ## Staff
-[Arthur Breitman](../people/arthur_breitman.md)  
-[Kathleen Breitman](../people/kathleen_breitman.md)  
-[Vincent Bernardoff](../people/vincent_bernardoff.md)  
-[Bozman Cagdas](../people/bozman_cagdas.md)  
-[Benjamin Canou](../people/benjamin_canou.md)  
-[Pierre Chambart](../people/pierre_chambart.md)  
-[Gregoire Henry](../people/gregoire_henry.md)  
-[Mohamed Iguernlala](../people/mohamed_iguernlala.md)  
-[Fabrice Le Fessant](../people/fabrice_fessant.md)  
-[Guillem Rieu](../people/guillem_rieu.md)  
-[Alain Mebsout](../people/alain_mebsout.md)  
+Co-Founder, CTO: [Arthur Breitman](../people/arthur_breitman.md)  
+Co-Founder, CEO: [Kathleen Breitman](../people/kathleen_breitman.md)  
+R&D Engineer: [Vincent Bernardoff](../people/vincent_bernardoff.md)  
+R&D Engineer: [Bozman Cagdas](../people/bozman_cagdas.md)  
+R&D Engineer: [Benjamin Canou](../people/benjamin_canou.md)  
+R&D Engineer: [Pierre Chambart](../people/pierre_chambart.md)  
+R&D Engineer: [Gregoire Henry](../people/gregoire_henry.md)  
+R&D Engineer: [Mohamed Iguernlala](../people/mohamed_iguernlala.md)  
+Scientific Advisor: [Fabrice Le Fessant](../people/fabrice_fessant.md)  
+R&D Engineer: [Guillem Rieu](../people/guillem_rieu.md)  
+R&D Engineer: [Alain Mebsout](../people/alain_mebsout.md)  
 ## Business Model
 Tezos is a self-amending cryptographic ledger. It achieves consensus not just about the state of a ledger, but about the state of its own protocol.
 ## Contacts

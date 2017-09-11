@@ -18,4 +18,6 @@
    [Wired review](https://www.wired.com/2016/01/project-aims-to-unite-bitcoin-with-other-online-currencies/)
    
 ## News
+* [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](../news/ripple-11-09-2017.md)
 * [Former State Department Official Anja Manuel Joins Ripple’s Board of Directors](../news/ripple-05-09-2017.md)
+

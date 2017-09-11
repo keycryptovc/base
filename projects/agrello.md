@@ -3,8 +3,7 @@
 Name:  Agrello  
 [Website](https://www.agrello.org/)  
 Year founded: 2017  
-Currency: TM-AGRELLO  
-ICO: TBA
+Currency: [DELTA](https://coinmarketcap.com/assets/delta/#charts) 
 ## Staff
 Project Lead: [Hando Rand](../people/hando_rand.md)  
 Chief Scientist: [Alex Norta](../people/alex_norta.md)  

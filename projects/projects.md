@@ -221,6 +221,7 @@
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
 * [ReiDAO](reidao.md)
+* [Rex](rex.md)
 * [Ripple](ripple.md)
 * [RocketICO](rocketico.md)
 * [Round](round.md) 

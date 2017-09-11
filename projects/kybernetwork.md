@@ -28,3 +28,5 @@ APIs that will allow Ethereum accounts to easily receive payments from any crypt
 [Telegram](https://t.me/kybernetwork)  
 ## About
 [WhitePaper](https://kyber.network/assets/KyberNetworkWhitepaper.pdf)  
+## News
+* [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)

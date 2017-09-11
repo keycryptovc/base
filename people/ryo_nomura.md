@@ -1,5 +1,5 @@
 ## Personal data
-![ryo nomura photo](photo/ryo_nomura.png)  
+![ryo nomura photo](photo/ryo_nomura.jpg)  
 Name:   Ryo Nomura  
 Location: Japan  
 ## Projects 

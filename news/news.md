@@ -3,6 +3,8 @@
 * [NEO token is added to Bitfinex](neo_08-09-17.md)
 * [NEO Council release monthly report (August)](neo2_08-09-17.md)
 * [Exodus Wallet has planned NEO support](neo3_08-09-17.md)
+* [Lykke has added limit order capability to the Lykke Exchange](lykke_08-09-17.md)
+* [Lykke opens Latin American subsidiary](lykke2_08-09-17.md)
 * [Monetha Signs Partnership with Leading Central European Food Delivery Company](monetha_08-09-17.md)
 
 ## 07 September 2017

@@ -1,5 +1,7 @@
 # News
 ## 08 September 2017
+* [Lykke has added limit order capability to the Lykke Exchange](lykke_08-09-17.md)
+* [Lykke opens Latin American subsidiary](lykke2_08-09-17.md)
 * [Monetha Signs Partnership with Leading Central European Food Delivery Company](monetha_08-09-17.md)
 
 ## 07 September 2017

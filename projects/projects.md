@@ -234,6 +234,7 @@
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)
+* [STeX](stex.md)
 * [Storj](storj.md)
 * [Storm](storm.md)
 * [Stratis](stratis.md)

@@ -5,6 +5,7 @@
 
 ## 06 September 2017
 * [Bankera  has paid the first shared transactional revenue to the token holders](bankera_06-09-17.md)
+* [TenX announced plans to launch marketplace for the financial services](tenx_06-09-17.md)
 
 ## 05 September 2017
 * [Red Pulse ICO postponed](redpulse_05-09-17.md)

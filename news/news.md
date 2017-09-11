@@ -1,5 +1,6 @@
 # News
 ## 11 September 2017
+* [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)
 * [Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)
 * [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](ripple-11-09-2017.md)
 

@@ -1,6 +1,6 @@
 ## Personal data
-![vincent vermersh photo](photo/vincent_vermersh.jpg)   
-Name:    Vincent Vermersh  
+![vincent vermersh photo](photo/vincent_vermersch.jpg)   
+Name:    Vincent Vermersch  
 Location: France  
 ## Projects 
 Name: [DomRaider](../projects/domraider.md)  

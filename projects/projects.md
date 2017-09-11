@@ -36,6 +36,7 @@
 * [Bitdeal](bitdeal.md)
 * [BitDice](bitdice.md)
 * [bitJob](bitjob.md)
+* [Bitproperty](bitproperty.md)
 * [BitShares](bitshares.md)
 * [BlockCAT](blockcat.md)
 * [Blocklancer](blocklancer.md)
@@ -43,9 +44,11 @@
 * [Bluzelle](bluzelle.md)
 * [BMchain](bmchain.md)
 * [Bowhead Health](bowhead_health.md)
+* [BrickBlock](brickblock.md)  
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C
+* [Cash Poker Pro](cash_poker_pro.md)  
 * [Ccore](ccore.md)
 * [Change](change.md)
 * [ChronoLogic](chronologic.md)
@@ -84,6 +87,7 @@
 * [Emercoin](emercoin.md)
 * [Empire Card](empire_card.md)
 * [Enigma Catalyst](enigma_catalyst.md)
+* [Enjin Coin](enjin_coin.md)
 * [EOS](eos.md)
 * [EQUI](equi.md)
 * [ETCH](etch.md)
@@ -115,6 +119,7 @@
 * [Gulden](gulden.md)
 * [Gx Coin](gxcoin.md)
 ## H
+* [Hcash](hcash.md)
 * [HireMatch](hirematch.md)  
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
@@ -131,11 +136,13 @@
 * [InsureX](insurex.md)
 * [Integrative Wallet Token](integrative_wallet_token.md) 
 * [Intelligent Trading Technologies](intelligent_trading_technologies.md)
+* [Intellium](intellium.md)  
 * [Internxt](internxt.md) 
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## J
 * [Just Dating Site](jds.md)
+* [Jincor](jincor.md)
 ## K
 * [Karma](karma.md)
 * [Kencoin](kencoin.md)
@@ -151,6 +158,7 @@
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
+* [Lordmancer II](lordmancer_II.md)
 * [Luxico](luxico.md)
 * [Lykke](lykke.md)
 ## M
@@ -179,6 +187,7 @@
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O
+* [Obsidian Platform](obsidian_platform.md)
 * [OmiseGo](omisego.md)
 * [Omni](omni.md)
 * [OpenZen](openzen.md)
@@ -229,6 +238,7 @@
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)
+* [STeX](stex.md)
 * [Storj](storj.md)
 * [Storm](storm.md)
 * [Stratis](stratis.md)
@@ -246,7 +256,8 @@
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
 ## V
-* [Vechain](vechain.md)  
+* [Vechain](vechain.md)
+* [Vega](vega.md)
 * [Veredictum](veredictum.md)  
 * [Verge](verge.md)
 * [Veritaseum](veritaseum.md)
@@ -258,6 +269,7 @@
 ## W
 * [WaBi](wabi.md) 
 * [Waves](wavesplatform.md)
+* [WePower Network](wepower_network.md)
 * [WIC](wic.md)
 * [Winding Tree](winding_tree.md)  
 * [Wings](wings.md)

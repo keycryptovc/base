@@ -1,8 +1,22 @@
 # News
+## 08 September 2017
+* [Monetha Signs Partnership with Leading Central European Food Delivery Company](monetha_08-09-17.md)
+
+## 07 September 2017
+* [Indorse had announced the partnership with Change](change_07-09-17.md)
+* [Monetha had collected 95,000 ETH during ICO in 18 minutes](monetha_07-09-17.md)
+* [Monetha tokens will be listed in the Exchanges around Mid September - Early October](monetha2_07-09-17.md)
+
+## 06 September 2017
+* [Bluzelle is starting on a developer tour](bluzelle_06-09-17.md)
+* [Bankera  has paid the first shared transactional revenue to the token holders](bankera_06-09-17.md)
+* [TenX announced plans to launch marketplace for the financial services](tenx_06-09-17.md)
+
 ## 05 September 2017
 * [Red Pulse ICO postponed](redpulse_05-09-17.md)
 * [Yale economics professor Robert Shiller in his latest book titled ‘Irrational Exuberance’, uses Bitcoin as an example of a market that has spiked and collapsed.](bitcoin-05-09-17.md)  
 * [Former State Department Official Anja Manuel Joins Ripple’s Board of Directors](ripple-05-09-2017.md)
+* [NEO had published statement regarding latest regulation changes](neo_05-09-17.md)
 
 ## 04 September 2017
 * [How "Decentralize Escrow" Will Make An Impact on the Global Crypto Economy](decentralized_escrow_04-09-17.md)
@@ -58,24 +72,15 @@
 * [Waves' New CFO announcement](waves_10-08-17.md)
 
 ## 09 August 2017
-### Ethereum classic
 * [ A command line interface client Mantis released for the ETC community](ethereum_classic_09-08-17.md)
 * [BCC eases mining difficulty, but BTC is still more profitable. Major retailer now accepts BCC.](bitcoin_cash_09-08-17.md)
-### Ripple
 * [WORLDLINK joins Ripple’s XRP ledger](ripple_09-08-17.md)
-### Bitcoin
 * [Bitcoin Price Will Likely Increase to $5,000 Because of Segwit](bitcoin_09-08-17.md)
-### NEM
 * [President of NEM Foundation, talks about the XEM cryptocurrency global expansion and more.](nem_09-08-17.md)
-### IOTA
 * [IOTA Foundation Helps to Unite Refugees Families](iota_09-08-17.md)
-### Bitcoin Cash
 * [BCC eases mining difficulty, but BTC is still more profitable. Major retailer now accepts BCC.](bitcoin_cash_09-08-17.md)
-### Dash
 * [Dash is planning to organize series of events in Venezuela to promote cryptocurrencies. Major retailer now accepts Dash.](dash_09-08-17.md)
-### Monero
 * [Major retailer now accepts Monero.](monero_09-08-17.md)
-### Neo
 * [NEO reported about completion of rebranding and announced new partners](neo_09-08-17.md)
 ## 08 August 2017
 * [Ripple is expanding solutions, according to general plan of developing Internet of Value (IoV).](ripple_08-08-17.md)

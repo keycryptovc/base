@@ -4,7 +4,7 @@ Name: Vincent Bernardoff
 Location: France
 ## Projects 
 Name: [Tezos](../projects/tezos.md)  
-Position: Tezos Team 
+Position: R&D Engineer 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/vbmithr/)  
 [Github](https://github.com/vbmithr)  

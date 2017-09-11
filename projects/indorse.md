@@ -21,3 +21,5 @@ Indorse is a revolutionary platform using new models of tokenization and decentr
 ## About  
 [Introduction Video](https://www.youtube.com/watch?v=peZOjxQhWL4)   
 [Indorse, the Decentralized Professional Social Network, Receives Additional Backing From Coinsilium After $5.5 million Pre-Sale](http://www.the-blockchain.com/2017/08/16/indorse-decentralized-professional-social-network-receives-additional-backing-coinsilium-5-5-million-pre-sale/)
+## News  
+[Indorse had announced the partnership with Change](../news/change_07-09-17.md)

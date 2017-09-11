@@ -187,6 +187,7 @@
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O
+* [Obsidian Platform](obsidian_platform.md)
 * [OmiseGo](omisego.md)
 * [Omni](omni.md)
 * [OpenZen](openzen.md)
@@ -254,7 +255,8 @@
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
 ## V
-* [Vechain](vechain.md)  
+* [Vechain](vechain.md)
+* [Vega](vega.md)
 * [Veredictum](veredictum.md)  
 * [Verge](verge.md)
 * [Veritaseum](veritaseum.md)

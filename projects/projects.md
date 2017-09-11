@@ -95,6 +95,7 @@
 * [Ethereum classic](ethereum_classic.md)
 * [Etheroll](etheroll.md)
 * [Etherparty](etherparty.md)
+* [EtherSportz](ethersportz.md)
 * [ETHLend](ethlend.md)
 * [Everex](everex.md)
 
@@ -214,6 +215,7 @@
 * [REAL](real.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
+* [ReiDAO](reidao.md)
 * [Rex](rex.md)
 * [Ripple](ripple.md)
 * [RocketICO](rocketico.md)
@@ -247,6 +249,7 @@
 ## T
 * [TenX](tenx.md)
 * [Tether](tether.md)
+* [Tezos](tezos.md)
 * [Ties Network](ties_network.md) 
 * [TokenStars](tokenstars.md) 
 * [TokenStub](tokenstub.md)
@@ -255,6 +258,7 @@
 ## U
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
+* [UTrust](utrust.md)
 ## V
 * [Vechain](vechain.md)
 * [Vega](vega.md)
@@ -267,6 +271,7 @@
 ## X
 * [Xaurum](xaurum.md)
 ## W
+* [WaBi](wabi.md) 
 * [Waves](wavesplatform.md)
 * [WePower Network](wepower_network.md)
 * [WIC](wic.md)

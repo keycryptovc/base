@@ -1,4 +1,7 @@
 # News
+## 11 September 2017
+[R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](ripple-11-09-2017.md)
+
 ## 05 September 2017
 * [Red Pulse ICO postponed](redpulse_05-09-17.md)
 * [Yale economics professor Robert Shiller in his latest book titled ‘Irrational Exuberance’, uses Bitcoin as an example of a market that has spiked and collapsed.](bitcoin-05-09-17.md)  

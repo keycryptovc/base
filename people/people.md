@@ -337,6 +337,7 @@
 * [Jack Robison](jack_robison.md)
 * [Jagdeep Sidhu](jagdeep_sidhu.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
+* [Jakob Drzazga](jakob_drzazga.md)
 * [Jakub Vysoky](jakub_vysoky.md) 
 * [Jani Valjavec](jani_valjavec.md)
 * [James Ashburn](james_ashburn.md)
@@ -485,6 +486,7 @@
 * [Markos Romanos](markos_romanos.md) 
 * [Martin Allien](martin_allien.md)
 * [Martin Köppelmann](martin_koppelmann.md)
+* [Martin Mischke](martin_mischke.md)
 * [Martin Wichmann](martin_wichmann.md)
 * [Martynas Adomaitis](martynas_adomaitis.md)
 * [Matej Michalko](matej_michalko.md)
@@ -561,6 +563,7 @@
 ## P
 * [Pacific_Skyline](pacific_skyline.md)
 * [Pamela Menze](pamela_menze.md)
+* [Paolo Bernewitz](paolo_bernewitz.md)
 * [Pat Riley](pat_riley.md) 
 * [Patricia Harrison](patricia_harrison.md)
 * [Patricio Mosse](patricio_mosse.md)

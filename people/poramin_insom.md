@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/poramin_insom.jpf)  
+![ photo](photo/poramin_insom.jpg)  
 Name: Poramin Insom  
 Location: Thailand
 ## Projects 

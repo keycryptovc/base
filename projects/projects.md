@@ -247,6 +247,7 @@
 * [Storj](storj.md)
 * [Storm](storm.md)
 * [Stratis](stratis.md)
+* [Streamr](streamr.md)
 * [Synchrolife](synchrolife.md)
 * [SysCoin](syscoin.md)
 ## T

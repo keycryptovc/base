@@ -1,5 +1,5 @@
-Binance Coin## Overview
-![ logo](../projects/logo/binance.png)  
+## Overview
+![Binance Coin logo](../projects/logo/binance.png)  
 Name: Binance Coin
 [Website](https://www.binance.com/)   
 Year founded:  2017

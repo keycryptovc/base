@@ -200,6 +200,7 @@
 * [OpenZen](openzen.md)
 ## P
 * [Particl](particl.md)
+* [PayPei](paypei.md)
 * [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)

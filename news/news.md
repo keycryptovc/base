@@ -1,6 +1,7 @@
 # News
 ## 12 September 2017
 * [OMG token is  listed on Poloniex and Binance](omisego_12-09-17.md)
+* [Monetha's team in going to onboard the major excahnges in 4 weeks after the ICO](monetha_12-09-17.md)
 
 ## 11 September 2017
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)

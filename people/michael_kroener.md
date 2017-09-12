@@ -1,7 +1,7 @@
 ## Personal data
 ![michael kroener photo](photo/michael_kroener.jpg)  
 Name:   Michael Kroener  
-Location: Estonia    
+Location: Germany    
 ## Projects 
 Name: [Acebusters](../projects/acebusters.md)  
 Position: Marketing Analyst      

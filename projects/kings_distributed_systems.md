@@ -9,7 +9,7 @@ End: 	31. Oct 2017
 ## Staff
 Co-founder & CEO: [Douglas Stewart](../people/douglas_stewart.md)  
 Co-founder & CTO & Lead Developer: [Greg Agnew](../people/greg_agnew.md)  
-VP of business development: [Daniel Desjardins](../people/daniel_desjardins.md)  
+VP of Business Development: [Daniel Desjardins](../people/daniel_desjardins.md)  
 ## Business Model	
 They use scientific research as proof of work to distribute coins. The token is tied to your computer resources creating a stable asset. Connecting to institutions and researchers they allow work packages to be created and verified on the network for miners to complete. By rewarding all work completed they are making good use of otherwise wasted hashing power. Their alpha system runs on top of the Berkeley Open Infrastructure for Network Computing giving us access to a large and already existing market of work and miners.
 ## Contacts  

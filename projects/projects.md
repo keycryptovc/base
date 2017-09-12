@@ -221,6 +221,7 @@
 * [REAL](real.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
+* [Redemption Technologies](redemption_technologies.md)
 * [ReiDAO](reidao.md)
 * [Rex](rex.md)
 * [Ripple](ripple.md)

@@ -1,5 +1,5 @@
 ## Personal data
-![bo dong photo](photo/bo_dong.jpg)  
+![bo dong photo](photo/bo_dong.png)  
 Name:   Bo Dong  
 Location: China  
 ## Projects 

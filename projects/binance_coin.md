@@ -1,16 +1,16 @@
 ## Overview
-![Binance Coin logo](../projects/logo/binance.png)  
-Name: Binance Coin
-[Website](https://www.binance.com/)   
-Year founded:  2017
+![Binance Coin logo](../projects/logo/binance.png)   
+Name: Binance Coin  
+[Website](https://www.binance.com/)    
+Year founded:  2017  
 Currency: token [(BNB)](https://coinmarketcap.com/assets/binance-coin/)	 
 ## Staff 
-CEO: [Changpeng Zhao](../people/changpeng_zhao.md)   
-CTO: [Roger Wang](../people/roger_wang.md)  
-Chief Architect: [James Hofbauer](../people/james_hofbauer.md)  
-VP of Engineering: [Paul Jankunas](../people/paul_jankunas.md)   
+CEO: [Changpeng Zhao](../people/changpeng_zhao.md)    
+CTO: [Roger Wang](../people/roger_wang.md)   
+Chief Architect: [James Hofbauer](../people/james_hofbauer.md)   
+VP of Engineering: [Paul Jankunas](../people/paul_jankunas.md)    
 ## Business Model
- The currency trading platform is a trading platform created by a group of digital asset lovers led by Zhao Changpeng (CZ) to focus on the chain assets. To provide users with more secure and convenient block-chain asset exchange services, polymerization of global high-quality block chain assets, is committed to creating a world-class block chain asset trading platform.  
+ The currency trading platform is a trading platform created by a group of digital asset lovers led by Zhao Changpeng (CZ) to focus on the chain assets. To provide users with more secure and convenient block-chain asset exchange services, polymerization of global high-quality block chain assets, is committed to creating a world-class block chain asset trading platform.   
 ## Contacts  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=2086265.0)       
 [Twitter](https://twitter.com/binance_2017)   

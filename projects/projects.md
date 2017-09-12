@@ -227,6 +227,7 @@
 * [Rex](rex.md)
 * [Ripple](ripple.md)
 * [RocketICO](rocketico.md)
+* [RootProject](rootproject.md)
 * [Round](round.md) 
 ## S
 * [ShapeShift](shapeshift.md)

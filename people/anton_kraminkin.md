@@ -4,7 +4,9 @@ Name: Anton Kraminkin
 Location: Belarus  
 ## Projects 
 Name: [RocketICO](../projects/rocketico.md)  
-Position: Marketing Lead    
+Position: Marketing Lead  
+Name: [RootProject](../projects/rootproject.md)  
+Position: Development Director
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/anton-kraminkin-b21181b3/)  
 [Twitter](https://twitter.com/akraminkin)  

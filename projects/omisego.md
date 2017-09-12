@@ -21,3 +21,5 @@ Public Ethereum-based financial technology for use in mainstream digital wallets
 [Crowdsale Document](https://cdn.omise.co/omg/crowdsaledoc.pdf)  
 [Explanatory Note & Governance Terms](https://cdn.omise.co/omg/crowdsaleterms.pdf)  
 [Why I have decided to invest in OmiseGo](https://www.reddit.com/r/ethtrader/comments/6nldxs/why_i_have_decided_to_invest_in_omisego_omg_now/)
+## News 
+[OMG token is  listed on Poloniex and Binance](omisego_12-09-17.md)  

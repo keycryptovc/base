@@ -1,5 +1,5 @@
 ## Personal data
-![douglas stewart photo](photo/douglas_stewart.jpg)  
+![douglas stewart photo](photo/douglas_stewart.png)  
 Name:   Douglas Stewart  
 Location: Canada  
 ## Projects 

@@ -19,4 +19,5 @@ Sensay platform provides a decentralized, interoperable messenger protocol allow
 [GitHub](https://github.com/sensay)  
 [Blog](https://medium.com/@sensay)  
 ## About  
-[WhitePaper](not available, will be updated) 
+[OnePager](https://github.com/sensay/sense-documentation/blob/master/sense-token-one-pager.pdf)   
+[WhitePaper](not available, will be updated)   

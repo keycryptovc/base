@@ -1,4 +1,7 @@
 # News
+## 12 September 2017
+* [Qtum Price Rallies 60% Ahead of Mainnet Release](qtum-12-09-2017.md)  
+
 ## 11 September 2017
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)
 * [Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)

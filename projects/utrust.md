@@ -4,7 +4,7 @@ Name: UTrust
 [Website](https://utrust.io)  
 Year founded: 2017  
 Currency: UTRUST token  
-ICO Start Date: 20 September 2017  
+ICO Start Date: 20 September 2017 (Postponed)
 ## Staff
 CEO: [Nuno Correia](../people/nuno_correia.md)  
 CIO: [Filipe Castro](../people/filipe_castro.md)   

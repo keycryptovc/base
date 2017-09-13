@@ -1,4 +1,7 @@
 # News
+## 13 September 2017
+* [SBI Ripple Will Test Blockchain Bank Transfers Between Japan and South Korea](ripple_13-09-17.md)
+
 ## 11 September 2017
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)
 * [Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)

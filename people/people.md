@@ -124,7 +124,8 @@
 * [Avadhoot Kulkarni](avadhoot_kulkarni.md)
 * [Aviad Gindi](aviad_gindi.md)
 ## B
-* [Bar Yehudai](bar_yehudai)  
+* [Bar Yehudai](bar_yehudai)
+* [Barnaba Pawełczak](barnaba_pawełczak.md)
 * [Ben Myers](ben_myers.md)
 * [BCNext](bcnext.md)
 * [Ben Steffens](ben_steffens.md)
@@ -143,6 +144,7 @@
 * [Brandon Stuart](brandon_stuart.md)
 * [Brock Pierce](brock_pierce.md)
 * [Brendan Eich](brendan_eich.md)
+* [Brennan Bennett](brennan_bennett.md)
 * [Brian Bondy](brian_bondy.md)
 * [Brian Onn](brian_onn.md)
 * [Bryn Bellomy](bryn_bellomy.md)
@@ -524,7 +526,8 @@
 * [Luis Cuende](luis_cuende.md)
 * [Luis Ferreira](luis_ferreira.md)
 ## M
-* [Maciej Kolodziejczyk](maciej_kolodziejczyk.md) 
+* [Maciej Kolodziejczyk](maciej_kolodziejczyk.md)
+* [Maciej Wierzbowski](maciej_wierzbowski.md)
 * [Maksim Izmaylov](maksim_izmaylov.md) 
 * [Mantas Mockevičius](mantas_mockevičius.md)
 * [Matt Carden](matt_carden.md)

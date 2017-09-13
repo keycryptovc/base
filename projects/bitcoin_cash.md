@@ -1,6 +1,6 @@
 ## Overview
-  ![Bitcoin Cash logo](../projects/logo/bitcoin_cash.png)  
-  Name: Bitcoin Cash
+  ![Bitcoin Cash logo](../projects/logo/bitcoin_cash.png)   
+  Name: Bitcoin Cash  
   [Website](https://www.bitcoincash.org/)  
   Year founded: Aug 2017  
   Currency: coin [BCH](https://coinmarketcap.com/currencies/bitcoin-cash/)  
@@ -12,4 +12,6 @@ It will be a Bitcoin without segwit as soft fork, where upgrades of the protocol
    [Bitcointalk](https://bitcointalk.org/index.php?topic=2040221.0)  
    [Forum](http://www.bccforums.net/)  
 ## About 
-[Reddit](http://reddit.com/r/Bitcoinabc)
+[Reddit](http://reddit.com/r/Bitcoinabc) 
+## News
+* [NEM Partners With Malaysian Digital Economy Corporation](../news/nem-13-09-2017.md)

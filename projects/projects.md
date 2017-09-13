@@ -163,6 +163,7 @@
 * [Latium](latium.md)
 * [LAToken](latoken.md)
 * [LBRY](lbry.md)
+* [Leap](leap.md)
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)

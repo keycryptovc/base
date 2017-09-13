@@ -1,6 +1,7 @@
 # News
 ## 13 September 2017
 * [Trackr Announces Desktop Client](trackr_13-09-17.md)
+* [Trackr New Token Distribution Plan](trackr2_13-09-17.md)
 
 ## 11 September 2017
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)

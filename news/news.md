@@ -6,6 +6,9 @@
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)
 * [Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)
 * [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](ripple-11-09-2017.md)
+* [NEO Council Reported about possible phishing paper wallet generator](neo_11-09-17.md)
+* [Australian Blockchain Mission to China](neo2_11-09-17.md)
+* [UTrust’s Pre-ICO Collects $1.5 Million](utrust_11-09-17.md)
 
 ## 09 September 2017
 * [Jaron Lukasiewicz has come on board as Minerva's strategic advisor](minerva_09-09-17.md)

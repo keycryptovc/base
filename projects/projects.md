@@ -30,6 +30,7 @@
 * [Bankera](bankera.md)
 * [Basic Attention Token](bat.md)
 * [Becksang](becksang.md)
+* [Binance Coin](binance_coin.md)
 * [BeOne](beone.md)
 * [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
@@ -155,6 +156,7 @@
 * [KickCity](kickcity.md)
 * [KICKICO](kickico.md) 
 * [Kin](kin.md)
+* [Kings Distributed Systems](kings_distributed_systems.md)
 * [Komodo](komodo.md)
 * [KyberNetwork](kybernetwork.md)
 ## L
@@ -225,6 +227,7 @@
 * [Rex](rex.md)
 * [Ripple](ripple.md)
 * [RocketICO](rocketico.md)
+* [RootProject](rootproject.md)
 * [Round](round.md) 
 ## S
 * [ShapeShift](shapeshift.md)
@@ -287,3 +290,4 @@
 * [Wolk](wolk.md)
 ## Z
 * [Zcash](zcash.md)
+* [Zcoin](zcoin.md)

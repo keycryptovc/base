@@ -7,7 +7,7 @@ Currency: PBL
 ICO: Start: 25. Oct 2017  
 End: 15. Nov 2017
 ## Staff
-CEO: [Josef Marc](../people/Josef Marc.md)  
+CEO: [Josef Marc](../people/josef_marc.md)  
 CTO: [Yuri Pimenov](../people/yuri_pimenov.md)  
 COO: [Antons Sapriko](../people/antons_sapriko.md)  
 ## Business Model

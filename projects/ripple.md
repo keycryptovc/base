@@ -18,6 +18,7 @@
    [Wired review](https://www.wired.com/2016/01/project-aims-to-unite-bitcoin-with-other-online-currencies/)
    
 ## News
+* [SBI Ripple Will Test Blockchain Bank Transfers Between Japan and South Korea](../news/ripple_13-09-17.md)
 * [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](../news/ripple-11-09-2017.md)
 * [Former State Department Official Anja Manuel Joins Ripple’s Board of Directors](../news/ripple-05-09-2017.md)
 

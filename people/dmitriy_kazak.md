@@ -1,5 +1,4 @@
-## Personal data
-![dmitriy kazak photo](photo/dmitriy_kazak.jpg)  
+## Personal data 
 Name:   Dmitriy Kazak  
 Location: Russian Federation  
 ## Projects 

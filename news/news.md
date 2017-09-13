@@ -1,6 +1,6 @@
 # News
 ## 13 September 2017
-* [NEM Partners With Malaysian Digital Economy Corporation](nem-13-09-2017.md)
+* [WebMoney supporting Bitcoin Cash](../news/bitcoin_cash-13-09-2017.md)  
 
 ## 11 September 2017
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)

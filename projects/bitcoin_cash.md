@@ -14,4 +14,4 @@ It will be a Bitcoin without segwit as soft fork, where upgrades of the protocol
 ## About 
 [Reddit](http://reddit.com/r/Bitcoinabc) 
 ## News
-* [NEM Partners With Malaysian Digital Economy Corporation](../news/nem-13-09-2017.md)
+* [WebMoney supporting Bitcoin Cash](../news/bitcoin_cash-13-09-2017.md)

@@ -17,7 +17,7 @@
 Antshares is the first Chinese blockchain project [raised](http://www.financemagnates.com/cryptocurrency/innovation/antshares-blockchain-completes-ico-securing-4-5m-and-microsoft-partnership/) 4.5M$ at ICO. Antshares initiated a [rebranding](https://neo.org/ru-RU/Blog/Details/61) to NEO at 27th of June.
 ## News
 [Reddit user integrated NEO with the Ledger Nano S](../news/neo_13-09-17.md)  
-[NEO token is added to Bitfinex](../news/neo_08-09-17.md)  
+[NEO token is added to Bitfinex](../news/neo_08-09-17.md)  
 [NEO Council release monthly report (August)](../news/neo2_08-09-17.md)  
 [Exodus Wallet has planned NEO support](../news/neo3_08-09-17.md)  
 [NEO had published statement regarding latest regulation changes](../news/neo_05-09-17.md)  

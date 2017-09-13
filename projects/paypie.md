@@ -4,6 +4,8 @@ Name: PayPie
 [Website](https://www.paypie.com/)  
 Year founded: 2017    
 Currency: PPP  
+ICO Start Date: 15 October 2017  
+ICO End Date: 15 November 2017 
 ## Staff
 Co-Founder, CEO: [Nick Chandi](../people/nick_chandi.md)  
 Co-Founder, COO: [Jag Barpagga](../people/jag_barpagga.md)  

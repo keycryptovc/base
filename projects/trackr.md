@@ -34,4 +34,5 @@ Token allocation (65 500 000 TKR):
 [Trackr WhitePaper](https://www.trackr.im/media/whitepaper.pdf)  
 [Interview With Waleed Amjad](https://www.youtube.com/watch?v=2J_LlBvBZ9I)
 ## News
-[Trackr Announces Desktop Client](../news/trackr_13-09-17.md)
+[Trackr Announces Desktop Client](../news/trackr_13-09-17.md)  
+[Trackr New Token Distribution Plan](trackr2_13-09-17.md)

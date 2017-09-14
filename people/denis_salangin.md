@@ -3,7 +3,7 @@
 Name:   Denis Salangin  
 Location: Russian Federation  
 ## Projects 
-Name: [Payfair](../projects/payfair.md)  
+Name: [PAYFAIR](../projects/payfair.md)  
 Position: Founder   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/denis-salangin-21041114a/)    

@@ -1,5 +1,4 @@
-## Personal data
-![mitsutoshi fukunaga photo](photo/mitsutoshi_fukunaga.jpg)  
+## Personal data 
 Name:   Mitsutoshi Fukunaga  
 Location:  Japan  
 ## Projects 

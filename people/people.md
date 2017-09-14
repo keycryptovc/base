@@ -353,6 +353,7 @@
 * [Henry Ashley-Cooper](henry_ashley_cooper.md)
 * [Henry Kehlmann](henry_kehlmann.md)
 * [Herbert W. Hoover](herbert_w._hoover.md)
+* [Himanshu Pandey](himanshu_pandey.md) 
 * [Hiroshi Mita](hiroshi_mita.md)
 * [Horia Cretan](horia_cretan.md)
 * [H. L. Lu](h.l._lu.md)
@@ -520,6 +521,7 @@
 * [Lisa Cheng](lisa_cheng.md)
 * [Lloyd Huang](lloyd_huang.md)
 * [Loi Luu](loi_luu.md)  
+* [Lucas Coffey](lucas_coffey.md) 
 * [Lukas Kairys](lukas_kairys.md)
 * [Lukasz Gasior](lukasz_gasior.md)
 * [Lukasz Zeligowski](lukasz_zeligowski.md)
@@ -592,6 +594,7 @@
 * [Mohamed Iguernlala](mohamed_iguernlala.md)
 * [Mona El Isa](mona_el_isa.md)
 * [Montag](montag.md)
+* [Mostafizur Rahman Riyad](mostafizur_rahman_riyad.md) 
 * [Mr Watanabe](mrwatanabe.md)
 ## N
 * [Nakul Pant](nakul_pant.md)
@@ -674,6 +677,7 @@
 * [Qingfeng Shan](qingfeng_shan.md)
 ## R
 * [Rafik Misirov](rafik_misirov.md) 
+* [Rahul Singh](rahul_singh.md) 
 * [Raid5](raid5.md)
 * [Raides J. Rodríguez](raides_j_rodríguez.md)
 * [Ramon Hernandez](ramon_hernandez.md)

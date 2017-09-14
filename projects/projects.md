@@ -228,6 +228,7 @@
 * [ReiDAO](reidao.md)
 * [Rex](rex.md)
 * [Ripple](ripple.md)
+* [Robot Vera](robot_vera.md)
 * [RocketICO](rocketico.md)
 * [RootProject](rootproject.md)
 * [Round](round.md) 

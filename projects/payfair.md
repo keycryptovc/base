@@ -8,8 +8,8 @@ ICO: Start: 1. Nov 2017
 End: 30. Nov 2017
 ## Staff
 Founder: [Denis Salangin](../people/denis_salangin.md)  
-Marketing: [Ilia Konovalov](../people/ilia_konovalov.md)  
-Community manager: [Evgeniy Pomelov](../people/evgeniy_pomelov.md)  
+Marketing Manager: [Ilia Konovalov](../people/ilia_konovalov.md)  
+Community Manager: [Evgeniy Pomelov](../people/evgeniy_pomelov.md)  
 ## Business Model
 PAYFAIR is a decentralized escrow platform for making cryptocurrency transactions between two parties. It is ensured with PAYFAIR tokens (PFR) based on Ethereum blockchain Low fees for making a transaction, its safety and privacy Saving time when making a transaction, no third parties or bureaucracy. PFR tokens are an essential part of the system. Tokens create trust nodes, ensuring the trade between counterparties.
 ## Contacts  

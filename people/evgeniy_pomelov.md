@@ -3,7 +3,7 @@
 Name:   Evgeniy Pomelov  
 Location: Russian Federation  
 ## Projects 
-Name: [Payfair](../projects/payfair.md)  
+Name: [PAYFAIR](../projects/payfair.md)  
 Position: Community Manager   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/john-pomelov-94a41014a/)  

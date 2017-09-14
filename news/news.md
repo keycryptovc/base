@@ -1,4 +1,7 @@
 # News
+## 14 September 2017
+* [PIVX announced Zerocoin protocol integration](pivx_14-09-17.md)
+
 ## 12 September 2017
 * [OMG token is  listed on Poloniex and Binance](omisego_12-09-17.md)
 * [Monetha's team in going to onboard the major excahnges in 4 weeks after the ICO](monetha_12-09-17.md)

@@ -3,7 +3,7 @@
 Name:   Ilia Konovalov  
 Location: Russian Federation  
 ## Projects 
-Name: [Payfair](../projects/payfair.md)  
+Name: [PAYFAIR](../projects/payfair.md)  
 Position: Marketing Manager   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ilya-konovalov-1b341214a/)  

@@ -1,6 +1,6 @@
 ## Overview
 ![logo](../projects/logo/payfair.png)  
-Name: PAYFAIR 
+Name: PAYFAIR   
 [Website](https://payfair.io/ru/)  
 Year founded: 2017  
 Currency: PAYFAIR  

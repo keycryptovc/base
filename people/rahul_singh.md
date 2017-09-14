@@ -1,5 +1,5 @@
 ## Personal data
-![rahul singth photo](photo/rahul_singth.jpg)  
+![rahul singth photo](photo/rahul_singh.jpg)  
 Name:   Rahul Singh   
 Location: India      
 ## Projects 

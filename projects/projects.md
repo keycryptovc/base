@@ -232,6 +232,7 @@
 * [RootProject](rootproject.md)
 * [Round](round.md) 
 ## S
+* [SENSE](sense.md)
 * [ShapeShift](shapeshift.md)
 * [Sia](sia.md)
 * [Sibcoin](sibcoin.md)

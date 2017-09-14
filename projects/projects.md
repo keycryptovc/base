@@ -63,6 +63,7 @@
 * [Cloud](cloud.md)
 * [COSS](coss.md)
 * [CoEval](coeval.md)
+* [COMSA](comsa.md)
 * [Counterparty](counterparty.md)
 * [Crowdholding](crowdholding.md)
 * [Crown](crown.md)

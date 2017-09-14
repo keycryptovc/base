@@ -202,6 +202,7 @@
 * [Omni](omni.md)
 * [OpenZen](openzen.md)
 ## P
+* [Paragon](paragon.md)
 * [Particl](particl.md)
 * [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)

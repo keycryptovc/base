@@ -273,6 +273,7 @@
 ## U
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
+* [Unikrn](unikrn.md)
 * [UTrust](utrust.md)
 ## V
 * [Vechain](vechain.md)

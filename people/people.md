@@ -70,6 +70,7 @@
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Andy Grant](andy_grant.md) 
 * [Andrej Ruckij](andrej_ruckij.md)
+* [Andrew Donley](andrew_donley.md)
 * [Andrew Makarskiy](andrew_makarskiy.md)
 * [Andrew Perepelitsa](andrew_perepelitsa.md) 
 * [Andrew Rangel](andrew_rangel.md)
@@ -206,6 +207,7 @@
 * [Daniel Kim](daniel_kim.md)
 * [Daniel Kraft (domob)](daniel_kraft.md)
 * [Daniel Larimer](daniel_larimer.md)
+* [Daniel Rudolph](daniel_rudolph.md)
 * [Daniel Yeo](daniel_yeo.md)
 * [Danila Prozorov](danila_prozorov.md)
 * [Danila Simonov](danila_simonov.md)
@@ -470,6 +472,7 @@
 * [Jutta Steiner](jutta_steiner.md)
 * [jl777](jl777.md)
 ## K
+* [Karl Flores](karl_flores.md)
 * [Karl Vään](karl_vaan.md)
 * [Karl Schnürch](karl_schnürch.md)
 * [Katarina Katic](katarina_katic.md)
@@ -490,6 +493,7 @@
 * [Kersten Schütze](kersten_schutze.md)
 * [Khal Achkar](khal_achkar.md)
 * [Kim Jackson](kim_jackson.md)
+* [Kingsley Edwards](kingsley_edwards.md)
 * [Kir Lyzhnikov](kir_lyzhnikov.md) 
 * [Kirill Murzin](kirill_murzin.md)
 * [Kirill Tulenev](kirill_tulenev.md) 
@@ -681,7 +685,8 @@
 ## Q
 * [Qingfeng Shan](qingfeng_shan.md)
 ## R
-* [Rafik Misirov](rafik_misirov.md) 
+* [Rafik Misirov](rafik_misirov.md)
+* [Rahul Sood](rahul_sood.md)
 * [Raid5](raid5.md)
 * [Raides J. Rodríguez](raides_j_rodríguez.md)
 * [Rajeev Ranjan](rajeev_ranjan.md)

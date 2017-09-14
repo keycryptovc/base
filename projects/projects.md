@@ -203,6 +203,7 @@
 * [OpenZen](openzen.md)
 ## P
 * [Particl](particl.md)
+* [Payfair](payfair.md)
 * [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)

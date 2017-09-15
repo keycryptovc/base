@@ -129,7 +129,8 @@
 * [Gx Coin](gxcoin.md)
 ## H
 * [Hcash](hcash.md)
-* [HireMatch](hirematch.md)  
+* [HireMatch](hirematch.md)
+* [Honestis Network](honestis_network.md)
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
 * [Hut34 Project](hut34_project.md) 

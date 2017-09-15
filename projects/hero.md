@@ -9,7 +9,7 @@ ICO: TBA
 Chairman of the board: [David Margendorff](../people/david_margendorff.md)  
 Managing Director: [Manny Ayala](../people/manny_ayala.md)  
 Director: [Nix Nolledo](../people/nix_nolledo.md)  
-Director: [Kristi Bautista](../people/kristi_bautista.md)  
+COO: [Kristi Bautista](../people/kristi_bautista.md)  
 Director & Treasurer: [Alexander Corpus](../people/alexander_corpus.md)
 ## Business Model
 Hero has been created to make both financial return and positive social impact. A Hero token represents the right to receive a reward, which is part of the interest income earned. It does not represent equity in the company nor have any intrinsic value. All tokens in aggregate will have the right to receive up to 20% of interest income.

@@ -4,7 +4,7 @@ Name: UTrust
 [Website](https://utrust.io)  
 Year founded: 2017  
 Currency: UTRUST token  
-ICO Start Date: 20 September 2017  
+ICO Start Date: 20 September 2017 (Postponed)
 ## Staff
 CEO: [Nuno Correia](../people/nuno_correia.md)  
 CIO: [Filipe Castro](../people/filipe_castro.md)   
@@ -33,4 +33,5 @@ mediator, resolver of conflicts, enabling the possibility of refunds to mitigate
 [RoadMap](https://utrust.io/#roadmap)  
 [Review: Monetha vs UTrust](https://medium.com/@UTRUST/my-personal-review-of-monetha-vs-utrust-slack-user-jamyoll-92551c2bd475)
 ## News
-[UTrust’s Pre-ICO collects $1.5 Million](../news/utrust_11-09-17.md)
+[UTrust ICO Date and Conditions are changed](../news/utrust_13-09-17.md)  
+[UTrust’s Pre-ICO collects $1.5 Million](../news/utrust_11-09-17.md)  

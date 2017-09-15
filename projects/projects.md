@@ -31,6 +31,7 @@
 * [Bankera](bankera.md)
 * [Basic Attention Token](bat.md)
 * [Becksang](becksang.md)
+* [beeqb](beeqb.md)
 * [Binance Coin](binance_coin.md)
 * [BeOne](beone.md)
 * [BitBay](bitbay.md)

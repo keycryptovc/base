@@ -10,13 +10,12 @@ Co-founder & CSO: [Patrick Meier](../people/patrick_meier.md)
 Co-Founder & CPO: [Joseph Ashburner](../people/joseph_ashburner.md)  
 Director of Operations: [Alex Xu](../people/alex_xu.md)
 ## Business Model
-0x is an open protocol that facilitates trustless, low friction exchange of Ethereum-based assets.
-## Contacts  
-[Twitter](https://twitter.com/0xproject)  
-[Linkedin](https://www.linkedin.com/company-beta/17942619/)  
-[Facebook](https://www.facebook.com/0xProject/)  
-[Slack](https://slack.0xproject.com/)  
-[GitHub](https://github.com/0xProject)  
-[Blog](https://blog.0xproject.com/)  
+Smoke.Network is an incentivized, distributed social media application for the cannabis community, that rewards users in cryptocurrency for reviewing strains, interacting, creating content, and engaging others. The rewards are self funding and the application is completely decentralized and owned by the users with an incentive to grow the network together.
+## Contacts    
+[Facebook](https://www.facebook.com/420smokers.us)  
+[Slack](https://discordapp.com/invite/pMNP79x)  
+[GitHub](https://github.com/smokenetwork)  
+[Blog](https://medium.com/smokenetwork)  
+[Telegram](https://telegram.me/D4v2s)
 ## About  
-[WhitePaper](https://www.0xproject.com/pdfs/0x_white_paper.pdf) 
+[WhitePaper](https://www.smoke.network/smoke-network-whitepaper.pdf) 

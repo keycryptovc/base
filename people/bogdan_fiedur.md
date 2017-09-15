@@ -4,7 +4,9 @@ Name:   Bogdan Fiedur
 Location: Canada
 ## Projects 
 Name: [bitJob](../projects/bitjob.md)  
-Position: Co-founder & CTO
+Position: Co-founder & CTO  
+Name: [PayPie](../projects/paypie.md)  
+Position: Blockchain Expert
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/bogdanfiedur/)    
 [Facebook](https://www.facebook.com/bogdan.fiedur)  

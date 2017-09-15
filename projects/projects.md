@@ -5,6 +5,7 @@
 * [300cubits](300cubits.md)
 
 ## A
+* [Acebusters](acebusters.md)  
 * [Aether United](aether_united.md)
 * [Agrello](agrello.md)
 * [Ahoole](ahoolee.md)  
@@ -48,7 +49,8 @@
 * [Bluzelle](bluzelle.md)
 * [BMchain](bmchain.md)
 * [Bowhead Health](bowhead_health.md)
-* [BrickBlock](brickblock.md)  
+* [BrickBlock](brickblock.md)
+* [Bugu](bugu.md)
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C
@@ -98,6 +100,7 @@
 * [ETCH](etch.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
+* [Etherisc](etherisc.md)
 * [Etheroll](etheroll.md)
 * [Etherparty](etherparty.md)
 * [EtherSportz](ethersportz.md)
@@ -202,6 +205,7 @@
 * [OpenZen](openzen.md)
 ## P
 * [Particl](particl.md)
+* [PayPie](paypie.md)
 * [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
@@ -220,9 +224,11 @@
 * [Qvolta](qvolta.md)
 * [Quantum Resistant Ledger](qrl.md)
 ## R
+* [Rakugo](rakugo.md)
 * [REAL](real.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
+* [Redemption Technologies](redemption_technologies.md)
 * [ReiDAO](reidao.md)
 * [Rex](rex.md)
 * [Ripple](ripple.md)
@@ -230,6 +236,7 @@
 * [RootProject](rootproject.md)
 * [Round](round.md) 
 ## S
+* [SENSE](sense.md)
 * [ShapeShift](shapeshift.md)
 * [Sia](sia.md)
 * [Sibcoin](sibcoin.md)
@@ -268,6 +275,7 @@
 ## U
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
+* [Unikrn](unikrn.md)
 * [UTrust](utrust.md)
 ## V
 * [Vechain](vechain.md)

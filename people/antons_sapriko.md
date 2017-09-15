@@ -1,5 +1,5 @@
 ## Personal data
-![antons sapriko photo](photo/antons_sapriko.jpg)  
+![antons sapriko photo](photo/antons_sapriko.png)  
 Name:   Antons Sapriko     
 Location: Latvia    
 ## Projects 

@@ -131,6 +131,7 @@
 * [Gx Coin](gxcoin.md)
 ## H
 * [Hcash](hcash.md)
+* [Hero](hero.md)
 * [HireMatch](hirematch.md)
 * [Honestis Network](honestis_network.md)
 * [Hubii Network](hubii.md)

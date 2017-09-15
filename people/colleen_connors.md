@@ -4,7 +4,7 @@ Name:   Colleen Connors
 Location: USA  
 ## Projects 
 Name: [Verif-y](../projects/verif-y.md)  
-Position: Director of Sys Ops   
+Position: Director of SysOps   
 ## Contacts
 -//-
 ## About

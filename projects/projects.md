@@ -49,6 +49,7 @@
 * [Blocknet](blocknet.md)
 * [Bluzelle](bluzelle.md)
 * [BMchain](bmchain.md)
+* [Boulé](boulé.md)  
 * [Bowhead Health](bowhead_health.md)
 * [BrickBlock](brickblock.md)
 * [Bugu](bugu.md)

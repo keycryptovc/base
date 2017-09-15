@@ -204,10 +204,12 @@
 * [NXT](nxt.md)
 ## O
 * [Obsidian Platform](obsidian_platform.md)
+* [ODMCoin](odmcoin.md)
 * [OmiseGo](omisego.md)
 * [Omni](omni.md)
 * [OpenZen](openzen.md)
 ## P
+* [Paragon](paragon.md)
 * [Particl](particl.md)
 * [PayPie](paypie.md)
 * [Peercoin](peercoin.md)
@@ -221,6 +223,7 @@
 * [Prime-Ex Perpetual](prime-ex.md)
 * [Proemtheus](proemtheus.md)
 * [Propy](propy.md)
+* [Publica](publica.md)  
 * [Proof](proof.md)
 * [Pylon Network](pylon_network.md)
 ## Q
@@ -296,6 +299,7 @@
 * [WaBi](wabi.md) 
 * [Waves](wavesplatform.md)
 * [WePower Network](wepower_network.md)
+* [WeTrust](wetrust.md)
 * [WIC](wic.md)
 * [Winding Tree](winding_tree.md)  
 * [Wings](wings.md)

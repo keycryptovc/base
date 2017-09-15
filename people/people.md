@@ -1,5 +1,4 @@
 #  List of People
-
 ## A
 * [Aaron Mathis](aaron_mathis.md)
 * [Adam Krellenstein](adam_krellenstein.md)
@@ -182,6 +181,7 @@
 * [Crystal Rose](crystal_rose.md)
 * [Cyrus Khajvandi](cyrus_khajvandi.md)
 * [Christopher Bridges](christopher_bridges.md)
+* [Christoph Mussenbrock](christoph_mussenbrock.md) 
 * [Christopher Fong](christopher_fong.md)
 * [Colin Adley](colin_adley.md)
 * [Colin Cantrell](colin_cantrell.md)
@@ -555,6 +555,7 @@
 * [Marcelo Barbosa](marcelo_barbosa.md)
 * [Marcelo Garcia Casil](marcelo_garcia_casil.md) 
 * [Maria Popova](maria_popova.md)
+* [Marie-Luise Meinhold](marie-luise_meinhold.md)
 * [Marielos_Helendez_Hernandez](marielos_helendez_hernandez.md)
 * [Marius Darila](marius_darila.md)
 * [Marshall Hayner](marshall_hayner.md)
@@ -701,6 +702,7 @@
 * [Reggie Middleton](reggie_middleton.md)
 * [Reilly Smith](reilly_smith.md)
 * [Remedios Gonzalez](remedios_gonzalez.md) 
+* [Renat Khasanshyn](renat_khasanshyn.md)  
 * [Reto Trinkler](reto_trinkler.md)
 * [Rhea Mehta](rhea_mehta.md)
 * [Ricardo Lamas "Rlamasb"](ricardo_lamas.md) 
@@ -786,6 +788,7 @@
 * [Stefan Meyer](stefan_meyer.md)
 * [Steffen Fuchs](steffen_fuchs.md) 
 * [Stephane Ifrah](stephane_ifrah.md)
+* [Stephan Karpischek](stephan_karpischek.md) 
 * [Stephanie Webb](stephanie_webb.md)
 * [Stephen King](stephen_king.md)
 * [Stephen Paglianite](stephen_paglianite.md)

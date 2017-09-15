@@ -100,6 +100,7 @@
 * [ETCH](etch.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
+* [Etherisc](etherisc.md)
 * [Etheroll](etheroll.md)
 * [Etherparty](etherparty.md)
 * [EtherSportz](ethersportz.md)

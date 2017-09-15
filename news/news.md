@@ -1,11 +1,23 @@
 # News
 ## 13 September 2017
 * [SBI Ripple Will Test Blockchain Bank Transfers Between Japan and South Korea](ripple_13-09-17.md)
+* [NEM Partners With Malaysian Digital Economy Corporation](nem-13-09-2017.md) 
+
+## 12 September 2017
+* [Bitcoin IRA Unveils Litecoin, Ethereum Classic, and Bitcoin Cash for Retirement Investments](etc-12-09-2017.md)
+* [Qtum Price Rallies 60% Ahead of Mainnet Release](qtum-12-09-2017.md)  
+* [OMG token is  listed on Poloniex and Binance](omisego_12-09-17.md)
+* [Monetha's team in going to onboard the major excahnges in 4 weeks after the ICO](monetha_12-09-17.md)
+* [IOTA team welcomes new member](iota_12-09-17.md)
+* [Zcoin’s privacy technology compared to competitors](zcoin_12-09-17.md)
 
 ## 11 September 2017
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)
 * [Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)
 * [R3 Has Sued Ripple Over Attempting to Terminate the 2016 Options Contract via E-Mail](ripple-11-09-2017.md)
+* [NEO Council Reported about possible phishing paper wallet generator](neo_11-09-17.md)
+* [Australian Blockchain Mission to China](neo2_11-09-17.md)
+* [UTrust’s Pre-ICO Collects $1.5 Million](utrust_11-09-17.md)
 
 ## 09 September 2017
 * [Jaron Lukasiewicz has come on board as Minerva's strategic advisor](minerva_09-09-17.md)

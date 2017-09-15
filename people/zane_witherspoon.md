@@ -1,10 +1,10 @@
 ## Personal data
 ![ photo](../people/photo/zane_witherspoon.png)  
-Name: Zane Witherspoon
-Location:  San Francisco, California   
+Name: Zane Witherspoon  
+Location:  San Francisco, California    
 ## Projects 
 Name: [Rakugo](../projects/rakugo.md)  
-Position: Distributed Systems Expert
+Position: Distributed Systems Expert  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/zanewithspoon/)   
 [Twitter](https://twitter.com/zanewithspoon)   

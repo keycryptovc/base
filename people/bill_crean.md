@@ -1,5 +1,5 @@
 ## Personal data
-![bill crean photo](photo/bill_crean.jpg)  
+![bill crean photo](photo/bill_crean.jpeg)  
 Name:   Bill Crean  
 Location: USA  
 ## Projects 

@@ -7,7 +7,7 @@ Currency: Hero
 ICO: TBA
 ## Staff
 Chairman of the board: [David Margendorff](../people/david_margendorff.md)  
-Director: [Manny Ayala](../people/manny_ayala.md)  
+Managing Director: [Manny Ayala](../people/manny_ayala.md)  
 Director: [Nix Nolledo](../people/nix_nolledo.md)  
 Director: [Kristi Bautista](../people/kristi_bautista.md)  
 Director & Treasurer: [Alexander Corpus](../people/alexander_corpus.md)

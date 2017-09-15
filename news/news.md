@@ -1,6 +1,13 @@
 # News
+
 ## 13 September 2017
 * [NEM Partners With Malaysian Digital Economy Corporation](nem-13-09-2017.md)
+
+## 12 September 2017
+* [OMG token is  listed on Poloniex and Binance](omisego_12-09-17.md)
+* [Monetha's team in going to onboard the major excahnges in 4 weeks after the ICO](monetha_12-09-17.md)
+* [IOTA team welcomes new member](iota_12-09-17.md)
+* [Zcoin’s privacy technology compared to competitors](zcoin_12-09-17.md)
 
 ## 11 September 2017
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)

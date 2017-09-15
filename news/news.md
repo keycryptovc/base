@@ -1,6 +1,8 @@
 # News
 ## 13 September 2017
 * [UTrust ICO Date and Conditions are changed](utrust_13-09-17.md)
+* [Reddit user integrated NEO with the Ledger Nano S](neo_13-09-17.md)
+* [SBI Ripple Will Test Blockchain Bank Transfers Between Japan and South Korea](ripple_13-09-17.md)
 * [WebMoney supporting Bitcoin Cash](bitcoin_cash-13-09-2017.md)  
 * [NEM Partners With Malaysian Digital Economy Corporation](nem-13-09-2017.md) 
 

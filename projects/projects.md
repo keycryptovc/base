@@ -223,6 +223,7 @@
 * [Qvolta](qvolta.md)
 * [Quantum Resistant Ledger](qrl.md)
 ## R
+* [Rakugo](rakugo.md)
 * [REAL](real.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)

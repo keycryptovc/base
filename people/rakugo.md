@@ -1,5 +1,5 @@
 ## Overview
-![ logo](../projects/logo/rakugo.png)  
+![ logo](../projects/logo/rakugo.jpg)  
 Name:  Rakugo  
 [Website](https://www.rakugo.co/)   
 Year founded:  2017   

@@ -94,6 +94,7 @@
 * [Anton Mitrohin](anton_mitrohin.md)
 * [Anton Shashok](anton_shashok.md)
 * [Anton Telitsyn](anton_telitsyn.md) 
+* [Antons Sapriko](antons_sapriko.md)  
 * [Apurv Mishra](apurv_mishra.md)
 * [Anton Kraminkin](anton_kraminkin.md)
 * [Ari Meilich](ari_meilich.md)
@@ -464,6 +465,7 @@
 * [Jordan Schneider](jordan_schneider.md)
 * [Jorge Izquierdo](jorge_izquierdo.md)
 * [Jose Hidalgo](jose_hidalgo.md) 
+* [Josef Marc](josef_marc.md)
 * [Jovar Gaylan](jovar_gaylan.md)  
 * [Jukka Hilmola](jukka_hilmola.md)
 * [Julian Hosp](julian_hosp.md)
@@ -917,6 +919,7 @@
 * [Yogesh Gaikwad](yogesh_gaikwad.md)
 * [Yu Yamanaka](yu_yamanaka.md) 
 * [Yuri Lobyntsev](yuri_lobyntsev.md) 
+* [Yuri Pimenov](yuri_pimenov.md)
 ## Z
 * [Zach Lebeau](zach_lebeau.md)
 * [Zack Coburn](zack_coburn.md)

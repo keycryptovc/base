@@ -1,5 +1,6 @@
 # News
 ## 13 September 2017
+* [UTrust ICO Date and Conditions are changed](utrust_13-09-17.md)
 * [Trackr Announces Desktop Client](trackr_13-09-17.md)
 * [Trackr New Token Distribution Plan](trackr2_13-09-17.md)
 * [Reddit user integrated NEO with the Ledger Nano S](neo_13-09-17.md)

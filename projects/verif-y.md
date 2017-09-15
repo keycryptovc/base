@@ -9,7 +9,7 @@ End: 30. Oct 2017
 ## Staff
 Founder & CEO: [Ed Zabar](../people/ed_zabar.md)  
 Director of Product: [Bill Crean](../people/bill_crean.md)  
-Director of Sys Ops: [Colleen Connors](../people/colleen_connors.md)  
+Director of SysOps: [Colleen Connors](../people/colleen_connors.md)  
 Director of Business Development: [John Chaisson](../people/john_chaisson.md)  
 Sr. Solutions Architect: [Chad Peiper](../people/chad_peiper.md)
 ## Business Model

@@ -286,6 +286,7 @@
 * [Vega](vega.md)
 * [Veredictum](veredictum.md)  
 * [Verge](verge.md)
+* [Verif-y](verif-y.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
 * [Viberate](viberate.md) 

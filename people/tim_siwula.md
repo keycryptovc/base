@@ -1,10 +1,10 @@
 ## Personal data
 ![ photo](../people/photo/tim_siwula.png)  
-Name:  Distributed Systems Expert[Tim Siwula](../people/tim_siwula.md)
-Location: San Francisco Bay Area
+Name: [Tim Siwula](../people/tim_siwula.md)  
+Location: San Francisco Bay Area  
 ## Projects 
 Name: [Rakugo](../projects/rakugo.md)  
-Position: Distributed Systems Expert
+Position: Distributed Systems Expert  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/tcsiwula/)  
 [Facebook](https://www.facebook.com/meow.meow.kitty.purr.for.me)  

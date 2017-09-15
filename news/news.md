@@ -1,6 +1,7 @@
 # News
 ## 14 September 2017
 * [IOTA's Team welcomes Oliver T. Bussmann](iota_14-09-17.md)
+* [PIVX announced Zerocoin protocol integration](pivx_14-09-17.md)
 
 ## 13 September 2017
 * [UTrust ICO Date and Conditions are changed](utrust_13-09-17.md)

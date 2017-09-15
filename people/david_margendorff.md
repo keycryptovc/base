@@ -4,7 +4,7 @@ Name:   David Margendorff
 Location: Philippines  
 ## Projects 
 Name: [Hero](../projects/hero.md)  
-Position: Founder & Chairman   
+Position: Co-Founder & Chairman   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/davidmargendorff/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3Ba4W9Gu67TR2QAwv%2FsCsSHg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_people-search_srp_result&lici=7a8NySy2RyaDwQfH69gfnA%3D%3D)    
 ## About

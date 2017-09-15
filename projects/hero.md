@@ -6,7 +6,7 @@ Year founded: 2017
 Currency: Hero  
 ICO: TBA
 ## Staff
-Chairman of the board: [David Margendorff](../people/david_margendorff.md)  
+Founder & Chairman: [David Margendorff](../people/david_margendorff.md)  
 Managing Director: [Manny Ayala](../people/manny_ayala.md)  
 Director: [Nix Nolledo](../people/nix_nolledo.md)  
 COO: [Kristi Bautista](../people/kristi_bautista.md)  

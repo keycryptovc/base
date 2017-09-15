@@ -19,3 +19,6 @@
 Ethereum Classic is a continuation of the original Ethereum blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions.
 
 [Ideology](https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede)
+
+## News
+* [Bitcoin IRA Unveils Litecoin, Ethereum Classic, and Bitcoin Cash for Retirement Investments](../news/etc-12-09-2017.md)

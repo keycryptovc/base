@@ -290,6 +290,7 @@
 * [WaBi](wabi.md) 
 * [Waves](wavesplatform.md)
 * [WePower Network](wepower_network.md)
+* [WeTrust](wetrust.md)
 * [WIC](wic.md)
 * [Winding Tree](winding_tree.md)  
 * [Wings](wings.md)

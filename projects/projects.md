@@ -5,6 +5,7 @@
 * [300cubits](300cubits.md)
 
 ## A
+* [Acebusters](acebusters.md)  
 * [Aether United](aether_united.md)
 * [Agrello](agrello.md)
 * [Ahoole](ahoolee.md)  
@@ -30,6 +31,7 @@
 * [Bankera](bankera.md)
 * [Basic Attention Token](bat.md)
 * [Becksang](becksang.md)
+* [beeqb](beeqb.md)
 * [Binance Coin](binance_coin.md)
 * [BeOne](beone.md)
 * [BitBay](bitbay.md)
@@ -54,6 +56,7 @@
 * [Bytecoin](bytecoin.md)
 ## C
 * [Cash Poker Pro](cash_poker_pro.md)  
+* [CCCoin](cccoin.md)  
 * [Ccore](ccore.md)
 * [Change](change.md)
 * [ChronoLogic](chronologic.md)
@@ -99,6 +102,7 @@
 * [ETCH](etch.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
+* [Etherisc](etherisc.md)
 * [Etheroll](etheroll.md)
 * [Etherparty](etherparty.md)
 * [EtherSportz](ethersportz.md)
@@ -127,7 +131,8 @@
 * [Gx Coin](gxcoin.md)
 ## H
 * [Hcash](hcash.md)
-* [HireMatch](hirematch.md)  
+* [HireMatch](hirematch.md)
+* [Honestis Network](honestis_network.md)
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
 * [Hut34 Project](hut34_project.md) 
@@ -164,6 +169,7 @@
 * [Latium](latium.md)
 * [LAToken](latoken.md)
 * [LBRY](lbry.md)
+* [Leap](leap.md)
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
@@ -204,6 +210,7 @@
 * [OpenZen](openzen.md)
 ## P
 * [Particl](particl.md)
+* [PayPie](paypie.md)
 * [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
@@ -215,6 +222,7 @@
 * [Prime-Ex Perpetual](prime-ex.md)
 * [Proemtheus](proemtheus.md)
 * [Propy](propy.md)
+* [Publica](publica.md)  
 * [Proof](proof.md)
 * [Pylon Network](pylon_network.md)
 ## Q
@@ -222,9 +230,11 @@
 * [Qvolta](qvolta.md)
 * [Quantum Resistant Ledger](qrl.md)
 ## R
+* [Rakugo](rakugo.md)
 * [REAL](real.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
+* [Redemption Technologies](redemption_technologies.md)
 * [ReiDAO](reidao.md)
 * [Rex](rex.md)
 * [Ripple](ripple.md)
@@ -232,6 +242,7 @@
 * [RootProject](rootproject.md)
 * [Round](round.md) 
 ## S
+* [SENSE](sense.md)
 * [ShapeShift](shapeshift.md)
 * [Sia](sia.md)
 * [Sibcoin](sibcoin.md)
@@ -270,6 +281,7 @@
 ## U
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
+* [Unikrn](unikrn.md)
 * [UTrust](utrust.md)
 ## V
 * [Vechain](vechain.md)

@@ -1,4 +1,21 @@
 # News
+## 13 September 2017
+* [UTrust ICO Date and Conditions are changed](utrust_13-09-17.md)
+* [Trackr Announces Desktop Client](trackr_13-09-17.md)
+* [Trackr New Token Distribution Plan](trackr2_13-09-17.md)
+* [Reddit user integrated NEO with the Ledger Nano S](neo_13-09-17.md)
+* [SBI Ripple Will Test Blockchain Bank Transfers Between Japan and South Korea](ripple_13-09-17.md)
+* [WebMoney supporting Bitcoin Cash](bitcoin_cash-13-09-2017.md)  
+* [NEM Partners With Malaysian Digital Economy Corporation](nem-13-09-2017.md) 
+
+## 12 September 2017
+* [Bitcoin IRA Unveils Litecoin, Ethereum Classic, and Bitcoin Cash for Retirement Investments](etc-12-09-2017.md)
+* [Qtum Price Rallies 60% Ahead of Mainnet Release](qtum-12-09-2017.md)  
+* [OMG token is  listed on Poloniex and Binance](omisego_12-09-17.md)
+* [Monetha's team in going to onboard the major excahnges in 4 weeks after the ICO](monetha_12-09-17.md)
+* [IOTA team welcomes new member](iota_12-09-17.md)
+* [Zcoin’s privacy technology compared to competitors](zcoin_12-09-17.md)
+
 ## 11 September 2017
 * [KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)
 * [Tether and Bitfinex Get Divorced From Legacy Finance](tether-11-09-2017.md)

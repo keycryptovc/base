@@ -17,4 +17,6 @@
    [Telegram](https://telegram.me/joinchat/Al-9jj3ruJOkbxmwQ7wy-Q)  
 ## About  
 [NEM tutorial](https://blog.nem.io/nem-tutorial-list/)   
+## News 
+* [NEM Partners With Malaysian Digital Economy Corporation](../news/nem-13-09-2017.md)
 

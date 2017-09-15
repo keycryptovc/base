@@ -29,3 +29,5 @@ A transactional security and privacy-focused decentralized open source cryptocur
 [PIVX Wiki](http://pivx.wiki/)  
 [About PIVX governance](https://pivx.org/governance/)  
 [YouTube Channel](https://www.youtube.com/channel/UCr4Wk2opstIsUvMOz9quFSg)  
+## News
+[PIVX announced Zerocoin protocol integration](../news/pivx_14-09-17.md)

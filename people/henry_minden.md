@@ -1,6 +1,6 @@
 ## Personal data
-![ photo](../people/photo/henry_minden.png)  
-Name: Henry Minden
+![ photo](../people/photo/henry_minden.png)   
+Name: Henry Minden  
 Location: San Francisco Bay Area   
 ## Projects 
 Name: [Rakugo](../projects/rakugo.md)  

@@ -2,6 +2,7 @@
 ## 13 September 2017
 * [Trackr Announces Desktop Client](trackr_13-09-17.md)
 * [Trackr New Token Distribution Plan](trackr2_13-09-17.md)
+* [Reddit user integrated NEO with the Ledger Nano S](neo_13-09-17.md)
 * [SBI Ripple Will Test Blockchain Bank Transfers Between Japan and South Korea](ripple_13-09-17.md)
 * [WebMoney supporting Bitcoin Cash](bitcoin_cash-13-09-2017.md)  
 * [NEM Partners With Malaysian Digital Economy Corporation](nem-13-09-2017.md) 

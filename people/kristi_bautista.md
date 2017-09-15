@@ -4,7 +4,7 @@ Name:   Kristi Bautista
 Location: Philippines  
 ## Projects 
 Name: [Hero](../projects/hero.md)  
-Position: CFO   
+Position: COO   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/kristi-bautista-3aa05264/)  
 ## About

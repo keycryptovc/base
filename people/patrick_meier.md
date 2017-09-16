@@ -1,5 +1,5 @@
 ## Personal data
-![patrick meier photo](photo/patrick_meier.jpg)  
+![patrick meier photo](photo/patrick_meier.jpeg)  
 Name:   Patrick Meier  
 Location: South Africa  
 ## Projects  

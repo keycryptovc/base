@@ -5,9 +5,9 @@ Name: Smoke.Network
 Year founded: 2017  
 Currency: [SMOKE](https://coinmarketcap.com/assets/smoke/) 
 ## Staff
-Co-founder & CSO: [Jonathan Hunter](../people/jonathan_hunter.md)  
-Co-founder & CSO: [Patrick Meier](../people/patrick_meier.md)  
-Co-Founder & CPO: [Joseph Ashburner](../people/joseph_ashburner.md)  
+Co-founder: [Jonathan Hunter](../people/jonathan_hunter.md)  
+Co-founder: [Patrick Meier](../people/patrick_meier.md)  
+Co-Founder: [Joseph Ashburner](../people/joseph_ashburner.md)  
 CSO: [Nathan Stern](../people/nathan_stern.md)  
 Head of Outreach: [Jo-Ann Coetzee](../people/jo-ann_coetzee.md)
 ## Business Model

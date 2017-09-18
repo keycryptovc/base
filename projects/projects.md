@@ -10,6 +10,7 @@
 * [Agrello](agrello.md)
 * [Ahoole](ahoolee.md)  
 * [AICoin](aicoin.md)
+* [Altcoin Exchange](altcoin_exchange.md)
 * [Aigang](aigang.md)
 * [Airporn](airporn.md)
 * [Airtoken](airtoken.md)

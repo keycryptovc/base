@@ -1,4 +1,7 @@
 # News
+## 18 September 2017
+* [UTrust announced rewards for early supporters](utrust_18-09-17.md)
+
 ## 14 September 2017
 * [IOTA's Team welcomes Oliver T. Bussmann](iota_14-09-17.md)
 * [Lykke is developing a crypto-index](lykke_14-09-17.md)

@@ -19,3 +19,6 @@ Twitter: [QtumOfficial](https://twitter.com/QtumOfficial)
 Linkedin: [Qtum Foundation](https://www.linkedin.com/company-beta/11049180/)  
 ## About  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1720632.0)  
+
+## News
+* [Qtum Price Rallies 60% Ahead of Mainnet Release](../news/qtum-12-09-2017.md)

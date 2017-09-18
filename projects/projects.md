@@ -5,6 +5,7 @@
 * [300cubits](300cubits.md)
 
 ## A
+* [Acebusters](acebusters.md)  
 * [Aether United](aether_united.md)
 * [Agrello](agrello.md)
 * [Ahoole](ahoolee.md)  
@@ -30,6 +31,7 @@
 * [Bankera](bankera.md)
 * [Basic Attention Token](bat.md)
 * [Becksang](becksang.md)
+* [beeqb](beeqb.md)
 * [Binance Coin](binance_coin.md)
 * [BeOne](beone.md)
 * [BitBay](bitbay.md)
@@ -54,6 +56,7 @@
 * [Bytecoin](bytecoin.md)
 ## C
 * [Cash Poker Pro](cash_poker_pro.md)  
+* [CCCoin](cccoin.md)  
 * [Ccore](ccore.md)
 * [Change](change.md)
 * [ChronoLogic](chronologic.md)
@@ -100,6 +103,7 @@
 * [ETCH](etch.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
+* [Etherisc](etherisc.md)
 * [Etheroll](etheroll.md)
 * [Etherparty](etherparty.md)
 * [EtherSportz](ethersportz.md)
@@ -128,7 +132,9 @@
 * [Gx Coin](gxcoin.md)
 ## H
 * [Hcash](hcash.md)
-* [HireMatch](hirematch.md)  
+* [Hero](hero.md)
+* [HireMatch](hirematch.md)
+* [Honestis Network](honestis_network.md)
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
 * [Hut34 Project](hut34_project.md) 
@@ -165,6 +171,7 @@
 * [Latium](latium.md)
 * [LAToken](latoken.md)
 * [LBRY](lbry.md)
+* [Leap](leap.md)
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
@@ -199,11 +206,15 @@
 * [NXT](nxt.md)
 ## O
 * [Obsidian Platform](obsidian_platform.md)
+* [ODMCoin](odmcoin.md)
 * [OmiseGo](omisego.md)
 * [Omni](omni.md)
 * [OpenZen](openzen.md)
 ## P
+* [Paragon](paragon.md)
 * [Particl](particl.md)
+* [PAYFAIR](payfair.md)
+* [PayPie](paypie.md)
 * [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
@@ -215,6 +226,7 @@
 * [Prime-Ex Perpetual](prime-ex.md)
 * [Proemtheus](proemtheus.md)
 * [Propy](propy.md)
+* [Publica](publica.md)  
 * [Proof](proof.md)
 * [Pylon Network](pylon_network.md)
 ## Q
@@ -222,6 +234,7 @@
 * [Qvolta](qvolta.md)
 * [Quantum Resistant Ledger](qrl.md)
 ## R
+* [Rakugo](rakugo.md)
 * [REAL](real.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
@@ -229,10 +242,12 @@
 * [ReiDAO](reidao.md)
 * [Rex](rex.md)
 * [Ripple](ripple.md)
+* [Robot Vera](robot_vera.md)
 * [RocketICO](rocketico.md)
 * [RootProject](rootproject.md)
 * [Round](round.md) 
 ## S
+* [SENSE](sense.md)
 * [ShapeShift](shapeshift.md)
 * [Sia](sia.md)
 * [Sibcoin](sibcoin.md)
@@ -271,12 +286,14 @@
 ## U
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)
+* [Unikrn](unikrn.md)
 * [UTrust](utrust.md)
 ## V
 * [Vechain](vechain.md)
 * [Vega](vega.md)
 * [Veredictum](veredictum.md)  
 * [Verge](verge.md)
+* [Verif-y](verif-y.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
 * [Viberate](viberate.md) 
@@ -287,6 +304,7 @@
 * [WaBi](wabi.md) 
 * [Waves](wavesplatform.md)
 * [WePower Network](wepower_network.md)
+* [WeTrust](wetrust.md)
 * [WIC](wic.md)
 * [Winding Tree](winding_tree.md)  
 * [Wings](wings.md)

@@ -1,5 +1,18 @@
 # News
+## 18 September 2017
+* [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
+
+## 14 September 2017
+* [IOTA's Team welcomes Oliver T. Bussmann](iota_14-09-17.md)
+* [Lykke is developing a crypto-index](lykke_14-09-17.md)
+* [PIVX announced Zerocoin protocol integration](pivx_14-09-17.md)
+
 ## 13 September 2017
+* [UTrust ICO Date and Conditions are changed](utrust_13-09-17.md)
+* [Trackr Announces Desktop Client](trackr_13-09-17.md)
+* [Trackr New Token Distribution Plan](trackr2_13-09-17.md)
+* [Reddit user integrated NEO with the Ledger Nano S](neo_13-09-17.md)
+* [SBI Ripple Will Test Blockchain Bank Transfers Between Japan and South Korea](ripple_13-09-17.md)
 * [WebMoney supporting Bitcoin Cash](bitcoin_cash-13-09-2017.md)  
 * [NEM Partners With Malaysian Digital Economy Corporation](nem-13-09-2017.md) 
 

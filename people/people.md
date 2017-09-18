@@ -86,6 +86,7 @@
 * [Andrey Degtyaruk](andrey_degtyaruk.md)
 * [Angel Versetti](angel_versetti.md)
 * [Anik Dang](anik_dang.md)
+* [Ann Jackson](ann_jackson.md)  
 * [Annika Monari](annika_monari.md) 
 * [Ante Magnusson](ante_magnusson.md)
 * [Anthea Chung](anthea_chung.md) 
@@ -288,6 +289,7 @@
 ## E
 * [E_{A}](e_a.md)
 * [Ed Zabar](ed_zabar.md)
+* [Eddy Smith](eddy_smith.md) 
 * [Edgardo Leija](edgardo_leija.md)  
 * [Egor Lavrov](egor_lavrov.md)
 * [Elad Kofman](elad_kofman.md)

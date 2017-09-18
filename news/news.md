@@ -1,6 +1,6 @@
 # News
 ## 18 September 2017
-* [Minerva is looking for investors to join Private Token Presale](minerva_18-09-17.md)
+* [Minerva is looking for investors to the join Private Token Presale](minerva_18-09-17.md)
 
 ## 14 September 2017
 * [IOTA's Team welcomes Oliver T. Bussmann](iota_14-09-17.md)

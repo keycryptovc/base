@@ -66,7 +66,7 @@
 * [Cloud](cloud.md)
 * [COSS](coss.md)
 * [CoEval](coeval.md)
-* [Corion Platform](corion_platform.md)
+* [CORION Platform](corion_platform.md)
 * [Counterparty](counterparty.md)
 * [Crowdholding](crowdholding.md)
 * [Crown](crown.md)

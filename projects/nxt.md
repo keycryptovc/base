@@ -25,4 +25,4 @@
  ## About 
    [Whitepaper](http://nxtwiki.org/wiki/Whitepaper:Nxt)
  ## News  
-   [NXT presented voting mechanism and solution for the money transfers](../news/nxt_18-09-17.md)  
+   [NXT presented new voting mechanism and solution for the bank transfers](../news/nxt_18-09-17.md)  

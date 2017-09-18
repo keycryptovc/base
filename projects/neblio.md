@@ -3,9 +3,7 @@
 Name: Neblio  
 [Website](https://nebl.io/)  
 Year founded: 2017  
-Currency: [NEBL](https://coinmarketcap.com/currencies/neblio/)  
-ICO: Start: 5. Aug 2017  
-End: 19. Aug 2017
+Currency: [NEBL](https://coinmarketcap.com/currencies/neblio/)   
 ## Staff
 Co-founder & Lead Developer: [Eddy Smith](../people/eddy_smith.md)  
 Co-founder & Business Ops Manager: [Ann Jackson](../people/ann_jackson.md)  

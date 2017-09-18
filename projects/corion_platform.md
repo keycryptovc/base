@@ -7,7 +7,7 @@ Currency: CORION
 ## Staff
 Founder: [Miklós Denkler](../people/miklós_denkler.md)  
 Strategist: [Attila Dancs](../people/attila_dancs.md)  
-CORION Core developer: [Andor Rajci](../people/andor_rajci.md)  
+Corion Core Developer: [Andor Rajci](../people/andor_rajci.md)  
 COO: [Zsombor Deics](../people/zsombor_deics.md)
 ## Business Model	
 Platform for mainstream crypto users built on Ethereum Classic with a price controlled token and incentive based inflation rewards. CORION Platform has been created on the Ethereum Classic blockchain to become the entry point into the Crypto World. Unique algorithms, which create stable price per CORION token (COR) while still expanding the market cap as the currency goes through hyper- growth, generated  by the demand- based coin emission (daily 0-2.5%).

@@ -24,5 +24,5 @@
     [Nxter news](https://www.nxter.org/)  
  ## About 
    [Whitepaper](http://nxtwiki.org/wiki/Whitepaper:Nxt)
-
-
+ ## News  
+   [NXT presented voting mechanism and solution for the money transfers](../news/nxt_18-09-17.md)  

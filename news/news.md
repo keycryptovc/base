@@ -1,4 +1,12 @@
 # News
+## 18 September 2017
+* [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
+
+## 14 September 2017
+* [IOTA's Team welcomes Oliver T. Bussmann](iota_14-09-17.md)
+* [Lykke is developing a crypto-index](lykke_14-09-17.md)
+* [PIVX announced Zerocoin protocol integration](pivx_14-09-17.md)
+
 ## 13 September 2017
 * [UTrust ICO Date and Conditions are changed](utrust_13-09-17.md)
 * [Trackr Announces Desktop Client](trackr_13-09-17.md)

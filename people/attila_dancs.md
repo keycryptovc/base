@@ -3,7 +3,7 @@
 Name:   Attila Dancs  
 Location: Hungary  
 ## Projects 
-Name: [Corion Platform](../projects/corion_platform.md)  
+Name: [CORION Platform](../projects/corion_platform.md)  
 Position: Strategist   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/attila-dancs-03a00bb9/)    

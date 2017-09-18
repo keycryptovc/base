@@ -1,6 +1,6 @@
 # News
 ## 18 September 2017
-* [NXT presented voting mechanism and solution for the money transfers](nxt_18-09-17.md)
+* [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
 
 ## 14 September 2017
 * [IOTA's Team welcomes Oliver T. Bussmann](iota_14-09-17.md)

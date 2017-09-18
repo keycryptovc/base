@@ -188,6 +188,7 @@
 * [Minerva](minerva.md)
 * [MobileGO](mobilego.md) 
 * [Mobius Network](mobius_network.md)
+* [Modum](modum.md)
 * [Metal](metal.md)
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)

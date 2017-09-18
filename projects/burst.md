@@ -2,7 +2,7 @@
 ![ logo](../projects/logo/burst.png)    
 Name: Burst  
 [Website](http://www.burst-coin.org/)   
-Year founded: 2014
+Year founded: 2014  
 Currency: token [(BURST)](https://coinmarketcap.com/currencies/burst/)	 
 ## Staff 
 Developer [BurstProject](../people/BurstProject.md)  

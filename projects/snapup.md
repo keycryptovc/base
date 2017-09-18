@@ -3,7 +3,7 @@
 Name: Snapup  
 [Website](https://ico.snapup.biz/)  
 Year founded: 2017  
-Currency: SNAPCOIN  
+Currency: Snapcoin    
 ## Staff
 Co-founder & CEO: [Alessio Cozzolino](../people/alessio_cozzolino.md)  
 Co-founder & COO: [Carmine Cozzolino](../people/carmine_cozzolino.md)  

@@ -112,6 +112,7 @@
 ## F
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)
+* [Filecoin](filecoin.md)
 * [FirstBlood](firstblood.md)
 * [FLiK](flik.md)
 * [Fluence](fluence.md)

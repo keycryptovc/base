@@ -3,7 +3,7 @@
 Name:   Miklós Denkler  
 Location: Hungary  
 ## Projects 
-Name: [Corion Platform](../projects/corion_platform.md)  
+Name: [CORION Platform](../projects/corion_platform.md)  
 Position: Founder   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/miklosdenkler/)    

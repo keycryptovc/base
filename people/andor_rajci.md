@@ -3,8 +3,8 @@
 Name:   Andor Rajci  
 Location: Hungary  
 ## Projects 
-Name: [Corion Platform](../projects/corion_platform.md)  
-Position: Corion Core Developer   
+Name: [CORION Platform](../projects/corion_platform.md)  
+Position: CORION Core Developer   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ifa88/)      
 ## About

@@ -15,7 +15,6 @@ Lampix will be launching a machine learning image database on the Ethereum Block
 [Linkedin](https://www.linkedin.com/company/10893713/)  
 [Facebook](https://www.facebook.com/Lampix.co/)  
 [Slack](https://lampix-invite.herokuapp.com/)  
-[Youtube](https://www.youtube.com/channel/UCY3N6_p3fWC76XFrQlid0vQ)  
-[Blog](https://medium.com/@lampix)  
+[Youtube](https://www.youtube.com/channel/UCY3N6_p3fWC76XFrQlid0vQ)    
 ## About  
 [WhitePaper](https://lampix.co/whitepaper.pdf)

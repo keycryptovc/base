@@ -3,7 +3,7 @@
 Name:   Zsombor Deics  
 Location: Hungary  
 ## Projects 
-Name: [Corion Platform](../projects/corion_platform.md)  
+Name: [CORION Platform](../projects/corion_platform.md)  
 Position: COO   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/zsombor-deics/)  

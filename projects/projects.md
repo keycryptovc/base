@@ -126,6 +126,7 @@
 * [Godzillion](godzillion.md)
 * [Goldmint](goldmint.md) 
 * [Golem](golem.md)
+* [Golos](golos.md)
 * [Greeneum](greeneum.md)
 * [Gulden](gulden.md)
 * [Gx Coin](gxcoin.md)

@@ -246,6 +246,7 @@
 * [RootProject](rootproject.md)
 * [Round](round.md) 
 ## S
+* [Santiment](santiment.md)
 * [SENSE](sense.md)
 * [ShapeShift](shapeshift.md)
 * [Sia](sia.md)

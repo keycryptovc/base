@@ -25,3 +25,5 @@ Zcoin is a decentralized and open source currency that provides financial privac
 ## About
 [Zcoin RoadMap](https://zcoin.io/zcoin-roadmap/)  
 ## News
+[Zcoin Dev Update - September](../news/zcoin_19-09-17.md)  
+[Zcoin’s privacy technology compared to competitors](../news/zcoin_12-09-17.md)  

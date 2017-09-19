@@ -245,6 +245,7 @@
 * [RocketICO](rocketico.md)
 * [RootProject](rootproject.md)
 * [Round](round.md) 
+* [Royal Kingdom Coin](royal_kingdom_coin.md)
 ## S
 * [SENSE](sense.md)
 * [ShapeShift](shapeshift.md)

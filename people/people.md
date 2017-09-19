@@ -353,6 +353,7 @@
 * [Gaurang Torvekar](gaurang_torvekar.md)
 * [Gavin Smith](gavin_smith.md)
 * [Gebhard Scherrer](gebhard_scherrer.md)
+* [Gen Tseng](gen_tseng.md)
 * [George Goognin](george_goognin.md)  
 * [George Hallam](george_hallam.md)
 * [George K. Van Hoomissen](george_k_van_hoomissen.md)
@@ -689,6 +690,7 @@
 * [Nuno Correia](nuno_correia.md)
 * [Nursultan Aliev](nursultan_aliev.md)
 ## O
+* [Ocean Liu](ocean_liu.md)
 * [Oleg Khovayko](oleg_khovayko.md)
 * [Oleg Lodygensky](oleg_lodygensky.md)
 * [Oleg Novikov](oleg_novikov.md)
@@ -729,6 +731,7 @@
 * [Petr Osipov](petr_osipov.md)
 * [Phelix](phelix.md)
 * [Philip Fernbach](philip_fernbach.md)
+* [Phyrex Tsai](phyrex_tsai.md)
 * [Pierre Chambart](pierre_chambart.md)
 * [Piotr Janiuk](piotr_janiuk.md)
 * [Polina Fadeeva](polina_fadeeva.md)
@@ -948,7 +951,8 @@
 * [Xander Dunn](xander_dunn.md)
 * [Xin Wang](xin_wang.md)
 ## Y
-* [Yakushev German](yakushev_german.md) 
+* [Yakushev German](yakushev_german.md)
+* [Yan Lai](yan_lai.md)
 * [Yan Zhu](yan_zhu.md) 
 * [Yaron Velner](yaron_velner.md)
 * [Yaroslav Belinskiy](yaroslav_belinskiy.md)

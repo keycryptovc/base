@@ -1,4 +1,7 @@
 # News
+## 19 September 2017
+* [Anton_Golub will represent Lykke at Melonport's M-0 conferrence for asset management](lykke_19-09-17.md)
+
 ## 18 September 2017
 * [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
 

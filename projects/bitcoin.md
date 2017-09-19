@@ -18,4 +18,6 @@
 The first and the most popular cryptocurrency built on the [blockchain technology](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
 
 ## News
-[Yale economics professor Robert Shiller won the Nobel prize for his work on bubbles. In his latest book titled ‘Irrational Exuberance’, he uses Bitcoin as an example of a market that has spiked and collapsed.](../news/bitcoin-05-09-2017.md)  
+* [South Africa’s Second Largest Supermarket Chain Pick n Pay Trials Bitcoin Payments](../news/bitcoin-19-09-2017.md) 
+* [Yale economics professor Robert Shiller in his latest book titled ‘Irrational Exuberance’, uses Bitcoin as an example of a market that has spiked and collapsed.](../news/bitcoin-05-09-2017.md) 
+

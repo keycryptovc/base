@@ -1,4 +1,7 @@
 # News
+## 19 September 2017
+* [South Africa’s Second Largest Supermarket Chain Pick n Pay Trials Bitcoin Payments](bitcoin-19-09-2017.md)
+
 ## 18 September 2017
 * [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
 

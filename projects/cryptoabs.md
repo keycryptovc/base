@@ -10,7 +10,7 @@ Co-founder: [Gen Tseng](../people/gen_tseng.md)
 Co-founder: [Phyrex Tsai](../people/phyrex_tsai.md)  
 Co-founder: [Yan Lai](../people/yan_lai.md)
 ## Business Model
-CryptoABS is a platform for financing with physical assets in Ethereum. it is a bridge between the real world and the so-called crypto-world. CryptoABS introduces a revolutionary way to use the crypto-currency by imposing the physical assets from the real world. It can not only stabilize the Ethereum ecosystem but revitalize the real-world as well.
+CryptoABS is a platform for financing with physical assets in Ethereum. It is a bridge between the real world and the so-called crypto-world. CryptoABS introduces a revolutionary way to use the crypto-currency by imposing the physical assets from the real world. It can not only stabilize the Ethereum ecosystem but revitalize the real-world as well.
 ## Contacts  
 [Twitter](https://twitter.com/cryptoabs)    
 [Facebook](https://www.facebook.com/cryptoabs.project/)  

@@ -58,6 +58,7 @@
 * [Cash Poker Pro](cash_poker_pro.md)  
 * [CCCoin](cccoin.md)  
 * [Ccore](ccore.md)
+* [Centra Tech](centra_tech.md)
 * [Change](change.md)
 * [ChronoLogic](chronologic.md)
 * [Cindicator](cindicator.md)  

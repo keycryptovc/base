@@ -6,7 +6,7 @@ Founded: 2017
 Currency: RKC  
 ## Staff
 Co-founder & CEO: [Abu Sulayman Saleh](../people/abu_sulayman_saleh.md)   
-Co-founder & CTO: [Sergey Uvarov](../people/sergey_uvarov.md)  
+Co-founder & CTO: [Serge Uvarov](../people/serge_uvarov.md)  
 CFO: [Adriana Costa](../people/adriana_costa.md)  
 CPRO: [Suelen Sourient](../people/suelen_sourient.md)
 ## Business Model

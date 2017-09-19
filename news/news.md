@@ -1,4 +1,6 @@
 # News
+## 19 September 2017
+* [Wind energy used to mine cryptocurrency to fund climate research](zcash-19-09-2017.md)
 ## 18 September 2017
 * [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
 

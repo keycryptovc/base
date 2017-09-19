@@ -364,6 +364,7 @@
 * [Gilles Fedak](gilles_fedak.md)
 * [Giorgio Gallo](giorgio_gallo.md)
 * [Giovanti Humphries](giovanti_humphries.md)
+* [Glenn Rempe](glenn_rempe.md)
 * [Gnasher](gnasher.md)  
 * [Greg Agnew](greg_agnew.md) 
 * [Gregory Arzumanian](gregory_arzumanian.md)
@@ -436,6 +437,7 @@
 * [Jared Tate](jared_tate.md)
 * [Jasmine Nguyen](jasmine_nguyen.md)
 * [Jasmine Sky](jasmine_sky.md)
+* [Jason Bukowski](jason_bukowski.md)
 * [Jason Colby](jason_colby.md)
 * [Javier Llabres](javier_llabres.md)
 * [Jean-Baptiste Decorzent](jean-baptiste_decorzent.md)
@@ -942,6 +944,7 @@
 * [Will Warren](will_warren.md)
 * [Witold Turzanski](witold_turzanski.md)
 * [Wayman Kwan](wayman_kwan.md)
+* [Wayne Vaughan](wayne_vaughan.md)
 * [Willy Ko](willy_ko.md)
 * [Witek Radomski](witek_radomski.md)
 ## X

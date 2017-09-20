@@ -5,6 +5,8 @@ Location: South Africa
 ## Projects 
 Name: [Particl](../projects/particl.md)  
 Position: Founder  
+Name: [Blocktix](../projects/blocktix.md)  
+Position: Co-founder & CEO   
 ## Contacts
 [Github](https://github.com/rynomster)  
 [LinkedIn](https://www.linkedin.com/in/rmathee/)  

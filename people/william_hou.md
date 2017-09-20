@@ -1,5 +1,5 @@
 ## Personal data
-![william hou photo](photo/william_hou.jpg)  
+![william hou photo](photo/william_hou.png)  
 Name:   William Hou  
 Location: China  
 ## Projects 

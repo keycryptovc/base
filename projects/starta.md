@@ -2,10 +2,10 @@
 ![logo](../projects/logo/starta.png)  
 Name: Starta  
 [Website](https://startaico.com/)  
-Year founded: 2017  
+Year founded: 2015    
 Currency: [Starta](https://coinmarketcap.com/assets/starta/)  
 ## Staff
-Co-founder: [Alexey Girin](../people/alexey_girin.md)  
+Co-founder & Managing Partner: [Alexey Girin](../people/alexey_girin.md)  
 Co-founder: [Ekaterina Dorozhkina](../people/ekaterina_dorozhkina.md)  
 Managing Partner: [Sergey Vasiliev](../people/sergey_vasiliev.md)  
 ## Business Model

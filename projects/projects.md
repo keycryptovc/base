@@ -111,6 +111,7 @@
 * [EtherSportz](ethersportz.md)
 * [ETHLend](ethlend.md)
 * [Everex](everex.md)
+* [Exchange Union](exchange_union.md)
 
 ## F
 * [Factom](factom.md) 

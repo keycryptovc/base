@@ -1,6 +1,6 @@
 # News
 ## 20 September 2017
-* [Red Pulse ICO has been rescheduled for 8th of October ](redpulse_20-09-17.md)
+* [Red Pulse ICO has been rescheduled for the 8th of October](redpulse_20-09-17.md)
 
 ## 18 September 2017
 * [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)

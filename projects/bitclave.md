@@ -18,4 +18,5 @@ When it comes to online advertising, businesses are forced to pay exorbitant amo
 [Telegram](https://t.me/BitClaveCommunity)  
 [Blog](https://medium.com/@BitClave)  
 ## About  
-[WhitePaper](https://docsend.com/view/cm7mefx)  
+[WhitePaper](https://docsend.com/view/cm7mefx)    
+[Blockchain startup bitclave launches advertising application, active search ecosystem and cybersecurity platform](http://www.the-blockchain.com/2017/07/06/blockchain-startup-bitclave-launches-advertising-application-active-search-ecosystem-cybersecurity-platform/)  

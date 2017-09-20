@@ -5,8 +5,8 @@ Name: Blocktix
 Year founded: 2017   
 Currency: [TIX](https://coinmarketcap.com/assets/blocktix/) 
 ## Staff
-Co-founder & CEO: [Ryno Mathee](../people/ryno_mathee.md)  
-Co-founder & CTO: [Rob Schins](../people/rob_schins.md)  
+Co-founder & CEO: [Rob Schins](../people/rob_schins.md) 
+Co-founder & CTO: [Ryno Mathee](../people/ryno_mathee.md)  
 Designer: [Gerlof van Ek](../people/gerlof_van_ek.md)  
 ## Business Model
 Blocktix is an Ethereum based, counterfeit-resistant solution for individuals and event hosting businesses to distribute, advertise, and transfer ownership of event tickets or passes.

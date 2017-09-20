@@ -119,6 +119,7 @@
 * [FLiK](flik.md)
 * [Fluence](fluence.md)
 * [Foodcoin](foodcoin.md)
+* [Fund Yourself Now](fund_yourself_now.md)
 * [FundCoin](fundcoin.md) 
 * [FunFair](funfair.md)
 ## G

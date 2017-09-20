@@ -9,5 +9,5 @@ Position: Co-founder
 [LinkedIn](https://www.linkedin.com/in/alexey-girin-21971231/)      
 [Facebook](https://www.facebook.com/alexey.girin.3?ref=br_rs)
 ## About
-15 years in audit and finance and 10 years in the venture capital industry. Fundraiser and early stage investor.MA in Economics.
+15 years in audit and finance and 10 years in the venture capital industry. Fundraiser and early stage investor. MA in Economics.
 Responsible for investor relations and general management. 

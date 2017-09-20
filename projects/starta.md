@@ -17,4 +17,4 @@ Starta Accelerator is an acceleration program launched by Starta Capital VC Fund
 [Blog](https://medium.com/startaico)  
 [Telegram](https://t.me/starta_ico)
 ## About  
-[WhitePaper](https://startaico.com/Starta-Whitepaper-1.pdf)(not aviable) 
+[WhitePaper](https://startaico.com/Starta-Whitepaper-1.pdf)(not available) 

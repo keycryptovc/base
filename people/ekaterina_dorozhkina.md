@@ -4,7 +4,7 @@ Name:   Ekaterina Dorozhkina
 Location: USA   
 ## Projects 
 Name: [Starta](../projects/starta.md)  
-Position: Co-founder   
+Position: Co-founder &  Managing Partner 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/dorozhkina/)  
 [Twitter](https://twitter.com/katkonsulting)  

@@ -420,6 +420,7 @@
 * [Jackson Palmer](jackson_palmer.md)
 * [Jack Peterson](jack_peterson.md)
 * [Jack Robison](jack_robison.md)
+* [Jack Ser](jack_ser.md)
 * [Jag Barpagga](jag_barpagga.md)
 * [Jagdeep Sidhu](jagdeep_sidhu.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
@@ -528,6 +529,7 @@
 * [Kelly Elkins](kelly_elkins.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Kenneth Loh](kenneth_loh.md)
+* [Kenneth Tan](kenneth_tan.md)
 * [Kevin Hobbs](kevin_hobbs.md)
 * [Kevin Kaiser](kevin_kaiser.md)
 * [Kevin McSheehan](kevin_mcsheehan.md) 
@@ -973,5 +975,6 @@
 ## Z
 * [Zach Lebeau](zach_lebeau.md)
 * [Zack Coburn](zack_coburn.md)
-* [Zane Witherspoon](zane_witherspoon.md)  
+* [Zane Witherspoon](zane_witherspoon.md)
+* [Zheng Junyi](zheng_junyi.md)
 * [Zooko Wilcox](zooko_wilcox.md)

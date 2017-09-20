@@ -1,4 +1,7 @@
 # News
+## 20 September 2017
+* [NEO is planned for listing on new Korean exchange](neo_20-09-17.md)
+
 ## 18 September 2017
 * [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
 

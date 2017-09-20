@@ -11,4 +11,4 @@ Position: Co-founder
 [Facebook](https://www.facebook.com/KatyaDorozhkina?ref=br_rs)
 ## About
 Entrepreneur, economist and published author of books and articles on business, marketing, and entrepreneurship. 
-Over 10 years of experience in different industries, such as pharmaceutical, IT and FinTech, working for Wall street companies. MA in International Economics. PhD candidate in Economics.
+Over 10 years of experience in different industries, such as pharmaceutical, IT and FinTech, working for Wall Street companies. MA in International Economics. PhD candidate in Economics.

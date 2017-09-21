@@ -3,7 +3,7 @@
 Name:   Alexander Noxon  
 Location: Russian Federation  
 ## Projects 
-Name: [DAO.casino](../projects/dao_casino.md)  
+Name: [DAO.Casino](../projects/dao_casino.md)  
 Position: CTO & Platform development   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/noxonsu/)  

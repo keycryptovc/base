@@ -268,6 +268,7 @@
 * [Deepak Kumar](deepak_kumar.md)
 * [Deven Soni](deven_soni.md)
 * [Dima Himi](dima_himi.md)
+* [Dimo Stoyanov](dimo_stoyanov.md) 
 * [Dipesh Sukhani](dipesh_sukhani.md)
 * [Divya Gawas](divya_gawas.md)
 * [Djenad Razic](djenad_razic.md)
@@ -422,6 +423,7 @@
 * [Ivan Mityaev](ivan_mityaev.md)
 * [Ivan Rublev](ivan_rublev.md)
 * [Ivica Simatovic](ivica_simatovic.md)
+* [Ivo Georgiev](ivo_georgiev.md) 
 ## J
 * [J.P. Lomas](jp_lomas.md)
 * [J.R. Willett](jr_willett.md)
@@ -932,6 +934,7 @@
 * [Valdi Kamenarov](valdi_kamenarov.md) 
 * [Valentin Preobrazhensky](valentin_preobrazhensky.md)
 * [Valery Novikov](valery_novikov.md)  
+* [Vanina Ivanova](vanina_ivanova.md)  
 * [Vasja Veber](vasja_veber.md) 
 * [VC Tran](vc_tran.md) 
 * [Viacheslav Averkin](viacheslav_averkin.md)

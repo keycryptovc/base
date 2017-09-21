@@ -3,7 +3,7 @@
 Name:   Ilya Tarutov  
 Location: Russian Federation  
 ## Projects 
-Name: [DAO.casino](../projects/dao_casino.md)  
+Name: [DAO.Casino](../projects/dao_casino.md)  
 Position: CEO   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ilya-tarutov-612639101/)  

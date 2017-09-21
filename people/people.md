@@ -163,6 +163,7 @@
 * [Brian Onn](brian_onn.md)
 * [Bryn Bellomy](bryn_bellomy.md)
 * [BCNext](bcnext.md)
+* [BurstProject](BurstProject.md)  
 ## C
 * [Calvin Hsieh](calvin_hsieh.md)
 * [Can Kisagun](can_kisagun.md)
@@ -249,6 +250,7 @@
 * [David Waugh](david_waugh.md)
 * [David Yiling Li](david_yiling_li.md)
 * [David Zimbeck](david_zimbeck.md)
+* [dawallet](dawallet.md)  
 * [Dawid Gajek](dawid_gajek.md)
 * [Dean Thompson](dean_thompson.md)
 * [Denis Belousov](denis_belousov.md)

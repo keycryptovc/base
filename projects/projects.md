@@ -53,6 +53,7 @@
 * [Bowhead Health](bowhead_health.md)
 * [BrickBlock](brickblock.md)
 * [Bugu](bugu.md)
+* [Burst](burst.md)
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C

@@ -1,6 +1,6 @@
 ## Overview
 ![logo](../projects/logo/dao_casino.png)  
-Name: DAO.casino  
+Name: DAO.Casino  
 [Website](https://dao.casino/)  
 Year founded: 2017  
 Currency: [BET](https://coinmarketcap.com/assets/dao-casino/)  

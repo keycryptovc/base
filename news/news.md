@@ -1,4 +1,7 @@
 # News
+## 21 September 2017
+* [Stellar have published research on ICOs](stellar_21-09-17.md)
+
 ## 18 September 2017
 * [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
 

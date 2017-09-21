@@ -6,6 +6,7 @@
 
 ## A
 * [Acebusters](acebusters.md)  
+* [AdEx](adex.md)  
 * [Aether United](aether_united.md)
 * [Agrello](agrello.md)
 * [Ahoole](ahoolee.md)  

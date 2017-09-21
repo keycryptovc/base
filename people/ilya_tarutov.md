@@ -1,5 +1,5 @@
 ## Personal data
-![ilya tarutov photo](photo/ilya_tarutov.jpg)  
+![ilya tarutov photo](photo/ilya_tarutov.png)  
 Name:   Ilya Tarutov  
 Location: Russian Federation  
 ## Projects 

@@ -257,6 +257,7 @@
 * [Skycoin](skycoin.md)
 * [Smart Investment Fund Token](smart_investment_fund_token.md)
 * [smartRE](smartre.md)
+* [Snip](snip.md)
 * [Soferox](soferox.md)
 * [Solar DAO](solar_dao.md)
 * [Soma](soma.md)

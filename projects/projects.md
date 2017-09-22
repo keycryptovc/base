@@ -209,6 +209,7 @@
 * [NEO](neo.md)
 * [Nexus](nexus.md)
 * [Nimfamoney](nimfamoney.md)
+* [Nimiq Network](nimiq_network.md)
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O

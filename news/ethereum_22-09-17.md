@@ -1,4 +1,4 @@
-### Project: [Ethereum](../projects/Ethereum.md)
+### Project: [Ethereum](../projects/ethereum.md)
 ### Date: 22 September 2017
 ## Summary
   

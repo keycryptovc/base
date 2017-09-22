@@ -1,6 +1,6 @@
 # News
 ## 18 September 2017
-* [Lykke Wallet Update](lykke_22-09-17.md)
+* [Lykke Wallet Update: Ethereum private wallets support added](lykke_22-09-17.md)
 
 ## 18 September 2017
 * [UTrust announced rewards for the Early Supporters](utrust_18-09-17.md)

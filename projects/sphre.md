@@ -18,4 +18,4 @@ Their technology is a key enabler to drive radical and positive change for the e
 [Slack](https://sphreco.herokuapp.com/)  
 [Telegram](http://www.telegram.me/airplatform)    
 ## About  
-[WhitePaper](not available)  
+[WhitePaper](http://www.sphre.co/cs/downloads/Air_Platform_Whitepaper.pdf)  

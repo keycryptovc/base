@@ -16,9 +16,7 @@ A mechanism used to securely transfer crypto-assets between crypto-exchanges
 Any kind of Ether-laundering scheme
 These are only hypotheses which we would like to discuss with anyone interested in our findings.
 
-tags: #, #, #
+tags: #ethereum, #mixer
 ## Source Link
-[](https://blog.cyber.fund/huge-ethereum-mixer-6cf98680ee6c)  
-## Links on topic
-[]()
-[]()
+[Huge Ethereum mixer](https://blog.cyber.fund/huge-ethereum-mixer-6cf98680ee6c)  
+ 

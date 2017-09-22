@@ -1,5 +1,8 @@
 # News
 ## 18 September 2017
+* [Lykke Wallet Update](lykke_22-09-17.md)
+
+## 18 September 2017
 * [UTrust announced rewards for the Early Supporters](utrust_18-09-17.md)
 * [Minerva is looking for investors to the join Private Token Presale](minerva_18-09-17.md)
 * [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)

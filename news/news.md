@@ -1,5 +1,5 @@
 # News
-## 18 September 2017
+## 22 September 2017
 * [Lykke Wallet Update: Ethereum private wallets support added](lykke_22-09-17.md)
 
 ## 18 September 2017

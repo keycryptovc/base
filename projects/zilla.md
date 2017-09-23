@@ -1,5 +1,5 @@
 ## Overview
-![ logo](../projects/logo/zilla.png)  
+![ logo](../projects/logo/zilla.jpg)  
 Name: Zilla  
 [Website](https://zla.io/)  
 Year founded: 2017  

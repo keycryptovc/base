@@ -145,6 +145,7 @@
 * [Hut34 Project](hut34_project.md) 
 * [HyperQuant](hyperquant.md)
 ## I
+* [ICON](icon.md)
 * [Iconomi](iconomi.md)
 * [ICOS](icos.md)
 * [Ignis](ignis.md)

@@ -25,3 +25,5 @@ To use the Melon protocol one has to use MLN token.
 [Medium ](https://medium.com/melonport-blog)  
 ## About 
 [Melonport presentation by CEO Mona El Isa](https://www.youtube.com/watch?v=yqNWX1zQyO4)
+## News
+[Anton Golub will represent Lykke at Melonport's M-0 conferrence for asset management](../news/lykke_19-09-17.md)

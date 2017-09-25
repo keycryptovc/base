@@ -18,7 +18,7 @@ GraphGrail AI is the world’s first Artificial Intelligence platform for Blockc
 GraphGrail AI Team is developing a platform for analyzing large amounts of text data, solving the problems of extracting knowledge and complex semantic classification based on machine learning, neural networks and deep learning technologies.
 The company will use the SaaS business model. Users will be charged monthly, semi-annual or annual subscriptions.
   
-1,000,000,000 GAI tokens will be issued. The distribution is as follows:
+1,000,000,000 GAI tokens will be issued. The distribution is as follows:  
 18% (180,000,000) will be kept in a reserve fund.  
 30% (300,000,000) will be earmarked for the GraphGrail AI team to continue to develop the project. These tokens will be stored in multisig wallets.  
 2% (20,000,000) will be earmarked for the bounty campaign and ICO marketing.  

@@ -260,6 +260,7 @@
 * [Round](round.md) 
 * [Royal Kingdom Coin](royal_kingdom_coin.md)
 ## S
+* [Santiment](santiment.md)
 * [SENSE](sense.md)
 * [ShapeShift](shapeshift.md)
 * [Sia](sia.md)

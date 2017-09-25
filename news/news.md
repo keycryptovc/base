@@ -2,9 +2,14 @@
 ## 19 September 2017
 * [Zcoin Dev Update - September](zcoin_19-09-17.md)
 * [Zcoin Core is upgraded to v0.13 - Key Highlights](zcoin2_19-09-17.md)
+* [Anton Golub will represent Lykke at Melonport's M-0 conferrence for asset management](lykke_19-09-17.md)
+* [Wind energy used to mine cryptocurrency to fund climate research](zcash-19-09-2017.md)
 
 ## 18 September 2017
+* [UTrust announced rewards for the Early Supporters](utrust_18-09-17.md)
+* [Minerva is looking for investors to the join Private Token Presale](minerva_18-09-17.md)
 * [NXT presented new voting mechanism and solution for the bank transfers](nxt_18-09-17.md)
+* [Monero’s Helium Hydra Release](monero-18-09-2017.md)
 
 ## 14 September 2017
 * [IOTA's Team welcomes Oliver T. Bussmann](iota_14-09-17.md)

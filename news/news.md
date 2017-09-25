@@ -1,5 +1,6 @@
 # News
 ## 19 September 2017
+* [South Africa’s Second Largest Supermarket Chain Pick n Pay Trials Bitcoin Payments](bitcoin-19-09-2017.md)
 * [Zcoin Dev Update - September](zcoin_19-09-17.md)
 * [Zcoin Core is upgraded to v0.13 - Key Highlights](zcoin2_19-09-17.md)
 * [Anton Golub will represent Lykke at Melonport's M-0 conferrence for asset management](lykke_19-09-17.md)

@@ -1,5 +1,7 @@
 # News
 ## 19 September 2017
+* [Zcoin Dev Update - September](zcoin_19-09-17.md)
+* [Zcoin Core is upgraded to v0.13 - Key Highlights](zcoin2_19-09-17.md)
 * [Anton Golub will represent Lykke at Melonport's M-0 conferrence for asset management](lykke_19-09-17.md)
 * [Wind energy used to mine cryptocurrency to fund climate research](zcash-19-09-2017.md)
 

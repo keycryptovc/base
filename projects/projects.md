@@ -291,6 +291,7 @@
 * [TenX](tenx.md)
 * [Tether](tether.md)
 * [Tezos](tezos.md)
+* [Tierion](tierion.md)
 * [Ties Network](ties_network.md) 
 * [TokenStars](tokenstars.md) 
 * [TokenStub](tokenstub.md)

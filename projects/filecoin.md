@@ -18,5 +18,5 @@ The product for sale in the Filecoin marketplace are units of spacetime, a speci
 [Twitter](https://twitter.com/protocollabs)    
   
 ## About 
-[Whitepaper](https://filecoin.io/filecoin.pdf)
+[Whitepaper](https://filecoin.io/filecoin.pdf)  
 [Filecoin Token Sale: A decentralized storage network](https://www.smithandcrown.com/sale/filecoin-token-sale-a-decentralized-storage-network/)

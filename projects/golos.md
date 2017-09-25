@@ -1,13 +1,13 @@
 ## Overview
-![ logo](../projects/logo/golos.png)  
+![ logo](../projects/logo/golos.jpg)  
 Name: Golos  
 [Website](https://golos.io/)   
-Year founded: 2016 
-Currency: token [(GOLOS)](https://coinmarketcap.com/currencies/golos/)	[GBG](https://coinmarketcap.com/currencies/golos-gold/) 
+Year founded: 2016  
+Currency: token [(GOLOS)](https://coinmarketcap.com/currencies/golos/)	[GBG](https://coinmarketcap.com/currencies/golos-gold/)  
 ## Staff 
-Co-Founder, Economics: [Dima Starodubtsev](../people/dima_starodubtsev.md)  
-Co-Founder, Blockchain development:  [Valery Litvin](../people/valery_litvin.md) 
-Co-Founder, Partnership:  [Marina Guryeva](../people/marina_guryeva.md)  
+Co-Founder, Economics: [Dima Starodubtsev](../people/dima_starodubtsev.md)   
+Co-Founder, Blockchain development:  [Valery Litvin](../people/valery_litvin.md)   
+Co-Founder, Partnership:  [Marina Guryeva](../people/marina_guryeva.md)   
 Co-Founder, Back-end:  [Alexey Frumin](../people/alexey_frumin.md)  
 Co-Founder,Finance and audit: [Vitaly Lvov](../people/vitaly_lvov.md)  
 Co-Founder, Business development: [Konstantin Lomashuk](../people/.md)  
@@ -19,9 +19,9 @@ Similar to Steem.it, Golos has three internal currencies: one for market trading
 ## Contacts   
 [Twitter](https://twitter.com/@goloschain)   
 [Telegram](https://t.me/golos_io)   
-[Instagram](https://instagram.com/golos_io/)  
-[Facebook](https://facebook.com/www.golos.io/)
-[Github](https://github.com/GolosChain)
+[Instagram](https://instagram.com/golos_io/)   
+[Facebook](https://facebook.com/www.golos.io/)  
+[Github](https://github.com/GolosChain)  
   
 ## About 
 [Whitepaper](https://golos.io/ru--golos/@golos/golos-russkoyazychnaya-socialno-mediinaya-blokchein-platforma)

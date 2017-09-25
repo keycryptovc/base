@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](../people/photo/alexey_frumin.jpg)  
-Name:  Alexey Frumin
+Name:  Alexey Frumin  
 Location: Russia
 ## Projects 
 Name: [Golos](../projects/golos.md)  

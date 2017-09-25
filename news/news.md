@@ -1,4 +1,6 @@
 # News
+## 19 September 2017
+* [Wind energy used to mine cryptocurrency to fund climate research](zcash-19-09-2017.md)
 ## 18 September 2017
 * [UTrust announced rewards for the Early Supporters](utrust_18-09-17.md)
 * [Minerva is looking for investors to the join Private Token Presale](minerva_18-09-17.md)

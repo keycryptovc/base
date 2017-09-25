@@ -3,7 +3,7 @@
 Name: Juan Benet  
 Location: San Francisco Bay Area   
 ## Projects 
-Name: [Filecoin](../projects/.md)  
+Name: [Filecoin](../projects/filecoin.md)  
 Position: Blockchain Developer  
 ## Contacts 
 [LinkedIn](https://www.linkedin.com/in/jbenetcs)   

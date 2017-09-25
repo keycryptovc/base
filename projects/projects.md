@@ -137,6 +137,7 @@
 * [Goldmint](goldmint.md) 
 * [Golem](golem.md)
 * [Golos](golos.md)
+* [GrapgGrail AI](graphgrail.md)
 * [Greeneum](greeneum.md)
 * [Gulden](gulden.md)
 * [Gx Coin](gxcoin.md)

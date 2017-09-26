@@ -221,6 +221,7 @@
 * [NXT](nxt.md)
 ## O
 * [Obsidian Platform](obsidian_platform.md)
+* [Octanox](octanox.md)
 * [ODMCoin](odmcoin.md)
 * [OmiseGo](omisego.md)
 * [Omni](omni.md)

@@ -9,7 +9,7 @@ Founder & CEO: [Dhimas Pambudi](../people/dhimas_pambudi.md)
 CFO: [Keith Ly](../people/keith_ly.md)  
 Corporate Image Director: [Ignacio Bastos](../people/ignacio_bastos.md)
 ## Business Model
-Octanox is decentralized cryptocurrency with x11 algorithm and using POW and POS Systems that are focused on multiple platforms that would be used for virtual economy and virtual activities. Octanox is a new way to make transactions online.Their decentralized platform prevents any interference to Octanox, and its source code is publicly available to see.
+Octanox is decentralized cryptocurrency with x11 algorithm and using POW and POS Systems that are focused on multiple platforms that would be used for virtual economy and virtual activities. Octanox is a new way to make transactions online. Their decentralized platform prevents any interference to Octanox and its source code is publicly available to see.
 ## Contacts  
 [Twitter](https://twitter.com/OctanoxPlatform)  
 [Linkedin](https://www.linkedin.com/company/13288299/)  

@@ -14,5 +14,7 @@
    GitHub: [ethereum](https://github.com/ethereum/)  
    Bitcointalk: [Ethereum Discussions](https://bitcointalk.org/index.php?topic=428589.0)  
    Facebook: [ethereumproject](https://www.facebook.com/ethereumproject/)  
-## About (could be useful links, necessary info)
-   Coindesk's "Understanding Ethereum [Report](https://www.google.com.ua/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwit_oDgnLbVAhVjD5oKHSqpBIMQFggmMAA&url=https%3A%2F%2Fforum.daohub.org%2Fuploads%2Fdefault%2Foriginal%2F2X%2Fb%2Fb583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf&usg=AFQjCNGI4pEp3C8xjMTMzRyycYLLOmC0qw)"
+## About 
+   Coindesk's "Understanding Ethereum [Report](https://www.coindesk.com/research/understanding-ethereum-report/)"
+## News
+* [Ethereum Mining Difficulty Catapults To Record High](../news/ethereum-25-09-2017.md)

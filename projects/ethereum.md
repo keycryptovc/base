@@ -7,7 +7,7 @@
 ## Staff
    Inventor: [Vitalik Buterin](../people/vitalik_buterin.md)   
    Co-founder: [Gavin Wood](../people/gavin_wood.md)  
-   Co-founder: [Joseph Lubin](../people/zach_lebeau.md)
+   Co-founder: [Joseph Lubin](../people/joseph_lubin.md)
 ## Business Model 
    Ethereum is a  decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
 ## Contacts

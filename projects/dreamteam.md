@@ -7,7 +7,7 @@ Currency: DreamTeam
 ICO: Start: 20.Nov 2017  
 End: 24.Nov 2017
 ## Staff
-Founder & CEO: [Alexander Kokhanovsky](../people/alexander_kokhanovsky.md)  
+Founder & CEO: [Alexander Kokhanovskyy](../people/alexander_kokhanovskyy.md)  
 Co-founder: [Volodymyr Panchenko](../people/volodymyr_panchenko.md)  
 Blockchain Architect: [Andriy Khavryuchenko](../people/andriy_khavryuchenko.md)  
 Lead Architect: [Alexandr Beseda](../people/alexandr_beseda.md)

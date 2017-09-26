@@ -1,4 +1,7 @@
 # News
+## 25 September 2017
+[Omise partners with McDonald’s Thailand to provide seamless payment experience for online and mobile orders](omisego-25-09-2017.md)
+
 ## 19 September 2017
 * [South Africa’s Second Largest Supermarket Chain Pick n Pay Trials Bitcoin Payments](bitcoin-19-09-2017.md)
 * [Zcoin Dev Update - September](zcoin_19-09-17.md)

@@ -15,3 +15,6 @@
    Reddit: [Zcash](https://www.reddit.com/r/zec/)  
 ## About
 -//-
+
+## News
+* [Wind energy used to mine cryptocurrency to fund climate research](../news/zcash-19-09-2017.md)

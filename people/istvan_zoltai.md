@@ -3,7 +3,7 @@
 Name:   Istvan Zoltai  
 Location: Hungary  
 ## Projects 
-Name: [Gilgam](../projects/gilgam.md)  
+Name: [Gilgam.es](../projects/gilgames.md)  
 Position: AWS expert   
 ## Contacts
 -//-    

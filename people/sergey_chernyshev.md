@@ -1,10 +1,10 @@
 ## Personal data
 ![ photo](../people/photo/sergey_chernyshev.jpg)  
-Name: Sergey Chernyshev ](../people/) 
+Name: Sergey Chernyshev   
 Location:
 ## Projects 
 Name: [ARNA Panacea](../projects/arna_panacea.md)  
-Position: Ph.D., molecular biotechnologist
+Position: Ph.D., molecular biotechnologist  
 ## Contacts
 
 ## About

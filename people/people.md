@@ -275,6 +275,7 @@
 * [Denis Stepurko](denis_stepurko.md)  
 * [Deepak Kumar](deepak_kumar.md)
 * [Deven Soni](deven_soni.md)
+* [Dhimas Pambudi](dhimas_pambudi.md)
 * [Dima Himi](dima_himi.md)
 * [Dima Starodubtsev](dima_starodubtsev.md)  
 * [Dipesh Sukhani](dipesh_sukhani.md)
@@ -420,6 +421,7 @@
 * [H. L. Lu](h.l._lu.md)
 ## I
 * [Ido Kaiser](ido_kaiser.md)
+* [Ignacio Bastos](ignacio_bastos.md)
 * [Ignas Mangevicius](ignas_mangevicius.md)
 * [Igor Borodin](igor_borodin.md)  
 * [Igor Matyushkin](igor_matyushkin.md)
@@ -560,6 +562,7 @@
 * [Kazunobu Hatta](kazunobu_hatta.md)
 * [Kaushal Kumar Singh](kaushal_kumar_singh.md)
 * [Keita Funakawa](keita_funakawa.md)
+* [Keith Ly](keith_ly.md)
 * [Kellogg N. Fairbank](kellogg_fairbank.md)
 * [Kelly Elkins](kelly_elkins.md)
 * [Kelvin “Wilhelm” Lee](kelvin_wilhelm_lee.md)

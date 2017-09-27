@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](../people/photo/george_nikitin.jpg)  
-Name: George Nikitin
+Name: George Nikitin  
 Location: Moscow, Russian Federation  
 ## Projects 
 Name: [ARNA Panacea](../projects/arna_panacea.md)  

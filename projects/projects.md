@@ -36,6 +36,7 @@
 * [Binance Coin](binance_coin.md)
 * [BeOne](beone.md)
 * [BitBay](bitbay.md)
+* [BitClave](bitclave.md)
 * [Bitcoin](bitcoin.md)
 * [BitcoinDark](bitcoindark.md)
 * [Bitcoin Cash](bitcoin_cash.md)

@@ -2,7 +2,13 @@
 ## 22 September 2017
 * [PIVX Team had released PIVX Core version 2.3.1](pivx_22-09-17.md)
 
+## 21 September 2017
+* [68% of total Ethereum transaction value controlled by one system](ethereum-21-09-17.md)
+* [Stellar have published research paper on ICOs](stellar_21-09-17.md)
+
 ## 20 September 2017
+* [NEO is planned for listing on new Korean exchange](neo_20-09-17.md)
+* [MTH token is listed on HitBTC exchange](monetha_20-09-17.md)
 * [Red Pulse ICO has been rescheduled for the 8th of October](redpulse_20-09-17.md)
 
 ## 19 September 2017

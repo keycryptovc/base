@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](../people/photo/ran_reichman.jpg)  
-Name:  Ran Reichman
+Name:  Ran Reichman  
 Location: Israel  
 ## Projects 
 Name: [Snip](../projects/snip.md)  

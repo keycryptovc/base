@@ -4,7 +4,7 @@ Name: GraphGrail AI
 [Website](http://graphgrail.com/)  
 Year founded: 2014   
 Currency: GAI  
-Pre-ICO Start Date: 26 September 2017  
+Pre-ICO Start Date: 02 October 2017  
 ICO Start Date: 25 November 2017 (Preliminary)
 ## Staff
 Founder and CEO: [Victor Nosko](../people/victor_nosko.md)  
@@ -49,3 +49,4 @@ Cap: $50,000,000
 [GraphGrail Presentation](https://www.youtube.com/watch?v=J6HHo9spSG4)  
 [GraphGrail Alpha-release](http://engine.graphgrail.com/)
 ## News
+[GraphGrail AI pre-ICO rescheduled](graphgrail_28-09-17.md)  

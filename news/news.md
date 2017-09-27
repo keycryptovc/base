@@ -1,5 +1,6 @@
 # News
 ## 20 September 2017
+* [MTH token is listed on HitBTC exchange](monetha_20-09-17.md)
 * [Red Pulse ICO has been rescheduled for the 8th of October](redpulse_20-09-17.md)
 
 ## 19 September 2017

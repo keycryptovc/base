@@ -1,7 +1,7 @@
 ## Personal data
 ![ photo](../people/photo/sergey_dolgachev.jpg)  
-Name: Sergey Dolgachev
-Location:
+Name: Sergey Dolgachev  
+Location: Russian Federation 
 ## Projects 
 Name: [ARNA Panacea](../projects/arna_panacea.md)  
 Position:  Entrepreneur and co-owner  

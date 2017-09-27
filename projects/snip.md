@@ -2,9 +2,9 @@
 ![ logo](../projects/logo/snip.png)  
 Name: Snip
 [Website](https://www.snip.network/)   
-Year founded: 2017
-ICO Start: 29 Sep 2017
-End: 28 Oct 2017
+Year founded: 2017  
+ICO Start: 29 Sep 2017  
+End: 28 Oct 2017  
 Currency: token (SNP)	 
 ## Staff 
 CEO: [Ran Reichman](../people/ran_reichman.md)  

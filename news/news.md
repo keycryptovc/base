@@ -1,6 +1,7 @@
 # News
 ## 20 September 2017
 * [NEO is planned for listing on new Korean exchange](neo_20-09-17.md)
+* [MTH token is listed on HitBTC exchange](monetha_20-09-17.md)
 * [Red Pulse ICO has been rescheduled for the 8th of October](redpulse_20-09-17.md)
 
 ## 19 September 2017

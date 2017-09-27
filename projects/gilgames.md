@@ -1,6 +1,6 @@
 ## Overview
 ![logo](../projects/logo/gilgam.png)  
-Name: Gilgam  
+Name: Gilgam.es  
 [Website](https://ico.gilgam.es/)  
 Year founded: 2017  
 Currency: GGS  

@@ -19,6 +19,6 @@ The next step of the Ahoolee's Team will be:
 * communicate the globality of idea to the big investors.  
 * conduct pre-sale and ICO according to the usual market scheme, attracting professional investors in advance.
   
-tags: #ico, #failure, #
+tags: #ico, #failure
 ## Source Link
 [Ahoolee's Facebook post](https://www.facebook.com/ahooleeman/posts/1824472037792271) 

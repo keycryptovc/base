@@ -1,4 +1,7 @@
 # News
+## 20 September 2017
+* [Red Pulse ICO has been rescheduled for the 8th of October](redpulse_20-09-17.md)
+
 ## 19 September 2017
 * [South Africa’s Second Largest Supermarket Chain Pick n Pay Trials Bitcoin Payments](bitcoin-19-09-2017.md)
 * [Zcoin Dev Update - September](zcoin_19-09-17.md)

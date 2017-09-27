@@ -3,7 +3,7 @@
 Name:   Akos Sallai  
 Location: Hungary  
 ## Projects 
-Name: [Gilgam](../projects/gilgam.md)  
+Name: [Gilgam.es](../projects/gilgames.md)  
 Position: Business Development Expert   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/%C3%A1kos-sallai-2b6786122/)    

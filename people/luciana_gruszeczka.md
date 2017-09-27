@@ -8,4 +8,4 @@ Position: Compliance Officer
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/luciana-gruszeczka-59b13942/)    
 ## About
--//-
+Former DevsAr co-founder.

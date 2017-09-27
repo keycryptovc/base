@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](../people/photo/rani_horev.jpg)  
-Name: Rani Horev
+Name: Rani Horev  
 Location: Israel   
 ## Projects 
 Name: [Snip](../projects/snip.md)   

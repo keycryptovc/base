@@ -3,7 +3,7 @@
 Name:   Zsolt Rethati  
 Location: Hungary  
 ## Projects 
-Name: [Gilgam](../projects/gilgam.md)  
+Name: [Gilgam.es](../projects/gilgames.md)  
 Position: Founder & CEO   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/zsolt-r%C3%A9th%C3%A1ti-2a7647145/)    

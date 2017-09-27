@@ -9,4 +9,4 @@ Position: SVP & Board Member
 [LinkedIn](https://www.linkedin.com/in/gdavideh/)  
 [Facebook](https://www.facebook.com/g.davideh)
 ## About
--//-
+Former PayU Country Manager.

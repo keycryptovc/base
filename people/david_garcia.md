@@ -6,6 +6,7 @@ Location: USA
 Name: [Ripio Credit Network](../projects/ripio_credit_network.md)  
 Position: SVP & Board Member   
 ## Contacts
-[LinkedIn](https://www.linkedin.com/in/gdavideh/)    
+[LinkedIn](https://www.linkedin.com/in/gdavideh/)  
+[Facebook](https://www.facebook.com/g.davideh)
 ## About
 -//-

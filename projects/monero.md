@@ -27,7 +27,10 @@ Monero uses unbreakable cryptography to ensure that no one can see how much mone
    [Forum](https://forum.getmonero.org/)   
 ## About 
    [Reddit review](https://www.reddit.com/r/Monero/comments/668rl4/xmrto_review/) 
-
+   
+## News
+* [Monero’s Helium Hydra Release](../news/monero-18-09-2017.md)
+ 
 
 
 

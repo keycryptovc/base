@@ -20,7 +20,7 @@ Advisor: [Lou Kerner](../people/lou_kerner.md)
 [Twitter](https://www.facebook.com/sniptoday)   
 [Telegram](https://t.me/Sniptoday)   
 [Slack](https://www.snip.network/slack/)  
-[Medium](https://medium.com/snip-news)
+[Medium](https://medium.com/snip-news)  
 [Github](https://github.com/SnipToday)
   
 ## About 

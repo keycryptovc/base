@@ -25,3 +25,7 @@ Advisor: [Lou Kerner](../people/lou_kerner.md)
   
 ## About 
 [Whitepaper](https://media.snip.today/Snip_Whitepaper_en.pdf)
+## News
+
+## Similar projects
+[Steem](steem.md)

@@ -1,6 +1,6 @@
 ## Personal data
 ![ photo](../people/photo/ilya_senechkin.jpg)  
-Name:  Ilya Senechkin
+Name:  Ilya Senechkin  
 Location: Netherlands
 ## Projects 
 Name: [ARNA Panacea](../projects/arna_panacea.md)  

@@ -4,7 +4,8 @@ Name: Ripio Credit Network
 [Website](https://ripiocredit.network/)  
 Year founded: 2016  
 Currency: RCN  
-ICO: Start: 17.Oct 2017
+ICO: Start: 17 Oct 2017  
+End: 5 Nov 2017
 ## Staff
 Founder & CEO: [Sebastian Serrano](../people/sebastian_serrano.md)  
 SVP & Board Member: [David Garcia](../people/david_garcia.md)  

@@ -1,6 +1,6 @@
 ## Overview
 ![ logo](../projects/logo/snip.png)  
-Name: Snip
+Name: Snip  
 [Website](https://www.snip.network/)   
 Year founded: 2017  
 ICO Start: 29 Sep 2017  

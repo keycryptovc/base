@@ -1,4 +1,7 @@
 # News
+## 21 September 2017
+* [Stellar have published research paper on ICOs](stellar_21-09-17.md)
+
 ## 20 September 2017
 * [NEO is planned for listing on new Korean exchange](neo_20-09-17.md)
 * [MTH token is listed on HitBTC exchange](monetha_20-09-17.md)

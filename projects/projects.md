@@ -276,6 +276,7 @@
 * [Skycoin](skycoin.md)
 * [Smart Investment Fund Token](smart_investment_fund_token.md)
 * [smartRE](smartre.md)
+* [Snip](snip.md)
 * [Snapup](snapup.md)
 * [Smoke.Network](smoke_network.md)
 * [Soferox](soferox.md)

@@ -1,5 +1,6 @@
 # News
 ## 21 September 2017
+* [Cardholders outside the European territory will not be able to use TenX cards](tenx_21-09-17.md)
 * [68% of total Ethereum transaction value controlled by one system](ethereum-21-09-17.md)
 * [Stellar have published research paper on ICOs](stellar_21-09-17.md)
 

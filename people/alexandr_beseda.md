@@ -1,5 +1,5 @@
 ## Personal data
-![alexandr beseda photo](photo/alexandr_beseda.jpg)  
+![alexandr beseda photo](photo/alexandr_beseda.png)  
 Name:     Alexandr Beseda  
 Location: Ukraine
 ## Projects 

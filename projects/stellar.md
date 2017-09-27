@@ -23,3 +23,5 @@ Blog: [Stellar](https://www.stellar.org/blog/)
 [Stellar Dashboard](https://dashboard.stellar.org/)  
 [Forum #1](https://www.mystellar.org/portal.php)  
 [Forum #2](https://galactictalk.org/)  
+## News
+[Stellar have published research paper on ICOs](../news/stellar_21-09-17.md)

@@ -1,5 +1,6 @@
 # News
 ## 21 September 2017
+* [68% of total Ethereum transaction value controlled by one system](ethereum-21-09-17.md)
 * [Stellar have published research paper on ICOs](stellar_21-09-17.md)
 
 ## 20 September 2017

@@ -9,4 +9,4 @@ Position: Head of Growth & Content
 [LinkedIn](https://www.linkedin.com/in/juanjo-mendez/)    
 [Facebook](https://www.facebook.com/juanjo.mendez.71404)  
 ## About
-Former Yum Yum videos content manager
+Former Yum Yum videos content manager.

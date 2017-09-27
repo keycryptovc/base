@@ -59,6 +59,7 @@
 * [Alexander Vargas](alexander_vargas.md)
 * [Alexander Veretennikov](alexander_veretennikov.md)
 * [Alexander Voloshyn](alexander_voloshyn.md)
+* [Alexandr Beseda](alexandr_beseda.md)
 * [Alexandr Vinarskiy](alexandr_vinarskiy.md)
 * [Alexey Elizarov](alexey_elizarov.md)
 * [Alexey Frumin](alexey_frumin.md)  

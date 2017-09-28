@@ -1,4 +1,7 @@
 # News
+## 28 September 2017
+* [TenX Q3 Update: COMIT](tenx_28-09-17.md)
+
 ## 21 September 2017
 * [Cardholders outside the European territory will not be able to use TenX cards](tenx_21-09-17.md)
 * [68% of total Ethereum transaction value controlled by one system](ethereum-21-09-17.md)

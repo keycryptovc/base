@@ -1,6 +1,6 @@
 # News
 ## 28 September 2017
-* [HitBTC opens NEO markets and NEO/ETH pair available on Binance](neo_28-09-17.md)
+* [Exchanges Update: HitBTC opens NEO markets, NEO/ETH pair is now available on Binance](neo_28-09-17.md)
 
 ## 21 September 2017
 * [Cardholders outside the European territory will not be able to use TenX cards](tenx_21-09-17.md)

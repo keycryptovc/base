@@ -11,4 +11,4 @@ Position: Co-founder & CEO
 [Facebook](https://www.facebook.com/therealmwalker?ref=br_rs)  
 [Blog](https://medium.com/@EmbermineDrake)
 ## About
-Blockchain and Smart Contract evangelist. Futurist. Decentralizer. Creative Thinker, Reader, Writer, and Speaker. Scrabble and Street Fighter 2 champion.
+Blockchain and Smart Contract evangelist. Futurist, Decentralizer, Creative Thinker, Reader, Writer, and Speaker. Scrabble and Street Fighter 2 champion.

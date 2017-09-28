@@ -207,6 +207,7 @@
 * [MCAP](mcap.md)
 * [MediBond](medibond.md)
 * [Minerva](minerva.md)
+* [Minexcoin](minexcoin.md)
 * [MobileGO](mobilego.md) 
 * [Mobius Network](mobius_network.md)
 * [Modum](modum.md)

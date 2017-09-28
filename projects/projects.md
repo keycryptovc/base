@@ -107,6 +107,7 @@
 * [E-Dinar](e-dinar.md)
 * [easyMINE](easymine.md)
 * [Edgeless](edgeless.md)
+* [Embermine](embermine.md)
 * [Emercoin](emercoin.md)
 * [Empire Card](empire_card.md)
 * [Enigma Catalyst](enigma_catalyst.md)

@@ -1,5 +1,5 @@
 ## Overview
-![Lydian logo](../projects/logo/lydian.png)  
+![Lydian logo](../projects/logo/lydian.jpg)  
 Name:  Lydian  
 [Website](https://lydian.io/)   
 Year founded:  2017

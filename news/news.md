@@ -1,5 +1,6 @@
 # News
 ## 22 September 2017
+* [PIVX Team had released PIVX Core version 2.3.1](pivx_22-09-17.md)
 * [Byzantium, new Ethereum upgrade, went live](ethereum_22-09-17.md)
 * [Lykke Wallet Update: Ethereum private wallets support added](lykke_22-09-17.md)
 

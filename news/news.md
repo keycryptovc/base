@@ -1,6 +1,7 @@
 # News
 ## 28 September 2017
 * [Morpheus wallet will allow users to send and receive NEO/GAS for free](neo_28-09-17.md)
+* [Ahoolee's ICO didn't reach soft cap](ahoolee_28-09-17.md)
 * [GraphGrail AI pre-ICO rescheduled](graphgrail_28-09-17.md)
 
 ## 25 September 2017

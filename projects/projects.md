@@ -270,6 +270,7 @@
 * [Redemption Technologies](redemption_technologies.md)
 * [ReiDAO](reidao.md)
 * [Rex](rex.md)
+* [Ripio Credit Network](ripio_credit_network.md)
 * [Ripple](ripple.md)
 * [Robot Vera](robot_vera.md)
 * [RocketICO](rocketico.md)

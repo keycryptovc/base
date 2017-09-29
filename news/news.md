@@ -1,4 +1,28 @@
 # News
+## 28 September 2017
+* [Ahoolee's ICO didn't reach soft cap](ahoolee_28-09-17.md)
+* [GraphGrail AI pre-ICO rescheduled](graphgrail_28-09-17.md)
+
+## 25 September 2017
+* [Ethereum Mining Difficulty Catapults To Record High](ethereum-25-09-2017.md)
+* [On-Chain Atomic Swaps](decred-25-09-2017.md)  
+* [Omise partners with McDonald’s Thailand to provide seamless payment experience for online and mobile orders](omisego-25-09-2017.md)
+
+## 22 September 2017
+* [PIVX Team had released PIVX Core version 2.3.1](pivx_22-09-17.md)
+* [Byzantium, new Ethereum upgrade, went live](ethereum_22-09-17.md)
+* [Lykke Wallet Update: Ethereum private wallets support added](lykke_22-09-17.md)
+
+## 21 September 2017
+* [Cardholders outside the European territory will not be able to use TenX cards](tenx_21-09-17.md)
+* [68% of total Ethereum transaction value controlled by one system](ethereum-21-09-17.md)
+* [Stellar have published research paper on ICOs](stellar_21-09-17.md)
+
+## 20 September 2017
+* [NEO is planned for listing on new Korean exchange](neo_20-09-17.md)
+* [MTH token is listed on HitBTC exchange](monetha_20-09-17.md)
+* [Red Pulse ICO has been rescheduled for the 8th of October](redpulse_20-09-17.md)
+
 ## 19 September 2017
 * [South Africa’s Second Largest Supermarket Chain Pick n Pay Trials Bitcoin Payments](bitcoin-19-09-2017.md)
 * [Zcoin Dev Update - September](zcoin_19-09-17.md)

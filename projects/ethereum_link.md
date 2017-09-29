@@ -18,4 +18,4 @@ Flexible market connector in Ethereum, it aims to exponentially increase the int
 [Blog](https://medium.com/@ethlink)  
 ## About  
 [WhitePaper](https://ethereum.link/files/Whitepaper1.03.pdf)  
-[Ethereum Link – Linking Ethereum Globally - Breaks 500k USD Barrier - CryptoCoinsNews](https://www.cryptocoinsnews.com/ethereum-link-linking-ethereum-globally-breaks-500k-usd-barrier/) 
+[Silver Backed Cryptocurrency – Ethereum Link](https://themerkle.com/silver-backed-cryptocurrency-ethereum-link/) 

@@ -16,6 +16,7 @@
    Facebook: [ethereumproject](https://www.facebook.com/ethereumproject/)  
 ## About 
    Coindesk's "Understanding Ethereum [Report](https://www.coindesk.com/research/understanding-ethereum-report/)"
-## News
-* [Ethereum Mining Difficulty Catapults To Record High](../news/ethereum-25-09-2017.md)
-* [68% of total Ethereum transaction value controlled by one system](../news/ethereum-21-09-17.md)
+## News  
+   [Ethereum Mining Difficulty Catapults To Record High](../news/ethereum-25-09-2017.md)
+   [Byzantium, new Ethereum upgrade, went live](../news/ethereum_22-09-17.md)  
+   [68% of total Ethereum transaction value controlled by one system](../news/ethereum-21-09-17.md)

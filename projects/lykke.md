@@ -28,7 +28,8 @@ Lykke is a global marketplace for the exchange of financial assets.
 [WhitePaper](https://www.lykke.com/Whitepaper_LykkeExchange.pdf)  
 [RoadMap](https://trello.com/b/IV0PH2gs/lykke-roadmap)
 ## News  
-[Anton Golub will represent Lykke at Melonport's M-0 conferrence for asset management](../news/lykke_19-09-17.md)
+[Lykke Wallet Update: Ethereum private wallets support added](../news/lykke_22-09-17.md)  
+[Anton Golub will represent Lykke at Melonport's M-0 conferrence for asset management](../news/lykke_19-09-17.md)  
 [Lykke is developing a crypto-index](../news/lykke_14-09-17.md)  
 [Lykke has added limit order capability to the Lykke Exchange](../news/lykke_08-09-17.md)  
 [Lykke opens Latin American subsidiary](../news/lykke2_08-09-17.md)  

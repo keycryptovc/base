@@ -14,7 +14,8 @@
    GitHub: [ethereum](https://github.com/ethereum/)  
    Bitcointalk: [Ethereum Discussions](https://bitcointalk.org/index.php?topic=428589.0)  
    Facebook: [ethereumproject](https://www.facebook.com/ethereumproject/)  
-## About (could be useful links, necessary info)
+## About
    Coindesk's "Understanding Ethereum [Report](https://www.google.com.ua/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwit_oDgnLbVAhVjD5oKHSqpBIMQFggmMAA&url=https%3A%2F%2Fforum.daohub.org%2Fuploads%2Fdefault%2Foriginal%2F2X%2Fb%2Fb583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf&usg=AFQjCNGI4pEp3C8xjMTMzRyycYLLOmC0qw)"
-## News 
-* [68% of total Ethereum transaction value controlled by one system](../news/ethereum-21-09-17.md)
+## News   
+   [Byzantium, new Ethereum upgrade, went live](../news/ethereum_22-09-17.md)  
+   [68% of total Ethereum transaction value controlled by one system](../news/ethereum-21-09-17.md)

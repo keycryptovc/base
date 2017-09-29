@@ -1,5 +1,6 @@
 # News
 ## 25 September 2017
+* [Ethereum Mining Difficulty Catapults To Record High](ethereum-25-09-2017.md)
 * [On-Chain Atomic Swaps](decred-25-09-2017.md)  
 * [Omise partners with McDonald’s Thailand to provide seamless payment experience for online and mobile orders](omisego-25-09-2017.md)
 

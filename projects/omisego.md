@@ -22,4 +22,5 @@ Public Ethereum-based financial technology for use in mainstream digital wallets
 [Explanatory Note & Governance Terms](https://cdn.omise.co/omg/crowdsaleterms.pdf)  
 [Why I have decided to invest in OmiseGo](https://www.reddit.com/r/ethtrader/comments/6nldxs/why_i_have_decided_to_invest_in_omisego_omg_now/)
 ## News 
-[OMG token is  listed on Poloniex and Binance](../news/omisego_12-09-17.md)  
+* [Omise partners with McDonald’s Thailand to provide seamless payment experience for online and mobile orders](../news/omisego-25-09-2017.md)
+* [OMG token is  listed on Poloniex and Binance](../news/omisego_12-09-17.md)  

@@ -1,6 +1,6 @@
 
 ### Project: [Ethereum](../projects/ethereum.md)
-### Date:  19 September 2017
+### Date:  21 September 2017
 ## Summary
 68% of total Ethereum transaction value controlled by one system
  

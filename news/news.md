@@ -1,4 +1,7 @@
 # News
+## 28 September 2017
+* [GraphGrail AI pre-ICO rescheduled](graphgrail_28-09-17.md)
+
 ## 25 September 2017
 * [Ethereum Mining Difficulty Catapults To Record High](ethereum-25-09-2017.md)
 * [On-Chain Atomic Swaps](decred-25-09-2017.md)  

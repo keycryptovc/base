@@ -7,14 +7,16 @@
 ## Staff
    Inventor: [Vitalik Buterin](../people/vitalik_buterin.md)   
    Co-founder: [Gavin Wood](../people/gavin_wood.md)  
-   Co-founder: [Joseph Lubin](../people/zach_lebeau.md)
+   Co-founder: [Joseph Lubin](../people/joseph_lubin.md)
 ## Business Model 
    Ethereum is a  decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
 ## Contacts
    GitHub: [ethereum](https://github.com/ethereum/)  
    Bitcointalk: [Ethereum Discussions](https://bitcointalk.org/index.php?topic=428589.0)  
    Facebook: [ethereumproject](https://www.facebook.com/ethereumproject/)  
-## About (could be useful links, necessary info)
-   Coindesk's "Understanding Ethereum [Report](https://www.google.com.ua/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwit_oDgnLbVAhVjD5oKHSqpBIMQFggmMAA&url=https%3A%2F%2Fforum.daohub.org%2Fuploads%2Fdefault%2Foriginal%2F2X%2Fb%2Fb583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf&usg=AFQjCNGI4pEp3C8xjMTMzRyycYLLOmC0qw)"
-## News 
-* [68% of total Ethereum transaction value controlled by one system](../news/ethereum-21-09-17.md)
+## About 
+   Coindesk's "Understanding Ethereum [Report](https://www.coindesk.com/research/understanding-ethereum-report/)"
+## News  
+   [Ethereum Mining Difficulty Catapults To Record High](../news/ethereum-25-09-2017.md)
+   [Byzantium, new Ethereum upgrade, went live](../news/ethereum_22-09-17.md)  
+   [68% of total Ethereum transaction value controlled by one system](../news/ethereum-21-09-17.md)

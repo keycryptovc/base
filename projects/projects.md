@@ -102,7 +102,8 @@
 * [doc.ai](doc_ai.md) 
 * [Dogecoin](dogecoin.md)
 * [DomRaider](domraider.md) 
-* [DOVU](dovu.md) 
+* [DOVU](dovu.md)
+* [DreamTeam](dreamteam.md)
 ## E
 * [E-Dinar](e-dinar.md)
 * [easyMINE](easymine.md)
@@ -159,6 +160,7 @@
 * [Hut34 Project](hut34_project.md) 
 * [HyperQuant](hyperquant.md)
 ## I
+* [ICON](icon.md)
 * [Iconomi](iconomi.md)
 * [ICOS](icos.md)
 * [Ignis](ignis.md)
@@ -229,6 +231,7 @@
 * [NXT](nxt.md)
 ## O
 * [Obsidian Platform](obsidian_platform.md)
+* [Octanox](octanox.md)
 * [ODMCoin](odmcoin.md)
 * [OmiseGo](omisego.md)
 * [Omni](omni.md)

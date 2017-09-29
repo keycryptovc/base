@@ -1,6 +1,17 @@
 # News
 ## 28 September 2017
 * [Ripple opens new office in Singapore](ripple_28-09-17.md)
+* [GraphGrail AI pre-ICO rescheduled](graphgrail_28-09-17.md)
+
+## 25 September 2017
+* [Ethereum Mining Difficulty Catapults To Record High](ethereum-25-09-2017.md)
+* [On-Chain Atomic Swaps](decred-25-09-2017.md)  
+* [Omise partners with McDonald’s Thailand to provide seamless payment experience for online and mobile orders](omisego-25-09-2017.md)
+
+## 22 September 2017
+* [PIVX Team had released PIVX Core version 2.3.1](pivx_22-09-17.md)
+* [Byzantium, new Ethereum upgrade, went live](ethereum_22-09-17.md)
+* [Lykke Wallet Update: Ethereum private wallets support added](lykke_22-09-17.md)
 
 ## 21 September 2017
 * [Cardholders outside the European territory will not be able to use TenX cards](tenx_21-09-17.md)

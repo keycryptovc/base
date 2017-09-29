@@ -1,6 +1,7 @@
 # News
 ## 28 September 2017
 * [Ripple opens new office in Singapore](ripple_28-09-17.md)
+* [Ahoolee's ICO didn't reach soft cap](ahoolee_28-09-17.md)
 * [GraphGrail AI pre-ICO rescheduled](graphgrail_28-09-17.md)
 
 ## 25 September 2017

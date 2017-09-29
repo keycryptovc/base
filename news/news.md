@@ -1,5 +1,6 @@
 # News
 ## 22 September 2017
+* [Byzantium, new Ethereum upgrade, went live](ethereum_22-09-17.md)
 * [Lykke Wallet Update: Ethereum private wallets support added](lykke_22-09-17.md)
 
 ## 21 September 2017

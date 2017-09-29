@@ -4,7 +4,9 @@ Name:   Alexander Kokhanovskyy
 Location: Ukraine
 ## Projects 
 Name: [DMarket](../projects/dmarket.md)  
-Position: Co-founder 
+Position: Co-founder  
+Name: [DreamTeam](../projects/dreamteam.md)  
+Position: Founder & CEO
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/kokhanovskyy/)    
 [Facebook](https://www.facebook.com/Kokhanovskyy)

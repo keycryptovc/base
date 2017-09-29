@@ -19,3 +19,5 @@ Ahoolee is a search engine dedicated to online shopping worldwide. Ahoolee uses 
 [GitHub](https://github.com/ahoolee)   
 ## About  
 [WhitePaper](https://drive.google.com/file/d/0Bz8GOnrPq_i-SGk5a1Jxbld2TGs/view)  
+## News 
+[Ahoolee's ICO didn't reach soft cap](../news/ahoolee_28-09-17.md)

@@ -5,7 +5,7 @@ Name: Decred
 Year founded: 2016  
 Currency: [DCR](https://coinmarketcap.com/currencies/decred/)  
 ## Staff
-Orginizer: [Jake Yocom-Piatt](../people/jake_yocom_piatt.md)  
+Founder: [Jake Yocom-Piatt](../people/jake_yocom_piatt.md)  
 ## Business Model
 Decred is a cryptocurrency with a strong focus on community input, open governance and sustainable funding and development. It utilizes a hybrid “proof-of-work” and “proof-of-stake” mining system to ensure that a small group cannot dominate the flow of transactions or make changes to Decred without the input of the community.    
 ## Contacts
@@ -17,3 +17,5 @@ Decred is a cryptocurrency with a strong focus on community input, open governan
 [Blog](https://blog.decred.org/)  
 ## About   
 [Decred: An Innovative Cryptocurrency or A Well Arranged Scam?](https://cointelegraph.com/news/decred-an-innovative-cryptocurrency-or-a-well-arranged-scam)
+## News   
+[On-Chain Atomic Swaps](../news/decred-25-09-2017.md)

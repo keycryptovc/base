@@ -27,11 +27,7 @@ Legal Advisor:  [Andrew Hinkes](../people/andrew_hinkes.md)
 [Twitter](https://twitter.com/LydianCoinLtd)   
 [Instagram](https://instagram.com/lydiancoin)  
 Email: Info@lydian.io   
-Lydian Headquarters  
-Worldwide Headquarters  
-Gateway West #14-03A  
-150 Beach Road  
-189720, Singapore
+
 
  
 ## About 

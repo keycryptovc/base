@@ -125,6 +125,7 @@
 * [ETHLend](ethlend.md)
 * [Everex](everex.md)
 * [Exchange Union](exchange_union.md)
+* [Exscudo](exscudo.md)
 
 ## F
 * [Factom](factom.md) 

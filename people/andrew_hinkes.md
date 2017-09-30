@@ -1,11 +1,12 @@
 ## Personal data
 ![Andrew Hinkes photo](../people/photo/andrew_hinkes.jpg)  
 Name: Andrew Hinkes  
-Location: 
+Location: Miami/Fort Lauderdale Area  
 ## Projects 
 Name: [Lydian](../projects/lydian.md)  
-Position: Legal Advisor
+Position: Legal Advisor  
 ## Contacts
+[Linkedin](https://www.linkedin.com/in/andrewhinkes/)
 ## About
   
 Advisor

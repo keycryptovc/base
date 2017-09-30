@@ -7,6 +7,7 @@ Currency: EON
 ## Staff
 Co-founder & CEO: [Andrew Zimine](../people/andrew_zimine.md)  
 Co-founder & CTO: [Alex Sitnikov](../people/alex_sitnikov.md)  
+CFO: [Julian Kossinov](../people/julian_kossinov.md)  
 Head of Front-End & App Development: [Oleg Bondar](../people/oleg_bondar.md)  
 Head of Web Development: [Aliaksandr Zahatski](../people/aliaksandr_zahatski.md)
 ## Business Model

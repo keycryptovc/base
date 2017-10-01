@@ -1,6 +1,6 @@
 # News
 ## 28 September 2017
-* [Exchanges Update: HitBTC opens NEO markets, NEO/ETH pair is now available on Binance](neo_28-09-17.md)
+* [Exchanges Update: HitBTC opens NEO markets, NEO/ETH pair is now available on Binance](neo2_28-09-17.md)
 * [Ripple opens new office in Singapore](ripple_28-09-17.md)
 * [Ahoolee's ICO didn't reach soft cap](ahoolee_28-09-17.md)
 * [GraphGrail AI pre-ICO rescheduled](graphgrail_28-09-17.md)

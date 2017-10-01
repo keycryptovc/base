@@ -91,6 +91,7 @@
 * [Decentraland](decentraland.md)
 * [Decentralized Escrow](decentralized_escrow.md)
 * [DeCred](decred.md)
+* [Dentacoin](dentacoin.md)
 * [DentalFix](dentalfix.md)
 * [DigiByte](digibyte.md)
 * [DigiPulse](digipulse.md)

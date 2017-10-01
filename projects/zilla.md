@@ -11,6 +11,11 @@ Blockchain Developer: [Tanvir Shahid](../people/tanvir_shahid.md)
 Blockchain Developer: [Michael Montague](../people/michael_montague.md)  
 Back End Developer: [Hendar Rismanto](../people/hendar_rismanto.md)  
 iOS Developer: [Richard Lamar](../people/richard_lamar.md)  
+Advisor, Attorney: [Christopher Bridges](../people/christopher_bridges.md)  
+Advisor, VC: [Harsh Patel](../people/harsh_patel.md)  
+Advisor, Hedge Fund Principal: [Kalman Gabriel](../people/kalman_gabriel.md)  
+Advisor, Compliance Officer: [Tomomi Yamashita](../people/tomomi_yamashita.md)  
+Advisor, Product Development: [James MacWhyte](../people/james_macwhyte.md)  
 ## Business Model
 Zilla is a consumer-friendly marketplace for participation in the ICO.
 Zilla will act as a gateway for the investors to easily and safely participate in various ICOs, while also allowing companies to do an ICO more effectively.

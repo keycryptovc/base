@@ -5,6 +5,8 @@ Location: Singapore
 ## Projects 
 Name: [COSS](../projects/coss.md)  
 Position: Co-Founder, Compliance Officer  
+Name: [Zilla](../projects/zilla.md)  
+Position: Attorney, Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/christopher-bridges-592a314/)  
 [Website](http://cbridgeslaw.com/)  

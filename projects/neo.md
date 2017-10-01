@@ -16,6 +16,7 @@
 ## About
 Antshares is the first Chinese blockchain project [raised](http://www.financemagnates.com/cryptocurrency/innovation/antshares-blockchain-completes-ico-securing-4-5m-and-microsoft-partnership/) 4.5M$ at ICO. Antshares initiated a [rebranding](https://neo.org/ru-RU/Blog/Details/61) to NEO at 27th of June.
 ## News
+[Morpheus wallet will allow users to send and receive NEO/GAS for free](../news/neo_28-09-17.md)  
 [NEO is planned for listing on new Korean exchange](../news/neo_20-09-17.md)  
 [Reddit user integrated NEO with the Ledger Nano S](../news/neo_13-09-17.md)  
 [Australian Blockchain Mission to China](../news/neo2_11-09-17.md)  

@@ -31,6 +31,7 @@ Tezos is a self-amending cryptographic ledger. It achieves consensus not just ab
 [Telegram Discussion Channel](t.me/tezosico)  
 [Telegram FAQ Channel](t.me/tezosfaq)  
 ## About
+[Tezos Fundation had published monthly report](../news/tezos_02-10-17.md)  
 [A beginner’s guide to Tezos](https://medium.com/@linda.xie/a-beginners-guide-to-tezos-c9618240183f)  
 [Tezos Presantation](https://www.tezos.com/static/papers/Tezos_Overview.pdf)  
 [Tezos Position Paper](https://www.tezos.com/static/papers/position_paper.pdf)  

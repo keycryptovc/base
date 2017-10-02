@@ -1,6 +1,7 @@
 # News
 ## 28 September 2017
 * [TenX Q3 Update: COMIT](tenx_28-09-17.md)
+* [Exchanges Update: HitBTC opens NEO markets, NEO/ETH pair is now available on Binance](neo2_28-09-17.md)
 * [Morpheus wallet will allow users to send and receive NEO/GAS for free](neo_28-09-17.md)
 * [Ripple opens new office in Singapore](ripple_28-09-17.md)
 * [Ahoolee's ICO didn't reach soft cap](ahoolee_28-09-17.md)

@@ -17,7 +17,7 @@
    Reddit: [IOTA](https://www.reddit.com/r/Iota/)  
    The Platform has its own [forum](https://forum.iota.org/) and [devhub](https://dev.iota.org/) 
 ## News
-   [OITA presented Flash Channels](../news/iota_02-10-17.md)  
+   [IOTA presented Flash Channels](../news/iota_02-10-17.md)  
    [IOTA's Team welcomes Oliver T. Bussmann](../news/iota_14-09-17.md)  
    [IOTA's Team welcomes new member](../news/iota_12-09-17.md)  
    [IOTA Price Dives 15% Following Revelation of Past Cryptographic Vulnerabilities](../news/iota_09-09-17.md)  

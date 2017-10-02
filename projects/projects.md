@@ -202,6 +202,7 @@
 * [Litecoin](litecoin.md)
 * [Lordmancer II](lordmancer_II.md)
 * [Luxico](luxico.md)
+* [Lydian](lydian.md)
 * [Lykke](lykke.md)
 ## M
 * [Maecenas](maecenas.md) 
@@ -350,3 +351,4 @@
 ## Z
 * [Zcash](zcash.md)
 * [Zcoin](zcoin.md)
+* [Zilla](zilla.md)

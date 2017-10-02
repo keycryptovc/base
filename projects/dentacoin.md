@@ -4,8 +4,7 @@ Name: Dentacoin
 [Website](https://www.dentacoin.com/)  
 Year founded: 2017  
 Currency:  [Dentacoin](https://coinmarketcap.com/currencies/dentacoin/)   
-ICO: Start: 1.Oct 2017  
-End: 
+ICO: 1.Oct 2017   
 ## Staff
 Co-founder of Dentacoin Foundation: [Dimitar Dimitrakiev](../people/dimitar_dimitrakiev.md)  
 Co-founder & Business Developer: [Philipp Grenzebach](../people/philipp_grenzebach.md)  

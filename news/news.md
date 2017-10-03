@@ -1,6 +1,7 @@
 # News
 ## 03 October 2017
 * [Metal team had annouced launch of the Metal Foundation](metal_03-10-17.md)
+* [Metal had published first development update](metal2_03-10-17.md)
 
 ## 28 September 2017
 * [TenX Q3 Update: COMIT](tenx_28-09-17.md)

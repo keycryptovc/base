@@ -1,5 +1,5 @@
 ### Project: [Red Pulse](../projects/red_pulse.md)
-### Date: 04 September 2017
+### Date: 04 October 2017
 ## Summary
   
 To participate in the RPX token sale on October 8th, investors must use the ‘Special Version for Red Pulse’ version of the NEO-GUI that is now available for download [here](https://neo.org/download).

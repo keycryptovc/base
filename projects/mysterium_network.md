@@ -6,9 +6,11 @@ Year founded: 2016
 Currency: [MYST](https://coinmarketcap.com/currencies/mysterium/)  
 ## Staff
 Co-founder: [Robertas Visinskis](../people/robertas_visinskis.md)  
-Co-founder & Technical Lead: [Paulius Mozuras](../people/paulius_mozuras.md)  
-Co-founder & Technical Lead: [Valdas Petrulis](../people/valdas_petrulis.md)  
-Software Developer: [Vitas Civilis](../people/vitas_civilis.md)
+Co-founder & Smart Contract & Python Developer: [Paulius Mozuras](../people/paulius_mozuras.md)  
+Co-founder & Lead Golang Developer: [Valdas Petrulis](../people/valdas_petrulis.md)  
+Software Developer: [Vitas Civilis](../people/vitas_civilis.md)  
+Visual Communication: [Sarūnas Savickas](../people/sarūnas_savickas.md)  
+Technical Advisor: [Ričardas Pocius](../people/ričardas_pocius.md)
 ## Business Model
 Mysterium Network acts as a marketplace, its Open Source software allows anyone to join the network both as a provider – selling unused network traffic or as a customer –  buying VPN service from other Mysterium Network providers.
 ## Contacts  

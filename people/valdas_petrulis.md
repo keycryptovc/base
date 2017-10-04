@@ -4,7 +4,7 @@ Name:   Valdas Petrulis
 Location: Lithuania  
 ## Projects 
 Name: [Mysterium Network](../projects/mysterium_network.md)  
-Position: Co-founder & Technical Lead   
+Position: Co-founder & Lead Golang Developer   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/valdaspetrulis/)  
 [Facebook](https://www.facebook.com/petrulis.valdas)  

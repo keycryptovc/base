@@ -4,7 +4,7 @@ Name:   Paulius Mozuras
 Location: Lithuania  
 ## Projects 
 Name: [Mysterium Network](../projects/mysterium_network.md)  
-Position: Co-founder & Technical Lead   
+Position: Co-founder & Smart Contract & Python Developer   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/paulius-mozuras-82b0027/)        
 [Blog](https://medium.com/@pauliusm)

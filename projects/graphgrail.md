@@ -4,7 +4,7 @@ Name: GraphGrail AI
 [Website](http://graphgrail.com/)  
 Year founded: 2014   
 Currency: GAI  
-Pre-ICO Start Date: 02 October 2017  
+Pre-ICO Start Date: 06 October 2017  
 ICO Start Date: 25 November 2017 (Preliminary)
 ## Staff
 Founder and CEO: [Victor Nosko](../people/victor_nosko.md)  
@@ -34,6 +34,7 @@ The ICO will sell between 50 and 500 million tokens. Minimum sold: $5,000,000
 Cap: $50,000,000
 1 GAI = $0.1
 ## Contacts
+[Github](https://github.com/GraphGrailAi)  
 [Bitcointalk EN](https://bitcointalk.org/index.php?topic=2040117)   
 [Bitcointalk RU](https://bitcointalk.org/index.php?topic=2016928)  
 [Facebook](https://www.facebook.com/graphgrailcom)  
@@ -45,9 +46,9 @@ Cap: $50,000,000
 [Spark Blog](https://spark.ru/startup/5265b5450fcfc)  
 [VK](https://vk.com/graphgrail)  
 ## About
-[GraphGrail's WhitePaper](http://graphgrail.com/sites/default/files/graphgrailai_whitepaper_en.pdf)  
+[GraphGrail's AI WhitePaper](http://graphgrail.com/sites/default/files/graphgrailai_whitepaper_en.pdf)  
 [GraphGrail Presentation](https://www.youtube.com/watch?v=J6HHo9spSG4)  
-[GraphGrail Alpha-release](http://engine.graphgrail.com/)
+[GraphGrail AI Alpha-release](http://engine.graphgrail.com/)  
 ## News
 [GraphGrail's AI pre-ICO reached the hardcap](../news/graphgrail_05-10-17.md)  
 [GraphGrail AI pre-ICO rescheduled](../news/graphgrail_28-09-17.md)  

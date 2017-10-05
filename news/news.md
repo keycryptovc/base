@@ -1,6 +1,6 @@
 # News
 ## 05 October 2017
-* [GraphGrail's AI pre-ICO reached the hardcap](graphgrail_05-10-17.md)
+* [GraphGrail AI pre-ICO reached the hardcap](graphgrail_05-10-17.md)
 
 ## 28 September 2017
 * [TenX Q3 Update: COMIT](tenx_28-09-17.md)

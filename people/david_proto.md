@@ -1,5 +1,5 @@
 ## Personal data
-![david proto photo](photo/david_proto.jpg)  
+![david proto photo](photo/david_proto.png)  
 Name:   David Proto  
 Location: Spain  
 ## Projects 

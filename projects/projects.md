@@ -314,6 +314,7 @@
 * [Synchrolife](synchrolife.md)
 * [SysCoin](syscoin.md)
 ## T
+* [TaaS](taas.md)
 * [TenX](tenx.md)
 * [Tether](tether.md)
 * [Tezos](tezos.md)

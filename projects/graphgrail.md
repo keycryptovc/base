@@ -49,4 +49,5 @@ Cap: $50,000,000
 [GraphGrail Presentation](https://www.youtube.com/watch?v=J6HHo9spSG4)  
 [GraphGrail Alpha-release](http://engine.graphgrail.com/)
 ## News
+[GraphGrail's AI pre-ICO reached the hardcap](../news/graphgrail_05-10-17.md)  
 [GraphGrail AI pre-ICO rescheduled](../news/graphgrail_28-09-17.md)  

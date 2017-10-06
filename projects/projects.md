@@ -156,6 +156,7 @@
 * [Hcash](hcash.md)
 * [Hero](hero.md)
 * [HireMatch](hirematch.md)
+* [Hive Project](hive.md)
 * [Honestis Network](honestis_network.md)
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)

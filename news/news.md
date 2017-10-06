@@ -1,4 +1,7 @@
 # News
+## 06 October 2017
+* [Updates on Bankera’s ICO](bankera_06-10-17.md)
+
 ## 28 September 2017
 * [TenX Q3 Update: COMIT](tenx_28-09-17.md)
 * [Exchanges Update: HitBTC opens NEO markets, NEO/ETH pair is now available on Binance](neo2_28-09-17.md)

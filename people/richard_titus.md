@@ -5,7 +5,7 @@ Location:  San Francisco Bay Area
 ## Projects 
 Name: [Snip](../projects/snip.md)   
 Position: Advisor  
-Name: [Hive Project](../projects/snip.md)  
+Name: [Hive Project](../projects/hive.md)  
 Position: Business and Strategy Advisor 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/rxdxt/)  

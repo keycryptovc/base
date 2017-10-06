@@ -17,6 +17,9 @@ Community Manager: [Gal Jakic](../people/gal_jakic.md)
 Finance Advisor: [Ugur Yildirim](../people/ugur_yildirim.md)  
 Business and Strategy Advisor: [Vasja Zupan](../people/vasja_zupan.md)  
 Business and Strategy Advisor: [Richard D. Titus](../people/richard_titus.md)  
+Blockchain Adviser: [Michael Terpin](../people/michael_terpin.md)  
+Blockchain auditing: [Tomislav Mucic](../people/tomislav_mucic.md)  
+Strategic adviser S.E. Asia / China: [Sebastian Quinn-Watson](../people/sebastian_watson.md)  
 Investor: [Tom Sperry](../people/tom_sperry.md) 
 ## Business Model
 Hive serves as a decentralized data room for all invoices submitted, each of which has a unique record for the issuer, owner and payer. These invoices can therefore be made available as a shared source of liquidity for factoring and invoice financing.  
@@ -43,6 +46,6 @@ infrastructure.
 [Telegram](https://t.me/hiveprojectnet)  
 [Reddit](https://www.reddit.com/r/HiveProject_net/)  
 ## About 
-[Hive Project WhitepPaper](https://www.hive-project.net/whitepapers/Hive_Project_Whitepaper.pdf?v2)
-[Interview With Domen Ursic](https://www.youtube.com/watch?v=XRhhBiE77vM)
+[Hive Project WhitepPaper](https://www.hive-project.net/whitepapers/Hive_Project_Whitepaper.pdf?v2)  
+[Interview With Domen Ursic](https://www.youtube.com/watch?v=XRhhBiE77vM)  
 ## News

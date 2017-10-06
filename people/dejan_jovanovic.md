@@ -3,7 +3,7 @@
 Name: Dejan Jovanovic  
 Location: Canada
 ## Projects 
-Name: [Hive Project](../projects/.md)  
+Name: [Hive Project](../projects/hive.md)  
 Position: CO-Founder and CTO 
 ## Contacts
 [Github](https://github.com/djovan)  

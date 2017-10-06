@@ -21,3 +21,4 @@ Lunyr is an Ethereum-based decentralized crowdsourced encyclopedia which rewards
 [GitHub](https://github.com/lunyr)  
 [Blog](https://medium.com/lunyr)  
 ## About   
+[WhitePaper](not available)

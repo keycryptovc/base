@@ -19,7 +19,20 @@ Business and Strategy Advisor: [Vasja Zupan](../people/vasja_zupan.md)
 Business and Strategy Advisor: [Richard D. Titus](../people/richard_titus.md)  
 Investor: [Tom Sperry](../people/tom_sperry.md) 
 ## Business Model
-
+Hive serves as a decentralized data room for all invoices submitted, each of which has a unique record for the issuer, owner and payer. These invoices can therefore be made available as a shared source of liquidity for factoring and invoice financing.  
+Hive provides an end-to-end platform that will give SMEs easy access to short-term financing by turning their
+accounts receivables into tradable assets. This is achieved by tokenizing and publishing each invoice to s
+blockchain in a secure matter, creating a whole new source of financing in the process. A new meta-market
+will be created, where factoring firm, banks, investment funds, insurance companies, P2P lenders and
+private investors can provide liquidity in accordance with their specific criteria and expected returns. 
+  
+A HVN token grants the token holder the right to claim right over invoices on the Hive platform and obtain
+credit scores for certain entities which have a sufficient financial track record on the Hive blockchain
+When, for example, a factor who is financing SME wants to claim ownership of invoice they financed and by that
+bought, they will need to pay HVN tokens to Hive foundation. Also when Credit Scoring company or auditor
+will request access to private in data on the blockchain, HVN tokens will be used to pay for access to that
+data. Hive foundation will resell tokens back to the market and use funds for financing of development of
+infrastructure.
 ## Contacts
 [GitHub](https://github.com/HiveProjectLTD)  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1959159.0)   

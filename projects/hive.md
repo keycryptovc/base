@@ -17,6 +17,7 @@ Community Manager: [Gal Jakic](../people/gal_jakic.md)
 Finance Advisor: [Ugur Yildirim](../people/ugur_yildirim.md)  
 Business and Strategy Advisor: [Vasja Zupan](../people/vasja_zupan.md)  
 Business and Strategy Advisor: [Richard D. Titus](../people/richard_titus.md)  
+Investor: [Tom Sperry](../people/tom_sperry.md) 
 ## Business Model
 
 ## Contacts

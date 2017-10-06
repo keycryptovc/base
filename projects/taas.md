@@ -22,5 +22,6 @@ TaaS is a tokenized closed-end fund designed to reduce risks and technical barri
 [Facebook](https://www.facebook.com/taasfund/)      
 [Blog](https://medium.com/@TaaS)  
 [Telegram](https://t.me/taasfund)
-## About    
+## About 
+[WhitePaper](https://static1.squarespace.com/static/597b4c7bc534a512fc86b5e5/t/59d4e80f46c3c43a9b25e28c/1507125267552/TaaS+Whitepaper+v.1.0.pdf)  
 [TaaS Audit Completed By Grant Thornton LLP, Given The All Clear](https://www.ethnews.com/taas-audit-completed-by-grant-thornton-llp-given-the-all-clear)

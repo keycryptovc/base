@@ -3,7 +3,7 @@
 Name: Tomislav Mucic  
 Location: Slovenia
 ## Projects 
-Name: [Hive project](../projects/hive.md)  
+Name: [Hive Project](../projects/hive.md)  
 Position: Blockchain auditing 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/tomislav-mu%C4%8Di%C4%8D-8486a7/)  

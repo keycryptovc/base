@@ -1,5 +1,5 @@
 ## Personal data
-![or demri photo](photo/or_demri.jpg)  
+![or demri photo](photo/or_demri.jpeg)  
 Name:   Or Demri  
 Location: Israel   
 ## Projects 

@@ -1,5 +1,5 @@
 ## Personal data
-![meir cohen photo](photo/meir_cohen.jpeg)  
+![meir cohen photo](photo/meir_cohen.jpg)  
 Name:   Meir Cohen  
 Location: Israel   
 ## Projects 

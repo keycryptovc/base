@@ -36,3 +36,5 @@ Tezos is a self-amending cryptographic ledger. It achieves consensus not just ab
 [Tezos Position Paper](https://www.tezos.com/static/papers/position_paper.pdf)  
 [Tezos Technical WhitePaper](https://www.tezos.com/static/papers/white_paper.pdf)  
 [Tezos Philosophy and Values](https://medium.com/tezos/tezos-philosophy-and-values-9297f308ae21)
+## News
+[Tezos Fundation had published monthly report](../news/tezos_02-10-17.md)  

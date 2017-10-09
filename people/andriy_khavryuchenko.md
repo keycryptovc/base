@@ -4,9 +4,11 @@ Name:     Andriy Khavryuchenko
 Location: Ukraine
 ## Projects 
 Name: [DMarket](../projects/dmarket.md)  
-Position: Blockchain architect  
+Position: Blockchain Architect  
 Name: [Dash](../projects/dash.md)  
-Position: Developer
+Position: Developer  
+Name: [DreamTeam](../projects/dreamteam.md)  
+Position: Blockchain Architect
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/akhavr/)    
 [Facebook](https://www.facebook.com/akhavr)

@@ -1,6 +1,7 @@
 # News
 ## 02 October 2017
 * [IOTA presented Flash Channels](iota_02-10-17.md)
+* [NEO Council released September Monthly Report](neo_02-10-17.md)
 * [Tezos Fundation had published monthly report](tezos_02-10-17.md)
 
 ## 28 September 2017

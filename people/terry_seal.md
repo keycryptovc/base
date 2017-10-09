@@ -3,7 +3,7 @@
 Name: Terry Seal    
 Location:  New York  
 ## Projects 
-Name: [Authoreon](../projects/Authoreon.md)  
+Name: [Authoreon](../projects/authoreon.md)  
 Position: Marketing & Branding Advisor  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/terryseal/)  

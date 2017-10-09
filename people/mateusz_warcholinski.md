@@ -3,7 +3,7 @@
 Name:  Mateusz Warcholinski  
 Location:  Munich Area, Germany  
 ## Projects 
-Name: [Authoreon](../projects/Authoreon.md)  
+Name: [Authoreon](../projects/authoreon.md)  
 Position: Technical Advisor  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/mwarcholinski/)  

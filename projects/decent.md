@@ -23,3 +23,5 @@ DECENT is a Decentralized Content Distribution Network that is Open-Source and u
 ## About
 [YouTube Channel](https://www.youtube.com/channel/UCnE-FABsvmnbbfkzNzwNDtg?guided_help_flow=3)  
 [DECENT Wiki](https://wiki.decent.ch/doku.php)  
+## News
+[The first major update of DECENT GO beta had been released](../news/decent_05-10-17.md)   

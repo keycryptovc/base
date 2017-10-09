@@ -210,6 +210,7 @@
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [Lordmancer II](lordmancer_II.md)
+* [Lunyr](lunyr.md)
 * [Luxico](luxico.md)
 * [Lydian](lydian.md)
 * [Lykke](lykke.md)

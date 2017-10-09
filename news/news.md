@@ -1,4 +1,7 @@
 # News
+## 03 October 2017
+* [Monetha had announced a partnership with the LandSpotter](monetha_03-10-17.md)
+
 ## 02 October 2017
 * [IOTA presented Flash Channels](iota_02-10-17.md)
 * [NEO Council released September Monthly Report](neo_02-10-17.md)

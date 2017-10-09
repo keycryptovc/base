@@ -2,13 +2,13 @@
 ![Auctus logo](../projects/logo/auctus.png)  
 Name: Auctus  
 [Website](https://auctus.org/)   
-Year founded: 2017 
-ICO Start: 14 Nov 2017
-End: 28 Nov 2017
+Year founded: 2017  
+ICO Start: 14 Nov 2017  
+End: 28 Nov 2017  
 Currency: token (AUC)	 
 ## Staff 
-Lead developer: [Felipe Silveira](../people/felipe_silveira.md)  
-Advisory and partnerships:  [Raphael Vantroost](../people/raphael_vantroost.md)  
+Lead developer: [Felipe Silveira](../people/felipe_silveira.md)   
+Advisory and partnerships:  [Raphael Vantroost](../people/raphael_vantroost.md)   
 Strategy:  [Vinicius Melo](../people/vinicius_melo.md)  
 Lead ethereum engineer:  [Ariny Guedes](../people/ariny_guedes.md)  
 Senior software engineer:  [Daniel Duarte](../people/daniel_duarte.md)  
@@ -23,7 +23,7 @@ The Auctus Project was created with the mission of improving the pension market 
 [Linkedin](https://www.linkedin.com/company/24996477/)  
 [Twitter](https://twitter.com/AuctusProject)      
 [Slack](https://auctus-project.slack.com/join/shared_invite/MjM5NTU3NTI5OTA5LTE1MDUxNTkxMjgtZWI2MDY3MGMxNQ)  
-[Medium](https://medium.com/auctus)
+[Medium](https://medium.com/auctus)  
 [Github](https://github.com/AuctusProject/)
 
   

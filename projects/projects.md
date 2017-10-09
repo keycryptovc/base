@@ -117,6 +117,7 @@
 * [EOS](eos.md)
 * [EQUI](equi.md)
 * [ETCH](etch.md)
+* [Ethbits](ethbits.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
 * [Ethereum.link](ethereum_link.md)

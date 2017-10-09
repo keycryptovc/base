@@ -1,4 +1,7 @@
 # News
+## 04 October 2017
+* [Red Pulse published NEO-GUI wallet and guide for the ICO participants](redpulse_04-10-17.md)
+
 ## 03 October 2017
 * [Metal team had annouced launch of the Metal Foundation](metal_03-10-17.md)
 * [Metal had published first development update](metal2_03-10-17.md)

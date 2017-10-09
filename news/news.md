@@ -1,5 +1,6 @@
 # News
 ## 05 October 2017
+* [GraphGrail AI pre-ICO reached the hardcap](graphgrail_05-10-17.md)
 * [The first major update of DECENT GO beta had been released](decent_05-10-17.md)
 
 ## 04 October 2017

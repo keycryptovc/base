@@ -1,9 +1,9 @@
 # News
 ## 05 October 2017
 * [GraphGrail AI pre-ICO reached the hardcap](graphgrail_05-10-17.md)
+* [The first major update of DECENT GO beta had been released](decent_05-10-17.md)
 
 ## 04 October 2017
-* [Stratis CEO realesed report on platform's development](stratis_04-10-17.md)
 * [Anton Golub presented Lykke at Blockchain-Life Conference](lykke_04-10-17.md)
 * [Red Pulse published NEO-GUI wallet and guide for the ICO participants](redpulse_04-10-17.md)
 

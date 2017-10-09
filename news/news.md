@@ -2,6 +2,9 @@
 ## 03 October 2017
 * [Monetha had announced a partnership with the LandSpotter](monetha_03-10-17.md)
 
+## 02 October 2017
+* [Tezos Fundation had published monthly report](tezos_02-10-17.md)
+
 ## 28 September 2017
 * [TenX Q3 Update: COMIT](tenx_28-09-17.md)
 * [Exchanges Update: HitBTC opens NEO markets, NEO/ETH pair is now available on Binance](neo2_28-09-17.md)

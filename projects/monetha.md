@@ -53,6 +53,7 @@ Fee structure:
 [YouTube Channel](https://www.youtube.com/channel/UCtFfGdY6Kfi7qpBsCIAVc9g)  
 [Announcing the hard cap and the total token supply](https://medium.com/@monetha/announcing-the-hard-cap-and-the-total-token-supply-699a6a7810cd)  
 ## News
+[Monetha had announced a partnership with the LandSpotter](../news/monetha_03-10-17.md)  
 [MTH token is listed on HitBTC exchange](../news/monetha_20-09-17.md)  
 [Monetha's team in going to onboard the major excahnges in 4 weeks after the ICO](../news/monetha_12-09-17.md)  
 [Monetha Signs Partnership with Leading Central European Food Delivery Company](../news/monetha_08-09-17.md)  

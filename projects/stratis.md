@@ -18,3 +18,5 @@ Founder:
 
 ## About 
 [Stratis review](https://steemit.com/crypto-news/@decentro/stratis-review-a-quick-guide-to-the-stratis-platform-and-market-outlook)
+## News 
+[Stratis CEO realesed report on platform's development](../news/stratis_04-10-17.md)  

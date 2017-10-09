@@ -1,4 +1,7 @@
 # News
+## 06 October 2017
+* [Updates on Bankera’s ICO](bankera_06-10-17.md)
+
 ## 05 October 2017
 * [Zcash get listed on the Bithumb and CEX.io](zcash_05-10-17.md)
 * [GraphGrail AI pre-ICO reached the hardcap](graphgrail_05-10-17.md)

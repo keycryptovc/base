@@ -16,4 +16,6 @@
    [Slack](https://metalpay.chat/)   
 ## About   
 Bitpay startup, one more payment processing system.
-
+## News   
+[Metal team had annouced launch of the Metal Foundation](../news/metal_03-10-17.md)  
+[Metal had published first development update](../news/metal2_03-10-17.md)  

@@ -29,7 +29,9 @@
 * [Augur](augur.md) 
 * [Avalon](avalon.md)
 * [Aventus](aventus.md) 
+* [Authoreon](authoreon.md)
 * [Auctus](auctus.md)  
+
 ## B
 * [Bancor](bancor.md)
 * [Bankera](bankera.md)

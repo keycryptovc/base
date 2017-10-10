@@ -49,3 +49,4 @@ infrastructure.
 [Hive Project WhitepPaper](https://www.hive-project.net/whitepapers/Hive_Project_Whitepaper.pdf?v2)  
 [Interview With Domen Ursic](https://www.youtube.com/watch?v=XRhhBiE77vM)  
 ## News
+[Hive Project introduced new CFO](../news/hive_10-10-17.md)

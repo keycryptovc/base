@@ -1,4 +1,7 @@
 # News
+## 10 October 2017
+* [Minerva's ICO update](mineva_10-10-17.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

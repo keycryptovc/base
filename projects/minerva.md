@@ -26,5 +26,6 @@ to accelerate the mainstream adoption of cryptocurrency and smart contracts.
 ## About
 [WhitePaper](https://minerva.com/whitepaper.pdf)
 ## News
+[Minerva's ICO update](../news/mineva_10-10-17.md)  
 [Minerva is looking for investors to join the Private Token Presale](../news/minerva_18-09-17.md)  
 [Jaron Lukasiewicz has come on board as Minerva's strategic advisor](../news/minerva_09-09-17.md)

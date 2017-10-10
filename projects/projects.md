@@ -311,6 +311,7 @@
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
 * [Spectiv](spectiv.md)
+* [Sphre](sphre.md)
 * [Stable](stable.md)  
 * [Starbase](starbase.md)
 * [Starta](starta.md)

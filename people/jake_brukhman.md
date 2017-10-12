@@ -1,5 +1,5 @@
 ## Personal data
-![jake brukhman photo](photo/jake_brukhman.jpeg)  
+![jake brukhman photo](photo/jake_brukhman.jpg)  
 Name:   Jake Brukhman  
 Location: USA   
 ## Projects 

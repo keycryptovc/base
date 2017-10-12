@@ -10,7 +10,7 @@ End: 24. Nov 2017
 CEO: [Miro Pavletic](../people/miro_pavletic.md)  
 COO: [Nicolas Dinh](../people/nicolas_dinh.md)  
 CFO: [Chad Leger](../people/chad_leger.md)  
-CTO: [Yervan Kulbashian](../people/yervan_kulbashian.md)  
+CTO: [Yervant Kulbashian](../people/yervant_kulbashian.md)  
 Blockchain Specialist: [Adam Lemmon](../people/adam_lemmon.md)  
 Advisor: [Chami Akmeemana](../people/chami_akmeemana.md)  
 Advisor: [Ethan Wilding](../people/ethan_wilding.md)  

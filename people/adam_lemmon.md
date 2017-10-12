@@ -10,10 +10,10 @@ Position: Blockchain Specialist
 [Twitter](https://twitter.com/adamjlemmon)  
 [Blog](https://medium.com/@adamjlemmon)
 ## About
-AREAS OF EXPERTISE   
-► Software Engineering   
-► Blockchain Development and Education  
-► Ethereum DApp Development  
-► Agile Product Management  
-► Product Design  
+Areas of expertise:   
+- Software Engineering   
+- Blockchain Development and Education  
+- Ethereum DApp Development  
+- Agile Product Management  
+- Product Design  
 

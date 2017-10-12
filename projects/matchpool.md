@@ -11,7 +11,9 @@ CTO: [Or Demri](../people/or_demri.md)
 Lead Web Developer: [Meir Cohen](../people/meir_cohen.md)  
 Advisor: [Gavin Wood](../people/gavin_wood.md)  
 Advisor: [Jake Brukhman](../people/jake_brukhman.md)  
-Advisor: [Ned Scott](../people/ned_scott.md)
+Advisor: [Ned Scott](../people/ned_scott.md)  
+Advisor: [Joe Shapira](../people/joe_shapira.md)  
+Advisor: [Hermione Way](../people/hermione_way.md)
 ## Business Model
 To make the world more synchronistic and connected within communities by creating a fair, incentivised based community platform that will enable anyone to open their own community inside the network. An internal reward mechanism will help facilitate connections in a positive way.
 ## Contacts  

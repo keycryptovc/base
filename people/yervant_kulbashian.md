@@ -1,5 +1,5 @@
 ## Personal data
-![yervant kulbashian photo](photo/yervant_kulbashian.jpg)  
+![yervant kulbashian photo](photo/yervant_kulbashian.png)  
 Name:   Yervant Kulbashian  
 Location: Canada  
 ## Projects 

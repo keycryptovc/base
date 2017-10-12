@@ -1,5 +1,5 @@
 ## Personal data
-![ethan wilding photo](photo/ethan_wilding.jpeg)  
+![ethan wilding photo](photo/ethan_wilding.jpg)  
 Name:   Ethan Wilding  
 Location: Canada  
 ## Projects 

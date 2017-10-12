@@ -1,4 +1,26 @@
 # News
+## 06 October 2017
+* [Updates on Bankera’s ICO](bankera_06-10-17.md)
+
+## 05 October 2017
+* [Zcash get listed on the Bithumb and CEX.io](zcash_05-10-17.md)
+* [GraphGrail AI pre-ICO reached the hardcap](graphgrail_05-10-17.md)
+* [The first major update of DECENT GO beta had been released](decent_05-10-17.md)
+
+## 04 October 2017
+* [Anton Golub presented Lykke at Blockchain-Life Conference](lykke_04-10-17.md)
+* [Red Pulse published NEO-GUI wallet and guide for the ICO participants](redpulse_04-10-17.md)
+
+## 03 October 2017
+* [Metal team had annouced launch of the Metal Foundation](metal_03-10-17.md)
+* [Metal had published first development update](metal2_03-10-17.md)
+* [Monetha had announced a partnership with the LandSpotter](monetha_03-10-17.md)
+
+## 02 October 2017
+* [IOTA presented Flash Channels](iota_02-10-17.md)
+* [NEO Council released September Monthly Report](neo_02-10-17.md)
+* [Tezos Fundation had published monthly report](tezos_02-10-17.md)
+
 ## 28 September 2017
 * [TenX Q3 Update: COMIT](tenx_28-09-17.md)
 * [Exchanges Update: HitBTC opens NEO markets, NEO/ETH pair is now available on Binance](neo2_28-09-17.md)

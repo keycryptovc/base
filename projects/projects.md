@@ -29,6 +29,9 @@
 * [Augur](augur.md) 
 * [Avalon](avalon.md)
 * [Aventus](aventus.md) 
+* [Authoreon](authoreon.md)
+* [Auctus](auctus.md)  
+
 ## B
 * [Bancor](bancor.md)
 * [Bankera](bankera.md)
@@ -77,6 +80,7 @@
 * [COMSA](comsa.md)
 * [CORION Platform](corion_platform.md)
 * [Counterparty](counterparty.md)
+* [Creativechain](creativechain.md)
 * [Crowdholding](crowdholding.md)
 * [Crown](crown.md)
 * [CryptoABS](cryptoabs.md)
@@ -91,6 +95,7 @@
 * [Decentraland](decentraland.md)
 * [Decentralized Escrow](decentralized_escrow.md)
 * [DeCred](decred.md)
+* [Dentacoin](dentacoin.md)
 * [DentalFix](dentalfix.md)
 * [DigiByte](digibyte.md)
 * [DigiPulse](digipulse.md)
@@ -116,6 +121,7 @@
 * [EOS](eos.md)
 * [EQUI](equi.md)
 * [ETCH](etch.md)
+* [Ethbits](ethbits.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
 * [Ethereum.link](ethereum_link.md)
@@ -126,6 +132,7 @@
 * [ETHLend](ethlend.md)
 * [Everex](everex.md)
 * [Exchange Union](exchange_union.md)
+* [Exscudo](exscudo.md)
 
 ## F
 * [Factom](factom.md) 
@@ -203,6 +210,7 @@
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [Lordmancer II](lordmancer_II.md)
+* [Lunyr](lunyr.md)
 * [Luxico](luxico.md)
 * [Lydian](lydian.md)
 * [Lykke](lykke.md)
@@ -224,6 +232,7 @@
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
 * [Monetha](monetha.md)
+* [Mysterium Network](mysterium_network.md)
 * [Mondo](mondo.md)
 ## N
 * [Namecoin](namecoin.md)
@@ -235,6 +244,7 @@
 * [NEO](neo.md)
 * [Nexus](nexus.md)
 * [Nimfamoney](nimfamoney.md)
+* [Nimiq Network](nimiq_network.md)
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O
@@ -303,6 +313,7 @@
 * [Soundchain](soundchain.md)
 * [Spankstream](spankstream.md)
 * [Spectiv](spectiv.md)
+* [Sphre](sphre.md)
 * [Stable](stable.md)  
 * [Starbase](starbase.md)
 * [Starta](starta.md)
@@ -317,15 +328,18 @@
 * [Synchrolife](synchrolife.md)
 * [SysCoin](syscoin.md)
 ## T
+* [TaaS](taas.md)
 * [TenX](tenx.md)
 * [Tether](tether.md)
 * [Tezos](tezos.md)
 * [Tierion](tierion.md)
-* [Ties Network](ties_network.md) 
+* [Ties Network](ties_network.md)
+* [TokenCard](tokencard.md)
 * [TokenStars](tokenstars.md) 
 * [TokenStub](tokenstub.md)
 * [Tomahawkcoin](tomahawkcoin.md) 
 * [Trackr](trackr.md)
+* [TrueBit](truebit.md)
 ## U
 * [Ubiq](ubiq.md)
 * [Umbrella Coin](umbrellacoin.md)

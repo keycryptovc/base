@@ -9,7 +9,9 @@ Position: CEO & Blockchain Architect
 [LinkedIn](https://www.linkedin.com/in/ruslan-kamenskiy/)      
 [Facebook](https://www.facebook.com/profile.php?id=100009612768881)
 ## About
-Blockchain software developer with more than 7 years of production experience in financial projects.  
+Ruslan Kamenskiy is a financial software developer with more than seven years of
+experience. He developed a trading system for the stock exchange “Saint Petersburg”, was head of the software
+department of a financial broker company, and implemented HFT strategies for the hedge fund.    
 Prizewinner and participant of the following hackatons:  
 -Hackrussia.ru (Finance and Blockchain)  
 -EPAM HackDay 2016  

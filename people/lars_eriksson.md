@@ -1,5 +1,5 @@
 ## Personal data
-![lars eriksson photo](photo/lars_eriksson.png)  
+![lars eriksson photo](photo/lars_eriksson.jpg)  
 Name:   Lars Eriksson  
 Location: Sweden   
 ## Projects 

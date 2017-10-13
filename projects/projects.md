@@ -298,6 +298,7 @@
 * [ShapeShift](shapeshift.md)
 * [Sia](sia.md)
 * [Sibcoin](sibcoin.md)
+* [SimplyVital Health](simplyvital_health.md)
 * [SingularDTV](singulardtv.md)
 * [Skycoin](skycoin.md)
 * [Smart Investment Fund Token](smart_investment_fund_token.md)

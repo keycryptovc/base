@@ -1,4 +1,7 @@
 # News
+## 11 October 2017
+* [Fluence tokensale shifts to the Q1 2018](fluence_11-10-17.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

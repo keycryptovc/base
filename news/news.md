@@ -1,4 +1,7 @@
 # News
+## 11 October 2017
+* [Zilla announced changes in the total token supply and allocation structure](zilla_11-10-17.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

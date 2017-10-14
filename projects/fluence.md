@@ -30,3 +30,5 @@ There are a total of 6,000,000 FLU tokens available during the pre-sale and the 
 ## About
 [Business WhitePaper](https://drive.google.com/file/d/0B07gyODhPstQWjVLMlkyVjRZVE0/view)  
 [Technical WhitePaper](https://drive.google.com/file/d/0B07gyODhPstQNzFoZHBoVFdyMzA/view)
+## News
+[Fluence tokensale shifts to the Q1 2018](../news/fluence_11-10-17.md)

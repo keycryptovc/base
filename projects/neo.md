@@ -16,7 +16,7 @@
 ## About
 Antshares is the first Chinese blockchain project [raised](http://www.financemagnates.com/cryptocurrency/innovation/antshares-blockchain-completes-ico-securing-4-5m-and-microsoft-partnership/) 4.5M$ at ICO. Antshares initiated a [rebranding](https://neo.org/ru-RU/Blog/Details/61) to NEO at 27th of June.
 ## News
-[City of Zion announced Neon Meta Exchange (NEX)](neo_12-10-17.md)  
+[City of Zion announced Neon Meta Exchange (NEX)](../news/neo_12-10-17.md)  
 [NEO Council released September Monthly Report](../news/neo_02-10-17.md)  
 [Exchanges Update: HitBTC opens NEO markets, NEO/ETH pair is now available on Binance](../news/neo2_28-09-17.md)  
 [Morpheus wallet will allow users to send and receive NEO/GAS for free](../news/neo_28-09-17.md)  

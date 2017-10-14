@@ -1,4 +1,7 @@
 # News
+## 13 October 2017
+* [ICON scheduled KYC process](icon_13-10-17.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

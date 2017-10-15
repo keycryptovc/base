@@ -1,4 +1,7 @@
 # News
+## 12 October 2017
+* [District0x_Network published Q3 2017 Report](district0x_12-10-17.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

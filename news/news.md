@@ -1,4 +1,7 @@
 # News
+## 12 October 2017
+* [First Kyber Network progress update post-token sale](kybernetwork_12-10-17.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

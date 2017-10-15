@@ -25,3 +25,5 @@ bulletin board application. All districts provide the following baseline functio
 [Reddit](https://www.reddit.com/r/district0x/)  
 ## About 
 [District0x WhitePaper](https://district0x.io/docs/district0x-whitepaper.pdf)  
+## News
+[DNT token is listed on Bittrex](../news/district0x_15-10-17.md)  

@@ -1,4 +1,7 @@
 # News
+## 09 October 2017
+* [AirSwap releases roadmap](airswap-09-10-2017.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

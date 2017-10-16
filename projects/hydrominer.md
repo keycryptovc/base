@@ -17,7 +17,7 @@ Advisor: [Michael Marcovici](../people/michael_marcovici.md)
 Advisor: [Michele Roscelli](../people/michele_roscelli.md)  
 Advisor: [Sascha Dennstedt](../people/sascha_dennstedt.md)  
 ICO Advisor: [Simon Cocking](../people/simon_cocking.md)  
-Advisor: [Raphael Beaumond](../people/raphael_beaumond.md)
+ICO Advisor: [Raphael Beaumond](../people/raphael_beaumond.md)
 ## Business Model
 HydroMiner is a revolutionary project that empowers small investors to join and invest in cryptocurrency mining by utilizing green-energy! They aim to build next-generation mining facilities and to enable investors join such opportunities not possible until now! Hydropower is generally thought to be one of the most effective and lowest-cost renewable energy resources. By renting out hydro power stations in the Alps and buying GPUs en masse, HydroMiner is able to offer return on investment rates nobody in cryptocurrency field is ever made possible.
 ## Contacts  

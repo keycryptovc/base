@@ -1,4 +1,7 @@
 # News
+## 15 October 2017
+* [Burning of Excess Kyber Network's Tokens](kybernetwork_15-10-17.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

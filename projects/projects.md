@@ -167,7 +167,8 @@
 * [Honestis Network](honestis_network.md)
 * [Hubii Network](hubii.md)
 * [Humaniq](humaniq.md)
-* [Hut34 Project](hut34_project.md) 
+* [Hut34 Project](hut34_project.md)
+* [HydroMiner](hydrominer.md)
 * [HyperQuant](hyperquant.md)
 ## I
 * [ICON](icon.md)

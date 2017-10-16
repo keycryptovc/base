@@ -1,4 +1,7 @@
 # News
+## 16 October 2017
+* [Bankera project progress update](bankera_16-10-17.md)
+
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)
 

@@ -24,5 +24,6 @@ bulletin board application. All districts provide the following baseline functio
 [Slack](https://district0x-slack.herokuapp.com/)  
 [Reddit](https://www.reddit.com/r/district0x/)  
 ## About 
-[Name Bazaar district development update](../news/district0x_17-10-17.md)  
 [District0x WhitePaper](https://district0x.io/docs/district0x-whitepaper.pdf)  
+## News 
+[Name Bazaar district development update](../news/district0x_17-10-17.md)  

@@ -2,10 +2,10 @@
 ![AirSwap logo](../projects/logo/airswap.png)  
 Name: AirSwap
 [Website](https://www.airswap.io/)   
-Year founded:  2017
-ICO Start: October 10 2017
-End: October 11 2017 
-Currency: token (AST)	 
+Year founded:  2017  
+ICO Start: October 10 2017  
+End: October 11 2017  
+Currency: token (AST)	  
 ## Staff 
 Founder: [Michael Oved](../people/michael_oved.md)  
 Founder: [Don Mosites](../people/don_mosites.md)  

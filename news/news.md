@@ -1,5 +1,6 @@
 # News
 ## 10 October 2017
+* [RippleNet Grows to More Than 100 Financial Institutions](ripple_10-10-17.md)
 * [Altcoin Exchange Performs First Atomic Swap Between Bitcoin and Ethereum](altcoin_exchange_10-10-17.md)
 * [Hive Project introduced new CFO](hive_10-10-17.md)
 

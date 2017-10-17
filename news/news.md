@@ -1,5 +1,6 @@
 # News
 ## 11 October 2017
+* [Zilla announced changes in the total token supply and allocation structure](zilla_11-10-17.md)
 * [BitFlyer Adds Monacoin](monacoin_11-10-17.md)
 * [Fluence tokensale shifts to the Q1 2018](fluence_11-10-17.md)
 

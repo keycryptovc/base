@@ -6,7 +6,9 @@ Location: UK
 Name: [Ethereum](../projects/ethereum.md)  
 Position: Co-founder  
 Name: [Ambrosus](../projects/ambrosus.md)  
-Position: Technical Advisor
+Position: Technical Advisor  
+Name: [Matchpool](../projects/matchpool.md)  
+Position: Advisor
 ## Contacts
 [Github](https://github.com/gavofyork)  
 [LinkedIn](https://uk.linkedin.com/pub/gavin-wood/16/433/888)  

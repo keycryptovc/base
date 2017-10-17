@@ -4,7 +4,9 @@ Name:   Alex Bessonov
 Location: USA  
 ## Projects 
 Name: [BitClave](../projects/bitclave.md)  
-Position: CEO   
+Position: CEO  
+Name: [SimplyVital Health](../projects/simplyvital_health.md)  
+Position: Blockchain Advisor 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/abessonov/)    
 [Twitter](https://twitter.com/albessonov)  

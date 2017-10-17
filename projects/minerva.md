@@ -4,7 +4,7 @@ Name: Minerva
 [Website](https://minerva.com/)  
 Year founded: 2017  
 Currency: OWL   
-ICO Start Date: 06 October 2017
+ICO Start Date: TBA
 ## Staff
 Co-Founder, CEO: [Kevin McSheehan](../people/kevin_mcsheehan.md)  
 Co-Founder, CTO: [Corey Jackson](../people/corey_jackson.md)  
@@ -26,5 +26,6 @@ to accelerate the mainstream adoption of cryptocurrency and smart contracts.
 ## About
 [WhitePaper](https://minerva.com/whitepaper.pdf)
 ## News
+[Minerva's ICO update](../news/mineva_10-10-17.md)  
 [Minerva is looking for investors to join the Private Token Presale](../news/minerva_18-09-17.md)  
 [Jaron Lukasiewicz has come on board as Minerva's strategic advisor](../news/minerva_09-09-17.md)

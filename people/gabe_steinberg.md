@@ -4,7 +4,7 @@ Name:   Gabe Steinberg
 Location: USA  
 ## Projects 
 Name: [Gizer](../projects/gizer.md)  
-Position: Product Development   
+Position: Co-Founder & Product Development   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/gabesteinberg/)    
 ## About

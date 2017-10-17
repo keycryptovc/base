@@ -1,4 +1,7 @@
 # News
+## 17 October 2017
+* [Stellar will work with IBM and KlickEx to develop Cross-Border Payment System](stellar_17-10-17.md)
+
 ## 11 October 2017
 * [Zilla announced changes in the total token supply and allocation structure](zilla_11-10-17.md)
 * [BitFlyer Adds Monacoin](monacoin_11-10-17.md)

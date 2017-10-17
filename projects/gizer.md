@@ -8,8 +8,8 @@ ICO: Start: 20. Oct 2017
 End: 30. Nov 2017
 ## Staff
 CEO: [Jack Lamir](../people/jack_lamir.md)  
-Product Development: [Gabe Steinberg](../people/gabe_steinberg.md)  
-Business Development: [Jonathan Kerstein](../people/jonathan_kerstein.md)  
+Co-Founder & Product Development: [Gabe Steinberg](../people/gabe_steinberg.md)  
+Co-Founder & Business Development: [Jonathan Kerstein](../people/jonathan_kerstein.md)  
 Data Modeling: [Felix Dragoi](../people/felix_dragoi.md)  
 Security and Backend Development: [Saad Malik](../people/saad_malik.md)  
 Sale Advisory: [Suleyman Duyar](../people/suleyman_duyar.md)  

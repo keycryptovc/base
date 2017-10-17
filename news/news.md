@@ -1,7 +1,10 @@
 # News
 ## 10 October 2017
-* [bitJob Partners With imToken Wallet, EtherDelta Decentralized Exchange and BitcoinBrains ATM Canada](bitjob-09-10-2017.md)
+* [Altcoin Exchange Performs First Atomic Swap Between Bitcoin and Ethereum](altcoin_exchange_10-10-17.md)
 * [Hive Project introduced new CFO](hive_10-10-17.md)
+
+## 09 October 2017
+* [bitJob Partners With imToken Wallet, EtherDelta Decentralized Exchange and BitcoinBrains ATM Canada](bitjob-09-10-2017.md)
 
 ## 06 October 2017
 * [Updates on Bankera’s ICO](bankera_06-10-17.md)

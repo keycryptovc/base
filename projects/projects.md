@@ -149,6 +149,7 @@
 * [GameCredits](gamecredits.md)
 * [Gilgam.es](gilgames.md)
 * [Gimli](gimli.md)
+* [Globitex](globitex.md)
 * [Gluon](gluon.md)
 * [Gnosis](gnosis.md)
 * [Godzillion](godzillion.md)

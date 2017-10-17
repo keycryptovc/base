@@ -1,6 +1,7 @@
 # News
 ## 11 October 2017
 * [BitFlyer Adds Monacoin](monacoin_11-10-17.md)
+* [Fluence tokensale shifts to the Q1 2018](fluence_11-10-17.md)
 
 ## 10 October 2017
 * [Minerva's ICO update](mineva_10-10-17.md)

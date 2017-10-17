@@ -24,4 +24,5 @@ Blog: [Stellar](https://www.stellar.org/blog/)
 [Forum #1](https://www.mystellar.org/portal.php)  
 [Forum #2](https://galactictalk.org/)  
 ## News
+[Stellar will work with IBM and KlickEx to develop Cross-Border Payment System](../news/stellar_17-10-17.md)  
 [Stellar have published research paper on ICOs](../news/stellar_21-09-17.md)

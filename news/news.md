@@ -1,4 +1,7 @@
 # News
+## 11 October 2017
+* [Fluence tokensale shifts to the Q1 2018](fluence_11-10-17.md)
+
 ## 10 October 2017
 * [Minerva's ICO update](mineva_10-10-17.md)
 * [RippleNet Grows to More Than 100 Financial Institutions](ripple_10-10-17.md)

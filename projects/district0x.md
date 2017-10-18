@@ -26,4 +26,4 @@ bulletin board application. All districts provide the following baseline functio
 ## About 
 [District0x WhitePaper](https://district0x.io/docs/district0x-whitepaper.pdf)  
 ## News 
-[District0x launched contest to support release of Name Bazaar](district0x_18-10-17.md)  
+[District0x launched contest to support release of Name Bazaar](../news/district0x_18-10-17.md)  

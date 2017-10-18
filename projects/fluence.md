@@ -5,7 +5,7 @@ Name: Fluence
 Year founded: 2017   
 Currency: FLU Token (tradable), FFT Token (Functional)   
 Pre-ICO: 14 August - 4 September  
-ICO: Q4 2017  
+ICO: Q1 2018 (TBA)  
 ## Staff
 Co-Founder: [Evgeny Ponomarev](../people/evgeny_ponomarev.md)  
 Co-Founder: [Dmitry Kurinskiy](../people/dmitry_kurinskiy.md)  
@@ -30,3 +30,5 @@ There are a total of 6,000,000 FLU tokens available during the pre-sale and the 
 ## About
 [Business WhitePaper](https://drive.google.com/file/d/0B07gyODhPstQWjVLMlkyVjRZVE0/view)  
 [Technical WhitePaper](https://drive.google.com/file/d/0B07gyODhPstQNzFoZHBoVFdyMzA/view)
+## News
+[Fluence tokensale shifts to the Q1 2018](../news/fluence_11-10-17.md)

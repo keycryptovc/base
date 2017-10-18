@@ -1,4 +1,7 @@
 # News
+## 18 October 2017
+* [Kucoin exchange is distributing GAS to NEO holders daily](neo_18-10-17.md)
+
 ## 12 October 2017
 * [City of Zion announced Neon Meta Exchange (NEX)](neo_12-10-17.md)
 

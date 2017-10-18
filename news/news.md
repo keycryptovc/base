@@ -1,4 +1,7 @@
 # News
+## 18 October 2017
+* [District0x launched contest to support release of Name Bazaar](district0x_18-10-17.md)
+
 ## 11 October 2017
 * [Zilla announced changes in the total token supply and allocation structure](zilla_11-10-17.md)
 * [BitFlyer Adds Monacoin](monacoin_11-10-17.md)

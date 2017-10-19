@@ -26,3 +26,4 @@ Various blockchains can communicate with each other through the ICON platform. B
 ## About
 [ICON's WhitePaper](http://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf)
 ## News
+[ICON scheduled KYC process](../news/icon_13-10-17.md)

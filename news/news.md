@@ -2,7 +2,12 @@
 ## 15 October 2017
 * [DNT token is listed on Bittrex](district0x_15-10-17.md)
 
+## 13 October 2017
+* [ICON scheduled KYC process](icon_13-10-17.md)
+* [50MM NEO tokens will be unlocked on Oct 16th](neo_13-10-17.md)
+
 ## 12 October 2017
+* [First Kyber Network progress update post-token sale](kybernetwork_12-10-17.md)
 * [City of Zion announced Neon Meta Exchange (NEX)](neo_12-10-17.md)
 
 ## 11 October 2017

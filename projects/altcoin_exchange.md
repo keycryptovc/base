@@ -27,3 +27,4 @@ Altcoin Exchange was founded to provide the world with the most trusted altcoin 
 [Altcoin Exchange Preview](http://preview.altcoinexchange.com/)  
 [Altcoin Exchange User Suggestions](https://feedback.altcoinexchange.com/)
 ## News
+[Altcoin Exchange Performs First Atomic Swap Between Bitcoin and Ethereum](../news/altcoin_exchange_10-10-17.md)

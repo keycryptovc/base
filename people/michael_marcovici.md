@@ -4,7 +4,9 @@ Name:   Michael Marcovici
 Location: Austria  
 ## Projects 
 Name: [Digital Developers Fund](../projects/digital_developers_fund.md)  
-Position: Managing Director   
+Position: Managing Director  
+Name: [HydroMiner](../projects/hydrominer.md)  
+Position: Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/michael-marcovici-aa963614/)    
 [Twitter](https://twitter.com/domaindevfund)  

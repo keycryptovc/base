@@ -5,6 +5,8 @@ Location:USA
 ## Projects  
 Name: [Steem](../projects/steem.md)  
 Position: Founder and CEO  
+Name: [Matchpool](../projects/matchpool.md)  
+Position: Advisor
 ## Contacts  
 [LinkedIn](https://www.linkedin.com/in/nedscott)   
 [Twitter](https://twitter.com/certainassets)  

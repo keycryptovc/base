@@ -333,6 +333,7 @@
 * [Storm](storm.md)
 * [Stratis](stratis.md)
 * [Streamr](streamr.md)
+* [Synapse AI](synapse_ai.md)
 * [Synchrolife](synchrolife.md)
 * [SysCoin](syscoin.md)
 ## T

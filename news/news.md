@@ -1,6 +1,7 @@
 # News
 ## 15 October 2017
 * [Burning of Excess Kyber Network's Tokens](kybernetwork_15-10-17.md)
+* [DNT token is listed on Bittrex](district0x_15-10-17.md)
 
 ## 13 October 2017
 * [ICON scheduled KYC process](icon_13-10-17.md)

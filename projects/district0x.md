@@ -27,3 +27,6 @@ bulletin board application. All districts provide the following baseline functio
 [District0x WhitePaper](https://district0x.io/docs/district0x-whitepaper.pdf)  
 ## News 
 [Name Bazaar district development update](../news/district0x_17-10-17.md)  
+[DNT token is listed on Bittrex](../news/district0x_15-10-17.md)  
+[District0x_Network published Q3 2017 Report](../news/district0x_12-10-17.md)  
+

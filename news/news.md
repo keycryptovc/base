@@ -1,11 +1,14 @@
 # News
+
+## 18 October 2017
+* [District0x launched contest to support release of Name Bazaar](district0x_18-10-17.md)
+
 ## 17 October 2017
 * [Lykke Vanuatu announced partnership with Binary.com](lykke_17-10-17.md)
 * [Stellar will work with IBM and KlickEx to develop Cross-Border Payment System](stellar_17-10-17.md)
 * [Name Bazaar district development update](district0x_17-10-17.md)
 
 ## 16 October 2017
-
 * [UTrust ICO details](utrust_16-10-17.md)
 * [PIVX launched Zerocoin Protocol](pivx_16-10-17.md)
 

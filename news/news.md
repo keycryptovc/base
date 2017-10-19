@@ -1,5 +1,7 @@
 # News
 ## 16 October 2017
+
+* [UTrust ICO details](utrust_16-10-17.md)
 * [PIVX launched Zerocoin Protocol](pivx_16-10-17.md)
 
 ## 16 October 2017

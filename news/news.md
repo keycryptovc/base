@@ -1,6 +1,6 @@
 # News
-
- ## 17 October 2017
+## 17 October 2017
+* [Stellar will work with IBM and KlickEx to develop Cross-Border Payment System](stellar_17-10-17.md)
 * [Name Bazaar district development update](district0x_17-10-17.md)
 
 ## 16 October 2017

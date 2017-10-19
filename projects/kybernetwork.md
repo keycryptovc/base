@@ -29,5 +29,7 @@ APIs that will allow Ethereum accounts to easily receive payments from any crypt
 ## About
 [WhitePaper](https://kyber.network/assets/KyberNetworkWhitepaper.pdf)  
 ## News
+[Burning of Excess Kyber Network's Tokens](../news/kybernetwork_15-10-17.md)  
+[KyberNetwork ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)  
 [First Kyber Network progress update post-token sale](../news/kybernetwork_12-10-17.md)  
 [Kyber Network ICO Bans All Chinese Nationals and Citizens From Participating](kyber-11-09-2017.md)

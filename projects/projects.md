@@ -151,6 +151,7 @@
 * [Genesis Vision](genesis_vision.md)
 * [Gilgam.es](gilgames.md)
 * [Gimli](gimli.md)
+* [Gizer](gizer.md)
 * [Globitex](globitex.md)
 * [Gluon](gluon.md)
 * [Gnosis](gnosis.md)
@@ -332,6 +333,7 @@
 * [Storm](storm.md)
 * [Stratis](stratis.md)
 * [Streamr](streamr.md)
+* [Synapse AI](synapse_ai.md)
 * [Synchrolife](synchrolife.md)
 * [SysCoin](syscoin.md)
 ## T

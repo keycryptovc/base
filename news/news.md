@@ -1,14 +1,12 @@
 # News
 ## 13 October 2017
-
 * [ICON scheduled KYC process](icon_13-10-17.md)
-
 * [50MM NEO tokens will be unlocked on Oct 16th](neo_13-10-17.md)
-
 
 ## 12 October 2017
 * [First Kyber Network progress update post-token sale](kybernetwork_12-10-17.md)
 * [City of Zion announced Neon Meta Exchange (NEX)](neo_12-10-17.md)
+* [District0x Network published Q3 2017 Report](district0x_12-10-17.md)
 
 ## 11 October 2017
 * [Zilla announced changes in the total token supply and allocation structure](zilla_11-10-17.md)

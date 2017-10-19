@@ -22,3 +22,5 @@ bitJob will deploy blockchain technology in the global student community. Blockc
 [Blog](https://medium.com/bitjob)  
 ## About 
 [WhitePaper](https://drive.google.com/file/d/0B6VVmGzOdFPBSlBjZlhFaGJnbUk/view)  
+## News
+[bitJob Partners With imToken Wallet, EtherDelta Decentralized Exchange and BitcoinBrains ATM Canada](../news/bitjob-09-10-2017.md)

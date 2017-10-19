@@ -35,5 +35,6 @@ As a traditional bank, Bankera's services fit into three groups: payments, loans
 ## About 
 [Whitepaper](http://bankera.com/Bankera_whitepaper.pdf)  
 ## News 
+[Bankera project progress update](../news/bankera_16-10-17.md)  
 [Updates on Bankera’s ICO](../news/bankera_06-10-17.md)  
 [Bankera  has paid the first shared transactional revenue to the token holders](../news/bankera_06-09-17.md)  

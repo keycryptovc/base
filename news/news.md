@@ -1,4 +1,8 @@
 # News
+
+## 16 October 2017
+* [Bankera project progress update](bankera_16-10-17.md)
+
 ## 15 October 2017
 * [Burning of Excess Kyber Network's Tokens](kybernetwork_15-10-17.md)
 * [DNT token is listed on Bittrex](district0x_15-10-17.md)

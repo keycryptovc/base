@@ -32,3 +32,4 @@ Token issuers who launch an ICO crowdsale on ZILLA will be charged 2% of funds r
 ## About
 [Zilla's WhitePaper](https://zla.io/assets/landingpage/docs/ZILLA_White_Paper_en.pdf)  
 ## News
+[Zilla announced changes in the total token supply and allocation structure](../news/zilla_11-10-17.md)

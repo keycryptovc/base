@@ -1,5 +1,5 @@
 ## Personal data
-![mark oei photo](photo/mark_oei.jpg)  
+![mark oei photo](photo/mark_oei.png)  
 Name:   Mark Oei  
 Location: USA  
 ## Projects 

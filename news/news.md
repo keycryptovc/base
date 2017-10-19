@@ -1,6 +1,10 @@
 # News
 ## 13 October 2017
+
+* [ICON scheduled KYC process](icon_13-10-17.md)
+
 * [50MM NEO tokens will be unlocked on Oct 16th](neo_13-10-17.md)
+
 
 ## 12 October 2017
 * [City of Zion announced Neon Meta Exchange (NEX)](neo_12-10-17.md)

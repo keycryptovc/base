@@ -1,4 +1,6 @@
 # News
+## 16 October 2017
+* [PIVX launched Zerocoin Protocol](pivx_16-10-17.md)
 
 ## 16 October 2017
 * [Bankera project progress update](bankera_16-10-17.md)

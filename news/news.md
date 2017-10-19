@@ -1,6 +1,9 @@
 # News
 
 ## 18 October 2017
+* [Kucoin exchange is distributing GAS to NEO holders daily](neo_18-10-17.md)
+
+## 18 October 2017
 * [Change token sale results](change_18-10-17.md)
 
 ## 18 October 2017

@@ -1,4 +1,7 @@
 # News
+## 15 October 2017
+* [DNT token is listed on Bittrex](district0x_15-10-17.md)
+
 ## 13 October 2017
 * [ICON scheduled KYC process](icon_13-10-17.md)
 * [50MM NEO tokens will be unlocked on Oct 16th](neo_13-10-17.md)

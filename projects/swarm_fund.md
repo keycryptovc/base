@@ -7,8 +7,9 @@ Currency: SWARM
 ICO: Start: 21. Oct 2017  
 End: 27. Oct 2017
 ## Staff
-Co-founder: [Philipp Pieper](../people/philipp_pieper.md)  
-Co-founder: [Joel Dietz](../people/joel_dietz.md)  
+Co-founder & Partner: [Philipp Pieper](../people/philipp_pieper.md)  
+Co-founder & Partner: [Joel Dietz](../people/joel_dietz.md)  
+Co-founder & Partner: [Timo Lehes](../people/timo_lehes.md)  
 Legal & CO-OP Advisor: [Houman Shadab](../people/houman_shadab.md)  
 Capital Market Advisor: [Mark Oei](../people/mark_oei.md)  
 Technology Advisor: [Gustav Simonsson](../people/gustav_simonsson.md)  

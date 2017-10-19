@@ -24,4 +24,4 @@ Swarm Fund is a fully decentralized capital market place that democratizes inves
 [Blog](https://blog.swarm.fund/)  
 [Telegram](https://t.me/joinchat/AAAAAEMPAz9QWYGPz4dDkA)
 ## About  
-[WhitePaper](https://indd.adobe.com/view/baed8d22-35a5-46d4-a730-8bcd04abd808) 
+[WhitePaper](https://swarmfund.blob.core.windows.net/swarmassets/swarm-whitepaper-v081.pdf) 

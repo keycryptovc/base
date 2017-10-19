@@ -1,4 +1,8 @@
 # News
+
+ ## 17 October 2017
+* [Name Bazaar district development update](district0x_17-10-17.md)
+
 ## 16 October 2017
 
 * [UTrust ICO details](utrust_16-10-17.md)

@@ -6,7 +6,9 @@ Location: Canada
 Name: [bitJob](../projects/bitjob.md)  
 Position: Co-founder & CTO  
 Name: [PayPie](../projects/paypie.md)  
-Position: Blockchain Expert
+Position: Blockchain Expert  
+Name: [Swarm Fund](../projects/swarm_fund.md)  
+Position: Technical Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/bogdanfiedur/)    
 [Facebook](https://www.facebook.com/bogdan.fiedur)  

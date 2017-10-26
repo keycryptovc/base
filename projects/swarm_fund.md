@@ -13,7 +13,8 @@ Co-founder & Partner: [Timo Lehes](../people/timo_lehes.md)
 Legal & CO-OP Advisor: [Houman Shadab](../people/houman_shadab.md)  
 Capital Market Advisor: [Mark Oei](../people/mark_oei.md)  
 Technology Advisor: [Gustav Simonsson](../people/gustav_simonsson.md)  
-Technology Advisor: [Noah Thorp](../people/noah_thorp.md)
+Technology Advisor: [Noah Thorp](../people/noah_thorp.md)  
+Technology Advisor: [Bogdan Fiedur](../people/bogdan_fiedur.md)  
 ## Business Model
 Swarm Fund is a fully decentralized capital market place that democratizes investing by using the power of the blockchain to open up high-return, alternative investment classes to smaller investors through asset-backed funds using cryptocurrency tokens. It makes traditionally exclusive investment opportunities, such as private equity and hedge funds, inclusive for the Swarm by pooling together smaller investments into larger, institutional-sized blocks. Swarm Fund also gives fund managers access to more capital from a new asset class of investors who want access to institutional-type investments, but don’t have the high minimums many institutional funds require. Pilot investment vehicles on the Swarm Fund platform include a Distressed Real Estate Fund, a Solar Energy Fund, and a Crypto Hedge Fund.
 ## Contacts  

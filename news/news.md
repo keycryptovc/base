@@ -1,12 +1,10 @@
 # News
+## 26 October 2017
+* [District0x introduced Name Bazaar](district0x_26-10-17.md)
 
 ## 18 October 2017
 * [Kucoin exchange is distributing GAS to NEO holders daily](neo_18-10-17.md)
-
-## 18 October 2017
 * [Change token sale results](change_18-10-17.md)
-
-## 18 October 2017
 * [District0x launched contest to support release of Name Bazaar](district0x_18-10-17.md)
 
 ## 17 October 2017

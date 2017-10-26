@@ -1,4 +1,6 @@
 # News
+## 26 October 2017
+* [Kucoin will be the first exchange to list Red Pulse token](redpulse_26-10-17.md)
 
 ## 18 October 2017
 * [Kucoin exchange is distributing GAS to NEO holders daily](neo_18-10-17.md)

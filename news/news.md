@@ -1,5 +1,5 @@
 # News
-## 26ne October 2017
+## 26 October 2017
 * [South Korean exchange UPbit begins trading NEO](neo_26-10-17.md)
 
 ## 18 October 2017

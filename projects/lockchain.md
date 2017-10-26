@@ -16,7 +16,7 @@ Chief Advisor: [Rosen Plevneliev](../people/rosen_plevneliev.md)
 Tech Advisor: [Svetlin Nakov](../people/svetlin_nakov.md)  
 Advisory board: [Eva Maydell](../people/eva_maydell.md)  
 Advisor: [Nikola Stojanow](../people/nikola_stojanow.md)  
-Legal Advisor: [Georgy Matev](../people/georgy_matev.md)
+Legal Advisor: [Georgi Matev](../people/georgi_matev.md)
 ## Business Model
 Lockchain is a decentralized open source bookings ecosystem for renting hotel rooms, private properties or accommodation (the decentralized LOC Ledger). Lockchain will be the first system which allows end customers and property owners to deal with each other on the platform without any fee or commission. In addition to that, they will build LockChain.co- which will be the first marketplace/applicaiton that will connect with the decentralized engine (The LockChain.co Marketplace). The decentralized system will hold the LOC booking ledger which will be the core of the engine.
 ## Contacts  

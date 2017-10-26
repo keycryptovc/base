@@ -1,4 +1,6 @@
 # News
+## 26 October 2017
+* [Ripple's Q3 2017 Market Report](ripple_26-10-17.md)
 
 ## 18 October 2017
 * [Kucoin exchange is distributing GAS to NEO holders daily](neo_18-10-17.md)

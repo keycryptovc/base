@@ -331,6 +331,7 @@
 * [STeX](stex.md)
 * [Storj](storj.md)
 * [Storm](storm.md)
+* [Stox](stox.md)
 * [Stratis](stratis.md)
 * [Streamr](streamr.md)
 * [Synapse AI](synapse_ai.md)

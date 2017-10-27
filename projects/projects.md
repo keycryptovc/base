@@ -264,6 +264,7 @@
 ## P
 * [Paragon](paragon.md)
 * [Particl](particl.md)
+* [Patientory](patientory.md)
 * [PAYFAIR](payfair.md)
 * [PayPie](paypie.md)
 * [Peercoin](peercoin.md)

@@ -71,6 +71,7 @@
 * [Ccore](ccore.md)
 * [Centra Tech](centra_tech.md)
 * [Change](change.md)
+* [CHEX](chex.md)
 * [ChronoLogic](chronologic.md)
 * [Cindicator](cindicator.md)  
 * [Civic](civic.md)

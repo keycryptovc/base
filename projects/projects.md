@@ -214,6 +214,7 @@
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
+* [LockChain](lockchain.md)
 * [Lordmancer II](lordmancer_II.md)
 * [Lunyr](lunyr.md)
 * [Luxico](luxico.md)

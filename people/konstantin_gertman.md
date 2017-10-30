@@ -6,6 +6,7 @@ Location: Cyprus
 Name: [Aeron](../projects/aeron.md)  
 Position: CDO   
 ## Contacts
-[LinkedIn](https://www.linkedin.com/in/konstantin-gertman-3684891/)    
+[LinkedIn](https://www.linkedin.com/in/konstantin-gertman-3684891/)  
+[Facebook](https://www.facebook.com/profile.php?id=100006383563961)
 ## About
 Konstantin has 14 years of experience in consulting, market research and financial businesses. Master of Science in Banking and Finance. A passionate small aviation enthusiast and Co-founder of aerotrips.com, EASA certified pilot since 2013.

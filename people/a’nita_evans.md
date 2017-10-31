@@ -5,7 +5,7 @@ Name:  A’nita Evans
 Location: Greater Atlanta Area 
 ## Projects 
 Name: [Patientory](../projects/patientory.md)
-Position: UI/ UX Designer
+Position: UI/ UX Designer  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/aevans2/)  
 

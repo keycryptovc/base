@@ -7,7 +7,7 @@ Currency: WISH
 ICO: Start: 6. Nov 2017  
 End: 7. Dec 2017
 ## Staff
-CEO: [Eugene Green](../people/eugene_green.md)  
+Founder & CEO: [Eugene Green](../people/eugene_green.md)  
 CCO: [Michael Elgort](../people/michael_elgort.md)  
 CTO: [Ruslan Gavinov](../people/ruslan_gavinov.md)  
 Blockchain Advisor: [Alexander Rugaev](../people/alexander_rugaev.md)  

@@ -80,6 +80,7 @@
 * [COSS](coss.md)
 * [CoEval](coeval.md)
 * [COMSA](comsa.md)
+* [CopPay](coppay.md)
 * [CORION Platform](corion_platform.md)
 * [Counterparty](counterparty.md)
 * [Creativechain](creativechain.md)

@@ -112,6 +112,7 @@
 * [DreamTeam](dreamteam.md)
 ## E
 * [E-Dinar](e-dinar.md)
+* [Eidoo](eidoo.md)
 * [easyMINE](easymine.md)
 * [Edgeless](edgeless.md)
 * [Embermine](embermine.md)
@@ -214,6 +215,7 @@
 * [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
+* [LockChain](lockchain.md)
 * [Lordmancer II](lordmancer_II.md)
 * [Lunyr](lunyr.md)
 * [Luxico](luxico.md)
@@ -333,6 +335,7 @@
 * [Storm](storm.md)
 * [Stratis](stratis.md)
 * [Streamr](streamr.md)
+* [Swarm Fund](swarm_fund.md)
 * [Synapse AI](synapse_ai.md)
 * [Synchrolife](synchrolife.md)
 * [SysCoin](syscoin.md)

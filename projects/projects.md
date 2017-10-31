@@ -217,6 +217,7 @@
 * [LBRY](lbry.md)
 * [Leap](leap.md)
 * [LEOcoin](leocoin.md)
+* [Leverj](leverj.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [LockChain](lockchain.md)

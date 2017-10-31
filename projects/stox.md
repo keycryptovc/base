@@ -1,6 +1,6 @@
 ## Overview
 ![Stox  logo](../projects/logo/stox.png)   
-Name:  Stox   
+Name:  Stox    
 [Website](https://www.stox.com/)   
 Year founded:  2017  
 ICO Start: 2. Aug 2017  

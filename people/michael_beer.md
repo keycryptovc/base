@@ -1,9 +1,9 @@
 ## Personal data
 ![Michael Beer photo](../people/photo/michael_beer.jpg)  
 Name:  Michael Beer  
-Location: Indianapolis, Indiana Area, USA
+Location: Indianapolis, Indiana Area, USA  
 ## Projects 
-Name: [Patientory](../projects/patientory.md)
+Name: [Patientory](../projects/patientory.md)  
 Position: Lead Developer  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/michael-beer-1a98bb6b/)  

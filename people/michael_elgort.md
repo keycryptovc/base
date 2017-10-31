@@ -7,7 +7,8 @@ Name: [WishFinance](../projects/wishfinance.md)
 Position: CCO   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/michael-elgort-5763732b/)  
-[Facebook](https://www.facebook.com/michael.elgort.9)
+[Facebook](https://www.facebook.com/michael.elgort.9)  
+[Twitter](https://twitter.com/just_whatever)
 ## About
 Michael is a lawyer and advocate from Israel. As
 a lawyer, he has specialized in M&A and deals

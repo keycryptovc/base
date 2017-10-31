@@ -6,7 +6,8 @@
 
 ## A
 * [Acebusters](acebusters.md)  
-* [AdEx](adex.md)  
+* [AdEx](adex.md)
+* [Aeron](aeron.md)
 * [Aether United](aether_united.md)
 * [Agrello](agrello.md)
 * [Ahoole](ahoolee.md)  
@@ -72,6 +73,7 @@
 * [Ccore](ccore.md)
 * [Centra Tech](centra_tech.md)
 * [Change](change.md)
+* [CHEX](chex.md)
 * [ChronoLogic](chronologic.md)
 * [Cindicator](cindicator.md)  
 * [Civic](civic.md)
@@ -80,6 +82,7 @@
 * [COSS](coss.md)
 * [CoEval](coeval.md)
 * [COMSA](comsa.md)
+* [CopPay](coppay.md)
 * [CORION Platform](corion_platform.md)
 * [Counterparty](counterparty.md)
 * [Creativechain](creativechain.md)
@@ -267,6 +270,7 @@
 ## P
 * [Paragon](paragon.md)
 * [Particl](particl.md)
+* [Patientory](patientory.md)
 * [PAYFAIR](payfair.md)
 * [PayPie](paypie.md)
 * [Peercoin](peercoin.md)
@@ -334,6 +338,7 @@
 * [STeX](stex.md)
 * [Storj](storj.md)
 * [Storm](storm.md)
+* [Stox](stox.md)
 * [Stratis](stratis.md)
 * [Streamr](streamr.md)
 * [Swarm Fund](swarm_fund.md)

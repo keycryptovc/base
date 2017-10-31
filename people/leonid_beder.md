@@ -1,7 +1,7 @@
 ## Personal data
 ![Leonid Beder photo](../people/photo/leonid_beder.jpg)  
-Name: Leonid Beder  
-Location: Tel Aviv Area, Israel  
+Name: Leonid Beder   
+Location: Tel Aviv Area, Israel   
 ## Projects 
 Name: [Stox](../projects/stox.md)  
 Position: Blockchain Security Architect  

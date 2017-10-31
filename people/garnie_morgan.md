@@ -3,7 +3,7 @@
 Name:  Garnie Morgan   
 Location: Greater Atlanta Area, USA
 ## Projects 
-Name: [Patientory](../projects/patientory.md)
+Name: [Patientory](../projects/patientory.md)  
 Position: COO  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/garnie-morgan-7a0b4a76/)  

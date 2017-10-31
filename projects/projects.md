@@ -56,6 +56,7 @@
 * [Blocklancer](blocklancer.md)
 * [Blocknet](blocknet.md)
 * [Blocktix](blocktix.md)  
+* [BlockV](blockv.md)
 * [Bluzelle](bluzelle.md)
 * [BMchain](bmchain.md)
 * [Boulé](boulé.md)  

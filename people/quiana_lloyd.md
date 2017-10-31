@@ -3,8 +3,8 @@
 Name:  Quiana Lloyd  
 Location: Atlanta, Georgia, USA   
 ## Projects 
-Name: [Patientory](../projects/patientory.md)
-Position: Director of Marketing and Communications
+Name: [Patientory](../projects/patientory.md)  
+Position: Director of Marketing and Communications  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/helloiamquiana/)  
 

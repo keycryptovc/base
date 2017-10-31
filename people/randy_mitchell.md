@@ -3,7 +3,7 @@
 Name:  Randy Mitchell   
 Location: Greater Atlanta Area, USA  
 ## Projects 
-Name: [Patientory](../projects/patientory.md)
+Name: [Patientory](../projects/patientory.md)  
 Position: Lead Technical Product Manager  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/randyjmitchell/)  

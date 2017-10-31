@@ -8,7 +8,7 @@ End: 16. Aug 2017
 Currency: token (STX)	 
 ## Staff 
 Founder [Ophir Gertner](../people/ophir_gertner.md)  
-Executive Director: [Marek Lorinc](marek_lorinc.md)  
+Executive Director: [Marek Lorinc](../people/marek_lorinc.md)  
 COO [Yossi Peretz](../people/yossi_peretz.md)  
 CTO [Amit Maor](../people/amit_maor.md)   
 CMO [Niv Abramovich](../people/niv_abramovich.md)   

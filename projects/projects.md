@@ -336,6 +336,7 @@
 * [STeX](stex.md)
 * [Storj](storj.md)
 * [Storm](storm.md)
+* [Stox](stox.md)
 * [Stratis](stratis.md)
 * [Streamr](streamr.md)
 * [Swarm Fund](swarm_fund.md)

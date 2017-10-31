@@ -1,5 +1,5 @@
 ## Personal data
-![Ophir Gertner photo](../people/photo/ophir_gertner)  
+![Ophir Gertner photo](../people/photo/ophir_gertner.jpg)  
 Name: Ophir Gertner   
 Location:  Cyprus  
 ## Projects 

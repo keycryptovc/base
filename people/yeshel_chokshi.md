@@ -2,7 +2,7 @@
 Name:  Yeshel Chokshi
 Location: Cary, North Carolina, USA
 ## Projects 
-Name: [Patientory](../projects/patientory.md)
+Name: [Patientory](../projects/patientory.md)  
 Position: Community Liaison 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/yeshel-chokshi-441a23142/)  

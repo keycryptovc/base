@@ -6,7 +6,8 @@ Location: Singapore
 Name: [WishFinance](../projects/wishfinance.md)  
 Position: Founder & CEO   
 ## Contacts
-[LinkedIn](https://www.linkedin.com/in/eugenegreen/)      
+[LinkedIn](https://www.linkedin.com/in/eugenegreen/)  
+[Facebook](https://www.facebook.com/eugenegreens)
 ## About
 Eugene is an entrepreneur and angel investor with
 more than 15 years of experience in data science, ecommerce,

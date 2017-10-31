@@ -112,6 +112,7 @@
 * [DreamTeam](dreamteam.md)
 ## E
 * [E-Dinar](e-dinar.md)
+* [Eidoo](eidoo.md)
 * [easyMINE](easymine.md)
 * [Edgeless](edgeless.md)
 * [Embermine](embermine.md)

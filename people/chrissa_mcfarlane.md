@@ -3,8 +3,8 @@
 Name: Chrissa McFarlane  
 Location: United States  
 ## Projects 
-Name: [Patientory](../projects/patientory.md)  
-Position: Founder/CEO
+Name: [Patientory](../projects/patientory.md)   
+Position: Founder/CEO  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/chrissamcfarlane/)  
 

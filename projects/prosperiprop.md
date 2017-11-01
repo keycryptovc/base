@@ -2,14 +2,14 @@
 ![Prosperiprop logo](../projects/logo/prosperiprop.jpg)  
 Name:  Prosperiprop
 [Website](https://www.prosperiprop.com/)   
-Year founded: 2017 
-ICO Start: 15 September 2017
-End: 20 November 2017
+Year founded: 2017  
+ICO Start: 15 September 2017  
+End: 20 November 2017  
 Currency: token (PROPX)	 
 ## Staff 
 Founder & CEO [Llew Morkel](../people/llew_morkel.md)  
 Business strategy and legal [Thembi Kahimbaara](../people/thembi_kahimbaara.md)  
-Architecture specialist [Piet Van Wyk](../people/piet_van_wyk.md)
+Architecture specialist [Piet Van Wyk](../people/piet_van_wyk.md)  
 Consultant: Investment banking [Riaan Van Der Vyver](../people/riaan_van_der_vyver.md)  
 SEO and SEM Specialist [Lawrence Kritzinger](../people/lawrence_kritzinger.md)  
 ## Business Model

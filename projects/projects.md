@@ -294,6 +294,7 @@
 ## R
 * [Rakugo](rakugo.md)
 * [REAL](real.md)
+* [REALT](realt.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)
 * [Redemption Technologies](redemption_technologies.md)

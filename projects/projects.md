@@ -285,6 +285,7 @@
 * [Prime-Ex Perpetual](prime-ex.md)
 * [Proemtheus](proemtheus.md)
 * [Propy](propy.md)
+* [Prosperiprop](prosperiprop.md)
 * [Publica](publica.md)  
 * [Proof](proof.md)
 * [Pylon Network](pylon_network.md)

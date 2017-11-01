@@ -18,6 +18,7 @@
    [Wired review](https://www.wired.com/2016/01/project-aims-to-unite-bitcoin-with-other-online-currencies/)
    
 ## News
+[Ripple's Q3 2017 Market Report](../news/ripple_26-10-17.md)  
 [RippleNet Grows to More Than 100 Financial Institutions](../news/ripple_10-10-17.md)  
 [Ripple opens new office in Singapore](../news/ripple_28-09-17.md)  
 [SBI Ripple Will Test Blockchain Bank Transfers Between Japan and South Korea](../news/ripple_13-09-17.md)  

@@ -581,6 +581,7 @@
 * [Jack Lamir](jack_lamir.md)
 * [J.P. Lomas](jp_lomas.md)
 * [J.R. Willett](jr_willett.md)
+* [Jacek Zemlo](jacek_zemlo.md)  
 * [Jacobo Toll-Messia](jacobo_toll.md)
 * [Jackson Palmer](jackson_palmer.md)
 * [Jacob Floyd](jacob_floyd.md)
@@ -788,6 +789,7 @@
 * [Leon Shang](leon_shang.md)
 * [Leonid Beder](leonid_beder.md) 
 * [Leomc](leomc.md)
+* [Leszek Rychlewski](leszek_rychlewski.md)  
 * [Lev Berdyanskyy](lev_berdyanskyy.md)
 * [Lev Lybin](lev_lybin.md)
 * [Li Fu](li_fu.md)
@@ -811,6 +813,7 @@
 * [Luis Cuende](luis_cuende.md)
 * [Luis Ferreira](luis_ferreira.md)
 ## M
+* [Maciej Kazmierczyk](maciej_kazmierczyk.md)  
 * [Maciej Kolodziejczyk](maciej_kolodziejczyk.md)
 * [Maciej Wierzbowski](maciej_wierzbowski.md)
 * [Magomed Chatuev](magomed_chatuev.md)  

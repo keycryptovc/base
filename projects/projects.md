@@ -277,6 +277,7 @@
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
 * [PIVX](pivx.md)
+* [Playkey](playkey.md)
 * [Po.et](poet.md)
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)

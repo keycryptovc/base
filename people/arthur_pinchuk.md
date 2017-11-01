@@ -7,6 +7,8 @@ Name: [RocketICO](../projects/rocketico.md)
 Position: CTO  
 Name: [WaBi](../projects/wabi.md)  
 Position: IT lead  
+Name: [CopPay](../projects/coppay.md)  
+Position: Advisor 
 ## Contacts
 [Github](https://github.com/skilus)  
 [LinkedIn](https://www.linkedin.com/in/arthur-pinchuk/)  

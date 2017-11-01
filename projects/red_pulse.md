@@ -20,6 +20,7 @@ Red Pulse is a market intelligence platform covering China's economy and capital
 ## About  
 [WhitePaper](https://coin.red-pulse.com/wp-content/uploads/redpulse-whitepaper-en.pdf)  
 ## News 
+[Kucoin will be the first exchange to list Red Pulse token](../news/redpulse_26-10-17.md)  
 [Red Pulse published NEO-GUI wallet and guide for the ICO participants](../news/redpulse_04-10-17.md)  
 [Red Pulse ICO has been rescheduled for the 8th of October](../news/redpulse_20-09-17.md)  
 [Red Pulse ICO postponed](../news/redpulse_05-09-17.md)  

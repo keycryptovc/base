@@ -2,9 +2,9 @@
 ![Adshares logo](../projects/logo/adshares.png)  
 Name:  Adshares
 [Website](https://adshares.net/)   
-Year founded:  2017
-ICO Start: 07.07.2017
-End: 01.01.2018
+Year founded:  2017  
+ICO Start: 07.07.2017  
+End: 01.01.2018  
 Currency: token (ADST)	 
 ## Staff 
 Founder[Jacek Zemlo](../people/jacek_zemlo.md)  
@@ -16,9 +16,9 @@ Adshares Network is a decentralized, peer-to-peer market for programmatic advert
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1994545.0)      
 [Twitter](https://twitter.com/adsharesNet)   
 [Telegram](https://t.me/adshares)    
-[Medium](https://medium.com/adshares)
-[Facebook](https://web.facebook.com/adshares/)
-[Github](https://github.com/adshares)
+[Medium](https://medium.com/adshares)  
+[Facebook](https://web.facebook.com/adshares/)  
+[Github](https://github.com/adshares)  
 
 ## About 
 [Whitepaper](https://adshares.net/assets/docs/Adshares.Network.whitepaper.pdf)

@@ -1,5 +1,6 @@
 # News
 ## 26 October 2017
+* [Kucoin will be the first exchange to list Red Pulse token](redpulse_26-10-17.md)
 * [Ripple's Q3 2017 Market Report](ripple_26-10-17.md)
 * [District0x introduced Name Bazaar](district0x_26-10-17.md)
 

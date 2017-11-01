@@ -29,11 +29,11 @@ Create a custom support package, tailored to the needs of your customers.
 Find out what features and issues are important to your community.
 ## Contacts  
 [Twitter](https://twitter.com/fundrequest_io)   
-[Bitcointalk](https://bitcointalk.org/index.php?topic=1696378.0)
-[Slack](https://fundrequest.slack.com/)  
-[KakaoTalk](https://group.kakao.com/_q0wqyP)
-[Facebook](https://www.facebook.com/FundRequestplatform/)
-[Reddit](https://www.reddit.com/r/fundrequest/)
-[Github](https://github.com/fundrequest/)
+[Bitcointalk](https://bitcointalk.org/index.php?topic=1696378.0)  
+[Slack](https://fundrequest.slack.com/)   
+[KakaoTalk](https://group.kakao.com/_q0wqyP)  
+[Facebook](https://www.facebook.com/FundRequestplatform/)  
+[Reddit](https://www.reddit.com/r/fundrequest/)  
+[Github](https://github.com/fundrequest/)  
 ## About 
 [Whitepaper](https://fundrequest.io/whitepaper.pdf)

@@ -7,8 +7,8 @@ Currency: MNZ
 ICO: Start: 10. Nov 2017  
 End: 9. Dec 2017
 ## Staff
-CEO: [Vincent Rajoo](../people/vincent_rajoo.md)  
-CTO: [Guillaume Derivery](../people/guillaume_derivery.md)  
+Co-Founder & CEO: [Vincent Rajoo](../people/vincent_rajoo.md)  
+Co-Founder & CTO: [Guillaume Derivery](../people/guillaume_derivery.md)  
 Software Android Developer: [Etienne Théodore](../people/etienne_théodore.md)  
 Backend Developer: [Florian Greiner](../people/florian_greiner.md)
 ## Business Model

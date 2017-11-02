@@ -301,6 +301,7 @@
 * [Reddcoin](reddcoin.md)
 * [Redemption Technologies](redemption_technologies.md)
 * [ReiDAO](reidao.md)
+* [Requitix](requitix.md)
 * [Rex](rex.md)
 * [Ripio Credit Network](ripio_credit_network.md)
 * [Ripple](ripple.md)

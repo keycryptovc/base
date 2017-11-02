@@ -4,7 +4,7 @@ Name:   Vincent Rajoo
 Location: France  
 ## Projects 
 Name: [Monaize](../projects/monaize.md)  
-Position: CEO   
+Position: Co-Founder & CEO   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/vincent-rajoo-10a7a8130/)  
 [Facebook](https://www.facebook.com/vrajoo)

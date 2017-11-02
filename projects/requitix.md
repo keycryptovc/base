@@ -4,8 +4,8 @@ Name: Requitix
 [Website](https://www.requitix.io/)  
 Year founded: 2016  
 Currency: RQX  
-ICO: Star: 1.Mar 2018  
-End: 31.Mar 2018
+ICO: Star: 1. Mar 2018  
+End: 31. Mar 2018
 ## Staff
 Co-founder & CEO: [Tom Boyle](../people/tom_boyle.md)  
 Co-founder & CTO & Lead Developer: [Michael Reece](../people/michael_reece.md)  

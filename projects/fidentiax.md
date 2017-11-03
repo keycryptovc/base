@@ -9,6 +9,8 @@ End: 5. Dec 2017
 ## Staff
 Co-founder: [Alvin Ang](../people/alvin_ang.md)  
 Co-founder: [Douglas Goh](../people/douglas_goh.md)  
+Applications Architect: [Long Tran Thanh](../people/long_tran_thanh.md)  
+Software Architect: [George Agiasoglou](../people/george_agiasoglou.md)  
 Investment Advisor: [Varis Sayed](../people/varis_sayed.md)  
 Compliance Advisor: [Dan Poh](../people/dan_poh.md)
 ## Business Model

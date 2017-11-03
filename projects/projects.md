@@ -144,6 +144,7 @@
 ## F
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)
+* [fidentiaX](fidentiax.md)
 * [Filecoin](filecoin.md)
 * [FirstBlood](firstblood.md)
 * [FLiK](flik.md)

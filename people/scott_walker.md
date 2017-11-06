@@ -1,5 +1,5 @@
 ## Personal data
-![scott walker photo](photo/scott_walker.jpeg)  
+![scott walker photo](photo/scott_walker.jpg)  
 Name:   Scott Walker  
 Location: USA  
 ## Projects 

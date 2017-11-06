@@ -14,7 +14,7 @@ Co-Founder & COO: [Jonathan Yantis](../people/jonathan_yantis.md)
 Advisor: [Dave Anthony](../people/dave_anthony.md)  
 Advisor: [Scott Walker](../people/scott_walker.md)  
 Advisor: [Brian Fargo](../people/brian_fargo.md)  
-Advisor: [Michael Maloney](../people/michael_maloney.md)
+Advisor: [Ken Cron](../people/ken_cron.md)
 ## Business Model
 The role of the WAX Platform as a virtual goods marketplace is to decentralize exchanges while allowing users to purchase goods with a global token.WAX will enable a new generation of virtual asset traders, in a similar way that modern marketplaces enabled entrepreneurs to become power sellers online, ride share drivers or hosts for travelers (Alibaba, Amazon, Uber, and Airbnb). These platforms enhanced commerce for millions of small business owners and created hundreds of billions of dollars of 7 new value by making their platforms easy to use and widely available, while simultaneously solving expensive problems like fraud prevention, settlement execution, product and seller reviews, standardized catalogs of product information, supply and demand matching, etc.
 ## Contacts  

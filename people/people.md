@@ -1368,7 +1368,7 @@
 * [Will Warren](will_warren.md)
 * [William Hou](william_hou.md)
 * [William Ou](william_ou.md)
-* [William Quigley](william_quigley)
+* [William Quigley](william_quigley.md)
 * [William Selmo](william_selmo.md) 
 * [Witold Turzanski](witold_turzanski.md)
 * [Wayman Kwan](wayman_kwan.md)

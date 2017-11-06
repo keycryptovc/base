@@ -388,6 +388,7 @@
 * [Winding Tree](winding_tree.md)  
 * [Wings](wings.md)
 * [Wolk](wolk.md)
+* [Worldwide Asset eXchange](worldwide_asset_exchange.md)
 ## Z
 * [Zcash](zcash.md)
 * [Zcoin](zcoin.md)

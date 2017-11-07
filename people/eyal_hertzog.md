@@ -4,7 +4,9 @@ Name: Eyal Hertzog
 Location: Israel  
 ## Projects 
 Name: [Bancor](../projects/bancor.md)  
-Position: Co-Founder, Foundation Council
+Position: Co-Founder, Foundation Council  
+Name: [INS Ecosystem](../projects/ins_ecosystem.md)  
+Position: Product Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/hertzog/)  
 [Telegram](https://t.me/Hertzog)  

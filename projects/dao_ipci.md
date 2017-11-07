@@ -9,8 +9,8 @@ End: 15. Dec 2017
 ## Staff
 Co-founder & Lead Developer: [Anton Galenovich](../people/anton_galenovich.md)  
 Co-founder: [Alexey Shadrin](../people/alexey_shadrin.md)  
-Co-Founder & Architect: [Sergey Lonshakov](../people/sergey_lonshakov.md)  
-Co-Founder: [Sergey Sitnikov](../people/sergey_sitnikov.md)  
+Co-founder & Architect: [Sergey Lonshakov](../people/sergey_lonshakov.md)  
+Co-founder: [Sergey Sitnikov](../people/sergey_sitnikov.md)  
 Project Manager: [Eugene Radchenko](../people/eugene_radchenko.md)  
 Advisor: [Max Gutbrod](../people/max_gutbrod.md)  
 Advisor: [Douglas Prentice](../people/douglas_prentice.md)  

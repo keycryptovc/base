@@ -13,7 +13,7 @@ CTO: [Fedor Savchenko](../people/fedor_savchenko.md)
 Chief Scientist: [Sergey Nikolenko](../people/sergey_nikolenko.md)    
 Advisor: [Andrew Rabinovich](../people/andrew_rabinovich.md)  
 Advisor: [David Orban](../people/david_orban.md)  
-ICO Compliance Adviser: [Yuri Kundin](../people/yuri_kundin.md)
+ICO Compliance Advisor: [Yuri Kundin](../people/yuri_kundin.md)
 ## Business Model
 Distributed Synthetic Data Platform for Deep Learning Applications. The Neuromation Platform provides an exchange and an ecosystem where participants can either contribute or purchase the components of an AI model. The Platform will use distributed computing along with blockchain proof of work tokens to revolutionize AI model development. It will combine all the components necessary to build deep learning solutions with synthetic data in one place. Platform service providers, commercial or private, will provide specific resources for the execution and development of synthetic data sets, distributed computing services, and machine learning models, addressing the “three pillars” of AI.
 ## Contacts  

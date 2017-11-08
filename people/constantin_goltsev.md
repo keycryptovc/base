@@ -4,7 +4,7 @@ Name:   Constantin Goltsev
 Location: USA  
 ## Projects 
 Name: [Neuromation](../projects/neuromation.md)  
-Position: Co-founder & Chariman   
+Position: Chariman & Investor   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/constantinegoltsev/)      
 [Facebook](https://www.facebook.com/constantine.goltsev)

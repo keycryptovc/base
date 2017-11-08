@@ -5,6 +5,8 @@ Location: Singapore
 ## Projects 
 Name: [TaaS](../projects/taas.md)  
 Position: Co-founder & President   
+Name: [Jibrel Network](../projects/jibrel_network.md)  
+Position: CryptoFinance Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ruslan-gavrilyuk/)      
 [Facebook](https://www.facebook.com/ruslan.gavrilyuk.35)

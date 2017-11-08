@@ -4,7 +4,7 @@ Name:   Maxim Prasolov
 Location: Ukraine  
 ## Projects 
 Name: [Neuromation](../projects/neuromation.md)  
-Position: Co-founder & CEO   
+Position: Founder & CEO   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/maxim-prasolov/)      
 [Facebook](https://www.facebook.com/maxim.prasolov.5)

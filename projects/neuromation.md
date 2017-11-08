@@ -7,8 +7,8 @@ Currency: NEUROTOKEN
 ICO: Start: 28. Nov 2017  
 End: 	1. Jan 2018
 ## Staff
-Co-founder & CEO: [Maxim Prasolov](../people/maxim_prasolov.md)  
-Co-founder & Chariman: [Constantin Goltsev](../people/constantin_goltsev.md)  
+Founder & CEO: [Maxim Prasolov](../people/maxim_prasolov.md)  
+Chariman & Investor: [Constantin Goltsev](../people/constantin_goltsev.md)  
 CTO: [Fedor Savchenko](../people/fedor_savchenko.md)  
 Chief Scientist: [Sergey Nikolenko](../people/sergey_nikolenko.md)    
 Advisor: [Andrew Rabinovich](../people/andrew_rabinovich.md)  

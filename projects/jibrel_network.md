@@ -13,7 +13,7 @@ Co-founder & BizDev Lead: [Talal Tabbaa](../people/talal_tabbaa.md)
 Operations: [Hamzeh Kolaghassi](../people/hamzeh_kolaghassi.md)  
 CryptoFinance Advisor: [Ruslan Gavrilyuk](../people/ruslan_gavrilyuk.md)  
 FinTech Advisor: [Stephen Murphy](../people/stephen_murphy.md)  
-MENA Advisor: [Mohammad Al Sehli](../people/mohammad_al_sehli.md)  
+MENA Advisor: [Mohammed Alsehli](../people/mohammed_alsehli.md)  
 Public Sector Advisor: [Moe Levin](../people/moe_levin.md)
 ## Business Model
 The Jibrel Network provides traditional financial assets such as currencies, commodities, debt instruments and securities, as standard ERC-20 tokens, on the Ethereum blockchain. Jibrel Network Token (JNT) - as well as other cryptocurrencies - can be exchanged for CryptoDepository Receipts (CryDRs), representing traditional financial assets (e.g. USD, Treasury Bills, Gold, etc.). CryDRs can be exchanged for the underlying asset's value in JNT with the Jibrel Decentral Bank (Jibrel DAO) at any given point in time.

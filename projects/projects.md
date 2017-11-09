@@ -219,6 +219,7 @@
 * [Leap](leap.md)
 * [LEOcoin](leocoin.md)
 * [Leverj](leverj.md)
+* [Librium](librium.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [LockChain](lockchain.md)

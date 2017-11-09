@@ -217,6 +217,7 @@
 * [LAToken](latoken.md)
 * [LBRY](lbry.md)
 * [Leap](leap.md)
+* [Lendoit](lendoit.md)
 * [LEOcoin](leocoin.md)
 * [Leverj](leverj.md)
 * [Lisk](lisk.md)

@@ -6,7 +6,7 @@ Location: USA
 Name: [AirToken](../projects/airtoken.md)  
 Position: CTO  
 Name: [Librium](../projects/librium.md)  
-Position: Business Development   
+Position: Advisor   
 ## Contacts
 * [Website](http://www.jamesseibel.com/)
 * [GitHub](https://github.com/seibelj?tab=repositories)

@@ -4,7 +4,9 @@ Name: Jure Soklic
 Location: Slovenia
 ## Projects 
 Name: [Hive Project](../projects/hive.md)  
-Position: Co-Founder and CEO 
+Position: Co-Founder and CEO   
+Name: [Lendoit](../projects/lendoit.md)  
+Position: Advisor 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/juresoklic/)  
 [Facebook](https://www.facebook.com/jure.soklic.9)  

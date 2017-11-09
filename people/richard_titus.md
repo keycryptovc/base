@@ -6,7 +6,9 @@ Location:  San Francisco Bay Area
 Name: [Snip](../projects/snip.md)   
 Position: Advisor  
 Name: [Hive Project](../projects/hive.md)  
-Position: Business and Strategy Advisor 
+Position: Business and Strategy Advisor  
+Name: [Lendoit](../projects/lendoit.md)  
+Position: Advisor 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/rxdxt/)  
 [Twitter](https://twitter.com/richardtitus)  

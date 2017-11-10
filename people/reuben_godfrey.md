@@ -4,7 +4,9 @@ Name:   Reuben Godfrey
 Location: Ireland  
 ## Projects 
 Name: [HydroMiner](../projects/hydrominer.md)  
-Position: Advisor   
+Position: Advisor  
+Name: [Playkey](../projects/playkey.md)  
+Position: Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/reuben-godfrey-1a18055/)      
 [Twitter](https://twitter.com/reubengodfrey?lang=en)  

@@ -387,6 +387,7 @@
 * [WIC](wic.md)
 * [Winding Tree](winding_tree.md)  
 * [Wings](wings.md)
+* [WishFinance](wishfinance.md)
 * [Wolk](wolk.md)
 ## Z
 * [Zcash](zcash.md)

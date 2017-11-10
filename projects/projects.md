@@ -369,6 +369,7 @@
 * [Unikrn](unikrn.md)
 * [UTrust](utrust.md)
 ## V
+* [Vaultbank](vaultbank.md)
 * [Vechain](vechain.md)
 * [Vega](vega.md)
 * [Veredictum](veredictum.md)  

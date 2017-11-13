@@ -1,5 +1,5 @@
 ## Personal data
-![ari paul photo](photo/ari_paul.jpg)  
+![ari paul photo](photo/ari_paul.jpeg)  
 Name:   Ari Paul  
 Location: USA  
 ## Projects 

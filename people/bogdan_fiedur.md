@@ -8,7 +8,9 @@ Position: Co-founder & CTO
 Name: [PayPie](../projects/paypie.md)  
 Position: Blockchain Expert  
 Name: [Swarm Fund](../projects/swarm_fund.md)  
-Position: Technology Advisor
+Position: Technology Advisor  
+Name: [Requitix](../projects/requitix.md)  
+Position: Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/bogdanfiedur/)    
 [Facebook](https://www.facebook.com/bogdan.fiedur)  

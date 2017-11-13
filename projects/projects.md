@@ -246,6 +246,7 @@
 * [Modum](modum.md)
 * [Metal](metal.md)
 * [Monacoin](monacoin.md)
+* [Monaize](monaize.md)
 * [Monero](monero.md)
 * [Monetha](monetha.md)
 * [Mysterium Network](mysterium_network.md)

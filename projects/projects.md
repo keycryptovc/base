@@ -244,6 +244,7 @@
 * [MediBond](medibond.md)
 * [Minerva](minerva.md)
 * [Minexcoin](minexcoin.md)
+* [Mirocana](mirocana.md)
 * [MobileGO](mobilego.md) 
 * [Mobius Network](mobius_network.md)
 * [Modum](modum.md)

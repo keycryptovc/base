@@ -84,6 +84,7 @@
 * [Cloud](cloud.md)
 * [COSS](coss.md)
 * [CoEval](coeval.md)
+* [CoinLoan](coinloan.md)
 * [COMSA](comsa.md)
 * [CopPay](coppay.md)
 * [CORION Platform](corion_platform.md)

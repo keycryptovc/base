@@ -217,6 +217,7 @@
 * [Komodo](komodo.md)
 * [KyberNetwork](kybernetwork.md)
 ## L
+* [LaLa World](lala_world.md)
 * [Lampix](lampix.md)
 * [Latium](latium.md)
 * [LAToken](latoken.md)

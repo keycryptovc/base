@@ -278,6 +278,7 @@
 * [PAYFAIR](payfair.md)
 * [PayPie](paypie.md)
 * [Peercoin](peercoin.md)
+* [Peerity](peerity.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
 * [PIVX](pivx.md)

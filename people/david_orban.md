@@ -4,7 +4,9 @@ Name:   David Orban
 Location: USA  
 ## Projects 
 Name: [Neuromation](../projects/neuromation.md)  
-Position: Advisor   
+Position: Advisor  
+Name: [Trive](../projects/trive.md)  
+Position: Industry Advisor   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/davidorban/)  
 [Facebook](https://www.facebook.com/dorban)

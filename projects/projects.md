@@ -305,6 +305,7 @@
 ## R
 * [Rakugo](rakugo.md)
 * [REAL](real.md)
+* [REALISTO](realisto.md)
 * [REALT](realt.md)
 * [Red Pulse](red_pulse.md) 
 * [Reddcoin](reddcoin.md)

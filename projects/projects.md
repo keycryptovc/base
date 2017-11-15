@@ -357,6 +357,7 @@
 * [Stratis](stratis.md)
 * [Streamr](streamr.md)
 * [Swarm Fund](swarm_fund.md)
+* [SwissBorg](swissborg.md)
 * [Synapse AI](synapse_ai.md)
 * [Synchrolife](synchrolife.md)
 * [SysCoin](syscoin.md)

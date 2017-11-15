@@ -4,6 +4,8 @@ Name:   David Drake
 Location: USA  
 ## Projects 
 Name: [LaLa World](../projects/lala_world.md)  
+Position: Advisor    
+Name: [SwissBorg](../projects/swissborg.md)  
 Position: Advisor   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ldjcapital/)    

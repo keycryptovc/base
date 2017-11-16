@@ -15,7 +15,7 @@ COO: [Rodion Popkov](../people/rodion_popkov.md)
 Adviser: [Ivan Petuhovsky](../people/ivan_petuhovsky.md)  
 Adviser: [Giorgi Bichikashvili](../people/giorgi_bichikashvili.md)  
 Adviser: [Alexander Bekishev](../people/alexander_bekishev.md)  
-Adviser: [Alexander Ivanov](../people/alexander_ivanov.md)
+Adviser: [Sasha Ivanov](../people/sasha_ivanov.md)
 ## Business Model
 VISO is a payment system that combines cryptocurrencies and traditional bank cards and terminals into one ecosystem. We offer you to take part in the pre Token Sale VISO, where you can buy VISO tokens at a preferential price before the start of the token sale.
 ## Contacts  

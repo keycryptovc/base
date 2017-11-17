@@ -9,5 +9,5 @@ Position: Co-founder & MD
 [LinkedIn](https://www.linkedin.com/in/stefankrautwald/)    
 ## About
 Former CEO LATAM of Cdiscount.
-Co-Founder &MD of LATAM Rocket-Internet backed Dafiti.
-Co-Founder and Member of the Board of Farmalisto.
+Co-Founder & MD of LATAM Rocket-Internet backed Dafiti.
+Co-Founder & Member of the Board of Farmalisto.

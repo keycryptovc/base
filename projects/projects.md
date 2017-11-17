@@ -91,6 +91,7 @@
 * [Counterparty](counterparty.md)
 * [Creativechain](creativechain.md)
 * [Crowdholding](crowdholding.md)
+* [Crowdstart Capital](crowdstart_capital.md)
 * [Crown](crown.md)
 * [CryptoABS](cryptoabs.md)
 * [Crystal Clear Services](crystal.md)

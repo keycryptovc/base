@@ -106,6 +106,7 @@
 * [DeCred](decred.md)
 * [Dentacoin](dentacoin.md)
 * [DentalFix](dentalfix.md)
+* [Dether](dether.md)
 * [DigiByte](digibyte.md)
 * [DigiPulse](digipulse.md)
 * [Digital Developers Fund](digital_developers_fund.md)

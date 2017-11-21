@@ -6,7 +6,7 @@ Location: Lithuania
 Name: [Mysterium Network](../projects/mysterium_network.md)  
 Position: Technical Advisor    
 Name: [IUNGO Network](../projects/iungo_network.md)  
-Position: CMO 
+Position: Advisor & Networking & Blockchain 
 ## Contacts  
 [LinkedIn](https://www.linkedin.com/in/ri%C4%8Dardas-pocius-8bab58a5/)  
 ## About

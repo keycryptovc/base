@@ -10,4 +10,4 @@ Position: CMO
 ## Contacts  
 [LinkedIn](https://www.linkedin.com/in/ri%C4%8Dardas-pocius-8bab58a5/)  
 ## About
--//-
+Blockchain enthusiast, experienced networking and distributed systems architect.

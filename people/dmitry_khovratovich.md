@@ -4,7 +4,9 @@ Name: Dmitry Khovratovich
 Location: Luxembourg
 ## Projects 
 Name: [ICOS](../projects/icos.md)  
-Position: Security and Smart Contract CTO
+Position: Security and Smart Contract CTO  
+Name: [INS Ecosystem](../projects/ins_ecosystem.md)  
+Position: Blockchain & Smart Contracts
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/khovratovich/)     
 [Facebook](https://www.facebook.com/dmitry.khovratovich)    

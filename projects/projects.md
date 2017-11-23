@@ -96,6 +96,7 @@
 * [Crystal Clear Services](crystal.md)
 ## D
 * [DAO.Casino](dao_casino.md)
+* [DAO IPCI](dao_ipci.md)
 * [Daseron](daseron.md)
 * [Dash](dash.md)  
 * [Datum Network](datum_network.md)
@@ -195,6 +196,7 @@
 * [iExec RLC](rlc.md)
 * [Incent](incent.md)
 * [Indorse](indorse.md)
+* [INS Ecosystem](ins_ecosystem.md)
 * [InsureX](insurex.md)
 * [Integrative Wallet Token](integrative_wallet_token.md) 
 * [Intelligent Trading Technologies](intelligent_trading_technologies.md)
@@ -205,6 +207,7 @@
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## J
+* [Jibrel Network](jibrel_network.md)
 * [Jincor](jincor.md)
 * [Just Dating Site](jds.md)
 * [Justmake](justmake.md)
@@ -264,6 +267,7 @@
 * [Neblio](neblio.md)  
 * [NEM](nem.md)
 * [NEO](neo.md)
+* [Neuromation](neuromation.md)
 * [Nexus](nexus.md)
 * [Nimfamoney](nimfamoney.md)
 * [Nimiq Network](nimiq_network.md)
@@ -394,6 +398,7 @@
 * [Xaurum](xaurum.md)
 ## W
 * [WaBi](wabi.md) 
+* [Wala Financial Platform](wala_financial_platform.md)
 * [Waves](wavesplatform.md)
 * [WePower Network](wepower_network.md)
 * [WeTrust](wetrust.md)
@@ -402,6 +407,7 @@
 * [Wings](wings.md)
 * [WishFinance](wishfinance.md)
 * [Wolk](wolk.md)
+* [Worldwide Asset eXchange](worldwide_asset_exchange.md)
 ## Z
 * [Zcash](zcash.md)
 * [Zcoin](zcoin.md)

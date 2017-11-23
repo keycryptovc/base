@@ -96,6 +96,7 @@
 * [Crystal Clear Services](crystal.md)
 ## D
 * [DAO.Casino](dao_casino.md)
+* [DAO IPCI](dao_ipci.md)
 * [Daseron](daseron.md)
 * [Dash](dash.md)  
 * [Datum Network](datum_network.md)

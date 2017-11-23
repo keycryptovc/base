@@ -196,6 +196,7 @@
 * [iExec RLC](rlc.md)
 * [Incent](incent.md)
 * [Indorse](indorse.md)
+* [INS Ecosystem](ins_ecosystem.md)
 * [InsureX](insurex.md)
 * [Integrative Wallet Token](integrative_wallet_token.md) 
 * [Intelligent Trading Technologies](intelligent_trading_technologies.md)

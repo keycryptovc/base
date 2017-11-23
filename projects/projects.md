@@ -396,6 +396,7 @@
 * [Xaurum](xaurum.md)
 ## W
 * [WaBi](wabi.md) 
+* [Wala Financial Platform](wala_financial_platform.md)
 * [Waves](wavesplatform.md)
 * [WePower Network](wepower_network.md)
 * [WeTrust](wetrust.md)

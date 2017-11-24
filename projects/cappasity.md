@@ -7,9 +7,9 @@ Currency: Cappasity
 ICO: Start: 22. Mar 2018  
 End: 19. Apr 2018
 ## Staff
-CEO: [Kosta Popov](../people/kosta_popov.md)  
-CTO: [Alex Chegaev](../people/alex_chegaev.md)  
-CBDO: [Marianna Alshina](../people/marianna_alshina.md)  
+Co-founder & CEO: [Kosta Popov](../people/kosta_popov.md)  
+Co-founder & CTO: [Alex Chegaev](../people/alex_chegaev.md)  
+Co-founder & CBDO: [Marianna Alshina](../people/marianna_alshina.md)  
 CSO: [Natalie Reyes](../people/natalie_reyes.md)  
 Blockchain scientist: [Alex Garkusha](../people/alex_garkusha.md)  
 Advisor: [David Drake](../people/david_drake.md)  

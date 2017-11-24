@@ -71,6 +71,7 @@
 * [Byteball](byteball.md)
 * [Bytecoin](bytecoin.md)
 ## C
+* [Cappasity](cappasity.md)
 * [Cash Poker Pro](cash_poker_pro.md)  
 * [CCCoin](cccoin.md)  
 * [Ccore](ccore.md)

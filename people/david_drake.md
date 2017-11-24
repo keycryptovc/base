@@ -8,7 +8,9 @@ Position: Advisor
 Name: [SwissBorg](../projects/swissborg.md)  
 Position: Advisor   
 Name: [BCShop.io](../projects/bcshop_io.md)  
-Position: Advisor   
+Position: Advisor    
+Name: [Cappasity](../projects/cappasity.md)  
+Position: Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ldjcapital/)    
 ## About

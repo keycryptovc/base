@@ -4,7 +4,9 @@ Name: Cappasity
 [Website](https://artoken.io/)  
 Year founded: 2013  
 Currency: Cappasity  
-ICO: Start: 22. Mar 2018  
+ICO: Phase 1: Start: Oct 25. 2017    
+End: Nov 22. 2017  
+Phase 2: Start: 22. Mar 2018    
 End: 19. Apr 2018  
 ## Invest +  
 - Rapidly growing VR/AR market    

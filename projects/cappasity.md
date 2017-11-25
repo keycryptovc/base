@@ -6,10 +6,10 @@ Year founded: 2013
 Currency: Cappasity  
 ICO: Start: 22. Mar 2018  
 End: 19. Apr 2018  
-Invest +  
-1. Rapidly growing VR/AR market    
-2. Perspective idea of blockchain applying for intellectual property defending   
-3. Strong and experienced team with expertise in key areas: computer vision, SaaS solutions, 3D engine development for apps, 3D mobile and video games
+## Invest +  
+1.Rapidly growing VR/AR market    
+2.Perspective idea of blockchain applying for intellectual property defending   
+3.Strong and experienced team with expertise in key areas: computer vision, SaaS solutions, 3D engine development for apps, 3D mobile and video games
 ## Staff
 Co-founder & CEO: [Kosta Popov](../people/kosta_popov.md)  
 Co-founder & CTO: [Alex Chegaev](../people/alex_chegaev.md)  

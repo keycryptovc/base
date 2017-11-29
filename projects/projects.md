@@ -233,6 +233,7 @@
 * [Librium](librium.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
+* [LiveEdu](liveedu.md)
 * [LockChain](lockchain.md)
 * [Lordmancer II](lordmancer_II.md)
 * [Lunyr](lunyr.md)

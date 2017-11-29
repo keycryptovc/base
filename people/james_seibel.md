@@ -4,7 +4,9 @@ Name:  James Seibel
 Location: USA  
 ## Projects 
 Name: [AirToken](../projects/airtoken.md)  
-Position: CTO
+Position: CTO  
+Name: [Librium](../projects/librium.md)  
+Position: Advisor   
 ## Contacts
 * [Website](http://www.jamesseibel.com/)
 * [GitHub](https://github.com/seibelj?tab=repositories)

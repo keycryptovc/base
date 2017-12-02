@@ -52,6 +52,7 @@
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)
+* [BitDegree](bitdegree.md)
 * [BitDice](bitdice.md)
 * [bitJob](bitjob.md)
 * [Bitproperty](bitproperty.md)

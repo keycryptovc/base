@@ -4,7 +4,12 @@ Name: Michael Terpin
 Location: USA
 ## Projects 
 Name: [Hive Project](../projects/hive.md)  
-Position: Blockchain Advisor 
+Position: Blockchain Advisor    
+Name: [Lendoit](../projects/lendoit.md)  
+Position: Advisor 
+Position: Blockchain Advisor   
+Name: [INS Ecosystem](../projects/ins_ecosystem.md)  
+Position: Community Advisor   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/michaelterpin/?ppe=1)   
 [Twitter](https://twitter.com/michaelterpin)  

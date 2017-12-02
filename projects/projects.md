@@ -304,6 +304,7 @@
 * [Po.et](poet.md)
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)
+* [Power Ledger](power_ledger.md)
 * [Presearch](presearch.md)
 * [Prime-Ex Perpetual](prime-ex.md)
 * [Proemtheus](proemtheus.md)

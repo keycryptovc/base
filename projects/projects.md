@@ -155,6 +155,7 @@
 * [FirstBlood](firstblood.md)
 * [FLiK](flik.md)
 * [Fluence](fluence.md)
+* [Fluz Fluz](fluz_fluz.md)
 * [Foodcoin](foodcoin.md)
 * [FortKnoxster](fortknoxster.md)
 * [Fund Yourself Now](fund_yourself_now.md)

@@ -5,6 +5,8 @@ Name: Tokenza
 Year founded: 2017  
 Currency: TKZ  
 ICO: TBA
+## Invest -
+There are many similar existing projects and this one does not bring anything new to the market.
 ## Staff
 Co-founder: [Vincent Fontaine](../people/vincent_fontaine.md)  
 COO: [Anne Lemonnier](../people/anne_lemonnier.md)  

@@ -405,7 +405,8 @@
 * [Verif-y](verif-y.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
-* [Viberate](viberate.md) 
+* [Viberate](viberate.md)
+* [VISO](viso.md)
 * [vSlice](vslice.md)
 ## X
 * [Xaurum](xaurum.md)

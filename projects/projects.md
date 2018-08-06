@@ -94,6 +94,7 @@
 * [CopPay](coppay.md)
 * [CORION Platform](corion_platform.md)
 * [Counterparty](counterparty.md)
+* [Cove Identity](cove_identity.md)
 * [Creativechain](creativechain.md)
 * [Crowdholding](crowdholding.md)
 * [Crowdstart Capital](crowdstart_capital.md)

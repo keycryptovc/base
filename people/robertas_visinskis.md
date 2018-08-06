@@ -5,6 +5,8 @@ Location: USA
 ## Projects 
 Name: [Mysterium Network](../projects/mysterium_network.md)  
 Position: Co-founder   
+Name: [IUNGO Network](../projects/iungo_network.md)  
+Position: Advisor & Blockchain   
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/robertasvisinskis/?ppe=1)        
 [Blog](https://medium.com/@robertovis)

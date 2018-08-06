@@ -41,6 +41,7 @@
 * [Bancor](bancor.md)
 * [Bankera](bankera.md)
 * [Basic Attention Token](bat.md)
+* [BCShop.io](bcshop_io.md)
 * [Becksang](becksang.md)
 * [beeqb](beeqb.md)
 * [BetBox](betbox.md)

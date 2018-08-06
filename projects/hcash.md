@@ -12,7 +12,7 @@ Business Development Manager: [Andrew Wasylewicz](../people/andrew_wasylewicz.md
 Hcash is part of a new technology that's a distributed ledger cryptocurrency in both blockchain- and blockless Directed Acyclic Graph (DAG) systems.
 Hcash, short for Hyper Cash, is a platform that enables the cross exchange of value and data, as well as a cryptocurrency.
 ## Contacts
-[Github](https://github.com/HyperCash)  
+[Github](https://github.com/HcashOrg)  
 [Bitcointalk](https://bitcointalk.org/index.php?topic=2097413.0)     
 [Facebook](https://www.facebook.com/HcashOfficial/)  
 [Twitter](https://twitter.com/Mkt_Hcash)  

@@ -3,8 +3,7 @@
 Name:   Ronald Chernesky  
 Location: USA  
 ## Projects 
-Name: [investFeed](../projects/investfeed.md)  
-Position: CEO   
+
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ronaldchernesky/)    
 [Twitter](https://twitter.com/realronaldc)  

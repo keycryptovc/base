@@ -5,7 +5,7 @@ Name: investFeed
 Year founded: 2017  
 Currency: [IFT](https://coinmarketcap.com/assets/investfeed/)  
 ## Staff
-CEO: [Ronald Chernesky](../people/ronald_chernesky.md)  
+CEO: n/a
 CTO: [Andrew Freedman](../people/andrew_freedman.md)  
 COO: [Justin Jovanovic](../people/justin_jovanovic.md)  
 ## Business Model

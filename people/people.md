@@ -1346,7 +1346,6 @@
 * [Roger Wang](roger_wang.md)  
 * [Ron DiIorio](ron_diiorio.md)
 * [Ron Merom](ron_merom.md)
-* [Ronald Chernesky](ronald_chernesky.md)
 * [Roman Agafonov](roman_agafonov.md)
 * [Roman Epishin](roman_epishin.md)
 * [Roman Nester](roman_nester.md)
